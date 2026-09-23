@@ -6,13 +6,21 @@
 <meta name="theme-color" content="#212023">
 <title>HypeClock — Game Release Countdowns</title>
 <meta name="description" content="Countdowns for upcoming games plus popular free-to-play games.">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="./enhancements.css">
 </head>
 <body>
 <header class="topbar">
   <div class="wrap nav">
-    <a class="brand" href="#top"><span class="logo"></span><span>HYPECLOCK</span></a>
-    <nav>
+    <div class="nav-identity">
+      <a class="brand" href="#top"><span class="logo"></span><span>HYPECLOCK</span></a>
+      <div class="section-switch" aria-label="HypeClock section">
+        <a class="active" href="./#top" aria-current="page">GAMES</a>
+        <a href="./movies/#top">MOVIES</a>
+      </div>
+    </div>
+    <nav class="local-nav">
       <button data-go="#releases">RELEASES</button>
       <button data-go="#popular">POPULAR</button>
       <button data-go="#search">SEARCH</button>
@@ -72,6 +80,10 @@
         <div class="api-line"><span id="apiDot"></span><b id="apiStatus">LOADING FREETOGAME DATA</b></div>
         <h3>Popular free-to-play games</h3>
         <p>Popular games from FreeToGame, limited so the page stays fast.</p>
+        <div class="refresh-status" id="refreshStatus" aria-live="polite">
+          <span>Last refreshed <b id="lastRefresh">checking…</b></span>
+          <span>Next scheduled refresh in <b id="nextRefresh">checking…</b></span>
+        </div>
       </div>
       <div class="api-controls">
         <select id="platform"><option value="all">All platforms</option><option value="windows">Windows</option><option value="browser">Browser</option></select>
@@ -108,5 +120,6 @@
 
 <script src="./releases.js"></script>
 <script src="./app.js"></script>
+<script src="./refresh.js"></script>
 </body>
 </html>
