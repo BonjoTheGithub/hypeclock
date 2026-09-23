@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#212023">
+<title>HypeClock — Game Release Countdowns</title>
+<meta name="description" content="Countdowns for upcoming games plus popular free-to-play games.">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap nav">
+    <a class="brand" href="#top"><span class="logo"></span><span>HYPECLOCK</span></a>
+    <nav>
+      <button data-go="#releases">RELEASES</button>
+      <button data-go="#popular">POPULAR</button>
+      <button data-go="#search">SEARCH</button>
+    </nav>
+  </div>
+</header>
+
+<main id="top" class="wrap">
+  <section class="hero">
+    <div class="eyebrow">LIVE GAME RELEASE COUNTDOWNS</div>
+    <h1>Know when your favorite games release in one site</h1>
+    <p>Countdowns for 20+ games on a single page. Know which games are coming more conveniently.</p>
+    <label class="search" id="search">
+      <span>⌕</span>
+      <input id="q" type="search" placeholder="Search upcoming releases or popular games…" autocomplete="off">
+      <kbd>Ctrl K</kbd>
+    </label>
+    <small id="searchHint">Search upcoming releases and popular games.</small>
+  </section>
+
+  <section class="featured">
+    <div class="decor d1"></div><div class="decor d2"></div><div class="decor d3"></div>
+    <div class="featured-inner">
+      <div class="pills">
+        <span class="pill light">FEATURED</span>
+        <span class="pill" id="featuredPlatforms"></span>
+      </div>
+      <h2 id="featuredTitle">Grand Theft Auto VI</h2>
+      <p id="featuredDate"></p>
+      <div class="timer" id="featuredTimer"></div>
+      <div class="actions">
+        <button class="primary" id="featuredTrailer">▶ WATCH TRAILER</button>
+        <a class="secondary" id="featuredSource" target="_blank" rel="noopener">SOURCE ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="releases">
+    <div class="section-head">
+      <div><h3>Upcoming releases</h3><p>Real announced dates. Countdowns update every second.</p></div>
+      <div class="filters" id="releaseFilters">
+        <button class="active" data-filter="all">All</button>
+        <button data-filter="PC">PC</button>
+        <button data-filter="PlayStation 5">PS5</button>
+        <button data-filter="Xbox Series X/S">Xbox</button>
+        <button data-filter="Switch 2">Switch 2</button>
+      </div>
+    </div>
+    <p class="note">Release dates can change, and exact unlock times may vary by platform or region.</p>
+    <div class="release-grid" id="releaseGrid"></div>
+    <div class="more-row"><button class="primary" id="releaseMore">SHOW MORE RELEASES</button></div>
+  </section>
+
+  <section id="popular">
+    <div class="section-head">
+      <div>
+        <div class="api-line"><span id="apiDot"></span><b id="apiStatus">LOADING FREETOGAME DATA</b></div>
+        <h3>Popular free-to-play games</h3>
+        <p>Popular games from FreeToGame, limited so the page stays fast.</p>
+      </div>
+      <div class="api-controls">
+        <select id="platform"><option value="all">All platforms</option><option value="windows">Windows</option><option value="browser">Browser</option></select>
+        <select id="genre"><option value="">All genres</option><option>shooter</option><option>mmorpg</option><option>strategy</option><option>moba</option><option>racing</option><option>sports</option><option value="battle royale">battle royale</option></select>
+      </div>
+    </div>
+    <div class="api-note" id="apiNote" hidden></div>
+    <div class="popular-grid" id="popularGrid"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+    <div class="more-row"><button class="primary" id="popularMore">SHOW MORE GAMES</button></div>
+    <p class="credit">Game discovery data provided by <a href="https://www.freetogame.com/" target="_blank" rel="noopener">FreeToGame.com ↗</a></p>
+  </section>
+
+  <section class="timezone">
+    <div><strong>Don't worry about different time zones. Game times sync with your device's time settings.</strong><p>Your current device time zone is detected automatically.</p></div>
+    <span id="tz"></span>
+  </section>
+</main>
+
+<footer class="wrap"><span>HypeClock</span><span>Release sources are linked on each card.</span></footer>
+
+<div class="modal" id="trailerModal" aria-hidden="true">
+  <div class="sheet">
+    <div class="modal-head"><div><small>TRAILER</small><h3 id="trailerTitle"></h3></div><button data-close>✕</button></div>
+    <div id="trailerBody"></div>
+  </div>
+</div>
+
+<div class="modal" id="detailsModal" aria-hidden="true">
+  <div class="sheet">
+    <div class="modal-head"><div><small>GAME DETAILS</small><h3 id="detailsTitle"></h3></div><button data-close>✕</button></div>
+    <div id="detailsBody"></div>
+  </div>
+</div>
+
+<script src="./releases.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>
