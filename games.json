@@ -1,0 +1,27 @@
+{
+  "generated_at": null,
+  "games": [
+    {
+      "id": 516,
+      "title": "PUBG: BATTLEGROUNDS",
+      "short_description": "A free-to-play battle royale game.",
+      "game_url": "https://www.freetogame.com/open/pubg",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "KRAFTON, Inc.",
+      "developer": "KRAFTON, Inc.",
+      "release_date": "2022-01-12"
+    },
+    {
+      "id": 540,
+      "title": "Overwatch",
+      "short_description": "A free-to-play hero-focused team shooter.",
+      "game_url": "https://www.freetogame.com/open/overwatch",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Activision Blizzard",
+      "developer": "Blizzard Entertainment",
+      "release_date": "2022-10-04"
+    }
+  ]
+}
