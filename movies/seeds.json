@@ -1,0 +1,102 @@
+{
+  "source": "https://www.imdb.com/calendar/?region=CA&type=MOVIE",
+  "note": "Curated upcoming releases for HypeClock Movies. OMDb enriches metadata; this file controls which titles are requested.",
+  "movies": [
+    {
+      "title": "Verity",
+      "year": "2026",
+      "releaseDate": "2026-10-02",
+      "priority": 8
+    },
+    {
+      "title": "The Social Reckoning",
+      "year": "2026",
+      "releaseDate": "2026-10-09",
+      "priority": 7
+    },
+    {
+      "title": "Street Fighter",
+      "year": "2026",
+      "releaseDate": "2026-10-16",
+      "priority": 10
+    },
+    {
+      "title": "Whalefall",
+      "year": "2026",
+      "releaseDate": "2026-10-16",
+      "priority": 6
+    },
+    {
+      "title": "Wildwood",
+      "year": "2026",
+      "releaseDate": "2026-10-23",
+      "priority": 8
+    },
+    {
+      "title": "Klara and the Sun",
+      "year": "2026",
+      "releaseDate": "2026-10-23",
+      "priority": 7
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "year": "2026",
+      "releaseDate": "2026-11-06",
+      "priority": 10
+    },
+    {
+      "title": "The Cat in the Hat",
+      "year": "2026",
+      "releaseDate": "2026-11-06",
+      "priority": 8
+    },
+    {
+      "title": "Ramayana",
+      "year": "2026",
+      "releaseDate": "2026-11-06",
+      "priority": 9
+    },
+    {
+      "title": "How to Rob a Bank",
+      "year": "2026",
+      "releaseDate": "2026-11-13",
+      "priority": 6
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": "2026",
+      "releaseDate": "2026-11-20",
+      "priority": 10
+    },
+    {
+      "title": "Focker-in-Law",
+      "year": "2026",
+      "releaseDate": "2026-11-25",
+      "priority": 6
+    },
+    {
+      "title": "Violent Night 2",
+      "year": "2026",
+      "releaseDate": "2026-12-04",
+      "priority": 8
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "year": "2026",
+      "releaseDate": "2026-12-18",
+      "priority": 10
+    },
+    {
+      "title": "Dune: Part Three",
+      "year": "2026",
+      "releaseDate": "2026-12-18",
+      "priority": 10
+    },
+    {
+      "title": "The Angry Birds Movie 3",
+      "year": "2026",
+      "releaseDate": "2026-12-23",
+      "priority": 8
+    }
+  ]
+}
