@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#212023">
+<title>HypeClock — Movies</title>
+<meta name="description" content="HypeClock Movies — a separate home for movie release countdowns.">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../enhancements.css">
+<link rel="stylesheet" href="./movies.css">
+</head>
+<body class="movies-page">
+<header class="topbar">
+  <div class="wrap nav">
+    <div class="nav-identity">
+      <a class="brand" href="#top"><span class="logo movie-logo"></span><span>HYPECLOCK</span></a>
+      <div class="section-switch" aria-label="HypeClock section">
+        <a href="../#top">GAMES</a>
+        <a class="active movie-active" href="./#top" aria-current="page">MOVIES</a>
+      </div>
+    </div>
+    <nav class="local-nav">
+      <a class="movie-nav-link" href="#top">TOP</a>
+      <a class="movie-nav-link" href="#coming">COMING SOON</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top" class="wrap">
+  <section class="movie-hero">
+    <div class="movie-eyebrow">HYPECLOCK MOVIES</div>
+    <h1>Movie countdowns are getting their own screen.</h1>
+    <p>This page is intentionally separate from Games, so movie releases, posters, trailers and popular titles can grow without changing the FreeToGame section.</p>
+    <div class="movie-status"><span class="movie-dot"></span> MOVIE DATA NOT CONNECTED YET</div>
+  </section>
+
+  <section class="movie-feature">
+    <div class="film-glow glow-one"></div>
+    <div class="film-glow glow-two"></div>
+    <div class="film-frame">
+      <div class="film-badge">MOVIES</div>
+      <h2>A cinematic HypeClock theme</h2>
+      <p>Same HypeClock layout. Different identity: deep purple, warm gold, amber and soft red lighting.</p>
+      <div class="movie-palette" aria-label="Movie page color palette">
+        <span style="--c:#6d3cff"></span>
+        <span style="--c:#b455ff"></span>
+        <span style="--c:#f0ad4e"></span>
+        <span style="--c:#ff6b6b"></span>
+      </div>
+    </div>
+  </section>
+
+  <section id="coming" class="movie-coming">
+    <div class="section-head">
+      <div>
+        <h3>Coming soon</h3>
+        <p>This is the space where the movie API, posters, trailers, search and countdown cards will go next.</p>
+      </div>
+    </div>
+
+    <div class="movie-placeholder-grid">
+      <article class="movie-placeholder"><div class="poster-placeholder"></div><div><b>Upcoming movie</b><span>Poster card layout</span></div></article>
+      <article class="movie-placeholder"><div class="poster-placeholder p2"></div><div><b>Upcoming movie</b><span>Countdown + trailer</span></div></article>
+      <article class="movie-placeholder"><div class="poster-placeholder p3"></div><div><b>Upcoming movie</b><span>Release information</span></div></article>
+      <article class="movie-placeholder"><div class="poster-placeholder p4"></div><div><b>Upcoming movie</b><span>Popular titles</span></div></article>
+    </div>
+
+    <div class="movie-note">
+      No movie API or movie release data has been added yet. This page only establishes the route, visual system and responsive layout.
+    </div>
+  </section>
+</main>
+
+<footer class="wrap"><span>HypeClock • Movies</span><a href="../#top">Back to Games →</a></footer>
+</body>
+</html>
