@@ -40,7 +40,7 @@
       <input id="movieQ" type="search" placeholder="Search movies…" autocomplete="off">
       <kbd>Ctrl K</kbd>
     </label>
-    <small id="movieSearchHint">Search the cached movie list without spending another API credit.</small>
+    <small id="movieSearchHint">Search titles, genres, and years.</small>
   </section>
 
   <section class="movie-feature" id="movieFeatured">
@@ -72,7 +72,7 @@
     <div class="section-head">
       <div>
         <h3>Upcoming movie releases</h3>
-        <p>Release dates come from the current Watchmode movie cache.</p>
+        <p>Release dates update automatically as new information becomes available.</p>
       </div>
       <div class="movie-filters" id="movieFilters">
         <button class="active" data-genre="all">All</button>
@@ -83,7 +83,7 @@
         <button data-genre="Horror">Horror</button>
       </div>
     </div>
-    <div class="movie-note">Movie dates can change. HypeClock refreshes a small cached list instead of making an API request for every visitor.</div>
+    <div class="movie-note">Movie release dates can change, so countdowns may update as studios announce new dates.</div>
     <div class="movie-release-grid" id="movieReleaseGrid"></div>
     <div class="more-row"><button class="movie-primary" id="movieMore">SHOW MORE MOVIES</button></div>
   </section>
@@ -91,26 +91,18 @@
   <section id="popular">
     <div class="section-head">
       <div>
-        <div class="movie-api-line"><span id="movieApiDot"></span><b id="movieApiStatus">LOADING WATCHMODE CACHE</b></div>
+        <div class="movie-api-line"><span id="movieApiDot"></span><b id="movieApiStatus">UPDATING MOVIE LIST</b></div>
         <h3>Popular movies</h3>
-        <p>Sorted by Watchmode popularity, then cached by HypeClock so browsing does not consume your monthly quota.</p>
+        <p>A rotating selection of movies people are watching and talking about.</p>
         <div class="refresh-status movie-refresh-status" aria-live="polite">
           <span>Last refreshed <b id="movieLastRefresh">checking…</b></span>
           <span>Next scheduled refresh in <b id="movieNextRefresh">checking…</b></span>
-          <span>Planned API use <b>≤ ~700 credits/month</b></span>
         </div>
       </div>
     </div>
     <div class="movie-popular-grid" id="moviePopularGrid"></div>
   </section>
 
-  <section class="movie-data-info">
-    <div>
-      <strong>Built to protect the API quota</strong>
-      <p>The public page never receives the Watchmode API key. A scheduled GitHub Action refreshes a small JSON cache once per day, while search and filters run locally in the browser.</p>
-    </div>
-    <span id="movieCacheCount">Movie cache</span>
-  </section>
 </main>
 
 <footer class="wrap">
