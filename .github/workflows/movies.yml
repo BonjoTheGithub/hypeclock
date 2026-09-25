@@ -1,0 +1,81 @@
+name: Refresh Watchmode movie cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Refresh even if the cache is less than 6 hours old"
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: "41 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watchmode-movie-cache-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Refresh Watchmode movie cache
+        env:
+          WATCHMODE_API_KEY: ${{ secrets.WATCHMODE_API_KEY }}
+          FORCE_MOVIE_REFRESH: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
+        run: node scripts/update-movies.cjs
+
+      - name: Commit refreshed movie cache safely
+        shell: bash
+        run: |
+          set -e
+
+          if git diff --quiet -- movies/movies.json; then
+            echo "No movie-cache changes"
+            exit 0
+          fi
+
+          cp movies/movies.json /tmp/hypeclock-movies.json
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            echo "Push attempt $attempt"
+
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/hypeclock-movies.json movies/movies.json
+
+            if git diff --quiet -- movies/movies.json; then
+              echo "Remote already has the same movie cache"
+              exit 0
+            fi
+
+            git add movies/movies.json
+            git commit -m "Refresh Watchmode movie cache [skip ci]"
+
+            if git push origin HEAD:main; then
+              echo "Watchmode movie cache pushed successfully"
+              exit 0
+            fi
+
+            echo "Remote changed while refreshing; syncing and retrying..."
+            sleep 2
+          done
+
+          echo "Could not push movie cache after 3 attempts"
+          exit 1
