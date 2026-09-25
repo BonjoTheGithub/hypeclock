@@ -3,7 +3,6 @@
   "generated_at": "2026-09-25T02:13:26.445Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 22,
-  "quota_note": "Designed for one refresh per day and well under the 2,500-credit monthly Developer quota.",
   "popular": [
     {
       "id": 1624092,
@@ -391,6 +390,68 @@
       "imdb_id": "tt41593304",
       "tmdb_id": 1318864,
       "watchmode_url": "https://www.watchmode.com/title/1842627/"
+    }
+  ],
+  "kids": [
+    {
+      "id": 1624092,
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "release_date": "2026-08-20",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 7.7,
+      "critic_score": 87,
+      "us_rating": "PG",
+      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
+      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
+      "imdb_id": "tt1756855",
+      "tmdb_id": 1204680,
+      "watchmode_url": "https://www.watchmode.com/title/1624092/"
+    },
+    {
+      "id": 1823785,
+      "title": "Toy Story 5",
+      "year": 2026,
+      "release_date": "2026-06-17",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "runtime_minutes": 102,
+      "user_rating": 7.6,
+      "critic_score": 83,
+      "us_rating": null,
+      "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
+      "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
+      "imdb_id": "tt29355505",
+      "tmdb_id": 1084244,
+      "watchmode_url": "https://www.watchmode.com/title/1823785/"
+    },
+    {
+      "id": 11230393,
+      "title": "Cold Call",
+      "year": 2026,
+      "release_date": "2026-09-25",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 131,
+      "user_rating": 8.5,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "In the winter of 2023, the Media is buzz with the kidnapping case of a 13-year-old boy. The Investigators find that a group of 4 Market Research Executive (MRE) are prime suspects.",
+      "trailer": "https://www.youtube.com/watch?v=TjCghxM7uhY",
+      "imdb_id": "tt38349121",
+      "tmdb_id": 1773328,
+      "watchmode_url": "https://www.watchmode.com/title/11230393/"
     }
   ]
 }
