@@ -99,3 +99,26 @@
 @media(max-width:390px){
   .movie-feature-layout{grid-template-columns:100px 1fr}.movie-feature h2{font-size:28px}.movie-release-grid{grid-template-columns:1fr 1fr}.movie-card-actions a{display:none}.movie-details-grid{grid-template-columns:1fr}.movie-details-poster{max-width:190px}
 }
+
+/* Kids & Family */
+.kids-section{position:relative;overflow:hidden;margin:66px 0 0;padding:4px 0 6px;border-radius:28px}
+.kids-inner{position:relative;z-index:2;padding:28px;border:1px solid rgba(255,255,255,.09);border-radius:28px;background:linear-gradient(145deg,rgba(20,31,38,.93),rgba(26,21,37,.95) 58%,rgba(43,29,24,.93));box-shadow:0 28px 70px rgba(0,0,0,.20)}
+.kids-orb{position:absolute;border-radius:50%;filter:blur(8px);opacity:.55;pointer-events:none}.kids-orb-one{width:260px;height:260px;right:-70px;top:-80px;background:radial-gradient(circle,rgba(64,219,201,.34),transparent 68%)}.kids-orb-two{width:260px;height:260px;left:-80px;bottom:-90px;background:radial-gradient(circle,rgba(255,183,77,.27),transparent 68%)}
+.kids-head{margin:0 0 20px;align-items:flex-end}.kids-kicker{display:inline-flex;align-items:center;gap:7px;padding:7px 9px;border-radius:999px;border:1px solid rgba(89,224,207,.24);background:rgba(34,101,95,.18);font-size:9px;font-weight:900;letter-spacing:.13em;color:#9df3e4}.kids-kicker:before{content:"★";font-size:10px}
+.kids-head h3{margin-top:9px}.kids-head p{max-width:690px}.kids-badge{padding:9px 11px;border-radius:999px;border:1px solid rgba(255,190,91,.22);background:rgba(100,64,19,.18);color:#ffd18b;font-size:9px;font-weight:900;letter-spacing:.10em;white-space:nowrap}
+.kids-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:13px}
+.kid-card{overflow:hidden;border:1px solid rgba(255,255,255,.09);border-radius:18px;background:linear-gradient(180deg,rgba(18,29,35,.98),rgba(17,19,25,.98));transition:.2s ease;cursor:pointer}
+.kid-card:hover{transform:translateY(-4px);border-color:rgba(89,224,207,.36);box-shadow:0 18px 42px rgba(0,0,0,.22)}
+.kid-card .movie-poster{aspect-ratio:2/3}
+.kid-card .movie-poster:after{background:linear-gradient(to top,rgba(7,15,18,.72),transparent 44%)}
+.kid-card-copy{padding:12px}.kid-card-copy b{display:block;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.kid-card-copy span{display:block;margin-top:5px;color:#88a6a5;font-size:9px}
+.kid-rating{position:absolute;z-index:2;right:9px;top:9px;padding:6px 8px;border-radius:999px;border:1px solid rgba(255,255,255,.14);background:rgba(11,18,20,.78);font-size:8px;font-weight:900;color:#dffcf6}
+.kids-note{margin:14px 0 0;color:#7f9594;font-size:9px;line-height:1.55;text-align:center}
+
+.movie-signoff{text-align:center;margin:64px auto 22px;padding:34px 18px;max-width:760px;border-top:1px solid rgba(255,255,255,.07)}
+.signoff-mark{font-size:23px;opacity:.76}.movie-signoff p{margin:10px auto 5px;max-width:650px;font-size:14px;line-height:1.6;color:#c0b7c2}.movie-signoff small{color:#766f79;font-size:9px;letter-spacing:.03em}
+.movie-footer{justify-content:center;text-align:center;gap:10px 18px;padding-top:0;padding-bottom:38px}.movie-footer span{display:inline-flex;align-items:center;gap:4px}.movie-footer a{color:#bfa1d9;text-decoration:underline;text-underline-offset:3px}
+
+@media(max-width:980px){.kids-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:760px){.kids-grid{grid-template-columns:repeat(2,1fr)}.kids-head{align-items:flex-start}.kids-badge{display:none}}
+@media(max-width:620px){.kids-section{margin-top:52px}.kids-inner{padding:18px 12px;border-radius:22px}.kids-grid{gap:10px}.kid-card{border-radius:15px}.kid-card-copy{padding:10px}.kid-card-copy b{font-size:12px}.movie-signoff{margin-top:48px;padding:28px 12px}.movie-signoff p{font-size:12px}.movie-footer{flex-direction:column}}
