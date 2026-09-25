@@ -4,6 +4,7 @@ const path=require("path");
 const API_KEY=(process.env.WATCHMODE_API_KEY||"").trim();
 const BASE="https://api.watchmode.com/v1";
 const OUT=path.join(process.cwd(),"movies","movies.json");
+const OUT_JS=path.join(process.cwd(),"movies","movies-data.js");
 
 const MAX_POPULAR=10;
 const MAX_UPCOMING=10;
@@ -218,6 +219,7 @@ async function main(){
   };
 
   fs.writeFileSync(OUT,JSON.stringify(output,null,2)+"\n");
+  fs.writeFileSync(OUT_JS,"window.HYPE_MOVIES="+JSON.stringify(output,null,2)+";\n");
   console.log(`Saved ${upcoming.length} upcoming, ${popular.length} popular, and ${kids.length} kids & family movies using about ${credits} Watchmode credits.`);
 }
 
