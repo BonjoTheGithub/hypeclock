@@ -1,8 +1,8 @@
 {
   "provider": "Watchmode",
-  "generated_at": "2026-09-25T02:13:26.445Z",
+  "generated_at": "2026-09-25T15:33:33.151Z",
   "refresh_hours": 24,
-  "estimated_credits_this_refresh": 22,
+  "estimated_credits_this_refresh": 34,
   "popular": [
     {
       "id": 1624092,
@@ -205,8 +205,8 @@
   "upcoming": [
     {
       "id": 1704017,
-      "title": "Long Day's Journey Into Night",
-      "year": 2025,
+      "title": "Long Day's Journey into Night",
+      "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
         "Drama"
@@ -215,7 +215,7 @@
       "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Over the course of a day, a married couple, Mary and James Tyrone, and their two sons, Jamie and Edmund, grapple with Mary's morphine addiction and confront each other over the past in a series of emotionally tense and volatile exchanges.",
+      "plot": "Over the course of one day, a married couple and their two sons confront addiction, family tensions, and painful memories. As old grievances resurface, their conversations grow increasingly volatile, revealing the strain beneath their shared home life.",
       "trailer": "https://www.youtube.com/watch?v=GS2tOk7htKI",
       "imdb_id": "tt23130254",
       "tmdb_id": 1086037,
@@ -234,7 +234,7 @@
       "user_rating": 5,
       "critic_score": 49,
       "us_rating": null,
-      "plot": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+      "plot": "An eccentric young governess arrives at a remote Gothic manor, where a string of unsettling events leads the household to question her identity. As suspicion grows, the truth appears more dangerous than anyone expects, placing the residents in an increasingly disturbing situation.",
       "trailer": "https://www.youtube.com/watch?v=sDiFol_2j2I",
       "imdb_id": "tt34374553",
       "tmdb_id": 1379486,
@@ -253,7 +253,7 @@
       "user_rating": 6.8,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Set across three timelines spanning the 1930s and the present day, the film follows interconnected lives centered on three young men. Their personal struggles and political experiences unfold across different periods, with emotional echoes linking the stories as they gradually come together.",
+      "plot": "Three men living in different eras are connected by sexuality, desire, pain, and the legacies that shape their lives. Their intertwined stories explore how intimate experiences can echo across time and link people separated by generations.",
       "trailer": "https://www.youtube.com/watch?v=IRHtqjHYPew",
       "imdb_id": "tt35511966",
       "tmdb_id": 1422041,
@@ -272,7 +272,7 @@
       "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+      "plot": "A devout hitman struggles to balance his work, faith, and responsibilities as a father. After his wife dies, he crosses Houston in a desperate effort to protect his children while confronting dangerous forces and a crisis of belief.",
       "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
       "imdb_id": "tt35856037",
       "tmdb_id": 1437396,
@@ -290,7 +290,7 @@
       "user_rating": 6,
       "critic_score": 72,
       "us_rating": null,
-      "plot": "Yoriko, an artist living in rural Nagi, is haunted by a former love affair she cannot bear to mourn. When Yuri, a recently separated architect, travels from Tokyo to visit her friend and former sister-in-law, both women find themselves at a crossroad, each searching for ways to let go of the past and define their identities. Yuri's brief escape from the city settles into a quiet confrontation of loss and probing for the two women in bucolic Nagi.",
+      "plot": "An artist living in rural Nagi is haunted by a past love she cannot bear to mourn. When a recently separated architect visits from Tokyo, the two women form an unexpected connection as they confront loss, question their identities, and search for ways to move forward.",
       "trailer": null,
       "imdb_id": "tt28551050",
       "tmdb_id": 1448971,
@@ -309,7 +309,7 @@
       "user_rating": 5.9,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Two sisters who grew up on a resort in Gran Canaria return to the island years later to handle a family loss. What starts as a reluctant visit turns into an unexpected responsibility when they’re faced with a half-finished, unusual retreat project in the Canary Islands.",
+      "plot": "Two sisters who grew up on a charter resort return to their childhood island after their parents’ death. There, they must deal with a half-finished retreat center and the complicated feelings tied to their shared past.",
       "trailer": "https://www.youtube.com/watch?v=6xpcy_qbbE0",
       "imdb_id": "tt37496603",
       "tmdb_id": 1261032,
@@ -317,7 +317,7 @@
     },
     {
       "id": 11228289,
-      "title": "Naza",
+      "title": "NAZA",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -346,7 +346,7 @@
       "user_rating": 8.5,
       "critic_score": null,
       "us_rating": null,
-      "plot": "In the winter of 2023, the Media is buzz with the kidnapping case of a 13-year-old boy. The Investigators find that a group of 4 Market Research Executive (MRE) are prime suspects.",
+      "plot": "During the winter of 2023, the kidnapping of a 13-year-old boy draws widespread media attention. Investigators identify four market research executives as prime suspects in the case, examining whether their professional connection links them to the crime and the circumstances surrounding the boy’s disappearance.",
       "trailer": "https://www.youtube.com/watch?v=TjCghxM7uhY",
       "imdb_id": "tt38349121",
       "tmdb_id": 1773328,
@@ -394,6 +394,49 @@
   ],
   "kids": [
     {
+      "id": 1749638,
+      "title": "The Wild Robot",
+      "year": 2024,
+      "release_date": "2024-09-12",
+      "genres": [
+        "Family",
+        "Animation",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "runtime_minutes": 102,
+      "user_rating": 8.3,
+      "critic_score": 91,
+      "us_rating": null,
+      "plot": "After a shipwreck, an intelligent robot is stranded on an uninhabited island. As the robot learns to survive among wary animals, it forms an unexpected bond with an orphaned gosling and takes on the challenge of raising it in the wild.",
+      "trailer": "https://www.youtube.com/watch?v=67vbA5ZJdKQ",
+      "imdb_id": "tt29623480",
+      "tmdb_id": 1184918,
+      "watchmode_url": "https://www.watchmode.com/title/1749638/"
+    },
+    {
+      "id": 1982660,
+      "title": "Forgotten Island",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 7.8,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
+      "imdb_id": "tt36583977",
+      "tmdb_id": 1465063,
+      "watchmode_url": "https://www.watchmode.com/title/1982660/"
+    },
+    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -433,6 +476,94 @@
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
       "watchmode_url": "https://www.watchmode.com/title/1823785/"
+    },
+    {
+      "id": 1785478,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "release_date": "2025-11-26",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Mystery",
+        "Family"
+      ],
+      "runtime_minutes": 108,
+      "user_rating": 7.5,
+      "critic_score": 83,
+      "us_rating": "PG",
+      "plot": "After solving a major case, two police partners follow a twisting mystery when a snake’s arrival disrupts the animal metropolis. Their investigation takes them undercover into unfamiliar parts of town, testing their teamwork while raising questions about prejudice, stereotypes, greed, and the city’s past.",
+      "trailer": "https://www.youtube.com/watch?v=5AwtptT8X8k",
+      "imdb_id": "tt26443597",
+      "tmdb_id": 1084242,
+      "watchmode_url": "https://www.watchmode.com/title/1785478/"
+    },
+    {
+      "id": 1892965,
+      "title": "Hoppers",
+      "year": 2026,
+      "release_date": "2026-03-04",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 104,
+      "user_rating": 7.4,
+      "critic_score": 84,
+      "us_rating": null,
+      "plot": "A passionate animal lover discovers technology that can place human consciousness inside lifelike robotic animals. Using it to understand wildlife, she becomes involved in a struggle to protect a threatened natural habitat from a major construction project.",
+      "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
+      "imdb_id": "tt26443616",
+      "tmdb_id": 1327819,
+      "watchmode_url": "https://www.watchmode.com/title/1892965/"
+    },
+    {
+      "id": 1840434,
+      "title": "Minions & Monsters",
+      "year": 2026,
+      "release_date": "2026-06-24",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 6.5,
+      "critic_score": 80,
+      "us_rating": "PG",
+      "plot": "A group of chaotic yellow movie hopefuls storms Hollywood and becomes famous before a major change sends them tumbling back down. When their attempt to make a monster movie unleashes real danger, they must work together to stop the mayhem and protect the world.",
+      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "imdb_id": "tt32890033",
+      "tmdb_id": 1315772,
+      "watchmode_url": "https://www.watchmode.com/title/1840434/"
+    },
+    {
+      "id": 1885279,
+      "title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "release_date": "2026-04-01",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "runtime_minutes": 98,
+      "user_rating": 6.5,
+      "critic_score": 40,
+      "us_rating": "PG",
+      "plot": "After stopping Bowser’s earlier scheme, two brothers face a new threat from his determined son, who wants to free his father and revive their family legacy. With familiar and new companions, the brothers journey across the stars to stop the young heir’s crusade.",
+      "trailer": "https://www.youtube.com/watch?v=FdL2GorGdKc",
+      "imdb_id": "tt28650488",
+      "tmdb_id": 1226863,
+      "watchmode_url": "https://www.watchmode.com/title/1885279/"
     }
   ]
 }
