@@ -43,12 +43,13 @@ jobs:
         run: |
           set -e
 
-          if git diff --quiet -- movies/movies.json; then
+          if git diff --quiet -- movies/movies.json movies/movies-data.js; then
             echo "No movie-cache changes"
             exit 0
           fi
 
           cp movies/movies.json /tmp/hypeclock-movies.json
+          cp movies/movies-data.js /tmp/hypeclock-movies-data.js
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -59,13 +60,14 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             cp /tmp/hypeclock-movies.json movies/movies.json
+            cp /tmp/hypeclock-movies-data.js movies/movies-data.js
 
-            if git diff --quiet -- movies/movies.json; then
+            if git diff --quiet -- movies/movies.json movies/movies-data.js; then
               echo "Remote already has the same movie cache"
               exit 0
             fi
 
-            git add movies/movies.json
+            git add movies/movies.json movies/movies-data.js
             git commit -m "Refresh Watchmode movie cache [skip ci]"
 
             if git push origin HEAD:main; then
