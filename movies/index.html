@@ -24,6 +24,7 @@
     <nav class="local-nav">
       <button data-go="#releases">RELEASES</button>
       <button data-go="#popular">POPULAR</button>
+      <button data-go="#kids">KIDS</button>
       <button data-go="#movieSearch">SEARCH</button>
     </nav>
   </div>
@@ -103,9 +104,32 @@
     <div class="movie-popular-grid" id="moviePopularGrid"></div>
   </section>
 
+  <section id="kids" class="kids-section">
+    <div class="kids-orb kids-orb-one"></div>
+    <div class="kids-orb kids-orb-two"></div>
+    <div class="kids-inner">
+      <div class="section-head kids-head">
+        <div>
+          <div class="kids-kicker">KIDS & FAMILY</div>
+          <h3>Popular picks for younger movie fans</h3>
+          <p>Family, animation, comedy and adventure picks gathered into one easier-to-browse section.</p>
+        </div>
+        <span class="kids-badge">FAMILY PICKS</span>
+      </div>
+      <div class="kids-grid" id="kidsMovieGrid"></div>
+      <p class="kids-note">Ratings and age suitability can vary by child and region, so it’s still worth checking the movie details before watching.</p>
+    </div>
+  </section>
+
+  <section class="movie-signoff" aria-label="HypeClock note">
+    <div class="signoff-mark">⌛</div>
+    <p>For release-day planners, trailer rabbit holes, and the occasional “wait… that comes out when?” moment.</p>
+    <small>No clocks were harmed while making these countdowns.</small>
+  </section>
+
 </main>
 
-<footer class="wrap">
+<footer class="wrap movie-footer">
   <span>HypeClock • Movies</span>
   <span>Movie data by <a href="https://api.watchmode.com/" target="_blank" rel="noopener">Watchmode ↗</a></span>
 </footer>
