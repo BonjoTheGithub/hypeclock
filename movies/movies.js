@@ -1,6 +1,6 @@
 (()=> {
   const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-  const state={upcoming:[],popular:[],query:"",genre:"all",limit:8,generatedAt:null};
+  const state={upcoming:[],popular:[],kids:[],query:"",genre:"all",limit:8,generatedAt:null};
   const REFRESH_MS=24*60*60*1000;
 
   function esc(v=""){return String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
@@ -47,7 +47,7 @@
   function imdbUrl(m){return m.imdb_id?`https://www.imdb.com/title/${encodeURIComponent(m.imdb_id)}/`:""}
   function allMovies(){
     const map=new Map();
-    [...state.upcoming,...state.popular].forEach(m=>map.set(String(m.id),m));
+    [...state.upcoming,...state.popular,...state.kids].forEach(m=>map.set(String(m.id),m));
     return [...map.values()];
   }
   function byId(id){return allMovies().find(m=>String(m.id)===String(id))}
@@ -140,6 +140,32 @@
     });
   }
 
+  function renderKids(){
+    const q=state.query.trim().toLowerCase();
+    const list=state.kids.filter(m=>{
+      const hay=`${m.title||""} ${genres(m).join(" ")} ${m.year||""}`.toLowerCase();
+      return !q||hay.includes(q);
+    });
+    const grid=$("#kidsMovieGrid");
+    if(!grid)return;
+    grid.innerHTML=list.length?list.map(m=>`
+      <article class="kid-card" data-kid-detail="${esc(m.id)}" tabindex="0">
+        <div class="movie-poster" style="${artStyle(m.title)}">
+          <div class="movie-poster-placeholder">${esc(m.title)}</div>
+          <span class="movie-genre-tag">${esc(genres(m)[0]||"Family")}</span>
+          <span class="kid-rating">${esc(m.us_rating||"Family")}</span>
+        </div>
+        <div class="kid-card-copy">
+          <b title="${esc(m.title)}">${esc(m.title)}</b>
+          <span>${esc(m.year||"")}${Number.isFinite(m.user_rating)?` • ${m.user_rating}/10`:""}</span>
+        </div>
+      </article>`).join(""):'<p class="movie-note" style="grid-column:1/-1">More kids & family picks will appear after the next movie-list update.</p>';
+    $("[data-kid-detail]").forEach(c=>{
+      c.onclick=()=>openDetails(byId(c.dataset.kidDetail));
+      c.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openDetails(byId(c.dataset.kidDetail))}}
+    });
+  }
+
   function openDetails(m){
     if(!m)return;
     $("#movieDetailsTitle").textContent=m.title;
@@ -201,7 +227,7 @@
   }
 
   function renderAll(){
-    renderFeature();renderUpcoming();renderPopular();renderRefresh();
+    renderFeature();renderUpcoming();renderPopular();renderKids();renderRefresh();
     const count=state.upcoming.filter(matches).length;
     $("#movieSearchHint").textContent=state.query?`${count} upcoming matches for “${state.query}”`:"Search titles, genres, and years.";
   }
@@ -213,6 +239,7 @@
       const data=await r.json();
       state.upcoming=Array.isArray(data.upcoming)?data.upcoming:[];
       state.popular=Array.isArray(data.popular)?data.popular:[];
+      state.kids=Array.isArray(data.kids)?data.kids:[];
       const parsed=Date.parse(data.generated_at||"");
       state.generatedAt=Number.isFinite(parsed)?parsed:null;
       if(state.upcoming.length||state.popular.length){
@@ -224,7 +251,7 @@
       renderAll();
     }catch(err){
       $("#movieApiStatus").textContent="MOVIE LIST • TEMPORARILY UNAVAILABLE";
-      state.upcoming=[];state.popular=[];renderAll();
+      state.upcoming=[];state.popular=[];state.kids=[];renderAll();
     }
   }
 
