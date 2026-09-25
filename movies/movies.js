@@ -160,7 +160,7 @@
           <span>${esc(m.year||"")}${Number.isFinite(m.user_rating)?` • ${m.user_rating}/10`:""}</span>
         </div>
       </article>`).join(""):'<p class="movie-note" style="grid-column:1/-1">More kids & family picks will appear after the next movie-list update.</p>';
-    $("[data-kid-detail]").forEach(c=>{
+    $$("[data-kid-detail]").forEach(c=>{
       c.onclick=()=>openDetails(byId(c.dataset.kidDetail));
       c.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openDetails(byId(c.dataset.kidDetail))}}
     });
