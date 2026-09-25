@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#212023">
 <title>HypeClock — Movies</title>
-<meta name="description" content="Movie release countdowns, posters and movie details on HypeClock.">
+<meta name="description" content="Movie release countdowns and popular movies on HypeClock.">
 <link rel="icon" href="../favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../enhancements.css">
@@ -32,24 +32,23 @@
 <main id="top" class="wrap">
   <section class="movie-hero">
     <div class="movie-eyebrow">MOVIE RELEASE COUNTDOWNS</div>
-    <h1>Know when the movies you're waiting for hit theaters.</h1>
-    <p>Upcoming movie countdowns, posters, details and trailers — kept separate from the Games page so both sections stay clean.</p>
+    <h1>Know when the movies you're waiting for release.</h1>
+    <p>Upcoming movie countdowns, details and trailers — on their own page, separate from Games.</p>
 
     <label class="movie-search" id="movieSearch">
       <span>⌕</span>
-      <input id="movieQ" type="search" placeholder="Search the current movie list…" autocomplete="off">
+      <input id="movieQ" type="search" placeholder="Search movies…" autocomplete="off">
       <kbd>Ctrl K</kbd>
     </label>
-    <small id="movieSearchHint">Search the cached movie list without spending extra API requests.</small>
+    <small id="movieSearchHint">Search the cached movie list without spending another API credit.</small>
   </section>
 
   <section class="movie-feature" id="movieFeatured">
     <div class="film-glow glow-one"></div>
     <div class="film-glow glow-two"></div>
     <div class="movie-feature-layout">
-      <div class="featured-poster-shell">
+      <div class="featured-poster-shell" id="featuredArt">
         <div class="poster-fallback" id="featuredPosterFallback">MOVIE</div>
-        <img id="featuredPoster" alt="" hidden>
       </div>
 
       <div class="movie-feature-copy">
@@ -57,12 +56,12 @@
           <span class="movie-pill strong">FEATURED</span>
           <span class="movie-pill" id="featuredMovieGenre">MOVIE</span>
         </div>
-        <h2 id="featuredMovieTitle">Loading movies…</h2>
+        <h2 id="featuredMovieTitle">Waiting for movie data…</h2>
         <p class="movie-release-copy" id="featuredMovieDate"></p>
         <div class="timer movie-timer" id="featuredMovieTimer"></div>
         <div class="movie-meta-line" id="featuredMovieMeta"></div>
         <div class="actions movie-actions">
-          <button class="movie-primary" id="featuredMovieTrailer">▶ TRAILER</button>
+          <a class="movie-primary" id="featuredMovieTrailer" target="_blank" rel="noopener">▶ TRAILER</a>
           <button class="movie-secondary" id="featuredMovieDetails">DETAILS</button>
         </div>
       </div>
@@ -73,7 +72,7 @@
     <div class="section-head">
       <div>
         <h3>Upcoming movie releases</h3>
-        <p>Countdowns use the current release date saved in HypeClock's movie cache.</p>
+        <p>Release dates come from the current Watchmode movie cache.</p>
       </div>
       <div class="movie-filters" id="movieFilters">
         <button class="active" data-genre="all">All</button>
@@ -84,7 +83,7 @@
         <button data-genre="Horror">Horror</button>
       </div>
     </div>
-    <div class="movie-note">Movie dates can change. OMDb supplies movie metadata; HypeClock keeps a small curated release list so the API key and daily request limit stay protected.</div>
+    <div class="movie-note">Movie dates can change. HypeClock refreshes a small cached list instead of making an API request for every visitor.</div>
     <div class="movie-release-grid" id="movieReleaseGrid"></div>
     <div class="more-row"><button class="movie-primary" id="movieMore">SHOW MORE MOVIES</button></div>
   </section>
@@ -92,13 +91,13 @@
   <section id="popular">
     <div class="section-head">
       <div>
-        <div class="movie-api-line"><span id="movieApiDot"></span><b id="movieApiStatus">LOADING MOVIE CACHE</b></div>
-        <h3>Popular & anticipated movies</h3>
-        <p>This is a curated HypeClock list enriched with OMDb data. OMDb itself does not provide popularity rankings.</p>
-        <div class="refresh-status movie-refresh-status" id="movieRefreshStatus" aria-live="polite">
+        <div class="movie-api-line"><span id="movieApiDot"></span><b id="movieApiStatus">LOADING WATCHMODE CACHE</b></div>
+        <h3>Popular movies</h3>
+        <p>Sorted by Watchmode popularity, then cached by HypeClock so browsing does not consume your monthly quota.</p>
+        <div class="refresh-status movie-refresh-status" aria-live="polite">
           <span>Last refreshed <b id="movieLastRefresh">checking…</b></span>
           <span>Next scheduled refresh in <b id="movieNextRefresh">checking…</b></span>
-          <span>API budget <b>~30 requests/day</b></span>
+          <span>Planned API use <b>≤ ~700 credits/month</b></span>
         </div>
       </div>
     </div>
@@ -107,14 +106,17 @@
 
   <section class="movie-data-info">
     <div>
-      <strong>Why HypeClock caches movie data</strong>
-      <p>The public site reads a saved JSON file instead of exposing the OMDb API key in visitors' browsers. That also keeps API usage far below the free daily limit.</p>
+      <strong>Built to protect the API quota</strong>
+      <p>The public page never receives the Watchmode API key. A scheduled GitHub Action refreshes a small JSON cache once per day, while search and filters run locally in the browser.</p>
     </div>
     <span id="movieCacheCount">Movie cache</span>
   </section>
 </main>
 
-<footer class="wrap"><span>HypeClock • Movies</span><span>Movie metadata powered by OMDb API.</span></footer>
+<footer class="wrap">
+  <span>HypeClock • Movies</span>
+  <span>Movie data by <a href="https://api.watchmode.com/" target="_blank" rel="noopener">Watchmode ↗</a></span>
+</footer>
 
 <div class="modal" id="movieDetailsModal" aria-hidden="true">
   <div class="sheet movie-sheet">
