@@ -232,26 +232,36 @@
     $("#movieSearchHint").textContent=state.query?`${count} upcoming matches for “${state.query}”`:"Search titles, genres, and years.";
   }
 
+  function applyData(data){
+    state.upcoming=Array.isArray(data?.upcoming)?data.upcoming:[];
+    state.popular=Array.isArray(data?.popular)?data.popular:[];
+    state.kids=Array.isArray(data?.kids)?data.kids:[];
+    const parsed=Date.parse(data?.generated_at||"");
+    state.generatedAt=Number.isFinite(parsed)?parsed:null;
+
+    if(state.upcoming.length||state.popular.length){
+      $("#movieApiDot").classList.add("ok");
+      $("#movieApiStatus").textContent="MOVIE LIST • UPDATED";
+    }else{
+      $("#movieApiStatus").textContent="MOVIE LIST • UPDATING";
+    }
+    renderAll();
+  }
+
   async function load(){
+    if(window.HYPE_MOVIES&&(Array.isArray(window.HYPE_MOVIES.upcoming)||Array.isArray(window.HYPE_MOVIES.popular))){
+      applyData(window.HYPE_MOVIES);
+      return;
+    }
+
     try{
-      const r=await fetch("./movies.json",{cache:"no-store"});
+      const r=await fetch("./movies.json?v=3",{cache:"no-store"});
       if(!r.ok)throw new Error("cache unavailable");
-      const data=await r.json();
-      state.upcoming=Array.isArray(data.upcoming)?data.upcoming:[];
-      state.popular=Array.isArray(data.popular)?data.popular:[];
-      state.kids=Array.isArray(data.kids)?data.kids:[];
-      const parsed=Date.parse(data.generated_at||"");
-      state.generatedAt=Number.isFinite(parsed)?parsed:null;
-      if(state.upcoming.length||state.popular.length){
-        $("#movieApiDot").classList.add("ok");
-        $("#movieApiStatus").textContent="MOVIE LIST • UPDATED";
-      }else{
-        $("#movieApiStatus").textContent="MOVIE LIST • UPDATING";
-      }
-      renderAll();
+      applyData(await r.json());
     }catch(err){
       $("#movieApiStatus").textContent="MOVIE LIST • TEMPORARILY UNAVAILABLE";
-      state.upcoming=[];state.popular=[];state.kids=[];renderAll();
+      state.upcoming=[];state.popular=[];state.kids=[];
+      renderAll();
     }
   }
 
