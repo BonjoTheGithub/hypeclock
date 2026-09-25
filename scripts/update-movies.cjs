@@ -84,8 +84,10 @@ function isKidFriendly(m){
   const rating=String(m.us_rating||"").toUpperCase();
   const familyGenre=gs.includes("family")||gs.includes("animation");
   const blockedGenre=gs.includes("horror")||gs.includes("adult");
-  const blockedRating=["R","NC-17","TV-MA","X","18","18+"].includes(rating);
-  return familyGenre&&!blockedGenre&&!blockedRating;
+  const blockedRating=["R","NC-17","PG-13","TV-14","TV-MA","X","18","18+"].includes(rating);
+  const clearlyKidRated=["G","PG","TV-G","TV-Y","TV-Y7","TV-Y7-FV"].includes(rating);
+  const unratedAnimation=!rating&&gs.includes("animation");
+  return familyGenre&&!blockedGenre&&!blockedRating&&(clearlyKidRated||unratedAnimation);
 }
 
 async function main(){
