@@ -433,25 +433,6 @@
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
       "watchmode_url": "https://www.watchmode.com/title/1823785/"
-    },
-    {
-      "id": 11230393,
-      "title": "Cold Call",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 131,
-      "user_rating": 8.5,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "In the winter of 2023, the Media is buzz with the kidnapping case of a 13-year-old boy. The Investigators find that a group of 4 Market Research Executive (MRE) are prime suspects.",
-      "trailer": "https://www.youtube.com/watch?v=TjCghxM7uhY",
-      "imdb_id": "tt38349121",
-      "tmdb_id": 1773328,
-      "watchmode_url": "https://www.watchmode.com/title/11230393/"
     }
   ]
 }
