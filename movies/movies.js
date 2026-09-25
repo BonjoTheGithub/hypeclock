@@ -64,9 +64,9 @@
     const now=new Date();now.setHours(0,0,0,0);
     const m=state.upcoming.find(x=>{const d=localDate(x.release_date);return d&&d>=now})||state.popular[0]||state.upcoming[0];
     if(!m){
-      $("#featuredMovieTitle").textContent="Movie cache is waiting for Watchmode";
-      $("#featuredMovieDate").textContent="Add the repository secret, then run the movie refresh workflow.";
-      $("#featuredMovieTimer").innerHTML='<div class="time"><b>READY</b><span>Setup</span></div>';
+      $("#featuredMovieTitle").textContent="Movie lineup is updating";
+      $("#featuredMovieDate").textContent="Check back shortly for the latest movie lineup.";
+      $("#featuredMovieTimer").innerHTML='<div class="time"><b>SOON</b><span>Update</span></div>';
       $("#featuredMovieMeta").textContent="";
       $("#featuredMovieTrailer").style.display="none";
       $("#featuredMovieDetails").style.display="none";
@@ -156,7 +156,7 @@
         <div class="movie-details-art" style="${artStyle(m.title)}"><span>${esc(m.title)}</span></div>
         <div class="movie-details-copy">
           <div class="detail-chip-row">${chips.map(x=>`<span class="detail-chip">${esc(x)}</span>`).join("")}</div>
-          <p>${esc(m.plot||"No synopsis is available in the current cache.")}</p>
+          <p>${esc(m.plot||"No synopsis is available yet.")}</p>
           ${m.release_date?`<p><b>Release:</b> ${esc(niceDate(m.release_date))}</p>`:""}
           <div class="movie-detail-links">
             <a href="${esc(trailerUrl(m))}" target="_blank" rel="noopener">TRAILER ↗</a>
@@ -174,7 +174,7 @@
   }
 
   function compact(ms){
-    if(ms<=0)return"awaiting scheduled run";
+    if(ms<=0)return"updating soon";
     const total=Math.floor(ms/1000),h=Math.floor(total/3600),m=Math.floor((total%3600)/60),s=total%60;
     if(h>0)return`${h}h ${m}m`;
     if(m>0)return`${m}m ${s}s`;
@@ -191,8 +191,8 @@
   }
   function renderRefresh(){
     if(!state.generatedAt){
-      $("#movieLastRefresh").textContent="not yet";
-      $("#movieNextRefresh").textContent="after first API refresh";
+      $("#movieLastRefresh").textContent="waiting for first update";
+      $("#movieNextRefresh").textContent="soon";
       return;
     }
     const now=Date.now();
@@ -202,9 +202,8 @@
 
   function renderAll(){
     renderFeature();renderUpcoming();renderPopular();renderRefresh();
-    $("#movieCacheCount").textContent=`${allMovies().length} cached movies`;
     const count=state.upcoming.filter(matches).length;
-    $("#movieSearchHint").textContent=state.query?`${count} upcoming matches for “${state.query}”`:"Search the cached movie list without spending another API credit.";
+    $("#movieSearchHint").textContent=state.query?`${count} upcoming matches for “${state.query}”`:"Search titles, genres, and years.";
   }
 
   async function load(){
@@ -218,13 +217,13 @@
       state.generatedAt=Number.isFinite(parsed)?parsed:null;
       if(state.upcoming.length||state.popular.length){
         $("#movieApiDot").classList.add("ok");
-        $("#movieApiStatus").textContent="WATCHMODE • CACHED DATA";
+        $("#movieApiStatus").textContent="MOVIE LIST • UPDATED";
       }else{
-        $("#movieApiStatus").textContent="WATCHMODE • SETUP NEEDED";
+        $("#movieApiStatus").textContent="MOVIE LIST • UPDATING";
       }
       renderAll();
     }catch(err){
-      $("#movieApiStatus").textContent="WATCHMODE • CACHE UNAVAILABLE";
+      $("#movieApiStatus").textContent="MOVIE LIST • TEMPORARILY UNAVAILABLE";
       state.upcoming=[];state.popular=[];renderAll();
     }
   }
