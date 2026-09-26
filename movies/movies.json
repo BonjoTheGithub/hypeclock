@@ -1,9 +1,29 @@
 {
   "provider": "Watchmode",
-  "generated_at": "2026-09-25T15:33:33.151Z",
+  "generated_at": "2026-09-26T14:43:55.085Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 34,
   "popular": [
+    {
+      "id": 1939424,
+      "title": "Resident Evil",
+      "year": 2026,
+      "release_date": "2026-09-16",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 7.9,
+      "critic_score": 88,
+      "us_rating": null,
+      "plot": "A medical courier finds himself fighting to survive when a horrifying night suddenly descends into chaos. Cut off from safety, he must navigate escalating danger and uncertainty while trying to make it through until morning.",
+      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "imdb_id": "tt35538033",
+      "tmdb_id": 1423191,
+      "watchmode_url": "https://www.watchmode.com/title/1939424/"
+    },
     {
       "id": 1624092,
       "title": "Coyote vs. Acme",
@@ -65,26 +85,6 @@
       "watchmode_url": "https://www.watchmode.com/title/1882453/"
     },
     {
-      "id": 1939424,
-      "title": "Resident Evil",
-      "year": 2026,
-      "release_date": "2026-09-16",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 7.9,
-      "critic_score": 88,
-      "us_rating": null,
-      "plot": "A medical courier finds himself fighting to survive when a horrifying night suddenly descends into chaos. Cut off from safety, he must navigate escalating danger and uncertainty while trying to make it through until morning.",
-      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
-      "imdb_id": "tt35538033",
-      "tmdb_id": 1423191,
-      "watchmode_url": "https://www.watchmode.com/title/1939424/"
-    },
-    {
       "id": 191063,
       "title": "Loves of a French Pussycat",
       "year": 1972,
@@ -93,7 +93,7 @@
         "Comedy"
       ],
       "runtime_minutes": 94,
-      "user_rating": 4.4,
+      "user_rating": 4.5,
       "critic_score": null,
       "us_rating": null,
       "plot": "Rolf, a sex-advice columnist and a lecher, has affairs with numerous women, but never a permanent relationship. Suzanne, one of his ex-lovers, offers to bet that no woman can get Rolf to propose marriage, a bet her girlfriend Andrea eagerly accepts. But there's a catch: To win the bet, Andrea must get the womanizing Rolf to commit to marriage without first going to bed with him.",
@@ -101,6 +101,25 @@
       "imdb_id": "tt0068986",
       "tmdb_id": 264980,
       "watchmode_url": "https://www.watchmode.com/title/191063/"
+    },
+    {
+      "id": 11042837,
+      "title": "The Love Hypothesis",
+      "year": 2026,
+      "release_date": "2026-09-23",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "runtime_minutes": 112,
+      "user_rating": 7.4,
+      "critic_score": 69,
+      "us_rating": "R",
+      "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
+      "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
+      "imdb_id": "tt22526100",
+      "tmdb_id": 1032863,
+      "watchmode_url": "https://www.watchmode.com/title/11042837/"
     },
     {
       "id": 1869118,
@@ -144,25 +163,6 @@
       "watchmode_url": "https://www.watchmode.com/title/1823785/"
     },
     {
-      "id": 11042837,
-      "title": "The Love Hypothesis",
-      "year": 2026,
-      "release_date": "2026-09-23",
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "runtime_minutes": 112,
-      "user_rating": 8.4,
-      "critic_score": 69,
-      "us_rating": "R",
-      "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
-      "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
-      "imdb_id": "tt22526100",
-      "tmdb_id": 1032863,
-      "watchmode_url": "https://www.watchmode.com/title/11042837/"
-    },
-    {
       "id": 1873959,
       "title": "Colony",
       "year": 2026,
@@ -204,155 +204,6 @@
   ],
   "upcoming": [
     {
-      "id": 1704017,
-      "title": "Long Day's Journey into Night",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 7.1,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Over the course of one day, a married couple and their two sons confront addiction, family tensions, and painful memories. As old grievances resurface, their conversations grow increasingly volatile, revealing the strain beneath their shared home life.",
-      "trailer": "https://www.youtube.com/watch?v=GS2tOk7htKI",
-      "imdb_id": "tt23130254",
-      "tmdb_id": 1086037,
-      "watchmode_url": "https://www.watchmode.com/title/1704017/"
-    },
-    {
-      "id": 1876449,
-      "title": "Victorian Psycho",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 102,
-      "user_rating": 5,
-      "critic_score": 49,
-      "us_rating": null,
-      "plot": "An eccentric young governess arrives at a remote Gothic manor, where a string of unsettling events leads the household to question her identity. As suspicion grows, the truth appears more dangerous than anyone expects, placing the residents in an increasingly disturbing situation.",
-      "trailer": "https://www.youtube.com/watch?v=sDiFol_2j2I",
-      "imdb_id": "tt34374553",
-      "tmdb_id": 1379486,
-      "watchmode_url": "https://www.watchmode.com/title/1876449/"
-    },
-    {
-      "id": 1937817,
-      "title": "La bola negra",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama",
-        "War"
-      ],
-      "runtime_minutes": 155,
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Three men living in different eras are connected by sexuality, desire, pain, and the legacies that shape their lives. Their intertwined stories explore how intimate experiences can echo across time and link people separated by generations.",
-      "trailer": "https://www.youtube.com/watch?v=IRHtqjHYPew",
-      "imdb_id": "tt35511966",
-      "tmdb_id": 1422041,
-      "watchmode_url": "https://www.watchmode.com/title/1937817/"
-    },
-    {
-      "id": 1951891,
-      "title": "Your Mother Your Mother Your Mother",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "runtime_minutes": 111,
-      "user_rating": 7.9,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A devout hitman struggles to balance his work, faith, and responsibilities as a father. After his wife dies, he crosses Houston in a desperate effort to protect his children while confronting dangerous forces and a crisis of belief.",
-      "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
-      "imdb_id": "tt35856037",
-      "tmdb_id": 1437396,
-      "watchmode_url": "https://www.watchmode.com/title/1951891/"
-    },
-    {
-      "id": 1970881,
-      "title": "Nagi Notes",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 110,
-      "user_rating": 6,
-      "critic_score": 72,
-      "us_rating": null,
-      "plot": "An artist living in rural Nagi is haunted by a past love she cannot bear to mourn. When a recently separated architect visits from Tokyo, the two women form an unexpected connection as they confront loss, question their identities, and search for ways to move forward.",
-      "trailer": null,
-      "imdb_id": "tt28551050",
-      "tmdb_id": 1448971,
-      "watchmode_url": "https://www.watchmode.com/title/1970881/"
-    },
-    {
-      "id": 11090694,
-      "title": "Butterfly",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 117,
-      "user_rating": 5.9,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Two sisters who grew up on a charter resort return to their childhood island after their parents’ death. There, they must deal with a half-finished retreat center and the complicated feelings tied to their shared past.",
-      "trailer": "https://www.youtube.com/watch?v=6xpcy_qbbE0",
-      "imdb_id": "tt37496603",
-      "tmdb_id": 1261032,
-      "watchmode_url": "https://www.watchmode.com/title/11090694/"
-    },
-    {
-      "id": 11228289,
-      "title": "NAZA",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Documentary"
-      ],
-      "runtime_minutes": 80,
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Through secret nighttime conversations on rooftops in Tel Aviv, people involved in Israel’s military systems discuss how those systems operate during the war in Gaza. The film focuses on their accounts and the structures behind the violence against Palestinian civilians.",
-      "trailer": null,
-      "imdb_id": "tt44766123",
-      "tmdb_id": 1755291,
-      "watchmode_url": "https://www.watchmode.com/title/11228289/"
-    },
-    {
-      "id": 11230393,
-      "title": "Cold Call",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 131,
-      "user_rating": 8.5,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "During the winter of 2023, the kidnapping of a 13-year-old boy draws widespread media attention. Investigators identify four market research executives as prime suspects in the case, examining whether their professional connection links them to the crime and the circumstances surrounding the boy’s disappearance.",
-      "trailer": "https://www.youtube.com/watch?v=TjCghxM7uhY",
-      "imdb_id": "tt38349121",
-      "tmdb_id": 1773328,
-      "watchmode_url": "https://www.watchmode.com/title/11230393/"
-    },
-    {
       "id": 1745336,
       "title": "Deathgasm 2: Goremageddon",
       "year": 2025,
@@ -390,6 +241,158 @@
       "imdb_id": "tt41593304",
       "tmdb_id": 1318864,
       "watchmode_url": "https://www.watchmode.com/title/1842627/"
+    },
+    {
+      "id": 1679355,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "year": 2026,
+      "release_date": "2026-10-01",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "runtime_minutes": 137,
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Caught between family duty and romantic love, a young man faces an impossible choice.",
+      "trailer": "https://www.youtube.com/watch?v=a6wDHvhAxw0",
+      "imdb_id": "tt22754948",
+      "tmdb_id": 954445,
+      "watchmode_url": "https://www.watchmode.com/title/1679355/"
+    },
+    {
+      "id": 1922768,
+      "title": "Appofeniacs",
+      "year": 2025,
+      "release_date": "2026-10-02",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 91,
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A reckless phone app user starts making deepfake videos for laughs and spite, setting off a chain of fear, humiliation, and violence. This dark horror thriller turns a timely warning about fake media into a chaotic, bloody story about how easily lives can be destroyed.",
+      "trailer": "https://www.youtube.com/watch?v=oQK7E26dLL4",
+      "imdb_id": "tt29870331",
+      "tmdb_id": 1401433,
+      "watchmode_url": "https://www.watchmode.com/title/1922768/"
+    },
+    {
+      "id": 1929812,
+      "title": "The Spiral",
+      "year": 2026,
+      "release_date": "2026-10-08",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime_minutes": 115,
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
+      "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
+      "imdb_id": "tt23411728",
+      "tmdb_id": 1412795,
+      "watchmode_url": "https://www.watchmode.com/title/1929812/"
+    },
+    {
+      "id": 1991632,
+      "title": "Big Girls Don't Cry",
+      "year": 2026,
+      "release_date": "2026-10-08",
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 100,
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Over one transformative summer in rural New Zealand in 2006, a 14-year-old explores desire and identity as she turns to the internet. Trying to imitate the people she longs to be loved by, she slowly discovers what feels real to her.",
+      "trailer": "https://www.youtube.com/watch?v=oAu4gc1VyA8",
+      "imdb_id": "tt36867663",
+      "tmdb_id": 1477963,
+      "watchmode_url": "https://www.watchmode.com/title/1991632/"
+    },
+    {
+      "id": 1788404,
+      "title": "A Prayer for the Dying",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 5.7,
+      "critic_score": null,
+      "us_rating": "NR",
+      "plot": "In 1870, a small Wisconsin town of Scandinavian settlers struggles with the aftermath of the Civil War. When a dangerous new threat emerges, a man must choose between protecting his young family and defending the community that gave him a renewed sense of purpose.",
+      "trailer": "https://www.youtube.com/watch?v=xbQjXVk9Sps",
+      "imdb_id": "tt31183803",
+      "tmdb_id": 1241046,
+      "watchmode_url": "https://www.watchmode.com/title/1788404/"
+    },
+    {
+      "id": 1821329,
+      "title": "Tenzing",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "runtime_minutes": 126,
+      "user_rating": 7,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "trailer": "https://www.youtube.com/watch?v=KkYCY5YR12U",
+      "imdb_id": "tt6262770",
+      "tmdb_id": 1288069,
+      "watchmode_url": "https://www.watchmode.com/title/1821329/"
+    },
+    {
+      "id": 1892191,
+      "title": "Musk",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 235,
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+      "trailer": "https://www.youtube.com/watch?v=oYwso9mF-fA",
+      "imdb_id": "tt27041231",
+      "tmdb_id": 1096228,
+      "watchmode_url": "https://www.watchmode.com/title/1892191/"
+    },
+    {
+      "id": 1920228,
+      "title": "Devour",
+      "year": 2025,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Action"
+      ],
+      "runtime_minutes": 113,
+      "user_rating": 5.3,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
+      "trailer": "https://www.youtube.com/watch?v=jfXzYeXd9Y4",
+      "imdb_id": "tt14541160",
+      "tmdb_id": 1406253,
+      "watchmode_url": "https://www.watchmode.com/title/1920228/"
     }
   ],
   "kids": [
@@ -428,7 +431,7 @@
       ],
       "runtime_minutes": 109,
       "user_rating": 7.8,
-      "critic_score": null,
+      "critic_score": 89,
       "us_rating": null,
       "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
       "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
@@ -455,6 +458,28 @@
       "imdb_id": "tt1756855",
       "tmdb_id": 1204680,
       "watchmode_url": "https://www.watchmode.com/title/1624092/"
+    },
+    {
+      "id": 199607,
+      "title": "Despicable Me",
+      "year": 2010,
+      "release_date": "2010-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Science Fiction",
+        "Family"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 7.7,
+      "critic_score": 76,
+      "us_rating": "PG",
+      "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
+      "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
+      "imdb_id": "tt1323594",
+      "tmdb_id": 20352,
+      "watchmode_url": "https://www.watchmode.com/title/199607/"
     },
     {
       "id": 1823785,
@@ -498,28 +523,6 @@
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
       "watchmode_url": "https://www.watchmode.com/title/1785478/"
-    },
-    {
-      "id": 1892965,
-      "title": "Hoppers",
-      "year": 2026,
-      "release_date": "2026-03-04",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 104,
-      "user_rating": 7.4,
-      "critic_score": 84,
-      "us_rating": null,
-      "plot": "A passionate animal lover discovers technology that can place human consciousness inside lifelike robotic animals. Using it to understand wildlife, she becomes involved in a struggle to protect a threatened natural habitat from a major construction project.",
-      "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
-      "imdb_id": "tt26443616",
-      "tmdb_id": 1327819,
-      "watchmode_url": "https://www.watchmode.com/title/1892965/"
     },
     {
       "id": 1840434,
