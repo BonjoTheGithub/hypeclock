@@ -1,6 +1,6 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
-  "generated_at": "2026-09-26T14:43:55.085Z",
+  "generated_at": "2026-09-27T15:17:58.549Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 34,
   "popular": [
@@ -112,8 +112,8 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 112,
-      "user_rating": 7.4,
-      "critic_score": 69,
+      "user_rating": 7.3,
+      "critic_score": 66,
       "us_rating": "R",
       "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
       "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
@@ -132,7 +132,7 @@ window.HYPE_MOVIES={
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.6,
+      "user_rating": 8.5,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
@@ -153,7 +153,7 @@ window.HYPE_MOVIES={
         "Adventure"
       ],
       "runtime_minutes": 102,
-      "user_rating": 7.6,
+      "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": null,
       "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
@@ -206,7 +206,7 @@ window.HYPE_MOVIES={
     {
       "id": 1745336,
       "title": "Deathgasm 2: Goremageddon",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-09-29",
       "genres": [
         "Horror",
@@ -244,8 +244,8 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1679355,
-      "title": "Yezhu Kadal Yezhu Malai",
-      "year": 2026,
+      "title": "Seven Seas Seven Hills",
+      "year": 2024,
       "release_date": "2026-10-01",
       "genres": [
         "Drama",
@@ -253,7 +253,7 @@ window.HYPE_MOVIES={
         "Fantasy"
       ],
       "runtime_minutes": 137,
-      "user_rating": 7.9,
+      "user_rating": 8.1,
       "critic_score": null,
       "us_rating": null,
       "plot": "Caught between family duty and romantic love, a young man faces an impossible choice.",
@@ -265,7 +265,7 @@ window.HYPE_MOVIES={
     {
       "id": 1922768,
       "title": "Appofeniacs",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-02",
       "genres": [
         "Horror",
@@ -369,7 +369,7 @@ window.HYPE_MOVIES={
       "critic_score": null,
       "us_rating": null,
       "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
-      "trailer": "https://www.youtube.com/watch?v=oYwso9mF-fA",
+      "trailer": "https://www.youtube.com/watch?v=eY_8SyndC10",
       "imdb_id": "tt27041231",
       "tmdb_id": 1096228,
       "watchmode_url": "https://www.watchmode.com/title/1892191/"
@@ -418,6 +418,28 @@ window.HYPE_MOVIES={
       "watchmode_url": "https://www.watchmode.com/title/1749638/"
     },
     {
+      "id": 1184041,
+      "title": "Inside Out",
+      "year": 2015,
+      "release_date": "2015-06-17",
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Drama",
+        "Comedy"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 8.2,
+      "critic_score": 96,
+      "us_rating": "PG",
+      "plot": "When an 11-year-old girl moves to a new city, her emotions struggle to guide her through the upheaval. As Joy and Sadness become separated from the others, they travel through unfamiliar parts of her mind while trying to restore balance and help her cope with change.",
+      "trailer": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
+      "imdb_id": "tt2096673",
+      "tmdb_id": 150540,
+      "watchmode_url": "https://www.watchmode.com/title/1184041/"
+    },
+    {
       "id": 1982660,
       "title": "Forgotten Island",
       "year": 2026,
@@ -430,7 +452,7 @@ window.HYPE_MOVIES={
         "Family"
       ],
       "runtime_minutes": 109,
-      "user_rating": 7.8,
+      "user_rating": 7.9,
       "critic_score": 89,
       "us_rating": null,
       "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
@@ -460,28 +482,6 @@ window.HYPE_MOVIES={
       "watchmode_url": "https://www.watchmode.com/title/1624092/"
     },
     {
-      "id": 199607,
-      "title": "Despicable Me",
-      "year": 2010,
-      "release_date": "2010-07-08",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Crime",
-        "Science Fiction",
-        "Family"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 7.7,
-      "critic_score": 76,
-      "us_rating": "PG",
-      "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
-      "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
-      "imdb_id": "tt1323594",
-      "tmdb_id": 20352,
-      "watchmode_url": "https://www.watchmode.com/title/199607/"
-    },
-    {
       "id": 1823785,
       "title": "Toy Story 5",
       "year": 2026,
@@ -493,7 +493,7 @@ window.HYPE_MOVIES={
         "Adventure"
       ],
       "runtime_minutes": 102,
-      "user_rating": 7.6,
+      "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": null,
       "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
@@ -525,6 +525,28 @@ window.HYPE_MOVIES={
       "watchmode_url": "https://www.watchmode.com/title/1785478/"
     },
     {
+      "id": 1892965,
+      "title": "Hoppers",
+      "year": 2026,
+      "release_date": "2026-03-04",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 104,
+      "user_rating": 7.4,
+      "critic_score": 84,
+      "us_rating": null,
+      "plot": "A passionate animal lover discovers technology that can place human consciousness inside lifelike robotic animals. Using it to understand wildlife, she becomes involved in a struggle to protect a threatened natural habitat from a major construction project.",
+      "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
+      "imdb_id": "tt26443616",
+      "tmdb_id": 1327819,
+      "watchmode_url": "https://www.watchmode.com/title/1892965/"
+    },
+    {
       "id": 1840434,
       "title": "Minions & Monsters",
       "year": 2026,
@@ -545,28 +567,6 @@ window.HYPE_MOVIES={
       "imdb_id": "tt32890033",
       "tmdb_id": 1315772,
       "watchmode_url": "https://www.watchmode.com/title/1840434/"
-    },
-    {
-      "id": 1885279,
-      "title": "The Super Mario Galaxy Movie",
-      "year": 2026,
-      "release_date": "2026-04-01",
-      "genres": [
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 6.5,
-      "critic_score": 40,
-      "us_rating": "PG",
-      "plot": "After stopping Bowser’s earlier scheme, two brothers face a new threat from his determined son, who wants to free his father and revive their family legacy. With familiar and new companions, the brothers journey across the stars to stop the young heir’s crusade.",
-      "trailer": "https://www.youtube.com/watch?v=FdL2GorGdKc",
-      "imdb_id": "tt28650488",
-      "tmdb_id": 1226863,
-      "watchmode_url": "https://www.watchmode.com/title/1885279/"
     }
   ]
 };
