@@ -101,3 +101,9 @@ footer{padding-bottom:35px;display:flex;justify-content:space-between;gap:16px;f
 @media(max-width:380px){
   nav button{font-size:8px;padding:7px 6px}.hero h1{font-size:35px}.actions{display:grid;grid-template-columns:1fr}.api-controls{grid-template-columns:1fr}
 }
+
+/* Built-in catalog artwork for games that are not supplied by FreeToGame */
+.catalog-art{position:absolute;inset:0;display:grid;place-items:center;padding:18px;text-align:center;background:radial-gradient(circle at 78% 18%,var(--gc),transparent 27%),linear-gradient(145deg,var(--ga),var(--gb) 78%);color:rgba(255,255,255,.78)}
+.catalog-art:before{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.08),transparent 42%,rgba(0,0,0,.20));pointer-events:none}
+.catalog-art b{position:relative;z-index:1;font-size:clamp(18px,2.5vw,29px);line-height:1;letter-spacing:-.045em;text-shadow:0 7px 24px rgba(0,0,0,.34)}
+.detail-art{aspect-ratio:16/10;min-height:180px;display:grid;place-items:center;padding:20px;text-align:center;border-radius:13px;background:radial-gradient(circle at 78% 18%,var(--gc),transparent 27%),linear-gradient(145deg,var(--ga),var(--gb) 78%);border:1px solid rgba(255,255,255,.09);font-size:28px;font-weight:900;letter-spacing:-.045em;color:rgba(255,255,255,.80)}
