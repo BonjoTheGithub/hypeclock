@@ -1,9 +1,9 @@
 {
   "provider": "Watchmode",
   "image_provider": null,
-  "generated_at": "2026-09-28T23:50:39.871Z",
+  "generated_at": "2026-09-28T23:51:29.488Z",
   "refresh_hours": 24,
-  "estimated_credits_this_refresh": 34,
+  "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 0,
   "popular": [
     {
@@ -202,6 +202,199 @@
       "imdb_id": "tt32338669",
       "tmdb_id": 1288445,
       "watchmode_url": "https://www.watchmode.com/title/1821586/"
+    },
+    {
+      "id": 1927112,
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "release_date": "2026-09-19",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "runtime_minutes": 101,
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "plot": "After a devastating plane crash, a Special Forces officer and his combat dog become stranded in the Alaskan wilderness. Facing harsh conditions and constant danger, the pair must rely on their bond, instincts, and survival skills to endure the unforgiving environment.",
+      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "imdb_id": "tt7526136",
+      "tmdb_id": 1263337,
+      "watchmode_url": "https://www.watchmode.com/title/1927112/"
+    },
+    {
+      "id": 1994932,
+      "title": "Zip Wire",
+      "year": 2026,
+      "release_date": "2026-08-31",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 3.7,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "After her groundbreaking pharmaceutical discovery is stolen and her partner is murdered, a researcher must overcome her fear of heights while fleeing dangerous attackers. Her only escape is a perilous aerial runway, where she must summon the courage to protect her discovery and survive.",
+      "trailer": "https://www.youtube.com/watch?v=M9tHmu0wNHM",
+      "imdb_id": "tt36980377",
+      "tmdb_id": 1482547,
+      "watchmode_url": "https://www.watchmode.com/title/1994932/"
+    },
+    {
+      "id": 1779945,
+      "title": "The Fix",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 142,
+      "user_rating": 4.9,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn former CIA operatives sets out for Tehran to pursue a life-changing score, confronting the consequences of their past while risking everything on an ambitious mission.",
+      "trailer": "https://www.youtube.com/watch?v=NYC0v8xqQdM",
+      "imdb_id": "tt9601292",
+      "tmdb_id": 1228834,
+      "watchmode_url": "https://www.watchmode.com/title/1779945/"
+    },
+    {
+      "id": 11083034,
+      "title": "One Last Shot",
+      "year": 2026,
+      "release_date": "2026-09-22",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 98,
+      "user_rating": 5.3,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A Navy SEAL races to stop mercenaries from disabling the U.S. missile defense network. The mission becomes personal when their leader is a former comrade who has lost faith in the cause, forcing the operative to confront a dangerous threat tied to his own past.",
+      "trailer": "https://www.youtube.com/watch?v=8PAy3i9uU0A",
+      "imdb_id": "tt37971717",
+      "tmdb_id": 1607127,
+      "watchmode_url": "https://www.watchmode.com/title/11083034/"
+    },
+    {
+      "id": 1225505,
+      "title": "Siren: Erotic Ghost",
+      "year": 2004,
+      "release_date": "2004-10-22",
+      "genres": [
+        "Horror"
+      ],
+      "runtime_minutes": 76,
+      "user_rating": 4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "When a crew of bank robbers believes that an alluring young woman has blown their cover, they kidnap the girl. Back at their hideout they develop sinister plans to rape and then kill her. When one of the crooks mysteriously turns up dead however, they begin to realize that their intended victim may be a powerful, vindictive, supernatural force.",
+      "trailer": null,
+      "imdb_id": "tt0468862",
+      "tmdb_id": 52720,
+      "watchmode_url": "https://www.watchmode.com/title/1225505/"
+    },
+    {
+      "id": 11001943,
+      "title": "Unabomber",
+      "year": 2026,
+      "release_date": "2026-09-25",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "runtime_minutes": 101,
+      "user_rating": 6,
+      "critic_score": 34,
+      "us_rating": "R",
+      "plot": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
+      "imdb_id": "tt6933238",
+      "tmdb_id": 1492640,
+      "watchmode_url": "https://www.watchmode.com/title/11001943/"
+    },
+    {
+      "id": 1855581,
+      "title": "Obsession",
+      "year": 2025,
+      "release_date": "2026-05-13",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 8,
+      "critic_score": 85,
+      "us_rating": null,
+      "plot": "After using a mysterious wish-granting object to win over his longtime crush, a hopeful romantic gets exactly what he wanted. But the altered relationship quickly turns unsettling, forcing him to confront the frightening consequences of trying to control another person’s feelings.",
+      "trailer": "https://www.youtube.com/watch?v=0G5CjgPw1x4",
+      "imdb_id": "tt37287335",
+      "tmdb_id": 1339713,
+      "watchmode_url": "https://www.watchmode.com/title/1855581/"
+    },
+    {
+      "id": 1450054,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "release_date": "2019-04-24",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "runtime_minutes": 181,
+      "user_rating": 8.6,
+      "critic_score": 86,
+      "us_rating": "PG-13",
+      "plot": "After a devastating defeat leaves the universe in ruins, the remaining heroes reunite to try to undo the destruction and restore order. Their mission forces them to confront the consequences of failure, while drawing on years of shared history, personal bonds, and hard-won experience.",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "imdb_id": "tt4154796",
+      "tmdb_id": 299534,
+      "watchmode_url": "https://www.watchmode.com/title/1450054/"
+    },
+    {
+      "id": 1513886,
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "year": 2021,
+      "release_date": "2021-11-24",
+      "genres": [
+        "Action",
+        "Horror",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 107,
+      "user_rating": 5.4,
+      "critic_score": 37,
+      "us_rating": "R",
+      "plot": "In a declining Midwestern town once dominated by a pharmaceutical company, a hidden evil is unleashed beneath the surface. As residents change and danger spreads, a small group of survivors must work together to uncover the truth and survive the night.",
+      "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
+      "imdb_id": "tt6920084",
+      "tmdb_id": 460458,
+      "watchmode_url": "https://www.watchmode.com/title/1513886/"
+    },
+    {
+      "id": 1788307,
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "release_date": "2026-08-06",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Romance"
+      ],
+      "runtime_minutes": 112,
+      "user_rating": 6.8,
+      "critic_score": 92,
+      "us_rating": null,
+      "plot": "A young director seeks funding to revive a fading slasher franchise and visits the reclusive star of its original film at an isolated camp. Their meeting unfolds into an intense, blood-soaked encounter shaped by desire, fear, mystery, and delirium.",
+      "trailer": "https://www.youtube.com/watch?v=dimCiC_hdoA",
+      "imdb_id": "tt35298123",
+      "tmdb_id": 1240889,
+      "watchmode_url": "https://www.watchmode.com/title/1788307/"
     }
   ],
   "upcoming": [
@@ -394,6 +587,199 @@
       "imdb_id": "tt27041231",
       "tmdb_id": 1096228,
       "watchmode_url": "https://www.watchmode.com/title/1892191/"
+    },
+    {
+      "id": 1920228,
+      "title": "Devour",
+      "year": 2025,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Action"
+      ],
+      "runtime_minutes": 113,
+      "user_rating": 5.3,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
+      "trailer": "https://www.youtube.com/watch?v=jfXzYeXd9Y4",
+      "imdb_id": "tt14541160",
+      "tmdb_id": 1406253,
+      "watchmode_url": "https://www.watchmode.com/title/1920228/"
+    },
+    {
+      "id": 11000067,
+      "title": "Lisa",
+      "year": 2026,
+      "release_date": "2026-10-12",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "runtime_minutes": 97,
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
+      "trailer": "https://www.youtube.com/watch?v=KAjC7EFzGKU",
+      "imdb_id": "tt37108970",
+      "tmdb_id": 1489932,
+      "watchmode_url": "https://www.watchmode.com/title/11000067/"
+    },
+    {
+      "id": 1689779,
+      "title": "Minotaur",
+      "year": 2026,
+      "release_date": "2026-10-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime_minutes": 135,
+      "user_rating": 7.6,
+      "critic_score": 85,
+      "us_rating": null,
+      "plot": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+      "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
+      "imdb_id": "tt37118301",
+      "tmdb_id": 848700,
+      "watchmode_url": "https://www.watchmode.com/title/1689779/"
+    },
+    {
+      "id": 1950265,
+      "title": "Iron Boy",
+      "year": 2026,
+      "release_date": "2026-10-14",
+      "genres": [
+        "Animation"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 7.6,
+      "critic_score": 79,
+      "us_rating": null,
+      "plot": "In rural France, Christophe (10) tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+      "trailer": null,
+      "imdb_id": "tt36639956",
+      "tmdb_id": 947493,
+      "watchmode_url": "https://www.watchmode.com/title/1950265/"
+    },
+    {
+      "id": 1710003,
+      "title": "Eternal Return",
+      "year": 2025,
+      "release_date": "2026-10-15",
+      "genres": [
+        "Romance",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 115,
+      "user_rating": 7.3,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "After losing someone she deeply loved, a young woman becomes emotionally closed off and abandons her former dreams. A chance meeting with a cartographer introduces her to magical maps connected to meaningful moments, prompting a journey through memory, loss, and the possibility of opening her heart again.",
+      "trailer": "https://www.youtube.com/watch?v=Omchv_hsck4",
+      "imdb_id": "tt27725750",
+      "tmdb_id": 1125822,
+      "watchmode_url": "https://www.watchmode.com/title/1710003/"
+    },
+    {
+      "id": 1757035,
+      "title": "Wicker",
+      "year": 2026,
+      "release_date": "2026-10-21",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Comedy"
+      ],
+      "runtime_minutes": 105,
+      "user_rating": 7,
+      "critic_score": 65,
+      "us_rating": null,
+      "plot": "In a tight-knit fishing village, a social outcast asks a local craftsperson to create a husband from wicker. As she grows unexpectedly attached to the handmade companion, the relationship stirs gossip and jealousy, putting pressure on the community’s fragile sense of order.",
+      "trailer": "https://www.youtube.com/watch?v=HP0BWBWn14I",
+      "imdb_id": "tt29611136",
+      "tmdb_id": 1195803,
+      "watchmode_url": "https://www.watchmode.com/title/1757035/"
+    },
+    {
+      "id": 1914859,
+      "title": "Clayface",
+      "year": 2026,
+      "release_date": "2026-10-21",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 108,
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+      "trailer": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
+      "imdb_id": "tt34890576",
+      "tmdb_id": 1400940,
+      "watchmode_url": "https://www.watchmode.com/title/1914859/"
+    },
+    {
+      "id": 1969393,
+      "title": "Coward",
+      "year": 2026,
+      "release_date": "2026-10-21",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "runtime_minutes": 120,
+      "user_rating": 7,
+      "critic_score": 73,
+      "us_rating": null,
+      "plot": "During the First World War, soldiers working behind the front line struggle to keep their spirits up. Inspired by war rhetoric, each person searches for a personal way to cope amid the pressures of conflict.",
+      "trailer": "https://www.youtube.com/watch?v=vyRlBGfVlvQ",
+      "imdb_id": "tt39328391",
+      "tmdb_id": 1437981,
+      "watchmode_url": "https://www.watchmode.com/title/1969393/"
+    },
+    {
+      "id": 11126829,
+      "title": "La Gradiva",
+      "year": 2026,
+      "release_date": "2026-10-21",
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 145,
+      "user_rating": 7.3,
+      "critic_score": 95,
+      "us_rating": null,
+      "plot": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+      "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
+      "imdb_id": "tt36107185",
+      "tmdb_id": 1154730,
+      "watchmode_url": "https://www.watchmode.com/title/11126829/"
+    },
+    {
+      "id": 1987809,
+      "title": "Diary of a Chambermaid",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "runtime_minutes": 94,
+      "user_rating": 6.7,
+      "critic_score": 76,
+      "us_rating": null,
+      "plot": "Gianina, a young Romanian chambermaid, works for a bourgeois family in Bordeaux and spends her evenings rehearsing a maid’s story with an amateur theater group. She cares for her employer’s son while her own daughter grows up far away in Romania, and as Christmas nears, the hope of reunion grows stronger.",
+      "trailer": null,
+      "imdb_id": "tt38785098",
+      "tmdb_id": 1472813,
+      "watchmode_url": "https://www.watchmode.com/title/1987809/"
     }
   ],
   "kids": [
@@ -546,6 +932,50 @@
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
       "watchmode_url": "https://www.watchmode.com/title/1785478/"
+    },
+    {
+      "id": 1892965,
+      "title": "Hoppers",
+      "year": 2026,
+      "release_date": "2026-03-04",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 104,
+      "user_rating": 7.4,
+      "critic_score": 84,
+      "us_rating": null,
+      "plot": "A passionate animal lover discovers technology that can place human consciousness inside lifelike robotic animals. Using it to understand wildlife, she becomes involved in a struggle to protect a threatened natural habitat from a major construction project.",
+      "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
+      "imdb_id": "tt26443616",
+      "tmdb_id": 1327819,
+      "watchmode_url": "https://www.watchmode.com/title/1892965/"
+    },
+    {
+      "id": 1546856,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "release_date": "2023-04-05",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "runtime_minutes": 93,
+      "user_rating": 7.2,
+      "critic_score": 53,
+      "us_rating": "PG",
+      "plot": "While fixing a water main, two Brooklyn plumbers are swept through a mysterious pipe into a colorful magical world. Separated from his brother, one plumber sets out on a fast-moving quest through unfamiliar kingdoms, meeting allies and facing dangerous challenges along the way.",
+      "trailer": "https://www.youtube.com/watch?v=TnGl01FkMMo",
+      "imdb_id": "tt6718170",
+      "tmdb_id": 502356,
+      "watchmode_url": "https://www.watchmode.com/title/1546856/"
     },
     {
       "id": 1840434,
