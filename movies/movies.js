@@ -40,6 +40,18 @@
     const a=h%360,b=(h+62)%360,c=(h+142)%360;
     return `--poster-a:hsl(${a} 64% 34%);--poster-b:hsl(${b} 58% 22%);--poster-c:hsl(${c} 68% 48%)`;
   }
+  function posterUrl(m){
+    if(m?.poster_url&&/^https?:\/\//i.test(m.poster_url))return m.poster_url;
+    if(m?.poster_path)return "https://image.tmdb.org/t/p/w500"+m.poster_path;
+    return "";
+  }
+  function posterMarkup(m,fallbackClass="movie-poster-placeholder",eager=false){
+    const title=esc(m?.title||"Movie");
+    const src=posterUrl(m);
+    const fallback=`<div class="${fallbackClass}">${title}</div>`;
+    if(!src)return fallback;
+    return fallback+`<img src="${esc(src)}" alt="${title} poster" ${eager?'loading="eager" fetchpriority="high"':'loading="lazy"'} onerror="this.remove()">`;
+  }
   function trailerUrl(m){
     if(m.trailer&&/^https?:\/\//i.test(m.trailer))return m.trailer;
     return "https://www.youtube.com/results?search_query="+encodeURIComponent((m.title||"movie")+" official trailer");
@@ -70,8 +82,8 @@
       $("#featuredMovieMeta").textContent="";
       $("#featuredMovieTrailer").style.display="none";
       $("#featuredMovieDetails").style.display="none";
-      $("#featuredPosterFallback").textContent="HYPE";
       $("#featuredArt").style.cssText=artStyle("HypeClock Movies");
+      $("#featuredArt").innerHTML='<div class="poster-fallback">HYPE</div>';
       return;
     }
     $("#featuredMovieTitle").textContent=m.title;
@@ -88,8 +100,8 @@
     $("#featuredMovieTrailer").style.display="inline-flex";
     $("#featuredMovieDetails").style.display="inline-block";
     $("#featuredMovieDetails").onclick=()=>openDetails(m);
-    $("#featuredPosterFallback").textContent=m.title;
     $("#featuredArt").style.cssText=artStyle(m.title);
+    $("#featuredArt").innerHTML=posterMarkup(m,"poster-fallback",true);
   }
 
   function renderUpcoming(){
@@ -99,7 +111,7 @@
     grid.innerHTML=shown.length?shown.map(m=>`
       <article class="movie-card">
         <div class="movie-poster" style="${artStyle(m.title)}">
-          <div class="movie-poster-placeholder">${esc(m.title)}</div>
+          ${posterMarkup(m)}
           <span class="movie-genre-tag">${esc(genres(m)[0]||"Movie")}</span>
         </div>
         <div class="movie-card-body">
@@ -126,7 +138,7 @@
     grid.innerHTML=list.length?list.map((m,i)=>`
       <article class="movie-popular-card" data-popular-detail="${esc(m.id)}" tabindex="0">
         <div class="movie-poster" style="${artStyle(m.title)}">
-          <div class="movie-poster-placeholder">${esc(m.title)}</div>
+          ${posterMarkup(m)}
           <span class="movie-genre-tag">#${i+1}</span>
         </div>
         <div class="movie-popular-copy">
@@ -151,7 +163,7 @@
     grid.innerHTML=list.length?list.map(m=>`
       <article class="kid-card" data-kid-detail="${esc(m.id)}" tabindex="0">
         <div class="movie-poster" style="${artStyle(m.title)}">
-          <div class="movie-poster-placeholder">${esc(m.title)}</div>
+          ${posterMarkup(m)}
           <span class="movie-genre-tag">${esc(genres(m)[0]||"Family")}</span>
           <span class="kid-rating">${esc(m.us_rating||"Family")}</span>
         </div>
@@ -179,7 +191,7 @@
     const imdb=imdbUrl(m);
     $("#movieDetailsBody").innerHTML=`
       <div class="movie-details-grid">
-        <div class="movie-details-art" style="${artStyle(m.title)}"><span>${esc(m.title)}</span></div>
+        <div class="movie-details-art" style="${artStyle(m.title)}">${posterMarkup(m,"movie-details-fallback")}</div>
         <div class="movie-details-copy">
           <div class="detail-chip-row">${chips.map(x=>`<span class="detail-chip">${esc(x)}</span>`).join("")}</div>
           <p>${esc(m.plot||"No synopsis is available yet.")}</p>
