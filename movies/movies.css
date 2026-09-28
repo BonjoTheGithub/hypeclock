@@ -122,3 +122,41 @@
 @media(max-width:980px){.kids-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:760px){.kids-grid{grid-template-columns:repeat(2,1fr)}.kids-head{align-items:flex-start}.kids-badge{display:none}}
 @media(max-width:620px){.kids-section{margin-top:52px}.kids-inner{padding:18px 12px;border-radius:22px}.kids-grid{gap:10px}.kid-card{border-radius:15px}.kid-card-copy{padding:10px}.kid-card-copy b{font-size:12px}.movie-signoff{margin-top:48px;padding:28px 12px}.movie-signoff p{font-size:12px}.movie-footer{flex-direction:column}}
+
+
+/* TMDB poster rendering + footer polish */
+.featured-poster-shell img,.movie-poster img,.movie-details-art img{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+.movie-poster-placeholder,.poster-fallback,.movie-details-fallback{position:relative;z-index:0}
+.movie-poster img,.featured-poster-shell img,.movie-details-art img{z-index:1}
+.movie-genre-tag,.kid-rating{z-index:3}
+.movie-details-art{position:relative;padding:0}
+.movie-details-fallback{width:100%;height:100%;display:grid;place-items:center;padding:18px;text-align:center;font-size:24px;font-weight:900;letter-spacing:-.04em;color:rgba(255,255,255,.55)}
+.movie-footer{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  gap:8px;
+  padding-top:0;
+  padding-bottom:38px;
+}
+.movie-footer-line{display:block;width:100%;color:#747680;font-size:10px;line-height:1.5}
+.movie-footer-line a{color:#bfa1d9;text-decoration:underline;text-underline-offset:3px}
+.tmdb-credit{display:flex;flex-direction:column;align-items:center;gap:7px;margin-top:8px;max-width:380px}
+.tmdb-credit img{display:block;width:128px;max-width:42vw;height:auto}
+.tmdb-credit small{display:block;color:#686b74;font-size:8px;line-height:1.45}
+@media(max-width:620px){
+  .movie-footer{gap:7px;padding:0 18px 34px}
+  .movie-footer-line{font-size:9px}
+  .tmdb-credit{margin-top:6px;max-width:310px}
+  .tmdb-credit img{width:112px}
+  .tmdb-credit small{font-size:7px}
+}
