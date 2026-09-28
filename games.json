@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:11:30.272Z",
+  "generated_at": "2026-09-28T23:23:14.124Z",
   "games": [
     {
       "id": 644,
@@ -41,19 +41,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/where-winds-meet"
     },
     {
-      "id": 516,
-      "title": "PUBG: BATTLEGROUNDS",
-      "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
-      "short_description": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
-      "game_url": "https://www.freetogame.com/open/pubg",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "KRAFTON, Inc.",
-      "developer": "KRAFTON, Inc.",
-      "release_date": "2022-01-12",
-      "freetogame_profile_url": "https://www.freetogame.com/pubg"
-    },
-    {
       "id": 624,
       "title": "Battlefield REDSEC",
       "thumbnail": "https://www.freetogame.com/g/624/thumbnail.jpg",
@@ -65,6 +52,19 @@
       "developer": "Battlefield Studios",
       "release_date": "2025-10-28",
       "freetogame_profile_url": "https://www.freetogame.com/battlefield-redsec"
+    },
+    {
+      "id": 516,
+      "title": "PUBG: BATTLEGROUNDS",
+      "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
+      "short_description": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
+      "game_url": "https://www.freetogame.com/open/pubg",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "KRAFTON, Inc.",
+      "developer": "KRAFTON, Inc.",
+      "release_date": "2022-01-12",
+      "freetogame_profile_url": "https://www.freetogame.com/pubg"
     },
     {
       "id": 16,
@@ -223,19 +223,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/palia"
     },
     {
-      "id": 511,
-      "title": "Phantasy Star Online 2 New Genesis",
-      "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
-      "short_description": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
-      "game_url": "https://www.freetogame.com/open/pso2-new-genesis",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Sega",
-      "developer": "Sega",
-      "release_date": "2021-06-09",
-      "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
-    },
-    {
       "id": 649,
       "title": "Soul's Remnant",
       "thumbnail": "https://www.freetogame.com/g/649/thumbnail.jpg",
@@ -249,17 +236,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/souls-remnant"
     },
     {
-      "id": 618,
-      "title": "skate.",
-      "thumbnail": "https://www.freetogame.com/g/618/thumbnail.jpg",
-      "short_description": "The latest, free-to-play, entry in the Skate franchise.",
-      "game_url": "https://www.freetogame.com/open/skate",
-      "genre": "Sports",
+      "id": 511,
+      "title": "Phantasy Star Online 2 New Genesis",
+      "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
+      "short_description": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
+      "game_url": "https://www.freetogame.com/open/pso2-new-genesis",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Full Circle",
-      "developer": "Electronic Arts",
-      "release_date": "2025-09-16",
-      "freetogame_profile_url": "https://www.freetogame.com/skate"
+      "publisher": "Sega",
+      "developer": "Sega",
+      "release_date": "2021-06-09",
+      "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
     },
     {
       "id": 521,
@@ -273,6 +260,19 @@
       "developer": "Blizzard Entertainment",
       "release_date": "2022-06-02",
       "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal"
+    },
+    {
+      "id": 618,
+      "title": "skate.",
+      "thumbnail": "https://www.freetogame.com/g/618/thumbnail.jpg",
+      "short_description": "The latest, free-to-play, entry in the Skate franchise.",
+      "game_url": "https://www.freetogame.com/open/skate",
+      "genre": "Sports",
+      "platform": "PC (Windows)",
+      "publisher": "Full Circle",
+      "developer": "Electronic Arts",
+      "release_date": "2025-09-16",
+      "freetogame_profile_url": "https://www.freetogame.com/skate"
     },
     {
       "id": 632,
@@ -301,19 +301,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/ragnarok-the-new-world"
     },
     {
-      "id": 623,
-      "title": "Raven2",
-      "thumbnail": "https://www.freetogame.com/g/623/thumbnail.jpg",
-      "short_description": "A free-to-play open-world MMORPG.",
-      "game_url": "https://www.freetogame.com/open/raven2",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Netmarble",
-      "developer": "Netmarble",
-      "release_date": "2025-10-22",
-      "freetogame_profile_url": "https://www.freetogame.com/raven2"
-    },
-    {
       "id": 601,
       "title": "Delta Force",
       "thumbnail": "https://www.freetogame.com/g/601/thumbnail.jpg",
@@ -327,30 +314,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/delta-force"
     },
     {
-      "id": 628,
-      "title": "World of Sea Battle",
-      "thumbnail": "https://www.freetogame.com/g/628/thumbnail.jpg",
-      "short_description": "A free-to-play historical open-sea MMORPG.",
-      "game_url": "https://www.freetogame.com/open/world-of-sea-battle",
+      "id": 623,
+      "title": "Raven2",
+      "thumbnail": "https://www.freetogame.com/g/623/thumbnail.jpg",
+      "short_description": "A free-to-play open-world MMORPG.",
+      "game_url": "https://www.freetogame.com/open/raven2",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Thera Interactive",
-      "developer": "Thera Interactive",
-      "release_date": "2025-10-21",
-      "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
-    },
-    {
-      "id": 630,
-      "title": "My Hero Ultra Rumble",
-      "thumbnail": "https://www.freetogame.com/g/630/thumbnail.jpg",
-      "short_description": "A free-to-play 24-person battle royale based on My Hero Academia.",
-      "game_url": "https://www.freetogame.com/open/my-hero-ultra-rumble",
-      "genre": "Battle Royale",
-      "platform": "PC (Windows)",
-      "publisher": "Bandai Namco",
-      "developer": "Bandai Namco",
-      "release_date": "2023-09-28",
-      "freetogame_profile_url": "https://www.freetogame.com/my-hero-ultra-rumble"
+      "publisher": "Netmarble",
+      "developer": "Netmarble",
+      "release_date": "2025-10-22",
+      "freetogame_profile_url": "https://www.freetogame.com/raven2"
     },
     {
       "id": 515,
@@ -366,6 +340,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/halo-infinite"
     },
     {
+      "id": 630,
+      "title": "My Hero Ultra Rumble",
+      "thumbnail": "https://www.freetogame.com/g/630/thumbnail.jpg",
+      "short_description": "A free-to-play 24-person battle royale based on My Hero Academia.",
+      "game_url": "https://www.freetogame.com/open/my-hero-ultra-rumble",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "publisher": "Bandai Namco",
+      "developer": "Bandai Namco",
+      "release_date": "2023-09-28",
+      "freetogame_profile_url": "https://www.freetogame.com/my-hero-ultra-rumble"
+    },
+    {
       "id": 636,
       "title": "Arknights: Endfield",
       "thumbnail": "https://www.freetogame.com/g/636/thumbnail.jpg",
@@ -379,17 +366,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/arknights-endfield"
     },
     {
-      "id": 606,
-      "title": "Steel Hunters",
-      "thumbnail": "https://www.freetogame.com/g/606/thumbnail.jpg",
-      "short_description": "A post-apocalyptic extraction shooter with giant mechs.",
-      "game_url": "https://www.freetogame.com/open/steel-hunters",
+      "id": 650,
+      "title": "Tyr",
+      "thumbnail": "https://www.freetogame.com/g/650/thumbnail.jpg",
+      "short_description": "A free-to-play tank shooter with customizable skill trees.",
+      "game_url": "https://www.freetogame.com/open/tyr",
       "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "Wargaming ",
-      "developer": "Wargaming",
-      "release_date": "2025-04-02",
-      "freetogame_profile_url": "https://www.freetogame.com/steel-hunters"
+      "publisher": "Stoke Games",
+      "developer": "Stoke Games",
+      "release_date": "2026-09-02",
+      "freetogame_profile_url": "https://www.freetogame.com/tyr"
+    },
+    {
+      "id": 628,
+      "title": "World of Sea Battle",
+      "thumbnail": "https://www.freetogame.com/g/628/thumbnail.jpg",
+      "short_description": "A free-to-play historical open-sea MMORPG.",
+      "game_url": "https://www.freetogame.com/open/world-of-sea-battle",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Thera Interactive",
+      "developer": "Thera Interactive",
+      "release_date": "2025-10-21",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
     },
     {
       "id": 590,
@@ -403,6 +403,19 @@
       "developer": "NCSoft",
       "release_date": "2024-10-01",
       "freetogame_profile_url": "https://www.freetogame.com/throne-and-liberty"
+    },
+    {
+      "id": 606,
+      "title": "Steel Hunters",
+      "thumbnail": "https://www.freetogame.com/g/606/thumbnail.jpg",
+      "short_description": "A post-apocalyptic extraction shooter with giant mechs.",
+      "game_url": "https://www.freetogame.com/open/steel-hunters",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming ",
+      "developer": "Wargaming",
+      "release_date": "2025-04-02",
+      "freetogame_profile_url": "https://www.freetogame.com/steel-hunters"
     },
     {
       "id": 517,
@@ -431,6 +444,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/wuthering-waves"
     },
     {
+      "id": 466,
+      "title": "Valorant",
+      "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg",
+      "short_description": "Test your mettle in Riot Games’ character-based FPS shooter Valorant.",
+      "game_url": "https://www.freetogame.com/open/valorant",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Riot Games",
+      "developer": "Riot Games",
+      "release_date": "2020-06-02",
+      "freetogame_profile_url": "https://www.freetogame.com/valorant"
+    },
+    {
       "id": 605,
       "title": "Honkai: Star Rail",
       "thumbnail": "https://www.freetogame.com/g/605/thumbnail.jpg",
@@ -444,17 +470,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/honkai-star-rail"
     },
     {
-      "id": 650,
-      "title": "Tyr",
-      "thumbnail": "https://www.freetogame.com/g/650/thumbnail.jpg",
-      "short_description": "A free-to-play tank shooter with customizable skill trees.",
-      "game_url": "https://www.freetogame.com/open/tyr",
+      "id": 615,
+      "title": "Arena Breakout: Infinite",
+      "thumbnail": "https://www.freetogame.com/g/615/thumbnail.jpg",
+      "short_description": "A free-to-play tactical extraction shooter.",
+      "game_url": "https://www.freetogame.com/open/arena-breakout-infinite",
       "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "Stoke Games",
-      "developer": "Stoke Games",
-      "release_date": "2026-09-02",
-      "freetogame_profile_url": "https://www.freetogame.com/tyr"
+      "publisher": "MoreFun Studios",
+      "developer": "MoreFun Studios",
+      "release_date": "2025-09-16",
+      "freetogame_profile_url": "https://www.freetogame.com/arena-breakout-infinite"
     },
     {
       "id": 619,
@@ -468,19 +494,6 @@
       "developer": "NCSoft",
       "release_date": "2025-09-24",
       "freetogame_profile_url": "https://www.freetogame.com/blade-soul-heroes"
-    },
-    {
-      "id": 615,
-      "title": "Arena Breakout: Infinite",
-      "thumbnail": "https://www.freetogame.com/g/615/thumbnail.jpg",
-      "short_description": "A free-to-play tactical extraction shooter.",
-      "game_url": "https://www.freetogame.com/open/arena-breakout-infinite",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "MoreFun Studios",
-      "developer": "MoreFun Studios",
-      "release_date": "2025-09-16",
-      "freetogame_profile_url": "https://www.freetogame.com/arena-breakout-infinite"
     },
     {
       "id": 593,
@@ -535,30 +548,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution"
     },
     {
-      "id": 466,
-      "title": "Valorant",
-      "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg",
-      "short_description": "Test your mettle in Riot Games’ character-based FPS shooter Valorant.",
-      "game_url": "https://www.freetogame.com/open/valorant",
-      "genre": "Shooter",
+      "id": 268,
+      "title": "Eden Eternal",
+      "thumbnail": "https://www.freetogame.com/g/268/thumbnail.jpg",
+      "short_description": "A free to play fantasy MMORPG with cute anime-inspired graphics.",
+      "game_url": "https://www.freetogame.com/open/eden-eternal",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Riot Games",
-      "developer": "Riot Games",
-      "release_date": "2020-06-02",
-      "freetogame_profile_url": "https://www.freetogame.com/valorant"
-    },
-    {
-      "id": 635,
-      "title": "Heartopia",
-      "thumbnail": "https://www.freetogame.com/g/635/thumbnail.jpg",
-      "short_description": "A free-to-play life simulation game for multiple players.",
-      "game_url": "https://www.freetogame.com/open/heartopia",
-      "genre": "Social",
-      "platform": "PC (Windows)",
-      "publisher": "XD",
-      "developer": "XD",
-      "release_date": "2026-01-16",
-      "freetogame_profile_url": "https://www.freetogame.com/heartopia"
+      "publisher": "X-Legend Entertainment",
+      "developer": "X-Legend Entertainment",
+      "release_date": "2023-05-10",
+      "freetogame_profile_url": "https://www.freetogame.com/eden-eternal"
     },
     {
       "id": 579,
@@ -574,17 +574,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/project-apidom"
     },
     {
-      "id": 268,
-      "title": "Eden Eternal",
-      "thumbnail": "https://www.freetogame.com/g/268/thumbnail.jpg",
-      "short_description": "A free to play fantasy MMORPG with cute anime-inspired graphics.",
-      "game_url": "https://www.freetogame.com/open/eden-eternal",
-      "genre": "MMORPG",
+      "id": 635,
+      "title": "Heartopia",
+      "thumbnail": "https://www.freetogame.com/g/635/thumbnail.jpg",
+      "short_description": "A free-to-play life simulation game for multiple players.",
+      "game_url": "https://www.freetogame.com/open/heartopia",
+      "genre": "Social",
       "platform": "PC (Windows)",
-      "publisher": "X-Legend Entertainment",
-      "developer": "X-Legend Entertainment",
-      "release_date": "2023-05-10",
-      "freetogame_profile_url": "https://www.freetogame.com/eden-eternal"
+      "publisher": "XD",
+      "developer": "XD",
+      "release_date": "2026-01-16",
+      "freetogame_profile_url": "https://www.freetogame.com/heartopia"
+    },
+    {
+      "id": 498,
+      "title": "Blankos Block Party",
+      "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg",
+      "short_description": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
+      "game_url": "https://www.freetogame.com/open/blankos",
+      "genre": "MMO",
+      "platform": "PC (Windows)",
+      "publisher": "Third Kind Games",
+      "developer": "Mythical Games Inc",
+      "release_date": "2020-12-11",
+      "freetogame_profile_url": "https://www.freetogame.com/blankos"
     },
     {
       "id": 522,
@@ -613,32 +626,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/fangs"
     },
     {
-      "id": 498,
-      "title": "Blankos Block Party",
-      "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg",
-      "short_description": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
-      "game_url": "https://www.freetogame.com/open/blankos",
-      "genre": "MMO",
-      "platform": "PC (Windows)",
-      "publisher": "Third Kind Games",
-      "developer": "Mythical Games Inc",
-      "release_date": "2020-12-11",
-      "freetogame_profile_url": "https://www.freetogame.com/blankos"
-    },
-    {
-      "id": 622,
-      "title": "Blue Protocol: Star Resonance",
-      "thumbnail": "https://www.freetogame.com/g/622/thumbnail.jpg",
-      "short_description": "A free-to-play open-world anime MMORPG. ",
-      "game_url": "https://www.freetogame.com/open/blue-protocol-star-resonance",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "A Plus",
-      "developer": "Shanghai Bokura Networkd Technology",
-      "release_date": "2025-10-09",
-      "freetogame_profile_url": "https://www.freetogame.com/blue-protocol-star-resonance"
-    },
-    {
       "id": 597,
       "title": "Strinova",
       "thumbnail": "https://www.freetogame.com/g/597/thumbnail.jpg",
@@ -650,19 +637,6 @@
       "developer": "iDreamSky",
       "release_date": "2024-11-21",
       "freetogame_profile_url": "https://www.freetogame.com/strinova"
-    },
-    {
-      "id": 583,
-      "title": "The First Descendant",
-      "thumbnail": "https://www.freetogame.com/g/583/thumbnail.jpg",
-      "short_description": "A free-to-play third-person co-op looter shooter developed and published by Nexon.",
-      "game_url": "https://www.freetogame.com/open/the-first-descendant",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Nexon",
-      "developer": "Nexon Games Co., Ltd.",
-      "release_date": "2024-07-02",
-      "freetogame_profile_url": "https://www.freetogame.com/the-first-descendant"
     },
     {
       "id": 536,
@@ -678,17 +652,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/omega-strikers"
     },
     {
-      "id": 609,
-      "title": "Crystal Of Atlan",
-      "thumbnail": "https://www.freetogame.com/g/609/thumbnail.jpg",
-      "short_description": "A magicpunk MMORPG from Nuverse.",
-      "game_url": "https://www.freetogame.com/open/crystal-of-atlan",
+      "id": 583,
+      "title": "The First Descendant",
+      "thumbnail": "https://www.freetogame.com/g/583/thumbnail.jpg",
+      "short_description": "A free-to-play third-person co-op looter shooter developed and published by Nexon.",
+      "game_url": "https://www.freetogame.com/open/the-first-descendant",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Nexon",
+      "developer": "Nexon Games Co., Ltd.",
+      "release_date": "2024-07-02",
+      "freetogame_profile_url": "https://www.freetogame.com/the-first-descendant"
+    },
+    {
+      "id": 622,
+      "title": "Blue Protocol: Star Resonance",
+      "thumbnail": "https://www.freetogame.com/g/622/thumbnail.jpg",
+      "short_description": "A free-to-play open-world anime MMORPG. ",
+      "game_url": "https://www.freetogame.com/open/blue-protocol-star-resonance",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Skystone Games",
-      "developer": "Nuverse",
-      "release_date": "2025-05-26",
-      "freetogame_profile_url": "https://www.freetogame.com/crystal-of-atlan"
+      "publisher": "A Plus",
+      "developer": "Shanghai Bokura Networkd Technology",
+      "release_date": "2025-10-09",
+      "freetogame_profile_url": "https://www.freetogame.com/blue-protocol-star-resonance"
     },
     {
       "id": 587,
@@ -702,6 +689,19 @@
       "developer": "Mountaintop Studios",
       "release_date": "2024-09-03",
       "freetogame_profile_url": "https://www.freetogame.com/spectre-divide"
+    },
+    {
+      "id": 609,
+      "title": "Crystal Of Atlan",
+      "thumbnail": "https://www.freetogame.com/g/609/thumbnail.jpg",
+      "short_description": "A magicpunk MMORPG from Nuverse.",
+      "game_url": "https://www.freetogame.com/open/crystal-of-atlan",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Skystone Games",
+      "developer": "Nuverse",
+      "release_date": "2025-05-26",
+      "freetogame_profile_url": "https://www.freetogame.com/crystal-of-atlan"
     },
     {
       "id": 566,
@@ -730,17 +730,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/tower-of-fantasy"
     },
     {
-      "id": 527,
-      "title": "Aero Tales Online",
-      "thumbnail": "https://www.freetogame.com/g/527/thumbnail.jpg",
-      "short_description": "Aero Tales Online: The World is a free-to-play 3D anime-style MMORPG with PvP and PvE elements. The game revolves around the “mysterious story of the Key of Skylight”.",
-      "game_url": "https://www.freetogame.com/open/aero-tales-online",
-      "genre": "MMORPG",
+      "id": 562,
+      "title": "Waven",
+      "thumbnail": "https://www.freetogame.com/g/562/thumbnail.jpg",
+      "short_description": "A free-to-play online tactical RPG from Ankama.",
+      "game_url": "https://www.freetogame.com/open/waven",
+      "genre": "Strategy",
       "platform": "PC (Windows)",
-      "publisher": "Anisage Games",
-      "developer": "Anisage Games",
-      "release_date": "2022-08-01",
-      "freetogame_profile_url": "https://www.freetogame.com/aero-tales-online"
+      "publisher": "Ankama Studio",
+      "developer": "Ankama Games",
+      "release_date": "2023-08-16",
+      "freetogame_profile_url": "https://www.freetogame.com/waven"
     },
     {
       "id": 595,
@@ -756,30 +756,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/brighter-shores"
     },
     {
-      "id": 639,
-      "title": "The Seven Deadly Sins: Origin",
-      "thumbnail": "https://www.freetogame.com/g/639/thumbnail.jpg",
-      "short_description": "A free-to-play action RPG based on the manga and anime.",
-      "game_url": "https://www.freetogame.com/open/the-seven-deadly-sins-origin",
-      "genre": "RPG",
+      "id": 631,
+      "title": "Reign of Guilds",
+      "thumbnail": "https://www.freetogame.com/g/631/thumbnail.jpg",
+      "short_description": "An open-world MMORPG inspired by old-school games like Ultima Online and EverQuest",
+      "game_url": "https://www.freetogame.com/open/reign-of-guilds",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Netmarble",
-      "developer": "Netmarble",
-      "release_date": "2026-03-16",
-      "freetogame_profile_url": "https://www.freetogame.com/the-seven-deadly-sins-origin"
+      "publisher": "Atlant Games Ltd",
+      "developer": "Atlant Games Ltd",
+      "release_date": "2025-11-26",
+      "freetogame_profile_url": "https://www.freetogame.com/reign-of-guilds"
     },
     {
-      "id": 643,
-      "title": "The Division Resurgence",
-      "thumbnail": "https://www.freetogame.com/g/643/thumbnail.jpg",
-      "short_description": "A free-to-play open-world shooter set in The Division universe.",
-      "game_url": "https://www.freetogame.com/open/the-division-resurgence",
-      "genre": "Shooter",
+      "id": 527,
+      "title": "Aero Tales Online",
+      "thumbnail": "https://www.freetogame.com/g/527/thumbnail.jpg",
+      "short_description": "Aero Tales Online: The World is a free-to-play 3D anime-style MMORPG with PvP and PvE elements. The game revolves around the “mysterious story of the Key of Skylight”.",
+      "game_url": "https://www.freetogame.com/open/aero-tales-online",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Ubisoft",
-      "developer": "Ubisoft",
-      "release_date": "2026-04-29",
-      "freetogame_profile_url": "https://www.freetogame.com/the-division-resurgence"
+      "publisher": "Anisage Games",
+      "developer": "Anisage Games",
+      "release_date": "2022-08-01",
+      "freetogame_profile_url": "https://www.freetogame.com/aero-tales-online"
     }
   ]
 }
