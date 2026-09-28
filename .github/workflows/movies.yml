@@ -1,6 +1,10 @@
 name: Refresh Watchmode movie cache
 
 on:
+  push:
+    paths:
+      - "scripts/update-movies.cjs"
+      - ".github/workflows/movies.yml"
   workflow_dispatch:
     inputs:
       force:
@@ -35,7 +39,8 @@ jobs:
       - name: Refresh Watchmode movie cache
         env:
           WATCHMODE_API_KEY: ${{ secrets.WATCHMODE_API_KEY }}
-          FORCE_MOVIE_REFRESH: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
+          TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKAN }}
+          FORCE_MOVIE_REFRESH: ${{ (github.event_name == 'push' || github.event.inputs.force == 'true') && '1' || '0' }}
         run: node scripts/update-movies.cjs
 
       - name: Commit refreshed movie cache safely
