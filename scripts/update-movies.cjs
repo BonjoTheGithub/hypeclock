@@ -8,11 +8,11 @@ const TMDB_BASE="https://api.themoviedb.org/3";
 const OUT=path.join(process.cwd(),"movies","movies.json");
 const OUT_JS=path.join(process.cwd(),"movies","movies-data.js");
 
-const MAX_POPULAR=10;
-const MAX_UPCOMING=10;
-const MAX_KIDS_CANDIDATES=12;
-const MAX_KIDS=8;
-const MAX_DETAILS=32;
+const MAX_POPULAR=20;
+const MAX_UPCOMING=20;
+const MAX_KIDS_CANDIDATES=14;
+const MAX_KIDS=10;
+const MAX_DETAILS=54;
 
 let credits=0;
 let tmdbRequests=0;
