@@ -32,13 +32,13 @@
   <section class="hero">
     <div class="eyebrow">LIVE GAME RELEASE COUNTDOWNS</div>
     <h1>Know when your favorite games release in one site</h1>
-    <p>Countdowns for 20+ games on a single page. Know which games are coming more conveniently.</p>
+    <p>Countdowns and discovery for dozens of games in one place — from upcoming releases to huge games people already play.</p>
     <label class="search" id="search">
       <span>⌕</span>
-      <input id="q" type="search" placeholder="Search upcoming releases or popular games…" autocomplete="off">
+      <input id="q" type="search" placeholder="Search games, releases, genres, or platforms…" autocomplete="off">
       <kbd>Ctrl K</kbd>
     </label>
-    <small id="searchHint">Search upcoming releases and popular games.</small>
+    <small id="searchHint">Search upcoming releases and the broader game catalog.</small>
   </section>
 
   <section class="featured">
@@ -77,23 +77,23 @@
   <section id="popular">
     <div class="section-head">
       <div>
-        <div class="api-line"><span id="apiDot"></span><b id="apiStatus">LOADING FREETOGAME DATA</b></div>
-        <h3>Popular free-to-play games</h3>
-        <p>Popular games from FreeToGame, limited so the page stays fast.</p>
+        <div class="api-line"><span id="apiDot"></span><b id="apiStatus">LOADING GAME LIST</b></div>
+        <h3>Popular games</h3>
+        <p>Major games plus fresh free-to-play discovery, all searchable in one list.</p>
         <div class="refresh-status" id="refreshStatus" aria-live="polite">
           <span>Last refreshed <b id="lastRefresh">checking…</b></span>
           <span>Next scheduled refresh in <b id="nextRefresh">checking…</b></span>
         </div>
       </div>
       <div class="api-controls">
-        <select id="platform"><option value="all">All platforms</option><option value="windows">Windows</option><option value="browser">Browser</option></select>
-        <select id="genre"><option value="">All genres</option><option>shooter</option><option>mmorpg</option><option>strategy</option><option>moba</option><option>racing</option><option>sports</option><option value="battle royale">battle royale</option></select>
+        <select id="platform"><option value="all">All platforms</option><option value="windows">PC</option><option value="console">Console</option><option value="mobile">Mobile</option><option value="browser">Browser</option></select>
+        <select id="genre"><option value="">All genres</option><option>action</option><option>rpg</option><option>shooter</option><option>sandbox</option><option>simulation</option><option>strategy</option><option>moba</option><option>racing</option><option>sports</option><option>party</option><option value="battle royale">battle royale</option></select>
       </div>
     </div>
     <div class="api-note" id="apiNote" hidden></div>
     <div class="popular-grid" id="popularGrid"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
     <div class="more-row"><button class="primary" id="popularMore">SHOW MORE GAMES</button></div>
-    <p class="credit">Game discovery data provided by <a href="https://www.freetogame.com/" target="_blank" rel="noopener">FreeToGame.com ↗</a></p>
+    <p class="credit">Free-to-play discovery data provided by <a href="https://www.freetogame.com/" target="_blank" rel="noopener">FreeToGame.com ↗</a> • additional major titles curated by HypeClock</p>
   </section>
 
   <section class="timezone">
