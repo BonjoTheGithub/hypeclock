@@ -1,9 +1,29 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
-  "generated_at": "2026-09-27T15:17:58.549Z",
+  "generated_at": "2026-09-28T18:15:39.152Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 34,
   "popular": [
+    {
+      "id": 1869118,
+      "title": "The Odyssey",
+      "year": 2026,
+      "release_date": "2026-07-15",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "runtime_minutes": 173,
+      "user_rating": 8.5,
+      "critic_score": 91,
+      "us_rating": "R",
+      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
+      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+      "imdb_id": "tt33764258",
+      "tmdb_id": 1368337,
+      "watchmode_url": "https://www.watchmode.com/title/1869118/"
+    },
     {
       "id": 1939424,
       "title": "Resident Evil",
@@ -15,7 +35,7 @@ window.HYPE_MOVIES={
         "Adventure"
       ],
       "runtime_minutes": 95,
-      "user_rating": 7.9,
+      "user_rating": 7.8,
       "critic_score": 88,
       "us_rating": null,
       "plot": "A medical courier finds himself fighting to survive when a horrifying night suddenly descends into chaos. Cut off from safety, he must navigate escalating danger and uncertainty while trying to make it through until morning.",
@@ -23,26 +43,6 @@ window.HYPE_MOVIES={
       "imdb_id": "tt35538033",
       "tmdb_id": 1423191,
       "watchmode_url": "https://www.watchmode.com/title/1939424/"
-    },
-    {
-      "id": 1624092,
-      "title": "Coyote vs. Acme",
-      "year": 2026,
-      "release_date": "2026-08-20",
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Family"
-      ],
-      "runtime_minutes": 103,
-      "user_rating": 7.7,
-      "critic_score": 87,
-      "us_rating": "PG",
-      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
-      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
-      "imdb_id": "tt1756855",
-      "tmdb_id": 1204680,
-      "watchmode_url": "https://www.watchmode.com/title/1624092/"
     },
     {
       "id": 1773876,
@@ -122,24 +122,24 @@ window.HYPE_MOVIES={
       "watchmode_url": "https://www.watchmode.com/title/11042837/"
     },
     {
-      "id": 1869118,
-      "title": "The Odyssey",
+      "id": 1624092,
+      "title": "Coyote vs. Acme",
       "year": 2026,
-      "release_date": "2026-07-15",
+      "release_date": "2026-08-17",
       "genres": [
+        "Comedy",
         "Adventure",
-        "Action",
-        "Fantasy"
+        "Family"
       ],
-      "runtime_minutes": 173,
-      "user_rating": 8.5,
-      "critic_score": 91,
-      "us_rating": "R",
-      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
-      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
-      "imdb_id": "tt33764258",
-      "tmdb_id": 1368337,
-      "watchmode_url": "https://www.watchmode.com/title/1869118/"
+      "runtime_minutes": 103,
+      "user_rating": 7.6,
+      "critic_score": 87,
+      "us_rating": "PG",
+      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
+      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
+      "imdb_id": "tt1756855",
+      "tmdb_id": 1204680,
+      "watchmode_url": "https://www.watchmode.com/title/1624092/"
     },
     {
       "id": 1823785,
@@ -244,8 +244,8 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1679355,
-      "title": "Seven Seas Seven Hills",
-      "year": 2024,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "year": 2026,
       "release_date": "2026-10-01",
       "genres": [
         "Drama",
@@ -265,7 +265,7 @@ window.HYPE_MOVIES={
     {
       "id": 1922768,
       "title": "Appofeniacs",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-02",
       "genres": [
         "Horror",
@@ -347,7 +347,7 @@ window.HYPE_MOVIES={
         "History"
       ],
       "runtime_minutes": 126,
-      "user_rating": 7,
+      "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
       "plot": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
@@ -365,7 +365,7 @@ window.HYPE_MOVIES={
         "Documentary"
       ],
       "runtime_minutes": 235,
-      "user_rating": 6.9,
+      "user_rating": 7,
       "critic_score": null,
       "us_rating": null,
       "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
@@ -453,7 +453,7 @@ window.HYPE_MOVIES={
       ],
       "runtime_minutes": 109,
       "user_rating": 7.9,
-      "critic_score": 89,
+      "critic_score": 84,
       "us_rating": null,
       "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
       "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
@@ -462,17 +462,39 @@ window.HYPE_MOVIES={
       "watchmode_url": "https://www.watchmode.com/title/1982660/"
     },
     {
+      "id": 199607,
+      "title": "Despicable Me",
+      "year": 2010,
+      "release_date": "2010-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Science Fiction",
+        "Family"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 7.7,
+      "critic_score": 76,
+      "us_rating": "PG",
+      "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
+      "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
+      "imdb_id": "tt1323594",
+      "tmdb_id": 20352,
+      "watchmode_url": "https://www.watchmode.com/title/199607/"
+    },
+    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
-      "release_date": "2026-08-20",
+      "release_date": "2026-08-17",
       "genres": [
         "Comedy",
         "Adventure",
         "Family"
       ],
       "runtime_minutes": 103,
-      "user_rating": 7.7,
+      "user_rating": 7.6,
       "critic_score": 87,
       "us_rating": "PG",
       "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
@@ -523,28 +545,6 @@ window.HYPE_MOVIES={
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
       "watchmode_url": "https://www.watchmode.com/title/1785478/"
-    },
-    {
-      "id": 1892965,
-      "title": "Hoppers",
-      "year": 2026,
-      "release_date": "2026-03-04",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 104,
-      "user_rating": 7.4,
-      "critic_score": 84,
-      "us_rating": null,
-      "plot": "A passionate animal lover discovers technology that can place human consciousness inside lifelike robotic animals. Using it to understand wildlife, she becomes involved in a struggle to protect a threatened natural habitat from a major construction project.",
-      "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
-      "imdb_id": "tt26443616",
-      "tmdb_id": 1327819,
-      "watchmode_url": "https://www.watchmode.com/title/1892965/"
     },
     {
       "id": 1840434,
