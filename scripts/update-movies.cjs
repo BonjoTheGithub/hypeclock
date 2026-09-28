@@ -2,7 +2,9 @@ const fs=require("fs");
 const path=require("path");
 
 const API_KEY=(process.env.WATCHMODE_API_KEY||"").trim();
+const TMDB_READ_TOKEN=(process.env.TMDB_READ_TOKEN||"").trim();
 const BASE="https://api.watchmode.com/v1";
+const TMDB_BASE="https://api.themoviedb.org/3";
 const OUT=path.join(process.cwd(),"movies","movies.json");
 const OUT_JS=path.join(process.cwd(),"movies","movies-data.js");
 
@@ -13,6 +15,7 @@ const MAX_KIDS=8;
 const MAX_DETAILS=32;
 
 let credits=0;
+let tmdbRequests=0;
 
 function ymd(d){
   return d.getUTCFullYear()*10000+(d.getUTCMonth()+1)*100+d.getUTCDate();
@@ -53,6 +56,70 @@ async function api(endpoint,params={}){
   }
 
   return res.json();
+}
+
+async function tmdbApi(endpoint,params={}){
+  if(!TMDB_READ_TOKEN)return null;
+
+  const url=new URL(TMDB_BASE+endpoint);
+  for(const [k,v] of Object.entries(params)){
+    if(v!==undefined&&v!==null&&v!=="")url.searchParams.set(k,String(v));
+  }
+
+  const res=await fetch(url,{
+    headers:{
+      "Accept":"application/json",
+      "Authorization":"Bearer "+TMDB_READ_TOKEN,
+      "User-Agent":"HypeClock-Movies/1.0 (+https://bonjothegithub.github.io/hypeclock/)"
+    }
+  });
+
+  tmdbRequests++;
+
+  if(!res.ok){
+    const body=await res.text().catch(()=>"");
+    throw new Error(`TMDB ${res.status} for ${endpoint}: ${body.slice(0,180)}`);
+  }
+
+  return res.json();
+}
+
+function tmdbImage(path,size="w500"){
+  return path?`https://image.tmdb.org/t/p/${size}${path}`:null;
+}
+
+async function enrichTmdb(movie){
+  if(!TMDB_READ_TOKEN)return movie;
+
+  try{
+    let data=null;
+
+    if(movie.tmdb_id){
+      data=await tmdbApi(`/movie/${encodeURIComponent(movie.tmdb_id)}`,{language:"en-US"});
+    }else{
+      const search=await tmdbApi("/search/movie",{
+        query:movie.title,
+        year:movie.year||"",
+        include_adult:"false",
+        language:"en-US"
+      });
+      data=Array.isArray(search?.results)?search.results[0]:null;
+    }
+
+    if(!data)return movie;
+
+    return{
+      ...movie,
+      tmdb_id:data.id??movie.tmdb_id??null,
+      poster_path:data.poster_path??movie.poster_path??null,
+      backdrop_path:data.backdrop_path??movie.backdrop_path??null,
+      poster_url:tmdbImage(data.poster_path??movie.poster_path,"w500"),
+      backdrop_url:tmdbImage(data.backdrop_path??movie.backdrop_path,"w780")
+    };
+  }catch(err){
+    console.warn("TMDB poster lookup failed for",movie.title,err.message);
+    return movie;
+  }
 }
 
 function normalize(base,detail={}){
@@ -208,19 +275,38 @@ async function main(){
     kids=existing.kids.slice(0,MAX_KIDS);
   }
 
+  const allForImages=new Map();
+  for(const movie of [...popular,...upcoming,...kids]){
+    if(movie?.id!=null)allForImages.set(String(movie.id),movie);
+  }
+
+  const enriched=new Map();
+  for(const [id,movie] of allForImages){
+    const withImage=await enrichTmdb(movie);
+    enriched.set(id,withImage);
+    if(TMDB_READ_TOKEN)await sleep(80);
+  }
+
+  const applyImages=list=>list.map(movie=>enriched.get(String(movie.id))||movie);
+  const popularWithImages=applyImages(popular);
+  const upcomingWithImages=applyImages(upcoming);
+  const kidsWithImages=applyImages(kids);
+
   const output={
     provider:"Watchmode",
+    image_provider:TMDB_READ_TOKEN?"TMDB":null,
     generated_at:new Date().toISOString(),
     refresh_hours:24,
     estimated_credits_this_refresh:credits,
-    popular,
-    upcoming,
-    kids
+    tmdb_requests_this_refresh:tmdbRequests,
+    popular:popularWithImages,
+    upcoming:upcomingWithImages,
+    kids:kidsWithImages
   };
 
   fs.writeFileSync(OUT,JSON.stringify(output,null,2)+"\n");
   fs.writeFileSync(OUT_JS,"window.HYPE_MOVIES="+JSON.stringify(output,null,2)+";\n");
-  console.log(`Saved ${upcoming.length} upcoming, ${popular.length} popular, and ${kids.length} kids & family movies using about ${credits} Watchmode credits.`);
+  console.log(`Saved ${upcoming.length} upcoming, ${popular.length} popular, and ${kids.length} kids & family movies using about ${credits} Watchmode credits and ${tmdbRequests} TMDB requests.`);
 }
 
 main().catch(err=>{console.error(err);process.exit(1)});
