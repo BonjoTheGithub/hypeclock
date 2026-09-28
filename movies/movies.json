@@ -1,8 +1,10 @@
 {
   "provider": "Watchmode",
-  "generated_at": "2026-09-28T18:15:39.152Z",
+  "image_provider": null,
+  "generated_at": "2026-09-28T23:47:54.752Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 34,
+  "tmdb_requests_this_refresh": 0,
   "popular": [
     {
       "id": 1869118,
@@ -15,7 +17,7 @@
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.5,
+      "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
@@ -112,7 +114,7 @@
         "Comedy"
       ],
       "runtime_minutes": 112,
-      "user_rating": 7.3,
+      "user_rating": 7.2,
       "critic_score": 66,
       "us_rating": "R",
       "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
@@ -206,7 +208,7 @@
     {
       "id": 1745336,
       "title": "Deathgasm 2: Goremageddon",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-09-29",
       "genres": [
         "Horror",
@@ -244,8 +246,8 @@
     },
     {
       "id": 1679355,
-      "title": "Yezhu Kadal Yezhu Malai",
-      "year": 2026,
+      "title": "Seven Seas Seven Hills",
+      "year": 2024,
       "release_date": "2026-10-01",
       "genres": [
         "Drama",
@@ -280,6 +282,25 @@
       "imdb_id": "tt29870331",
       "tmdb_id": 1401433,
       "watchmode_url": "https://www.watchmode.com/title/1922768/"
+    },
+    {
+      "id": 11010611,
+      "title": "Atonement",
+      "year": 2026,
+      "release_date": "2026-10-02",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "runtime_minutes": 118,
+      "user_rating": 6.8,
+      "critic_score": 68,
+      "us_rating": null,
+      "plot": "Haunted by memories of a deadly incident in Baghdad, a former Marine struggles with guilt and remorse. Seeking atonement, he reaches out to the sole surviving member of a family he believes he may have harmed.",
+      "trailer": "https://www.youtube.com/watch?v=RBhp78Xt01w",
+      "imdb_id": "tt36789083",
+      "tmdb_id": 1484085,
+      "watchmode_url": "https://www.watchmode.com/title/11010611/"
     },
     {
       "id": 1929812,
@@ -365,7 +386,7 @@
         "Documentary"
       ],
       "runtime_minutes": 235,
-      "user_rating": 7,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
@@ -373,26 +394,6 @@
       "imdb_id": "tt27041231",
       "tmdb_id": 1096228,
       "watchmode_url": "https://www.watchmode.com/title/1892191/"
-    },
-    {
-      "id": 1920228,
-      "title": "Devour",
-      "year": 2025,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Action"
-      ],
-      "runtime_minutes": 113,
-      "user_rating": 5.3,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
-      "trailer": "https://www.youtube.com/watch?v=jfXzYeXd9Y4",
-      "imdb_id": "tt14541160",
-      "tmdb_id": 1406253,
-      "watchmode_url": "https://www.watchmode.com/title/1920228/"
     }
   ],
   "kids": [
@@ -452,7 +453,7 @@
         "Family"
       ],
       "runtime_minutes": 109,
-      "user_rating": 7.9,
+      "user_rating": 8,
       "critic_score": 84,
       "us_rating": null,
       "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
