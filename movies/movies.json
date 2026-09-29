@@ -1,31 +1,11 @@
 {
   "provider": "Watchmode",
   "image_provider": null,
-  "generated_at": "2026-09-28T23:51:29.488Z",
+  "generated_at": "2026-09-29T16:38:12.020Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 0,
   "popular": [
-    {
-      "id": 1869118,
-      "title": "The Odyssey",
-      "year": 2026,
-      "release_date": "2026-07-15",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "runtime_minutes": 173,
-      "user_rating": 8.6,
-      "critic_score": 91,
-      "us_rating": "R",
-      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
-      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
-      "imdb_id": "tt33764258",
-      "tmdb_id": 1368337,
-      "watchmode_url": "https://www.watchmode.com/title/1869118/"
-    },
     {
       "id": 1939424,
       "title": "Resident Evil",
@@ -45,6 +25,26 @@
       "imdb_id": "tt35538033",
       "tmdb_id": 1423191,
       "watchmode_url": "https://www.watchmode.com/title/1939424/"
+    },
+    {
+      "id": 1869118,
+      "title": "The Odyssey",
+      "year": 2026,
+      "release_date": "2026-07-15",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "runtime_minutes": 173,
+      "user_rating": 8.6,
+      "critic_score": 91,
+      "us_rating": "R",
+      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
+      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+      "imdb_id": "tt33764258",
+      "tmdb_id": 1368337,
+      "watchmode_url": "https://www.watchmode.com/title/1869118/"
     },
     {
       "id": 1773876,
@@ -124,6 +124,26 @@
       "watchmode_url": "https://www.watchmode.com/title/11042837/"
     },
     {
+      "id": 11001943,
+      "title": "UNABOMBER",
+      "year": 2026,
+      "release_date": "2026-09-25",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "runtime_minutes": 101,
+      "user_rating": 6,
+      "critic_score": 34,
+      "us_rating": "R",
+      "plot": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
+      "imdb_id": "tt6933238",
+      "tmdb_id": 1492640,
+      "watchmode_url": "https://www.watchmode.com/title/11001943/"
+    },
+    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -142,6 +162,25 @@
       "imdb_id": "tt1756855",
       "tmdb_id": 1204680,
       "watchmode_url": "https://www.watchmode.com/title/1624092/"
+    },
+    {
+      "id": 1927112,
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "release_date": "2026-09-19",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "runtime_minutes": 101,
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "plot": "After a devastating plane crash, a Special Forces officer and his combat dog become stranded in the Alaskan wilderness. Facing harsh conditions and constant danger, the pair must rely on their bond, instincts, and survival skills to endure the unforgiving environment.",
+      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "imdb_id": "tt7526136",
+      "tmdb_id": 1263337,
+      "watchmode_url": "https://www.watchmode.com/title/1927112/"
     },
     {
       "id": 1823785,
@@ -170,8 +209,8 @@
       "year": 2026,
       "release_date": "2026-05-21",
       "genres": [
-        "Action",
         "Horror",
+        "Action",
         "Science Fiction"
       ],
       "runtime_minutes": 123,
@@ -202,25 +241,6 @@
       "imdb_id": "tt32338669",
       "tmdb_id": 1288445,
       "watchmode_url": "https://www.watchmode.com/title/1821586/"
-    },
-    {
-      "id": 1927112,
-      "title": "Heart of the Beast",
-      "year": 2026,
-      "release_date": "2026-09-19",
-      "genres": [
-        "Adventure",
-        "Thriller"
-      ],
-      "runtime_minutes": 101,
-      "user_rating": 7.5,
-      "critic_score": null,
-      "us_rating": "PG-13",
-      "plot": "After a devastating plane crash, a Special Forces officer and his combat dog become stranded in the Alaskan wilderness. Facing harsh conditions and constant danger, the pair must rely on their bond, instincts, and survival skills to endure the unforgiving environment.",
-      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
-      "imdb_id": "tt7526136",
-      "tmdb_id": 1263337,
-      "watchmode_url": "https://www.watchmode.com/title/1927112/"
     },
     {
       "id": 1994932,
@@ -261,25 +281,6 @@
       "watchmode_url": "https://www.watchmode.com/title/1779945/"
     },
     {
-      "id": 11083034,
-      "title": "One Last Shot",
-      "year": 2026,
-      "release_date": "2026-09-22",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 5.3,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A Navy SEAL races to stop mercenaries from disabling the U.S. missile defense network. The mission becomes personal when their leader is a former comrade who has lost faith in the cause, forcing the operative to confront a dangerous threat tied to his own past.",
-      "trailer": "https://www.youtube.com/watch?v=8PAy3i9uU0A",
-      "imdb_id": "tt37971717",
-      "tmdb_id": 1607127,
-      "watchmode_url": "https://www.watchmode.com/title/11083034/"
-    },
-    {
       "id": 1225505,
       "title": "Siren: Erotic Ghost",
       "year": 2004,
@@ -298,29 +299,9 @@
       "watchmode_url": "https://www.watchmode.com/title/1225505/"
     },
     {
-      "id": 11001943,
-      "title": "Unabomber",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "runtime_minutes": 101,
-      "user_rating": 6,
-      "critic_score": 34,
-      "us_rating": "R",
-      "plot": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-      "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
-      "imdb_id": "tt6933238",
-      "tmdb_id": 1492640,
-      "watchmode_url": "https://www.watchmode.com/title/11001943/"
-    },
-    {
       "id": 1855581,
       "title": "Obsession",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-05-13",
       "genres": [
         "Horror",
@@ -377,31 +358,49 @@
       "watchmode_url": "https://www.watchmode.com/title/1513886/"
     },
     {
-      "id": 1788307,
-      "title": "Teenage Sex and Death at Camp Miasma",
+      "id": 1875027,
+      "title": "Runner",
       "year": 2026,
-      "release_date": "2026-08-06",
+      "release_date": "2026-09-07",
       "genres": [
-        "Comedy",
-        "Horror",
-        "Romance"
+        "Action",
+        "Comedy"
       ],
-      "runtime_minutes": 112,
+      "runtime_minutes": 97,
       "user_rating": 6.8,
-      "critic_score": 92,
+      "critic_score": 66,
+      "us_rating": "PG-13",
+      "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
+      "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
+      "imdb_id": "tt31349844",
+      "tmdb_id": 1377237,
+      "watchmode_url": "https://www.watchmode.com/title/1875027/"
+    },
+    {
+      "id": 1959567,
+      "title": "Drawn Together",
+      "year": 2026,
+      "release_date": "2026-09-09",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "runtime_minutes": 104,
+      "user_rating": 5.6,
+      "critic_score": 45,
       "us_rating": null,
-      "plot": "A young director seeks funding to revive a fading slasher franchise and visits the reclusive star of its original film at an isolated camp. Their meeting unfolds into an intense, blood-soaked encounter shaped by desire, fear, mystery, and delirium.",
-      "trailer": "https://www.youtube.com/watch?v=dimCiC_hdoA",
-      "imdb_id": "tt35298123",
-      "tmdb_id": 1240889,
-      "watchmode_url": "https://www.watchmode.com/title/1788307/"
+      "plot": "After being kidnapped and released, a wealthy businessman's daughter is assigned a bodyguard by her concerned father. Their difficult relationship gradually shifts as attraction grows, while they navigate a dangerous world filled with uncertainty and hidden agendas.",
+      "trailer": "https://www.youtube.com/watch?v=J_dWSteW_7Y",
+      "imdb_id": "tt36073210",
+      "tmdb_id": 1440098,
+      "watchmode_url": "https://www.watchmode.com/title/1959567/"
     }
   ],
   "upcoming": [
     {
       "id": 1745336,
       "title": "Deathgasm 2: Goremageddon",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-09-29",
       "genres": [
         "Horror",
@@ -411,7 +410,7 @@
       "user_rating": 5.8,
       "critic_score": null,
       "us_rating": null,
-      "plot": "After failing to reform his heavy metal band DEATHGASM for a battle-of-the-bands to win back his girlfriend Medina, Brodie decides to use black magic to raise his ex-band members Zakk and Dion from the dead. However, his resurrected friends become unpredictable and dangerous, leading to chaos in the town.",
+      "plot": "A struggling heavy metal musician tries to reunite his former band for a battle of the bands and win back his girlfriend. When he turns to black magic to revive his old bandmates, their return unleashes dangerous chaos throughout the town.",
       "trailer": "https://www.youtube.com/watch?v=BrJ4KD5csU0",
       "imdb_id": "tt32606305",
       "tmdb_id": 1177529,
@@ -439,8 +438,8 @@
     },
     {
       "id": 1679355,
-      "title": "Seven Seas Seven Hills",
-      "year": 2024,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "year": 2026,
       "release_date": "2026-10-01",
       "genres": [
         "Drama",
@@ -460,7 +459,7 @@
     {
       "id": 1922768,
       "title": "Appofeniacs",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-02",
       "genres": [
         "Horror",
@@ -610,7 +609,7 @@
     },
     {
       "id": 11000067,
-      "title": "Lisa",
+      "title": "Always Lalisa",
       "year": 2026,
       "release_date": "2026-10-12",
       "genres": [
@@ -764,7 +763,7 @@
     },
     {
       "id": 1987809,
-      "title": "Diary of a Chambermaid",
+      "title": "The Diary of a Chambermaid",
       "year": 2026,
       "release_date": "2026-10-23",
       "genres": [
@@ -842,11 +841,31 @@
       "user_rating": 8,
       "critic_score": 84,
       "us_rating": null,
-      "plot": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
       "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
       "imdb_id": "tt36583977",
       "tmdb_id": 1465063,
       "watchmode_url": "https://www.watchmode.com/title/1982660/"
+    },
+    {
+      "id": 1438467,
+      "title": "Toy Story 2",
+      "year": 1999,
+      "release_date": "1999-10-30",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 92,
+      "user_rating": 8,
+      "critic_score": 94,
+      "us_rating": "G",
+      "plot": "When a beloved cowboy toy is taken by a collector, his friends set out on a daring rescue through shops, streets, and airport chaos. Along the way, he meets new companions and must consider whether his future belongs with a child or as part of a collection.",
+      "trailer": "https://www.youtube.com/watch?v=Y7HW__Z24rQ",
+      "imdb_id": "tt0120363",
+      "tmdb_id": 863,
+      "watchmode_url": "https://www.watchmode.com/title/1438467/"
     },
     {
       "id": 199607,
@@ -954,28 +973,6 @@
       "imdb_id": "tt26443616",
       "tmdb_id": 1327819,
       "watchmode_url": "https://www.watchmode.com/title/1892965/"
-    },
-    {
-      "id": 1546856,
-      "title": "The Super Mario Bros. Movie",
-      "year": 2023,
-      "release_date": "2023-04-05",
-      "genres": [
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "runtime_minutes": 93,
-      "user_rating": 7.2,
-      "critic_score": 53,
-      "us_rating": "PG",
-      "plot": "While fixing a water main, two Brooklyn plumbers are swept through a mysterious pipe into a colorful magical world. Separated from his brother, one plumber sets out on a fast-moving quest through unfamiliar kingdoms, meeting allies and facing dangerous challenges along the way.",
-      "trailer": "https://www.youtube.com/watch?v=TnGl01FkMMo",
-      "imdb_id": "tt6718170",
-      "tmdb_id": 502356,
-      "watchmode_url": "https://www.watchmode.com/title/1546856/"
     },
     {
       "id": 1840434,
