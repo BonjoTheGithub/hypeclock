@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - "scripts/update-movies.cjs"
-      - ".github/workflows/movies.yml"
   workflow_dispatch:
     inputs:
       force:
@@ -25,6 +24,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    environment: github-pages
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,7 +40,8 @@ jobs:
         env:
           WATCHMODE_API_KEY: ${{ secrets.WATCHMODE_API_KEY }}
           TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN || vars.TMDB_READ_TOKEN || secrets.tmdb_read_tokan || vars.tmdb_read_tokan || secrets.TMDB_READ_TOKAN || vars.TMDB_READ_TOKAN }}
-          FORCE_MOVIE_REFRESH: ${{ (github.event_name == 'push' || github.event.inputs.force == 'true') && '1' || '0' }}
+          FORCE_MOVIE_REFRESH: ${{ github.event.inputs.force == 'true' && '1' || '0' }}
+          POSTERS_ONLY: ${{ github.event_name == 'push' && '1' || '0' }}
         run: node scripts/update-movies.cjs
 
       - name: Commit refreshed movie cache safely
