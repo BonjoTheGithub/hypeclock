@@ -1,10 +1,10 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
-  "image_provider": null,
+  "image_provider": "TMDB",
   "generated_at": "2026-09-30T00:55:41.888Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
-  "tmdb_requests_this_refresh": 0,
+  "tmdb_requests_this_refresh": 48,
   "popular": [
     {
       "id": 1939424,
@@ -24,7 +24,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
       "imdb_id": "tt35538033",
       "tmdb_id": 1423191,
-      "watchmode_url": "https://www.watchmode.com/title/1939424/"
+      "watchmode_url": "https://www.watchmode.com/title/1939424/",
+      "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
     },
     {
       "id": 1869118,
@@ -44,7 +48,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
       "imdb_id": "tt33764258",
       "tmdb_id": 1368337,
-      "watchmode_url": "https://www.watchmode.com/title/1869118/"
+      "watchmode_url": "https://www.watchmode.com/title/1869118/",
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
     },
     {
       "id": 1773876,
@@ -64,7 +72,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
       "imdb_id": "tt22084616",
       "tmdb_id": 969681,
-      "watchmode_url": "https://www.watchmode.com/title/1773876/"
+      "watchmode_url": "https://www.watchmode.com/title/1773876/",
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg"
     },
     {
       "id": 1882453,
@@ -84,7 +96,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=3oB9AxspVow",
       "imdb_id": "tt27165187",
       "tmdb_id": 1101383,
-      "watchmode_url": "https://www.watchmode.com/title/1882453/"
+      "watchmode_url": "https://www.watchmode.com/title/1882453/",
+      "poster_path": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
       "id": 191063,
@@ -102,7 +118,11 @@ window.HYPE_MOVIES={
       "trailer": null,
       "imdb_id": "tt0068986",
       "tmdb_id": 264980,
-      "watchmode_url": "https://www.watchmode.com/title/191063/"
+      "watchmode_url": "https://www.watchmode.com/title/191063/",
+      "poster_path": "/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
+      "backdrop_path": "/wVg11RahrRfghgqViuoJgcJL1iM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wVg11RahrRfghgqViuoJgcJL1iM.jpg"
     },
     {
       "id": 11042837,
@@ -121,7 +141,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
       "imdb_id": "tt22526100",
       "tmdb_id": 1032863,
-      "watchmode_url": "https://www.watchmode.com/title/11042837/"
+      "watchmode_url": "https://www.watchmode.com/title/11042837/",
+      "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
     },
     {
       "id": 11001943,
@@ -141,7 +165,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
       "imdb_id": "tt6933238",
       "tmdb_id": 1492640,
-      "watchmode_url": "https://www.watchmode.com/title/11001943/"
+      "watchmode_url": "https://www.watchmode.com/title/11001943/",
+      "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg"
     },
     {
       "id": 1624092,
@@ -161,7 +189,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
       "imdb_id": "tt1756855",
       "tmdb_id": 1204680,
-      "watchmode_url": "https://www.watchmode.com/title/1624092/"
+      "watchmode_url": "https://www.watchmode.com/title/1624092/",
+      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_path": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg"
     },
     {
       "id": 1927112,
@@ -180,7 +212,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
       "imdb_id": "tt7526136",
       "tmdb_id": 1263337,
-      "watchmode_url": "https://www.watchmode.com/title/1927112/"
+      "watchmode_url": "https://www.watchmode.com/title/1927112/",
+      "poster_path": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg"
     },
     {
       "id": 1823785,
@@ -201,7 +237,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
-      "watchmode_url": "https://www.watchmode.com/title/1823785/"
+      "watchmode_url": "https://www.watchmode.com/title/1823785/",
+      "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
     },
     {
       "id": 1873959,
@@ -221,7 +261,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=xQAXT17Jz18",
       "imdb_id": "tt34385135",
       "tmdb_id": 1375646,
-      "watchmode_url": "https://www.watchmode.com/title/1873959/"
+      "watchmode_url": "https://www.watchmode.com/title/1873959/",
+      "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop_path": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
     },
     {
       "id": 1821586,
@@ -240,7 +284,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=FKSdXH89jbo",
       "imdb_id": "tt32338669",
       "tmdb_id": 1288445,
-      "watchmode_url": "https://www.watchmode.com/title/1821586/"
+      "watchmode_url": "https://www.watchmode.com/title/1821586/",
+      "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
     },
     {
       "id": 1994932,
@@ -259,7 +307,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=M9tHmu0wNHM",
       "imdb_id": "tt36980377",
       "tmdb_id": 1482547,
-      "watchmode_url": "https://www.watchmode.com/title/1994932/"
+      "watchmode_url": "https://www.watchmode.com/title/1994932/",
+      "poster_path": "/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "backdrop_path": "/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg"
     },
     {
       "id": 1779945,
@@ -278,7 +330,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=NYC0v8xqQdM",
       "imdb_id": "tt9601292",
       "tmdb_id": 1228834,
-      "watchmode_url": "https://www.watchmode.com/title/1779945/"
+      "watchmode_url": "https://www.watchmode.com/title/1779945/",
+      "poster_path": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+      "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
     },
     {
       "id": 1225505,
@@ -296,7 +352,11 @@ window.HYPE_MOVIES={
       "trailer": null,
       "imdb_id": "tt0468862",
       "tmdb_id": 52720,
-      "watchmode_url": "https://www.watchmode.com/title/1225505/"
+      "watchmode_url": "https://www.watchmode.com/title/1225505/",
+      "poster_path": "/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
+      "backdrop_path": "/sHLDucxRYKTL73tzd922Eynudxb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sHLDucxRYKTL73tzd922Eynudxb.jpg"
     },
     {
       "id": 1855581,
@@ -315,7 +375,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=0G5CjgPw1x4",
       "imdb_id": "tt37287335",
       "tmdb_id": 1339713,
-      "watchmode_url": "https://www.watchmode.com/title/1855581/"
+      "watchmode_url": "https://www.watchmode.com/title/1855581/",
+      "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
     },
     {
       "id": 1450054,
@@ -335,7 +399,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
       "imdb_id": "tt4154796",
       "tmdb_id": 299534,
-      "watchmode_url": "https://www.watchmode.com/title/1450054/"
+      "watchmode_url": "https://www.watchmode.com/title/1450054/",
+      "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
     },
     {
       "id": 1513886,
@@ -355,7 +423,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
       "imdb_id": "tt6920084",
       "tmdb_id": 460458,
-      "watchmode_url": "https://www.watchmode.com/title/1513886/"
+      "watchmode_url": "https://www.watchmode.com/title/1513886/",
+      "poster_path": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
       "id": 1875027,
@@ -374,7 +446,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
       "imdb_id": "tt31349844",
       "tmdb_id": 1377237,
-      "watchmode_url": "https://www.watchmode.com/title/1875027/"
+      "watchmode_url": "https://www.watchmode.com/title/1875027/",
+      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg"
     },
     {
       "id": 1959567,
@@ -393,7 +469,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=J_dWSteW_7Y",
       "imdb_id": "tt36073210",
       "tmdb_id": 1440098,
-      "watchmode_url": "https://www.watchmode.com/title/1959567/"
+      "watchmode_url": "https://www.watchmode.com/title/1959567/",
+      "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg"
     }
   ],
   "upcoming": [
@@ -415,7 +495,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=xgP_CcXBkpc",
       "imdb_id": "tt41593304",
       "tmdb_id": 1318864,
-      "watchmode_url": "https://www.watchmode.com/title/1842627/"
+      "watchmode_url": "https://www.watchmode.com/title/1842627/",
+      "poster_path": "/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
+      "backdrop_path": "/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg"
     },
     {
       "id": 1679355,
@@ -435,7 +519,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=a6wDHvhAxw0",
       "imdb_id": "tt22754948",
       "tmdb_id": 954445,
-      "watchmode_url": "https://www.watchmode.com/title/1679355/"
+      "watchmode_url": "https://www.watchmode.com/title/1679355/",
+      "poster_path": "/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg",
+      "backdrop_path": "/iipz8h0FT6pKI29A6DfRunYuLok.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iipz8h0FT6pKI29A6DfRunYuLok.jpg"
     },
     {
       "id": 1922768,
@@ -454,7 +542,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=oQK7E26dLL4",
       "imdb_id": "tt29870331",
       "tmdb_id": 1401433,
-      "watchmode_url": "https://www.watchmode.com/title/1922768/"
+      "watchmode_url": "https://www.watchmode.com/title/1922768/",
+      "poster_path": "/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+      "backdrop_path": "/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg"
     },
     {
       "id": 11010611,
@@ -473,7 +565,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=RBhp78Xt01w",
       "imdb_id": "tt36789083",
       "tmdb_id": 1484085,
-      "watchmode_url": "https://www.watchmode.com/title/11010611/"
+      "watchmode_url": "https://www.watchmode.com/title/11010611/",
+      "poster_path": "/ajiuCAvkuPiRJ4E6ymKmOx9W1rD.jpg",
+      "backdrop_path": "/3FqZlkKA2hs7YM0Zq8d8VwionWZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ajiuCAvkuPiRJ4E6ymKmOx9W1rD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3FqZlkKA2hs7YM0Zq8d8VwionWZ.jpg"
     },
     {
       "id": 1929812,
@@ -492,7 +588,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
       "imdb_id": "tt23411728",
       "tmdb_id": 1412795,
-      "watchmode_url": "https://www.watchmode.com/title/1929812/"
+      "watchmode_url": "https://www.watchmode.com/title/1929812/",
+      "poster_path": "/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
+      "backdrop_path": "/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg"
     },
     {
       "id": 1991632,
@@ -510,7 +610,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=oAu4gc1VyA8",
       "imdb_id": "tt36867663",
       "tmdb_id": 1477963,
-      "watchmode_url": "https://www.watchmode.com/title/1991632/"
+      "watchmode_url": "https://www.watchmode.com/title/1991632/",
+      "poster_path": "/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
+      "backdrop_path": "/5SXqcE79Jn210KsFgIyIy7t1Kdo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5SXqcE79Jn210KsFgIyIy7t1Kdo.jpg"
     },
     {
       "id": 1788404,
@@ -529,7 +633,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=xbQjXVk9Sps",
       "imdb_id": "tt31183803",
       "tmdb_id": 1241046,
-      "watchmode_url": "https://www.watchmode.com/title/1788404/"
+      "watchmode_url": "https://www.watchmode.com/title/1788404/",
+      "poster_path": "/kYIhGPwr5ztkvnRcD4GzZGfuNhv.jpg",
+      "backdrop_path": "/yMqBFMvAGPw5aM4azNN07kSjNM0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYIhGPwr5ztkvnRcD4GzZGfuNhv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yMqBFMvAGPw5aM4azNN07kSjNM0.jpg"
     },
     {
       "id": 1821329,
@@ -548,7 +656,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=KkYCY5YR12U",
       "imdb_id": "tt6262770",
       "tmdb_id": 1288069,
-      "watchmode_url": "https://www.watchmode.com/title/1821329/"
+      "watchmode_url": "https://www.watchmode.com/title/1821329/",
+      "poster_path": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "backdrop_path": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg"
     },
     {
       "id": 1892191,
@@ -566,7 +678,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=eY_8SyndC10",
       "imdb_id": "tt27041231",
       "tmdb_id": 1096228,
-      "watchmode_url": "https://www.watchmode.com/title/1892191/"
+      "watchmode_url": "https://www.watchmode.com/title/1892191/",
+      "poster_path": "/6Gd6yXlfHALsEEiXxd1ypUA2dRI.jpg",
+      "backdrop_path": "/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Gd6yXlfHALsEEiXxd1ypUA2dRI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg"
     },
     {
       "id": 1920228,
@@ -586,7 +702,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=jfXzYeXd9Y4",
       "imdb_id": "tt14541160",
       "tmdb_id": 1406253,
-      "watchmode_url": "https://www.watchmode.com/title/1920228/"
+      "watchmode_url": "https://www.watchmode.com/title/1920228/",
+      "poster_path": "/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+      "backdrop_path": "/mH4p9AFcadWTSUVkgVOODXkgays.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mH4p9AFcadWTSUVkgVOODXkgays.jpg"
     },
     {
       "id": 11000067,
@@ -605,7 +725,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=KAjC7EFzGKU",
       "imdb_id": "tt37108970",
       "tmdb_id": 1489932,
-      "watchmode_url": "https://www.watchmode.com/title/11000067/"
+      "watchmode_url": "https://www.watchmode.com/title/11000067/",
+      "poster_path": "/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+      "backdrop_path": "/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg"
     },
     {
       "id": 1689779,
@@ -625,7 +749,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
       "imdb_id": "tt37118301",
       "tmdb_id": 848700,
-      "watchmode_url": "https://www.watchmode.com/title/1689779/"
+      "watchmode_url": "https://www.watchmode.com/title/1689779/",
+      "poster_path": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+      "backdrop_path": "/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg"
     },
     {
       "id": 1950265,
@@ -643,7 +771,11 @@ window.HYPE_MOVIES={
       "trailer": null,
       "imdb_id": "tt36639956",
       "tmdb_id": 947493,
-      "watchmode_url": "https://www.watchmode.com/title/1950265/"
+      "watchmode_url": "https://www.watchmode.com/title/1950265/",
+      "poster_path": "/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
+      "backdrop_path": "/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg"
     },
     {
       "id": 1710003,
@@ -662,7 +794,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=Omchv_hsck4",
       "imdb_id": "tt27725750",
       "tmdb_id": 1125822,
-      "watchmode_url": "https://www.watchmode.com/title/1710003/"
+      "watchmode_url": "https://www.watchmode.com/title/1710003/",
+      "poster_path": "/aRPeGH99uVY3q5KUBbDbPKv8E0o.jpg",
+      "backdrop_path": "/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRPeGH99uVY3q5KUBbDbPKv8E0o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg"
     },
     {
       "id": 1757035,
@@ -682,7 +818,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=HP0BWBWn14I",
       "imdb_id": "tt29611136",
       "tmdb_id": 1195803,
-      "watchmode_url": "https://www.watchmode.com/title/1757035/"
+      "watchmode_url": "https://www.watchmode.com/title/1757035/",
+      "poster_path": "/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
+      "backdrop_path": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg"
     },
     {
       "id": 1914859,
@@ -702,7 +842,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
       "imdb_id": "tt34890576",
       "tmdb_id": 1400940,
-      "watchmode_url": "https://www.watchmode.com/title/1914859/"
+      "watchmode_url": "https://www.watchmode.com/title/1914859/",
+      "poster_path": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
     },
     {
       "id": 1969393,
@@ -722,7 +866,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=vyRlBGfVlvQ",
       "imdb_id": "tt39328391",
       "tmdb_id": 1437981,
-      "watchmode_url": "https://www.watchmode.com/title/1969393/"
+      "watchmode_url": "https://www.watchmode.com/title/1969393/",
+      "poster_path": "/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+      "backdrop_path": "/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg"
     },
     {
       "id": 11126829,
@@ -740,7 +888,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
       "imdb_id": "tt36107185",
       "tmdb_id": 1154730,
-      "watchmode_url": "https://www.watchmode.com/title/11126829/"
+      "watchmode_url": "https://www.watchmode.com/title/11126829/",
+      "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+      "backdrop_path": "/9BmIu8JMoSWSyqNsIW9ue9CthPZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9BmIu8JMoSWSyqNsIW9ue9CthPZ.jpg"
     },
     {
       "id": 1987809,
@@ -759,7 +911,11 @@ window.HYPE_MOVIES={
       "trailer": null,
       "imdb_id": "tt38785098",
       "tmdb_id": 1472813,
-      "watchmode_url": "https://www.watchmode.com/title/1987809/"
+      "watchmode_url": "https://www.watchmode.com/title/1987809/",
+      "poster_path": "/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
+      "backdrop_path": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg"
     },
     {
       "id": 1988409,
@@ -778,7 +934,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=iXA7BmrBBxs",
       "imdb_id": "tt36482679",
       "tmdb_id": 1458099,
-      "watchmode_url": "https://www.watchmode.com/title/1988409/"
+      "watchmode_url": "https://www.watchmode.com/title/1988409/",
+      "poster_path": "/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
+      "backdrop_path": "/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg"
     }
   ],
   "kids": [
@@ -801,7 +961,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=67vbA5ZJdKQ",
       "imdb_id": "tt29623480",
       "tmdb_id": 1184918,
-      "watchmode_url": "https://www.watchmode.com/title/1749638/"
+      "watchmode_url": "https://www.watchmode.com/title/1749638/",
+      "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
     },
     {
       "id": 1184041,
@@ -823,7 +987,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
       "imdb_id": "tt2096673",
       "tmdb_id": 150540,
-      "watchmode_url": "https://www.watchmode.com/title/1184041/"
+      "watchmode_url": "https://www.watchmode.com/title/1184041/",
+      "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
     },
     {
       "id": 1982660,
@@ -845,7 +1013,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
       "imdb_id": "tt36583977",
       "tmdb_id": 1465063,
-      "watchmode_url": "https://www.watchmode.com/title/1982660/"
+      "watchmode_url": "https://www.watchmode.com/title/1982660/",
+      "poster_path": "/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
     },
     {
       "id": 1438467,
@@ -865,7 +1037,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=Y7HW__Z24rQ",
       "imdb_id": "tt0120363",
       "tmdb_id": 863,
-      "watchmode_url": "https://www.watchmode.com/title/1438467/"
+      "watchmode_url": "https://www.watchmode.com/title/1438467/",
+      "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "backdrop_path": "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
     },
     {
       "id": 199607,
@@ -887,7 +1063,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
       "imdb_id": "tt1323594",
       "tmdb_id": 20352,
-      "watchmode_url": "https://www.watchmode.com/title/199607/"
+      "watchmode_url": "https://www.watchmode.com/title/199607/",
+      "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg"
     },
     {
       "id": 1624092,
@@ -907,7 +1087,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
       "imdb_id": "tt1756855",
       "tmdb_id": 1204680,
-      "watchmode_url": "https://www.watchmode.com/title/1624092/"
+      "watchmode_url": "https://www.watchmode.com/title/1624092/",
+      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_path": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg"
     },
     {
       "id": 1823785,
@@ -928,7 +1112,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
-      "watchmode_url": "https://www.watchmode.com/title/1823785/"
+      "watchmode_url": "https://www.watchmode.com/title/1823785/",
+      "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
     },
     {
       "id": 1785478,
@@ -950,7 +1138,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=5AwtptT8X8k",
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
-      "watchmode_url": "https://www.watchmode.com/title/1785478/"
+      "watchmode_url": "https://www.watchmode.com/title/1785478/",
+      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
       "id": 1892965,
@@ -972,7 +1164,11 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
       "imdb_id": "tt26443616",
       "tmdb_id": 1327819,
-      "watchmode_url": "https://www.watchmode.com/title/1892965/"
+      "watchmode_url": "https://www.watchmode.com/title/1892965/",
+      "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
     },
     {
       "id": 1840434,
@@ -994,7 +1190,12 @@ window.HYPE_MOVIES={
       "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
       "imdb_id": "tt32890033",
       "tmdb_id": 1315772,
-      "watchmode_url": "https://www.watchmode.com/title/1840434/"
+      "watchmode_url": "https://www.watchmode.com/title/1840434/",
+      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
-  ]
+  ],
+  "images_refreshed_at": "2026-09-30T01:11:54.897Z"
 };
