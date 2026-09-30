@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": null,
-  "generated_at": "2026-09-29T16:38:12.020Z",
+  "generated_at": "2026-09-30T00:54:50.249Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 0,
@@ -115,7 +115,7 @@ window.HYPE_MOVIES={
       ],
       "runtime_minutes": 112,
       "user_rating": 7.2,
-      "critic_score": 66,
+      "critic_score": 68,
       "us_rating": "R",
       "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
       "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
@@ -125,7 +125,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11001943,
-      "title": "UNABOMBER",
+      "title": "Unabomber",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -301,7 +301,7 @@ window.HYPE_MOVIES={
     {
       "id": 1855581,
       "title": "Obsession",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-05-13",
       "genres": [
         "Horror",
@@ -367,7 +367,7 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 97,
-      "user_rating": 6.8,
+      "user_rating": 6.7,
       "critic_score": 66,
       "us_rating": "PG-13",
       "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
@@ -398,25 +398,6 @@ window.HYPE_MOVIES={
   ],
   "upcoming": [
     {
-      "id": 1745336,
-      "title": "Deathgasm 2: Goremageddon",
-      "year": 2026,
-      "release_date": "2026-09-29",
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "runtime_minutes": 102,
-      "user_rating": 5.8,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A struggling heavy metal musician tries to reunite his former band for a battle of the bands and win back his girlfriend. When he turns to black magic to revive his old bandmates, their return unleashes dangerous chaos throughout the town.",
-      "trailer": "https://www.youtube.com/watch?v=BrJ4KD5csU0",
-      "imdb_id": "tt32606305",
-      "tmdb_id": 1177529,
-      "watchmode_url": "https://www.watchmode.com/title/1745336/"
-    },
-    {
       "id": 1842627,
       "title": "A Man of His Time",
       "year": 2026,
@@ -438,8 +419,8 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1679355,
-      "title": "Yezhu Kadal Yezhu Malai",
-      "year": 2026,
+      "title": "Seven Seas Seven Hills",
+      "year": 2024,
       "release_date": "2026-10-01",
       "genres": [
         "Drama",
@@ -459,7 +440,7 @@ window.HYPE_MOVIES={
     {
       "id": 1922768,
       "title": "Appofeniacs",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-02",
       "genres": [
         "Horror",
@@ -485,7 +466,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 118,
-      "user_rating": 6.8,
+      "user_rating": 6.7,
       "critic_score": 68,
       "us_rating": null,
       "plot": "Haunted by memories of a deadly incident in Baghdad, a former Marine struggles with guilt and remorse. Seeking atonement, he reaches out to the sole surviving member of a family he believes he may have harmed.",
@@ -560,7 +541,7 @@ window.HYPE_MOVIES={
         "History"
       ],
       "runtime_minutes": 126,
-      "user_rating": 6.9,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
@@ -598,7 +579,7 @@ window.HYPE_MOVIES={
         "Action"
       ],
       "runtime_minutes": 113,
-      "user_rating": 5.3,
+      "user_rating": 5.2,
       "critic_score": null,
       "us_rating": null,
       "plot": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
@@ -609,7 +590,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11000067,
-      "title": "Always Lalisa",
+      "title": "Lisa",
       "year": 2026,
       "release_date": "2026-10-12",
       "genres": [
@@ -617,7 +598,7 @@ window.HYPE_MOVIES={
         "Music"
       ],
       "runtime_minutes": 97,
-      "user_rating": 7.2,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "plot": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
@@ -637,7 +618,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 135,
-      "user_rating": 7.6,
+      "user_rating": 7.7,
       "critic_score": 85,
       "us_rating": null,
       "plot": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
@@ -694,8 +675,8 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 105,
-      "user_rating": 7,
-      "critic_score": 65,
+      "user_rating": 7.1,
+      "critic_score": 75,
       "us_rating": null,
       "plot": "In a tight-knit fishing village, a social outcast asks a local craftsperson to create a husband from wicker. As she grows unexpectedly attached to the handmade companion, the relationship stirs gossip and jealousy, putting pressure on the community’s fragile sense of order.",
       "trailer": "https://www.youtube.com/watch?v=HP0BWBWn14I",
@@ -734,7 +715,7 @@ window.HYPE_MOVIES={
         "War"
       ],
       "runtime_minutes": 120,
-      "user_rating": 7,
+      "user_rating": 7.1,
       "critic_score": 73,
       "us_rating": null,
       "plot": "During the First World War, soldiers working behind the front line struggle to keep their spirits up. Inspired by war rhetoric, each person searches for a personal way to cope amid the pressures of conflict.",
@@ -763,7 +744,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1987809,
-      "title": "The Diary of a Chambermaid",
+      "title": "Diary of a Chambermaid",
       "year": 2026,
       "release_date": "2026-10-23",
       "genres": [
@@ -779,6 +760,25 @@ window.HYPE_MOVIES={
       "imdb_id": "tt38785098",
       "tmdb_id": 1472813,
       "watchmode_url": "https://www.watchmode.com/title/1987809/"
+    },
+    {
+      "id": 1988409,
+      "title": "The Only Living Pickpocket in New York",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtime_minutes": 88,
+      "user_rating": 7,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "An aging pickpocket navigates a New York where cash is fading and his skills are tested. After he takes a valuable USB stick by mistake, he must race to return it and calm a dangerous crime family—while also caring for his disabled wife.",
+      "trailer": "https://www.youtube.com/watch?v=iXA7BmrBBxs",
+      "imdb_id": "tt36482679",
+      "tmdb_id": 1458099,
+      "watchmode_url": "https://www.watchmode.com/title/1988409/"
     }
   ],
   "kids": [
