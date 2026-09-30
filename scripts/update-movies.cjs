@@ -3,6 +3,7 @@ const path=require("path");
 
 const API_KEY=(process.env.WATCHMODE_API_KEY||"").trim();
 const TMDB_READ_TOKEN=(process.env.TMDB_READ_TOKEN||"").trim();
+const POSTERS_ONLY=process.env.POSTERS_ONLY==="1";
 const BASE="https://api.watchmode.com/v1";
 const TMDB_BASE="https://api.themoviedb.org/3";
 const OUT=path.join(process.cwd(),"movies","movies.json");
@@ -158,7 +159,58 @@ function isKidFriendly(m){
   return familyGenre&&!blockedGenre&&!blockedRating&&(clearlyKidRated||unratedAnimation);
 }
 
+async function refreshPostersOnly(){
+  if(!TMDB_READ_TOKEN){
+    console.log("TMDB_READ_TOKEN is not available; poster-only refresh skipped.");
+    return;
+  }
+
+  if(!fs.existsSync(OUT)){
+    console.log("Movie cache does not exist yet; poster-only refresh skipped.");
+    return;
+  }
+
+  const existing=JSON.parse(fs.readFileSync(OUT,"utf8"));
+  const all=new Map();
+
+  for(const movie of [
+    ...(Array.isArray(existing.popular)?existing.popular:[]),
+    ...(Array.isArray(existing.upcoming)?existing.upcoming:[]),
+    ...(Array.isArray(existing.kids)?existing.kids:[])
+  ]){
+    if(movie?.id!=null)all.set(String(movie.id),movie);
+  }
+
+  const enriched=new Map();
+
+  for(const [id,movie] of all){
+    const withImage=await enrichTmdb(movie);
+    enriched.set(id,withImage);
+    await sleep(80);
+  }
+
+  const apply=list=>(Array.isArray(list)?list:[]).map(movie=>enriched.get(String(movie.id))||movie);
+  const output={
+    ...existing,
+    image_provider:"TMDB",
+    images_refreshed_at:new Date().toISOString(),
+    tmdb_requests_this_refresh:tmdbRequests,
+    popular:apply(existing.popular),
+    upcoming:apply(existing.upcoming),
+    kids:apply(existing.kids)
+  };
+
+  fs.writeFileSync(OUT,JSON.stringify(output,null,2)+"\n");
+  fs.writeFileSync(OUT_JS,"window.HYPE_MOVIES="+JSON.stringify(output,null,2)+";\n");
+  console.log(`Poster-only refresh updated ${all.size} cached movies using ${tmdbRequests} TMDB requests and 0 Watchmode credits.`);
+}
+
 async function main(){
+  if(POSTERS_ONLY){
+    await refreshPostersOnly();
+    return;
+  }
+
   if(!API_KEY){
     console.log("WATCHMODE_API_KEY is not set; leaving the current movie cache unchanged.");
     return;
