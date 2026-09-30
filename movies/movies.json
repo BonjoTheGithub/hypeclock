@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-09-30T00:55:41.888Z",
+  "generated_at": "2026-09-30T16:30:34.877Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -161,7 +161,7 @@
       "user_rating": 6,
       "critic_score": 34,
       "us_rating": "R",
-      "plot": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "plot": "A gifted young man’s life takes a troubling turn after he is subjected to controversial psychological experiments. Decades later, an FBI-led manhunt brings his past back into focus, tracing the consequences of ambition and isolation.",
       "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
       "imdb_id": "tt6933238",
       "tmdb_id": 1492640,
@@ -213,9 +213,9 @@
       "imdb_id": "tt7526136",
       "tmdb_id": 1263337,
       "watchmode_url": "https://www.watchmode.com/title/1927112/",
-      "poster_path": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "poster_path": "/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
       "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg"
     },
     {
@@ -491,7 +491,7 @@
       "user_rating": 6.3,
       "critic_score": null,
       "us_rating": null,
-      "plot": "September 1940. Henri Marre arrives alone in Vichy as the authoritarian regime settles in. Broke, estranged from his family, and carrying copies of his self-published manifesto Notre Salut (Our Salvation), the 49-year-old is determined to secure what he believes is his rightful place in the new administration. In his writing, Henri sets out his patriotic convictions and his engineer’s methodology: efficiency above all. Claiming he wants to help save France after defeat, he does whatever is required to remain useful, serving the machinery of the new order with increasing skill. But he may be pursuing something more urgent: escape from his own ruin",
+      "plot": "In September 1940, a broke, estranged man arrives alone in Vichy as an authoritarian regime takes hold. Carrying his self-published manifesto, he hopes to earn a place in the new administration and help France recover from defeat, using his engineering mindset to make himself useful as he faces personal ruin.",
       "trailer": "https://www.youtube.com/watch?v=xgP_CcXBkpc",
       "imdb_id": "tt41593304",
       "tmdb_id": 1318864,
@@ -679,9 +679,9 @@
       "imdb_id": "tt27041231",
       "tmdb_id": 1096228,
       "watchmode_url": "https://www.watchmode.com/title/1892191/",
-      "poster_path": "/6Gd6yXlfHALsEEiXxd1ypUA2dRI.jpg",
+      "poster_path": "/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
       "backdrop_path": "/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Gd6yXlfHALsEEiXxd1ypUA2dRI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg"
     },
     {
@@ -1196,6 +1196,5 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
-  ],
-  "images_refreshed_at": "2026-09-30T01:11:54.897Z"
+  ]
 }
