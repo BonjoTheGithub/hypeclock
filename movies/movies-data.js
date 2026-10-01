@@ -1,11 +1,35 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-09-30T16:30:34.877Z",
+  "generated_at": "2026-10-01T17:08:52.506Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
   "popular": [
+    {
+      "id": 1624092,
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "release_date": "2026-08-17",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 7.6,
+      "critic_score": 87,
+      "us_rating": "PG",
+      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
+      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
+      "imdb_id": "tt1756855",
+      "tmdb_id": 1204680,
+      "watchmode_url": "https://www.watchmode.com/title/1624092/",
+      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_path": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg"
+    },
     {
       "id": 1939424,
       "title": "Resident Evil",
@@ -68,7 +92,7 @@ window.HYPE_MOVIES={
       "user_rating": 8.2,
       "critic_score": 78,
       "us_rating": "PG-13",
-      "plot": "Working full-time as Spider-Man in a city that no longer remembers him, a lonely young hero struggles as old friends move on and strange changes begin affecting his powers. When an unseen enemy threatens the city and those he loves, he must confront a dangerous transformation while searching for a way to stop the growing crisis.",
+      "plot": "A full-time crimefighter protects a city that has forgotten who he is, while watching people from his past move on without him. As loneliness and strange changes in his abilities add to the pressure, he must face a dangerous new threat that puts the city and those he cares about at risk.",
       "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
       "imdb_id": "tt22084616",
       "tmdb_id": 969681,
@@ -77,30 +101,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg"
-    },
-    {
-      "id": 1882453,
-      "title": "The End of Oak Street",
-      "year": 2026,
-      "release_date": "2026-08-12",
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime_minutes": 100,
-      "user_rating": 6.5,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "After a mysterious cosmic event tears an ordinary suburban neighborhood from its surroundings, a family finds itself in an unknown, prehistoric wilderness. With familiar streets transformed and danger closing in, they must work together to survive, protect one another, and find a way forward.",
-      "trailer": "https://www.youtube.com/watch?v=3oB9AxspVow",
-      "imdb_id": "tt27165187",
-      "tmdb_id": 1101383,
-      "watchmode_url": "https://www.watchmode.com/title/1882453/",
-      "poster_path": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
       "id": 191063,
@@ -149,7 +149,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11001943,
-      "title": "Unabomber",
+      "title": "UNABOMBER",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -158,8 +158,8 @@ window.HYPE_MOVIES={
         "Crime"
       ],
       "runtime_minutes": 101,
-      "user_rating": 6,
-      "critic_score": 34,
+      "user_rating": 6.3,
+      "critic_score": 35,
       "us_rating": "R",
       "plot": "A gifted young man’s life takes a troubling turn after he is subjected to controversial psychological experiments. Decades later, an FBI-led manhunt brings his past back into focus, tracing the consequences of ambition and isolation.",
       "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
@@ -172,51 +172,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg"
     },
     {
-      "id": 1624092,
-      "title": "Coyote vs. Acme",
+      "id": 1882453,
+      "title": "The End of Oak Street",
       "year": 2026,
-      "release_date": "2026-08-17",
+      "release_date": "2026-08-12",
       "genres": [
-        "Comedy",
-        "Adventure",
-        "Family"
-      ],
-      "runtime_minutes": 103,
-      "user_rating": 7.6,
-      "critic_score": 87,
-      "us_rating": "PG",
-      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
-      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
-      "imdb_id": "tt1756855",
-      "tmdb_id": 1204680,
-      "watchmode_url": "https://www.watchmode.com/title/1624092/",
-      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "backdrop_path": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7GOW6jod9lLurW5utokAatxg7ql.jpg"
-    },
-    {
-      "id": 1927112,
-      "title": "Heart of the Beast",
-      "year": 2026,
-      "release_date": "2026-09-19",
-      "genres": [
-        "Adventure",
+        "Science Fiction",
+        "Mystery",
         "Thriller"
       ],
-      "runtime_minutes": 101,
-      "user_rating": 7.5,
-      "critic_score": null,
+      "runtime_minutes": 100,
+      "user_rating": 6.4,
+      "critic_score": 78,
       "us_rating": "PG-13",
-      "plot": "After a devastating plane crash, a Special Forces officer and his combat dog become stranded in the Alaskan wilderness. Facing harsh conditions and constant danger, the pair must rely on their bond, instincts, and survival skills to endure the unforgiving environment.",
-      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
-      "imdb_id": "tt7526136",
-      "tmdb_id": 1263337,
-      "watchmode_url": "https://www.watchmode.com/title/1927112/",
-      "poster_path": "/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-      "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg"
+      "plot": "After a mysterious cosmic event tears an ordinary suburban neighborhood from its surroundings, a family finds itself in an unknown, prehistoric wilderness. With familiar streets transformed and danger closing in, they must work together to survive, protect one another, and find a way forward.",
+      "trailer": "https://www.youtube.com/watch?v=3oB9AxspVow",
+      "imdb_id": "tt27165187",
+      "tmdb_id": 1101383,
+      "watchmode_url": "https://www.watchmode.com/title/1882453/",
+      "poster_path": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
       "id": 1823785,
@@ -242,6 +219,29 @@ window.HYPE_MOVIES={
       "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
+    },
+    {
+      "id": 1875027,
+      "title": "Runner",
+      "year": 2026,
+      "release_date": "2026-09-07",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "runtime_minutes": 97,
+      "user_rating": 6.6,
+      "critic_score": 66,
+      "us_rating": "PG-13",
+      "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
+      "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
+      "imdb_id": "tt31349844",
+      "tmdb_id": 1377237,
+      "watchmode_url": "https://www.watchmode.com/title/1875027/",
+      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg"
     },
     {
       "id": 1873959,
@@ -291,29 +291,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
     },
     {
-      "id": 1994932,
-      "title": "Zip Wire",
-      "year": 2026,
-      "release_date": "2026-08-31",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 3.7,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "After her groundbreaking pharmaceutical discovery is stolen and her partner is murdered, a researcher must overcome her fear of heights while fleeing dangerous attackers. Her only escape is a perilous aerial runway, where she must summon the courage to protect her discovery and survive.",
-      "trailer": "https://www.youtube.com/watch?v=M9tHmu0wNHM",
-      "imdb_id": "tt36980377",
-      "tmdb_id": 1482547,
-      "watchmode_url": "https://www.watchmode.com/title/1994932/",
-      "poster_path": "/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
-      "backdrop_path": "/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg"
-    },
-    {
       "id": 1779945,
       "title": "The Fix",
       "year": 2026,
@@ -337,31 +314,55 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
     },
     {
-      "id": 1225505,
-      "title": "Siren: Erotic Ghost",
-      "year": 2004,
-      "release_date": "2004-10-22",
+      "id": 1994932,
+      "title": "Zip Wire",
+      "year": 2026,
+      "release_date": "2026-08-31",
       "genres": [
-        "Horror"
+        "Action",
+        "Thriller"
       ],
-      "runtime_minutes": 76,
-      "user_rating": 4,
+      "runtime_minutes": 95,
+      "user_rating": 3.7,
       "critic_score": null,
       "us_rating": null,
-      "plot": "When a crew of bank robbers believes that an alluring young woman has blown their cover, they kidnap the girl. Back at their hideout they develop sinister plans to rape and then kill her. When one of the crooks mysteriously turns up dead however, they begin to realize that their intended victim may be a powerful, vindictive, supernatural force.",
-      "trailer": null,
-      "imdb_id": "tt0468862",
-      "tmdb_id": 52720,
-      "watchmode_url": "https://www.watchmode.com/title/1225505/",
-      "poster_path": "/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
-      "backdrop_path": "/sHLDucxRYKTL73tzd922Eynudxb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sHLDucxRYKTL73tzd922Eynudxb.jpg"
+      "plot": "After a groundbreaking pharmaceutical discovery is stolen and her partner is murdered, a researcher must confront her fear of heights to evade dangerous attackers. With a treacherous aerial runway as her only route to safety, she fights to protect both herself and her discovery.",
+      "trailer": "https://www.youtube.com/watch?v=M9tHmu0wNHM",
+      "imdb_id": "tt36980377",
+      "tmdb_id": 1482547,
+      "watchmode_url": "https://www.watchmode.com/title/1994932/",
+      "poster_path": "/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "backdrop_path": "/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg"
+    },
+    {
+      "id": 1927112,
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "release_date": "2026-09-19",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "runtime_minutes": 101,
+      "user_rating": 7.5,
+      "critic_score": 76,
+      "us_rating": "PG-13",
+      "plot": "After a devastating plane crash, a Special Forces officer and his combat dog become stranded in the Alaskan wilderness. Facing harsh conditions and constant danger, the pair must rely on their bond, instincts, and survival skills to endure the unforgiving environment.",
+      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "imdb_id": "tt7526136",
+      "tmdb_id": 1263337,
+      "watchmode_url": "https://www.watchmode.com/title/1927112/",
+      "poster_path": "/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+      "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg"
     },
     {
       "id": 1855581,
       "title": "Obsession",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-05-13",
       "genres": [
         "Horror",
@@ -430,29 +431,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
-      "id": 1875027,
-      "title": "Runner",
-      "year": 2026,
-      "release_date": "2026-09-07",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "runtime_minutes": 97,
-      "user_rating": 6.7,
-      "critic_score": 66,
-      "us_rating": "PG-13",
-      "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
-      "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
-      "imdb_id": "tt31349844",
-      "tmdb_id": 1377237,
-      "watchmode_url": "https://www.watchmode.com/title/1875027/",
-      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg"
-    },
-    {
       "id": 1959567,
       "title": "Drawn Together",
       "year": 2026,
@@ -474,37 +452,37 @@ window.HYPE_MOVIES={
       "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg"
+    },
+    {
+      "id": 11003995,
+      "title": "Ice Cream Man",
+      "year": 2026,
+      "release_date": "2026-08-03",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 86,
+      "user_rating": 4.2,
+      "critic_score": 39,
+      "us_rating": "NR",
+      "plot": "An idyllic summer town spirals into chaos when an ice cream man’s treats have horrifying effects on the children who eat them. A small group of youngsters avoid the menace and try to understand what is happening while adults across town face growing danger.",
+      "trailer": "https://www.youtube.com/watch?v=SHxqHdBNm-w",
+      "imdb_id": "tt36893729",
+      "tmdb_id": 1477712,
+      "watchmode_url": "https://www.watchmode.com/title/11003995/",
+      "poster_path": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+      "backdrop_path": "/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg"
     }
   ],
   "upcoming": [
     {
-      "id": 1842627,
-      "title": "A Man of His Time",
-      "year": 2026,
-      "release_date": "2026-09-30",
-      "genres": [
-        "History",
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 155,
-      "user_rating": 6.3,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "In September 1940, a broke, estranged man arrives alone in Vichy as an authoritarian regime takes hold. Carrying his self-published manifesto, he hopes to earn a place in the new administration and help France recover from defeat, using his engineering mindset to make himself useful as he faces personal ruin.",
-      "trailer": "https://www.youtube.com/watch?v=xgP_CcXBkpc",
-      "imdb_id": "tt41593304",
-      "tmdb_id": 1318864,
-      "watchmode_url": "https://www.watchmode.com/title/1842627/",
-      "poster_path": "/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
-      "backdrop_path": "/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg"
-    },
-    {
       "id": 1679355,
-      "title": "Seven Seas Seven Hills",
-      "year": 2024,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "year": 2026,
       "release_date": "2026-10-01",
       "genres": [
         "Drama",
@@ -528,14 +506,14 @@ window.HYPE_MOVIES={
     {
       "id": 1922768,
       "title": "Appofeniacs",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-02",
       "genres": [
         "Horror",
         "Thriller"
       ],
       "runtime_minutes": 91,
-      "user_rating": 6.1,
+      "user_rating": 6,
       "critic_score": null,
       "us_rating": null,
       "plot": "A reckless phone app user starts making deepfake videos for laughs and spite, setting off a chain of fear, humiliation, and violence. This dark horror thriller turns a timely warning about fake media into a chaotic, bloody story about how easily lives can be destroyed.",
@@ -626,7 +604,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 95,
-      "user_rating": 5.7,
+      "user_rating": 5.8,
       "critic_score": null,
       "us_rating": "NR",
       "plot": "In 1870, a small Wisconsin town of Scandinavian settlers struggles with the aftermath of the Civil War. When a dangerous new threat emerges, a man must choose between protecting his young family and defending the community that gave him a renewed sense of purpose.",
@@ -778,29 +756,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg"
     },
     {
-      "id": 1710003,
-      "title": "Eternal Return",
-      "year": 2025,
-      "release_date": "2026-10-15",
-      "genres": [
-        "Romance",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 115,
-      "user_rating": 7.3,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "After losing someone she deeply loved, a young woman becomes emotionally closed off and abandons her former dreams. A chance meeting with a cartographer introduces her to magical maps connected to meaningful moments, prompting a journey through memory, loss, and the possibility of opening her heart again.",
-      "trailer": "https://www.youtube.com/watch?v=Omchv_hsck4",
-      "imdb_id": "tt27725750",
-      "tmdb_id": 1125822,
-      "watchmode_url": "https://www.watchmode.com/title/1710003/",
-      "poster_path": "/aRPeGH99uVY3q5KUBbDbPKv8E0o.jpg",
-      "backdrop_path": "/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aRPeGH99uVY3q5KUBbDbPKv8E0o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg"
-    },
-    {
       "id": 1757035,
       "title": "Wicker",
       "year": 2026,
@@ -844,9 +799,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1400940,
       "watchmode_url": "https://www.watchmode.com/title/1914859/",
       "poster_path": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-      "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "backdrop_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg"
     },
     {
       "id": 1969393,
@@ -896,7 +851,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1987809,
-      "title": "Diary of a Chambermaid",
+      "title": "The Diary of a Chambermaid",
       "year": 2026,
       "release_date": "2026-10-23",
       "genres": [
@@ -939,6 +894,53 @@ window.HYPE_MOVIES={
       "backdrop_path": "/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg"
+    },
+    {
+      "id": 11097329,
+      "title": "BTS: THE RETURN",
+      "year": 2026,
+      "release_date": "2026-10-25",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "runtime_minutes": 93,
+      "user_rating": 9.3,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A globally celebrated music group reunites in Los Angeles to record a new album. This documentary offers rare access to their creative process, group dynamic, and fresh chapter as they work together in a new era.",
+      "trailer": "https://www.youtube.com/watch?v=jRig7JvOpWg",
+      "imdb_id": "tt39578551",
+      "tmdb_id": 1628116,
+      "watchmode_url": "https://www.watchmode.com/title/11097329/",
+      "poster_path": "/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
+      "backdrop_path": "/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg"
+    },
+    {
+      "id": 1953127,
+      "title": "Moulin",
+      "year": 2026,
+      "release_date": "2026-10-28",
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ],
+      "runtime_minutes": 130,
+      "user_rating": 5.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
+      "trailer": null,
+      "imdb_id": "tt36899180",
+      "tmdb_id": 1437925,
+      "watchmode_url": "https://www.watchmode.com/title/1953127/",
+      "poster_path": "/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
+      "backdrop_path": "/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg"
     }
   ],
   "kids": [
