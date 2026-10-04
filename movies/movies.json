@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-03T14:55:00.241Z",
+  "generated_at": "2026-10-04T15:30:01.678Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -29,6 +29,30 @@
       "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+    },
+    {
+      "id": 1869118,
+      "title": "The Odyssey",
+      "year": 2026,
+      "release_date": "2026-07-15",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "runtime_minutes": 173,
+      "user_rating": 8.5,
+      "critic_score": 91,
+      "us_rating": "R",
+      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
+      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+      "imdb_id": "tt33764258",
+      "tmdb_id": 1368337,
+      "watchmode_url": "https://www.watchmode.com/title/1869118/",
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
     },
     {
       "id": 1773876,
@@ -65,7 +89,7 @@
       "runtime_minutes": 94,
       "user_rating": 4.5,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "R",
       "plot": "Rolf, a sex-advice columnist and a lecher, has affairs with numerous women, but never a permanent relationship. Suzanne, one of his ex-lovers, offers to bet that no woman can get Rolf to propose marriage, a bet her girlfriend Andrea eagerly accepts. But there's a catch: To win the bet, Andrea must get the womanizing Rolf to commit to marriage without first going to bed with him.",
       "trailer": null,
       "imdb_id": "tt0068986",
@@ -87,7 +111,7 @@
       ],
       "runtime_minutes": 112,
       "user_rating": 7.1,
-      "critic_score": 67,
+      "critic_score": 68,
       "us_rating": "R",
       "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
       "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
@@ -122,30 +146,6 @@
       "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
-    },
-    {
-      "id": 1869118,
-      "title": "The Odyssey",
-      "year": 2026,
-      "release_date": "2026-07-15",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "runtime_minutes": 173,
-      "user_rating": 8.6,
-      "critic_score": 91,
-      "us_rating": "R",
-      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
-      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
-      "imdb_id": "tt33764258",
-      "tmdb_id": 1368337,
-      "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
     },
     {
       "id": 1882453,
@@ -219,29 +219,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
     },
     {
-      "id": 1821586,
-      "title": "Mutiny",
-      "year": 2026,
-      "release_date": "2026-08-19",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 96,
-      "user_rating": 5.9,
-      "critic_score": 51,
-      "us_rating": "R",
-      "plot": "After witnessing his employer’s murder and being framed for the crime, a disgraced former policeman hides aboard a cargo ship to pursue revenge. As he navigates the vessel and faces a heavily armed crew, he uncovers a wider international conspiracy tied to the killing.",
-      "trailer": "https://www.youtube.com/watch?v=FKSdXH89jbo",
-      "imdb_id": "tt32338669",
-      "tmdb_id": 1288445,
-      "watchmode_url": "https://www.watchmode.com/title/1821586/",
-      "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
-    },
-    {
       "id": 1793884,
       "title": "Digger",
       "year": 2026,
@@ -282,10 +259,34 @@
       "imdb_id": "tt9601292",
       "tmdb_id": 1228834,
       "watchmode_url": "https://www.watchmode.com/title/1779945/",
-      "poster_path": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+      "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
       "backdrop_path": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg"
+    },
+    {
+      "id": 11229413,
+      "title": "After Impact",
+      "year": 2026,
+      "release_date": "2026-09-15",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 3.2,
+      "critic_score": null,
+      "us_rating": "NR",
+      "plot": "After losing a parent, a man inherits a vast greenhouse as an asteroid threatens Earth. As society breaks down, he retreats to a family bunker and struggles with injury, isolation, betrayal, and the difficult choices survival demands when a faint radio signal suggests someone else may still be out there.",
+      "trailer": "https://www.youtube.com/watch?v=Af8D6sRDyxo",
+      "imdb_id": "tt36809539",
+      "tmdb_id": 1751701,
+      "watchmode_url": "https://www.watchmode.com/title/11229413/",
+      "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
     },
     {
       "id": 11001943,
@@ -329,9 +330,9 @@
       "imdb_id": "tt7526136",
       "tmdb_id": 1263337,
       "watchmode_url": "https://www.watchmode.com/title/1927112/",
-      "poster_path": "/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+      "poster_path": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
       "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg"
     },
     {
@@ -378,9 +379,9 @@
       "tmdb_id": 1084244,
       "watchmode_url": "https://www.watchmode.com/title/1823785/",
       "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
       "id": 1513886,
@@ -430,28 +431,27 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg"
     },
     {
-      "id": 11003995,
-      "title": "Ice Cream Man",
+      "id": 1821586,
+      "title": "Mutiny",
       "year": 2026,
-      "release_date": "2026-08-03",
+      "release_date": "2026-08-19",
       "genres": [
-        "Comedy",
-        "Horror",
+        "Action",
         "Thriller"
       ],
-      "runtime_minutes": 86,
-      "user_rating": 4.2,
-      "critic_score": 39,
-      "us_rating": "NR",
-      "plot": "An idyllic summer town spirals into chaos when an ice cream man’s treats have horrifying effects on the children who eat them. A small group of youngsters avoid the menace and try to understand what is happening while adults across town face growing danger.",
-      "trailer": "https://www.youtube.com/watch?v=SHxqHdBNm-w",
-      "imdb_id": "tt36893729",
-      "tmdb_id": 1477712,
-      "watchmode_url": "https://www.watchmode.com/title/11003995/",
-      "poster_path": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-      "backdrop_path": "/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg"
+      "runtime_minutes": 96,
+      "user_rating": 5.9,
+      "critic_score": 51,
+      "us_rating": "R",
+      "plot": "After witnessing his employer’s murder and being framed for the crime, a disgraced former policeman hides aboard a cargo ship to pursue revenge. As he navigates the vessel and faces a heavily armed crew, he uncovers a wider international conspiracy tied to the killing.",
+      "trailer": "https://www.youtube.com/watch?v=FKSdXH89jbo",
+      "imdb_id": "tt32338669",
+      "tmdb_id": 1288445,
+      "watchmode_url": "https://www.watchmode.com/title/1821586/",
+      "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
     },
     {
       "id": 1684684,
@@ -463,7 +463,7 @@
         "Drama"
       ],
       "runtime_minutes": 128,
-      "user_rating": 7.3,
+      "user_rating": 7.2,
       "critic_score": 58,
       "us_rating": "R",
       "plot": "As war and plague ravage 14th-century England, a humble peasant sparks a rebellion and unites ordinary people against royal power. Their desperate struggle for justice and survival unfolds across a country strained by suffering, inequality, and conflict.",
@@ -556,7 +556,7 @@
         "History"
       ],
       "runtime_minutes": 126,
-      "user_rating": 6.9,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
@@ -578,7 +578,7 @@
         "Documentary"
       ],
       "runtime_minutes": 235,
-      "user_rating": 7.1,
+      "user_rating": 7,
       "critic_score": null,
       "us_rating": null,
       "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
@@ -594,7 +594,7 @@
     {
       "id": 1920228,
       "title": "Devour",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-09",
       "genres": [
         "Horror",
@@ -617,7 +617,7 @@
     },
     {
       "id": 11000067,
-      "title": "Always Lalisa",
+      "title": "Always Lisa",
       "year": 2026,
       "release_date": "2026-10-12",
       "genres": [
@@ -858,7 +858,7 @@
         "War"
       ],
       "runtime_minutes": 130,
-      "user_rating": 6,
+      "user_rating": 5.9,
       "critic_score": null,
       "us_rating": null,
       "plot": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
@@ -945,31 +945,6 @@
   ],
   "kids": [
     {
-      "id": 178503,
-      "title": "Coco",
-      "year": 2017,
-      "release_date": "2017-10-27",
-      "genres": [
-        "Family",
-        "Animation",
-        "Music",
-        "Adventure"
-      ],
-      "runtime_minutes": 105,
-      "user_rating": 8.5,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "Despite a generations-old family ban on music, a young aspiring guitarist pursues his dream and is swept into the vibrant Land of the Dead. With help from a charming trickster, he races to uncover the truth about his family’s history and find a way home.",
-      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
-      "imdb_id": "tt2380307",
-      "tmdb_id": 354912,
-      "watchmode_url": "https://www.watchmode.com/title/178503/",
-      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
-    },
-    {
       "id": 1749638,
       "title": "The Wild Robot",
       "year": 2024,
@@ -1019,32 +994,6 @@
       "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
-    },
-    {
-      "id": 1982660,
-      "title": "Forgotten Island",
-      "year": 2026,
-      "release_date": "2026-09-10",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 8,
-      "critic_score": 84,
-      "us_rating": null,
-      "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
-      "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
-      "imdb_id": "tt36583977",
-      "tmdb_id": 1465063,
-      "watchmode_url": "https://www.watchmode.com/title/1982660/",
-      "poster_path": "/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
     },
     {
       "id": 1438467,
@@ -1141,9 +1090,9 @@
       "tmdb_id": 1084244,
       "watchmode_url": "https://www.watchmode.com/title/1823785/",
       "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
       "id": 1785478,
@@ -1162,7 +1111,7 @@
       "critic_score": 83,
       "us_rating": "PG",
       "plot": "After solving a major case, two police partners follow a twisting mystery when a snake’s arrival disrupts the animal metropolis. Their investigation takes them undercover into unfamiliar parts of town, testing their teamwork while raising questions about prejudice, stereotypes, greed, and the city’s past.",
-      "trailer": "https://www.youtube.com/watch?v=5AwtptT8X8k",
+      "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
       "watchmode_url": "https://www.watchmode.com/title/1785478/",
@@ -1196,6 +1145,58 @@
       "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
+    },
+    {
+      "id": 1885279,
+      "title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "release_date": "2026-04-01",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "runtime_minutes": 98,
+      "user_rating": 6.4,
+      "critic_score": 40,
+      "us_rating": "PG",
+      "plot": "After stopping Bowser’s earlier scheme, two brothers face a new threat from his determined son, who wants to free his father and revive their family legacy. With familiar and new companions, the brothers journey across the stars to stop the young heir’s crusade.",
+      "trailer": "https://www.youtube.com/watch?v=FdL2GorGdKc",
+      "imdb_id": "tt28650488",
+      "tmdb_id": 1226863,
+      "watchmode_url": "https://www.watchmode.com/title/1885279/",
+      "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
+    },
+    {
+      "id": 1894118,
+      "title": "PAW Patrol: The Dino Movie",
+      "year": 2026,
+      "release_date": "2026-07-23",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Comedy"
+      ],
+      "runtime_minutes": 88,
+      "user_rating": 6.3,
+      "critic_score": 52,
+      "us_rating": "PG",
+      "plot": "A team of brave rescue pups lands on a mysterious dinosaur island after a storm, where they meet a stranded pup. When reckless mining activity awakens a volcano, the team must mount its biggest rescue mission yet to protect the island and its inhabitants.",
+      "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
+      "imdb_id": "tt29356163",
+      "tmdb_id": 1185806,
+      "watchmode_url": "https://www.watchmode.com/title/1894118/",
+      "poster_path": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "backdrop_path": "/c9Vatzm113Q3HgYsqThfYf0mpsr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c9Vatzm113Q3HgYsqThfYf0mpsr.jpg"
     }
   ]
 }
