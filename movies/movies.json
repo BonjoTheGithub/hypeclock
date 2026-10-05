@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-04T15:30:01.678Z",
+  "generated_at": "2026-10-05T19:29:10.816Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -41,7 +41,7 @@
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.5,
+      "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
@@ -111,7 +111,7 @@
       ],
       "runtime_minutes": 112,
       "user_rating": 7.1,
-      "critic_score": 68,
+      "critic_score": 67,
       "us_rating": "R",
       "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
       "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
@@ -181,7 +181,7 @@
         "Comedy"
       ],
       "runtime_minutes": 97,
-      "user_rating": 6.6,
+      "user_rating": 6.5,
       "critic_score": 66,
       "us_rating": "PG-13",
       "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
@@ -289,8 +289,32 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
     },
     {
+      "id": 1684684,
+      "title": "The Uprising",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "runtime_minutes": 128,
+      "user_rating": 7.2,
+      "critic_score": 58,
+      "us_rating": null,
+      "plot": "As war and plague ravage 14th-century England, a humble peasant sparks a rebellion and unites ordinary people against royal power. Their desperate struggle for justice and survival unfolds across a country strained by suffering, inequality, and conflict.",
+      "trailer": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
+      "imdb_id": "tt36983905",
+      "tmdb_id": 977942,
+      "watchmode_url": "https://www.watchmode.com/title/1684684/",
+      "poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg"
+    },
+    {
       "id": 11001943,
-      "title": "UNABOMBER",
+      "title": "Unabomber",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -299,7 +323,7 @@
         "Crime"
       ],
       "runtime_minutes": 101,
-      "user_rating": 6.1,
+      "user_rating": 6.3,
       "critic_score": 37,
       "us_rating": "R",
       "plot": "A gifted young man’s life takes a troubling turn after he is subjected to controversial psychological experiments. Decades later, an FBI-led manhunt brings his past back into focus, tracing the consequences of ambition and isolation.",
@@ -408,29 +432,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
-      "id": 1959567,
-      "title": "Drawn Together",
-      "year": 2026,
-      "release_date": "2026-09-09",
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "runtime_minutes": 104,
-      "user_rating": 5.6,
-      "critic_score": 41,
-      "us_rating": null,
-      "plot": "After being kidnapped and released, a wealthy businessman's daughter is assigned a bodyguard by her concerned father. Their difficult relationship gradually shifts as attraction grows, while they navigate a dangerous world filled with uncertainty and hidden agendas.",
-      "trailer": "https://www.youtube.com/watch?v=J_dWSteW_7Y",
-      "imdb_id": "tt36073210",
-      "tmdb_id": 1440098,
-      "watchmode_url": "https://www.watchmode.com/title/1959567/",
-      "poster_path": "/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/i65y7cMae36K0giN0GRaMjAHUru.jpg"
-    },
-    {
       "id": 1821586,
       "title": "Mutiny",
       "year": 2026,
@@ -454,27 +455,28 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
     },
     {
-      "id": 1684684,
-      "title": "The Uprising",
+      "id": 1782549,
+      "title": "Pinocchio: Unstrung",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": "2026-07-22",
       "genres": [
-        "History",
-        "Drama"
+        "Horror",
+        "Fantasy",
+        "Mystery"
       ],
-      "runtime_minutes": 128,
-      "user_rating": 7.2,
-      "critic_score": 58,
-      "us_rating": "R",
-      "plot": "As war and plague ravage 14th-century England, a humble peasant sparks a rebellion and unites ordinary people against royal power. Their desperate struggle for justice and survival unfolds across a country strained by suffering, inequality, and conflict.",
-      "trailer": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
-      "imdb_id": "tt36983905",
-      "tmdb_id": 977942,
-      "watchmode_url": "https://www.watchmode.com/title/1684684/",
-      "poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg"
+      "runtime_minutes": 82,
+      "user_rating": 5.6,
+      "critic_score": 55,
+      "us_rating": "NR",
+      "plot": "Created by a toymaker and influenced by a sinister cricket, a wooden boy begins a violent quest to become human. As he pursues this goal piece by piece, the dark bond shaping his journey turns a familiar fairy tale into a grim horror story.",
+      "trailer": "https://www.youtube.com/watch?v=Y4lZewE6JMI",
+      "imdb_id": "tt30887701",
+      "tmdb_id": 1232569,
+      "watchmode_url": "https://www.watchmode.com/title/1782549/",
+      "poster_path": "/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop_path": "/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg"
     }
   ],
   "upcoming": [
@@ -488,7 +490,7 @@
         "Thriller"
       ],
       "runtime_minutes": 115,
-      "user_rating": 6.7,
+      "user_rating": 6.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
@@ -625,7 +627,7 @@
         "Music"
       ],
       "runtime_minutes": 98,
-      "user_rating": 7.3,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "plot": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
@@ -683,6 +685,28 @@
       "backdrop_path": "/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg"
+    },
+    {
+      "id": 11229535,
+      "title": "You Can See Everything",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 174,
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
+      "trailer": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "imdb_id": "tt45368240",
+      "tmdb_id": 1765072,
+      "watchmode_url": "https://www.watchmode.com/title/11229535/",
+      "poster_path": "/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "backdrop_path": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg"
     },
     {
       "id": 1757035,
@@ -890,13 +914,13 @@
       "tmdb_id": 1468846,
       "watchmode_url": "https://www.watchmode.com/title/1985219/",
       "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-      "backdrop_path": "/sIleLElPQo13FuWHzKmIeXq8msd.jpg",
+      "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sIleLElPQo13FuWHzKmIeXq8msd.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jySTVXi8UDajVgYh01KavKtY4YJ.jpg"
     },
     {
       "id": 11021641,
-      "title": "Ozzy & Black Sabbath: Back to the Beginning",
+      "title": "Back to the Beginning: Ozzy's Final Bow",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -916,34 +940,34 @@
       "backdrop_path": "/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg"
-    },
-    {
-      "id": 1795869,
-      "title": "The Blood Countess",
-      "year": 2026,
-      "release_date": "2026-10-29",
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Fantasy",
-        "Mystery"
-      ],
-      "runtime_minutes": 119,
-      "user_rating": 5.1,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A powerful vampire and her maid pursue a legendary elixir and a book that could endanger their supernatural world. Chasing them are a determined police inspector, two vampire experts, an unconventional nephew, and his therapist.",
-      "trailer": "https://www.youtube.com/watch?v=mpSqlS7stC0",
-      "imdb_id": "tt28151657",
-      "tmdb_id": 1251608,
-      "watchmode_url": "https://www.watchmode.com/title/1795869/",
-      "poster_path": "/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
-      "backdrop_path": "/9IdxfMvkZzO8wjnygz784OzaK03.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9IdxfMvkZzO8wjnygz784OzaK03.jpg"
     }
   ],
   "kids": [
+    {
+      "id": 178503,
+      "title": "Coco",
+      "year": 2017,
+      "release_date": "2017-10-27",
+      "genres": [
+        "Family",
+        "Animation",
+        "Music",
+        "Adventure"
+      ],
+      "runtime_minutes": 105,
+      "user_rating": 8.5,
+      "critic_score": 89,
+      "us_rating": "PG",
+      "plot": "Despite a generations-old family ban on music, a young aspiring guitarist pursues his dream and is swept into the vibrant Land of the Dead. With help from a charming trickster, he races to uncover the truth about his family’s history and find a way home.",
+      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
+      "imdb_id": "tt2380307",
+      "tmdb_id": 354912,
+      "watchmode_url": "https://www.watchmode.com/title/178503/",
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
+    },
     {
       "id": 1749638,
       "title": "The Wild Robot",
@@ -994,30 +1018,6 @@
       "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
-    },
-    {
-      "id": 1438467,
-      "title": "Toy Story 2",
-      "year": 1999,
-      "release_date": "1999-10-30",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 92,
-      "user_rating": 8,
-      "critic_score": 94,
-      "us_rating": "G",
-      "plot": "When a beloved cowboy toy is taken by a collector, his friends set out on a daring rescue through shops, streets, and airport chaos. Along the way, he meets new companions and must consider whether his future belongs with a child or as part of a collection.",
-      "trailer": "https://www.youtube.com/watch?v=Y7HW__Z24rQ",
-      "imdb_id": "tt0120363",
-      "tmdb_id": 863,
-      "watchmode_url": "https://www.watchmode.com/title/1438467/",
-      "poster_path": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
-      "backdrop_path": "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
     },
     {
       "id": 199607,
@@ -1194,9 +1194,9 @@
       "tmdb_id": 1185806,
       "watchmode_url": "https://www.watchmode.com/title/1894118/",
       "poster_path": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-      "backdrop_path": "/c9Vatzm113Q3HgYsqThfYf0mpsr.jpg",
+      "backdrop_path": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c9Vatzm113Q3HgYsqThfYf0mpsr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg"
     }
   ]
 }
