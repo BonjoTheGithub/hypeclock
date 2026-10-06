@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-05T19:29:10.816Z",
+  "generated_at": "2026-10-06T16:56:08.196Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -31,30 +31,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
     },
     {
-      "id": 1869118,
-      "title": "The Odyssey",
-      "year": 2026,
-      "release_date": "2026-07-15",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "runtime_minutes": 173,
-      "user_rating": 8.6,
-      "critic_score": 91,
-      "us_rating": "R",
-      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
-      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
-      "imdb_id": "tt33764258",
-      "tmdb_id": 1368337,
-      "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
-    },
-    {
       "id": 1773876,
       "title": "Spider-Man: Brand New Day",
       "year": 2026,
@@ -74,9 +50,9 @@
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdrop_path": "/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg"
     },
     {
       "id": 191063,
@@ -148,6 +124,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
     },
     {
+      "id": 1869118,
+      "title": "The Odyssey",
+      "year": 2026,
+      "release_date": "2026-07-15",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "runtime_minutes": 173,
+      "user_rating": 8.6,
+      "critic_score": 91,
+      "us_rating": "R",
+      "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
+      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+      "imdb_id": "tt33764258",
+      "tmdb_id": 1368337,
+      "watchmode_url": "https://www.watchmode.com/title/1869118/",
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
+    },
+    {
       "id": 1882453,
       "title": "The End of Oak Street",
       "year": 2026,
@@ -172,6 +172,31 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
+      "id": 1823785,
+      "title": "Toy Story 5",
+      "year": 2026,
+      "release_date": "2026-06-17",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "runtime_minutes": 102,
+      "user_rating": 7.5,
+      "critic_score": 83,
+      "us_rating": null,
+      "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
+      "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
+      "imdb_id": "tt29355505",
+      "tmdb_id": 1084244,
+      "watchmode_url": "https://www.watchmode.com/title/1823785/",
+      "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+    },
+    {
       "id": 1875027,
       "title": "Runner",
       "year": 2026,
@@ -190,33 +215,9 @@
       "tmdb_id": 1377237,
       "watchmode_url": "https://www.watchmode.com/title/1875027/",
       "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg"
-    },
-    {
-      "id": 1873959,
-      "title": "Colony",
-      "year": 2026,
-      "release_date": "2026-05-21",
-      "genres": [
-        "Horror",
-        "Action",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 123,
-      "user_rating": 6.7,
-      "critic_score": 70,
-      "us_rating": null,
-      "plot": "During a biotech conference, a rapidly mutating virus is released, sealing a professor and a small group of survivors inside the facility. As infected people undergo horrifying changes and become increasingly dangerous, the trapped group must find a way to survive and confront the spreading threat.",
-      "trailer": "https://www.youtube.com/watch?v=xQAXT17Jz18",
-      "imdb_id": "tt34385135",
-      "tmdb_id": 1375646,
-      "watchmode_url": "https://www.watchmode.com/title/1873959/",
-      "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop_path": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg"
     },
     {
       "id": 1793884,
@@ -289,77 +290,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
     },
     {
-      "id": 1684684,
-      "title": "The Uprising",
-      "year": 2026,
-      "release_date": "2026-09-10",
-      "genres": [
-        "History",
-        "Drama",
-        "Action"
-      ],
-      "runtime_minutes": 128,
-      "user_rating": 7.2,
-      "critic_score": 58,
-      "us_rating": null,
-      "plot": "As war and plague ravage 14th-century England, a humble peasant sparks a rebellion and unites ordinary people against royal power. Their desperate struggle for justice and survival unfolds across a country strained by suffering, inequality, and conflict.",
-      "trailer": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
-      "imdb_id": "tt36983905",
-      "tmdb_id": 977942,
-      "watchmode_url": "https://www.watchmode.com/title/1684684/",
-      "poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg"
-    },
-    {
-      "id": 11001943,
-      "title": "Unabomber",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "runtime_minutes": 101,
-      "user_rating": 6.3,
-      "critic_score": 37,
-      "us_rating": "R",
-      "plot": "A gifted young man’s life takes a troubling turn after he is subjected to controversial psychological experiments. Decades later, an FBI-led manhunt brings his past back into focus, tracing the consequences of ambition and isolation.",
-      "trailer": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
-      "imdb_id": "tt6933238",
-      "tmdb_id": 1492640,
-      "watchmode_url": "https://www.watchmode.com/title/11001943/",
-      "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg"
-    },
-    {
-      "id": 1927112,
-      "title": "Heart of the Beast",
-      "year": 2026,
-      "release_date": "2026-09-19",
-      "genres": [
-        "Adventure",
-        "Thriller"
-      ],
-      "runtime_minutes": 101,
-      "user_rating": 7.5,
-      "critic_score": 76,
-      "us_rating": "PG-13",
-      "plot": "After a devastating plane crash, a Special Forces officer and his combat dog become stranded in the Alaskan wilderness. Facing harsh conditions and constant danger, the pair must rely on their bond, instincts, and survival skills to endure the unforgiving environment.",
-      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
-      "imdb_id": "tt7526136",
-      "tmdb_id": 1263337,
-      "watchmode_url": "https://www.watchmode.com/title/1927112/",
-      "poster_path": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bicMU6xVD5deVyKP2azpyx7xkmH.jpg"
-    },
-    {
       "id": 1855581,
       "title": "Obsession",
       "year": 2026,
@@ -383,29 +313,27 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
     },
     {
-      "id": 1823785,
-      "title": "Toy Story 5",
+      "id": 1823717,
+      "title": "Insidious: Out of the Further",
       "year": 2026,
-      "release_date": "2026-06-17",
+      "release_date": "2026-08-19",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure"
+        "Horror",
+        "Thriller"
       ],
-      "runtime_minutes": 102,
-      "user_rating": 7.5,
-      "critic_score": 83,
+      "runtime_minutes": 106,
+      "user_rating": 6.4,
+      "critic_score": 52,
       "us_rating": null,
-      "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
-      "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
-      "imdb_id": "tt29355505",
-      "tmdb_id": 1084244,
-      "watchmode_url": "https://www.watchmode.com/title/1823785/",
-      "poster_path": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+      "plot": "A young mother raising her daughter in the house where she grew up discovers she can enter a parallel realm inhabited by dangerous spirits. When she learns she can bring entities from that world into reality, she must confront a growing supernatural threat while protecting her family.",
+      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
+      "imdb_id": "tt32393988",
+      "tmdb_id": 1291595,
+      "watchmode_url": "https://www.watchmode.com/title/1823717/",
+      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
     },
     {
       "id": 1513886,
@@ -432,6 +360,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
+      "id": 1873959,
+      "title": "Colony",
+      "year": 2026,
+      "release_date": "2026-05-21",
+      "genres": [
+        "Horror",
+        "Action",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 123,
+      "user_rating": 6.7,
+      "critic_score": 70,
+      "us_rating": null,
+      "plot": "During a biotech conference, a rapidly mutating virus is released, sealing a professor and a small group of survivors inside the facility. As infected people undergo horrifying changes and become increasingly dangerous, the trapped group must find a way to survive and confront the spreading threat.",
+      "trailer": "https://www.youtube.com/watch?v=xQAXT17Jz18",
+      "imdb_id": "tt34385135",
+      "tmdb_id": 1375646,
+      "watchmode_url": "https://www.watchmode.com/title/1873959/",
+      "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop_path": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
+    },
+    {
       "id": 1821586,
       "title": "Mutiny",
       "year": 2026,
@@ -453,6 +405,53 @@
       "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
+    },
+    {
+      "id": 1684684,
+      "title": "The Uprising",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "runtime_minutes": 128,
+      "user_rating": 7.2,
+      "critic_score": 58,
+      "us_rating": null,
+      "plot": "As war and plague ravage 14th-century England, a humble peasant sparks a rebellion and unites ordinary people against royal power. Their desperate struggle for justice and survival unfolds across a country strained by suffering, inequality, and conflict.",
+      "trailer": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
+      "imdb_id": "tt36983905",
+      "tmdb_id": 977942,
+      "watchmode_url": "https://www.watchmode.com/title/1684684/",
+      "poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg"
+    },
+    {
+      "id": 1818331,
+      "title": "Verity",
+      "year": 2026,
+      "release_date": "2026-09-30",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime_minutes": 114,
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A struggling writer takes a ghostwriting job for a bestselling novelist who is unable to work after an accident. While staying at the novelist’s home to study her notes, she discovers unsettling material and begins to question what is happening within the household.",
+      "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
+      "imdb_id": "tt32261958",
+      "tmdb_id": 1283515,
+      "watchmode_url": "https://www.watchmode.com/title/1818331/",
+      "poster_path": "/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+      "backdrop_path": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg"
     },
     {
       "id": 1782549,
@@ -797,14 +796,14 @@
       "imdb_id": "tt36107185",
       "tmdb_id": 1154730,
       "watchmode_url": "https://www.watchmode.com/title/11126829/",
-      "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
-      "backdrop_path": "/9BmIu8JMoSWSyqNsIW9ue9CthPZ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9BmIu8JMoSWSyqNsIW9ue9CthPZ.jpg"
+      "poster_path": "/hiIIvVlOuTpyLbKdeuGg5OmQoA0.jpg",
+      "backdrop_path": "/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hiIIvVlOuTpyLbKdeuGg5OmQoA0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg"
     },
     {
       "id": 1987809,
-      "title": "The Diary of a Chambermaid",
+      "title": "Diary of a Chambermaid",
       "year": 2026,
       "release_date": "2026-10-23",
       "genres": [
@@ -897,7 +896,7 @@
     },
     {
       "id": 1985219,
-      "title": "Sanguine",
+      "title": "Species",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -943,31 +942,6 @@
     }
   ],
   "kids": [
-    {
-      "id": 178503,
-      "title": "Coco",
-      "year": 2017,
-      "release_date": "2017-10-27",
-      "genres": [
-        "Family",
-        "Animation",
-        "Music",
-        "Adventure"
-      ],
-      "runtime_minutes": 105,
-      "user_rating": 8.5,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "Despite a generations-old family ban on music, a young aspiring guitarist pursues his dream and is swept into the vibrant Land of the Dead. With help from a charming trickster, he races to uncover the truth about his family’s history and find a way home.",
-      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
-      "imdb_id": "tt2380307",
-      "tmdb_id": 354912,
-      "watchmode_url": "https://www.watchmode.com/title/178503/",
-      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
-    },
     {
       "id": 1749638,
       "title": "The Wild Robot",
@@ -1018,6 +992,32 @@
       "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+    },
+    {
+      "id": 1982660,
+      "title": "Forgotten Island",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 8,
+      "critic_score": 84,
+      "us_rating": null,
+      "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
+      "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
+      "imdb_id": "tt36583977",
+      "tmdb_id": 1465063,
+      "watchmode_url": "https://www.watchmode.com/title/1982660/",
+      "poster_path": "/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
     },
     {
       "id": 199607,
@@ -1121,6 +1121,32 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
+      "id": 1892965,
+      "title": "Hoppers",
+      "year": 2026,
+      "release_date": "2026-03-04",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 104,
+      "user_rating": 7.4,
+      "critic_score": 84,
+      "us_rating": null,
+      "plot": "A passionate animal lover discovers technology that can place human consciousness inside lifelike robotic animals. Using it to understand wildlife, she becomes involved in a struggle to protect a threatened natural habitat from a major construction project.",
+      "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
+      "imdb_id": "tt26443616",
+      "tmdb_id": 1327819,
+      "watchmode_url": "https://www.watchmode.com/title/1892965/",
+      "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
+    },
+    {
       "id": 1840434,
       "title": "Minions & Monsters",
       "year": 2026,
@@ -1171,32 +1197,6 @@
       "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
-    },
-    {
-      "id": 1894118,
-      "title": "PAW Patrol: The Dino Movie",
-      "year": 2026,
-      "release_date": "2026-07-23",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Family",
-        "Fantasy",
-        "Comedy"
-      ],
-      "runtime_minutes": 88,
-      "user_rating": 6.3,
-      "critic_score": 52,
-      "us_rating": "PG",
-      "plot": "A team of brave rescue pups lands on a mysterious dinosaur island after a storm, where they meet a stranded pup. When reckless mining activity awakens a volcano, the team must mount its biggest rescue mission yet to protect the island and its inhabitants.",
-      "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
-      "imdb_id": "tt29356163",
-      "tmdb_id": 1185806,
-      "watchmode_url": "https://www.watchmode.com/title/1894118/",
-      "poster_path": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-      "backdrop_path": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg"
     }
   ]
 }
