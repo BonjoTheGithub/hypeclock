@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-07T17:32:51.009Z",
+  "generated_at": "2026-10-08T17:35:54.516Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -124,6 +124,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
     },
     {
+      "id": 1793884,
+      "title": "Digger",
+      "year": 2026,
+      "release_date": "2026-09-28",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtime_minutes": 129,
+      "user_rating": 7.4,
+      "critic_score": 49,
+      "us_rating": "R",
+      "plot": "A powerful oil tycoon faces a frantic crisis after a disaster linked to his company threatens to unleash catastrophe. As he works with political leaders and scientists to respond, he must confront the consequences of his actions and the forces shaping the unfolding emergency.",
+      "trailer": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
+      "imdb_id": "tt31450459",
+      "tmdb_id": 1248832,
+      "watchmode_url": "https://www.watchmode.com/title/1793884/",
+      "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
+    },
+    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -172,29 +195,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
-      "id": 1875027,
-      "title": "Runner",
-      "year": 2026,
-      "release_date": "2026-09-07",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "runtime_minutes": 97,
-      "user_rating": 6.5,
-      "critic_score": 66,
-      "us_rating": "PG-13",
-      "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
-      "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
-      "imdb_id": "tt31349844",
-      "tmdb_id": 1377237,
-      "watchmode_url": "https://www.watchmode.com/title/1875027/",
-      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg"
-    },
-    {
       "id": 1823717,
       "title": "Insidious: Out of the Further",
       "year": 2026,
@@ -218,27 +218,27 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
     },
     {
-      "id": 1793884,
-      "title": "Digger",
+      "id": 1875027,
+      "title": "Runner",
       "year": 2026,
-      "release_date": "2026-09-28",
+      "release_date": "2026-09-07",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Action",
+        "Comedy"
       ],
-      "runtime_minutes": 129,
-      "user_rating": 7.4,
-      "critic_score": 49,
-      "us_rating": "R",
-      "plot": "A powerful oil tycoon faces a frantic crisis after a disaster linked to his company threatens to unleash catastrophe. As he works with political leaders and scientists to respond, he must confront the consequences of his actions and the forces shaping the unfolding emergency.",
-      "trailer": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
-      "imdb_id": "tt31450459",
-      "tmdb_id": 1248832,
-      "watchmode_url": "https://www.watchmode.com/title/1793884/",
-      "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
+      "runtime_minutes": 97,
+      "user_rating": 6.5,
+      "critic_score": 66,
+      "us_rating": "PG-13",
+      "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
+      "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
+      "imdb_id": "tt31349844",
+      "tmdb_id": 1377237,
+      "watchmode_url": "https://www.watchmode.com/title/1875027/",
+      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg"
     },
     {
       "id": 1821586,
@@ -262,6 +262,28 @@
       "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
+    },
+    {
+      "id": 1942846,
+      "title": "Fall 2: Deadpoint",
+      "year": 2026,
+      "release_date": "2026-09-01",
+      "genres": [
+        "Thriller"
+      ],
+      "runtime_minutes": 98,
+      "user_rating": 5.8,
+      "critic_score": 58,
+      "us_rating": "PG-13",
+      "plot": "Two climbers travel to Thailand to attempt a forbidden route across Mount Kwan, hoping to confront their fears. Thousands of feet above the ground, unstable paths, extreme exposure, and limited options turn the dangerous journey into a desperate fight to survive.",
+      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
+      "imdb_id": "tt31192372",
+      "tmdb_id": 1101412,
+      "watchmode_url": "https://www.watchmode.com/title/1942846/",
+      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop_path": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg"
     },
     {
       "id": 1779945,
@@ -297,7 +319,7 @@
         "Thriller"
       ],
       "runtime_minutes": 95,
-      "user_rating": 3.2,
+      "user_rating": 3.1,
       "critic_score": null,
       "us_rating": "NR",
       "plot": "After losing a parent, a man inherits a vast greenhouse as an asteroid threatens Earth. As society breaks down, he retreats to a family bunker and struggles with injury, isolation, betrayal, and the difficult choices survival demands when a faint radio signal suggests someone else may still be out there.",
@@ -407,28 +429,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
     },
     {
-      "id": 1942846,
-      "title": "Fall 2: Deadpoint",
-      "year": 2026,
-      "release_date": "2026-09-01",
-      "genres": [
-        "Thriller"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 5.8,
-      "critic_score": 58,
-      "us_rating": "PG-13",
-      "plot": "Two climbers travel to Thailand to attempt a forbidden route across Mount Kwan, hoping to confront their fears. Thousands of feet above the ground, unstable paths, extreme exposure, and limited options turn the dangerous journey into a desperate fight to survive.",
-      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
-      "imdb_id": "tt31192372",
-      "tmdb_id": 1101412,
-      "watchmode_url": "https://www.watchmode.com/title/1942846/",
-      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_path": "/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cPCgLDNCCUwtsedr181DtrlaDWx.jpg"
-    },
-    {
       "id": 1818331,
       "title": "Verity",
       "year": 2026,
@@ -446,10 +446,10 @@
       "imdb_id": "tt32261958",
       "tmdb_id": 1283515,
       "watchmode_url": "https://www.watchmode.com/title/1818331/",
-      "poster_path": "/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-      "backdrop_path": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg"
+      "poster_path": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+      "backdrop_path": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg"
     },
     {
       "id": 1684684,
@@ -490,7 +490,7 @@
       "user_rating": 6.8,
       "critic_score": null,
       "us_rating": null,
-      "plot": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
+      "plot": "On a stormy night in Rome, a mother tells her daughter that their family history rests on a lie. Years earlier, after a terrible accident, she made a desperate bargain to save her child; now a mysterious figure has returned, and she believes her daughter may be the only one able to stop a chain of dark events.",
       "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
       "imdb_id": "tt23411728",
       "tmdb_id": 1412795,
@@ -593,7 +593,7 @@
     {
       "id": 1920228,
       "title": "Devour",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-09",
       "genres": [
         "Horror",
@@ -624,7 +624,7 @@
         "Comedy"
       ],
       "runtime_minutes": 108,
-      "user_rating": 7.1,
+      "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
       "plot": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
@@ -659,30 +659,6 @@
       "backdrop_path": "/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg"
-    },
-    {
-      "id": 1520333,
-      "title": "Tom Clancy's Without Remorse",
-      "year": 2026,
-      "release_date": "2026-10-14",
-      "genres": [
-        "Action",
-        "Thriller",
-        "War"
-      ],
-      "runtime_minutes": 110,
-      "user_rating": 5.9,
-      "critic_score": 43,
-      "us_rating": "R",
-      "plot": "An elite Navy SEAL pursues justice after his pregnant wife is murdered, uncovering an international conspiracy along the way. His mission draws him into dangerous confrontations while he struggles with grief, anger, and the demands of duty.",
-      "trailer": "https://www.youtube.com/watch?v=kRpkRkO9KUI",
-      "imdb_id": "tt0499097",
-      "tmdb_id": 567189,
-      "watchmode_url": "https://www.watchmode.com/title/1520333/",
-      "poster_path": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
-      "backdrop_path": "/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fPGeS6jgdLovQAKunNHX8l0avCy.jpg"
     },
     {
       "id": 1689779,
@@ -739,7 +715,7 @@
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7.4,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -747,10 +723,10 @@
       "imdb_id": "tt45368240",
       "tmdb_id": 1765072,
       "watchmode_url": "https://www.watchmode.com/title/11229535/",
-      "poster_path": "/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
-      "backdrop_path": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qhFWz1BsEMg5rcs6TAstmGQggMT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg"
+      "poster_path": "/fYnS7wwZ4cdLElAcDhyIQUUBqHS.jpg",
+      "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fYnS7wwZ4cdLElAcDhyIQUUBqHS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
     },
     {
       "id": 1757035,
@@ -819,9 +795,9 @@
       "imdb_id": "tt39328391",
       "tmdb_id": 1437981,
       "watchmode_url": "https://www.watchmode.com/title/1969393/",
-      "poster_path": "/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+      "poster_path": "/jhBDAdVy7qPglzcBsPDMJXQ9Cls.jpg",
       "backdrop_path": "/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l05jDisMYVVpyAH3zgx1bUqPocZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jhBDAdVy7qPglzcBsPDMJXQ9Cls.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg"
     },
     {
@@ -841,9 +817,9 @@
       "imdb_id": "tt36107185",
       "tmdb_id": 1154730,
       "watchmode_url": "https://www.watchmode.com/title/11126829/",
-      "poster_path": "/hiIIvVlOuTpyLbKdeuGg5OmQoA0.jpg",
+      "poster_path": "/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
       "backdrop_path": "/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hiIIvVlOuTpyLbKdeuGg5OmQoA0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y6AkOgTEPM9nTJUOeyvHqlf6Bgp.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg"
     },
     {
@@ -938,6 +914,29 @@
       "backdrop_path": "/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/f3yopLJXRBcPvgkfRji1jloDrxd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg"
+    },
+    {
+      "id": 1985219,
+      "title": "Sanguine",
+      "year": 2026,
+      "release_date": "2026-10-28",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Margot, a young intern at the country's most competitive ER, struggles in the high-pressure environment. When multiple patients her age arrive with strange symptoms, her own body begins experiencing alarming transformations.",
+      "trailer": "https://www.youtube.com/watch?v=56TE9NuZQhs",
+      "imdb_id": "tt37799273",
+      "tmdb_id": 1468846,
+      "watchmode_url": "https://www.watchmode.com/title/1985219/",
+      "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+      "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jySTVXi8UDajVgYh01KavKtY4YJ.jpg"
     }
   ],
   "kids": [
@@ -1038,9 +1037,9 @@
       "imdb_id": "tt36583977",
       "tmdb_id": 1465063,
       "watchmode_url": "https://www.watchmode.com/title/1982660/",
-      "poster_path": "/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
     },
     {
@@ -1058,7 +1057,7 @@
       "runtime_minutes": 95,
       "user_rating": 7.7,
       "critic_score": 76,
-      "us_rating": "PG",
+      "us_rating": null,
       "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
       "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
       "imdb_id": "tt1323594",
