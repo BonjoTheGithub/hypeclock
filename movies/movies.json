@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-08T17:35:54.516Z",
+  "generated_at": "2026-10-09T17:11:13.996Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -79,6 +79,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
     },
     {
+      "id": 1823717,
+      "title": "Insidious: Out of the Further",
+      "year": 2026,
+      "release_date": "2026-08-19",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 106,
+      "user_rating": 6.3,
+      "critic_score": 52,
+      "us_rating": null,
+      "plot": "A young mother raising her daughter in the house where she grew up discovers she can enter a parallel realm inhabited by dangerous spirits. When she learns she can bring entities from that world into reality, she must confront a growing supernatural threat while protecting her family.",
+      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
+      "imdb_id": "tt32393988",
+      "tmdb_id": 1291595,
+      "watchmode_url": "https://www.watchmode.com/title/1823717/",
+      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
+    },
+    {
       "id": 191063,
       "title": "Loves of a French Pussycat",
       "year": 1972,
@@ -101,29 +124,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wVg11RahrRfghgqViuoJgcJL1iM.jpg"
     },
     {
-      "id": 11042837,
-      "title": "The Love Hypothesis",
-      "year": 2026,
-      "release_date": "2026-09-23",
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "runtime_minutes": 112,
-      "user_rating": 7.1,
-      "critic_score": 67,
-      "us_rating": "R",
-      "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
-      "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
-      "imdb_id": "tt22526100",
-      "tmdb_id": 1032863,
-      "watchmode_url": "https://www.watchmode.com/title/11042837/",
-      "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
-    },
-    {
       "id": 1793884,
       "title": "Digger",
       "year": 2026,
@@ -133,7 +133,7 @@
         "Drama"
       ],
       "runtime_minutes": 129,
-      "user_rating": 7.4,
+      "user_rating": 7.5,
       "critic_score": 49,
       "us_rating": "R",
       "plot": "A powerful oil tycoon faces a frantic crisis after a disaster linked to his company threatens to unleash catastrophe. As he works with political leaders and scientists to respond, he must confront the consequences of his actions and the forces shaping the unfolding emergency.",
@@ -195,29 +195,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
-      "id": 1823717,
-      "title": "Insidious: Out of the Further",
-      "year": 2026,
-      "release_date": "2026-08-19",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 6.4,
-      "critic_score": 52,
-      "us_rating": null,
-      "plot": "A young mother raising her daughter in the house where she grew up discovers she can enter a parallel realm inhabited by dangerous spirits. When she learns she can bring entities from that world into reality, she must confront a growing supernatural threat while protecting her family.",
-      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
-      "imdb_id": "tt32393988",
-      "tmdb_id": 1291595,
-      "watchmode_url": "https://www.watchmode.com/title/1823717/",
-      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
-    },
-    {
       "id": 1875027,
       "title": "Runner",
       "year": 2026,
@@ -272,7 +249,7 @@
         "Thriller"
       ],
       "runtime_minutes": 98,
-      "user_rating": 5.8,
+      "user_rating": 5.7,
       "critic_score": 58,
       "us_rating": "PG-13",
       "plot": "Two climbers travel to Thailand to attempt a forbidden route across Mount Kwan, hoping to confront their fears. Thousands of feet above the ground, unstable paths, extreme exposure, and limited options turn the dangerous journey into a desperate fight to survive.",
@@ -281,9 +258,9 @@
       "tmdb_id": 1101412,
       "watchmode_url": "https://www.watchmode.com/title/1942846/",
       "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_path": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg"
     },
     {
       "id": 1779945,
@@ -331,6 +308,29 @@
       "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
+    },
+    {
+      "id": 11042837,
+      "title": "The Love Hypothesis",
+      "year": 2026,
+      "release_date": "2026-09-23",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "runtime_minutes": 112,
+      "user_rating": 7.1,
+      "critic_score": 67,
+      "us_rating": "R",
+      "plot": "A biology PhD candidate and a demanding professor enter a fake relationship to solve their romantic dilemmas. What begins as a carefully planned arrangement soon complicates their views on love, forcing both to navigate unexpected feelings and the pressures of academic life.",
+      "trailer": "https://www.youtube.com/watch?v=xwdamnfS6IM",
+      "imdb_id": "tt22526100",
+      "tmdb_id": 1032863,
+      "watchmode_url": "https://www.watchmode.com/title/11042837/",
+      "poster_path": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
     },
     {
       "id": 1855581,
@@ -405,30 +405,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
-      "id": 1873959,
-      "title": "Colony",
-      "year": 2026,
-      "release_date": "2026-05-21",
-      "genres": [
-        "Horror",
-        "Action",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 123,
-      "user_rating": 6.7,
-      "critic_score": 70,
-      "us_rating": null,
-      "plot": "During a biotech conference, a rapidly mutating virus is released, sealing a professor and a small group of survivors inside the facility. As infected people undergo horrifying changes and become increasingly dangerous, the trapped group must find a way to survive and confront the spreading threat.",
-      "trailer": "https://www.youtube.com/watch?v=xQAXT17Jz18",
-      "imdb_id": "tt34385135",
-      "tmdb_id": 1375646,
-      "watchmode_url": "https://www.watchmode.com/title/1873959/",
-      "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop_path": "/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
-    },
-    {
       "id": 1818331,
       "title": "Verity",
       "year": 2026,
@@ -452,76 +428,53 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg"
     },
     {
-      "id": 1684684,
-      "title": "The Uprising",
+      "id": 1782549,
+      "title": "Pinocchio: Unstrung",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": "2026-07-22",
       "genres": [
-        "History",
-        "Drama",
-        "Action"
+        "Horror",
+        "Fantasy",
+        "Mystery"
       ],
-      "runtime_minutes": 128,
-      "user_rating": 7.2,
-      "critic_score": 58,
+      "runtime_minutes": 82,
+      "user_rating": 5.6,
+      "critic_score": 55,
+      "us_rating": "NR",
+      "plot": "Created by a toymaker and influenced by a sinister cricket, a wooden boy begins a violent quest to become human. As he pursues this goal piece by piece, the dark bond shaping his journey turns a familiar fairy tale into a grim horror story.",
+      "trailer": "https://www.youtube.com/watch?v=Y4lZewE6JMI",
+      "imdb_id": "tt30887701",
+      "tmdb_id": 1232569,
+      "watchmode_url": "https://www.watchmode.com/title/1782549/",
+      "poster_path": "/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop_path": "/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg"
+    },
+    {
+      "id": 1225505,
+      "title": "Siren: Erotic Ghost",
+      "year": 2004,
+      "release_date": "2004-10-22",
+      "genres": [
+        "Horror"
+      ],
+      "runtime_minutes": 76,
+      "user_rating": 4,
+      "critic_score": null,
       "us_rating": null,
-      "plot": "As war and plague ravage 14th-century England, a humble peasant sparks a rebellion and unites ordinary people against royal power. Their desperate struggle for justice and survival unfolds across a country strained by suffering, inequality, and conflict.",
-      "trailer": "https://www.youtube.com/watch?v=ZVkrhHebz1Q",
-      "imdb_id": "tt36983905",
-      "tmdb_id": 977942,
-      "watchmode_url": "https://www.watchmode.com/title/1684684/",
-      "poster_path": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop_path": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg"
+      "plot": "When a crew of bank robbers believes that an alluring young woman has blown their cover, they kidnap the girl. Back at their hideout they develop sinister plans to rape and then kill her. When one of the crooks mysteriously turns up dead however, they begin to realize that their intended victim may be a powerful, vindictive, supernatural force.",
+      "trailer": null,
+      "imdb_id": "tt0468862",
+      "tmdb_id": 52720,
+      "watchmode_url": "https://www.watchmode.com/title/1225505/",
+      "poster_path": "/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
+      "backdrop_path": "/sHLDucxRYKTL73tzd922Eynudxb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sHLDucxRYKTL73tzd922Eynudxb.jpg"
     }
   ],
   "upcoming": [
-    {
-      "id": 1929812,
-      "title": "The Spiral",
-      "year": 2026,
-      "release_date": "2026-10-08",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 115,
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "On a stormy night in Rome, a mother tells her daughter that their family history rests on a lie. Years earlier, after a terrible accident, she made a desperate bargain to save her child; now a mysterious figure has returned, and she believes her daughter may be the only one able to stop a chain of dark events.",
-      "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
-      "imdb_id": "tt23411728",
-      "tmdb_id": 1412795,
-      "watchmode_url": "https://www.watchmode.com/title/1929812/",
-      "poster_path": "/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
-      "backdrop_path": "/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hkpxitZPz3cKQMl2g0MxzKQdtpP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg"
-    },
-    {
-      "id": 1991632,
-      "title": "Big Girls Don't Cry",
-      "year": 2026,
-      "release_date": "2026-10-08",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 100,
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Over one transformative summer in rural New Zealand in 2006, a 14-year-old explores desire and identity as she turns to the internet. Trying to imitate the people she longs to be loved by, she slowly discovers what feels real to her.",
-      "trailer": "https://www.youtube.com/watch?v=oAu4gc1VyA8",
-      "imdb_id": "tt36867663",
-      "tmdb_id": 1477963,
-      "watchmode_url": "https://www.watchmode.com/title/1991632/",
-      "poster_path": "/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
-      "backdrop_path": "/5SXqcE79Jn210KsFgIyIy7t1Kdo.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u7AAna0FE3d0yIzlLeBbxIcvtp0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5SXqcE79Jn210KsFgIyIy7t1Kdo.jpg"
-    },
     {
       "id": 1788404,
       "title": "A Prayer for the Dying",
@@ -532,7 +485,7 @@
         "Thriller"
       ],
       "runtime_minutes": 95,
-      "user_rating": 5.8,
+      "user_rating": 5.7,
       "critic_score": null,
       "us_rating": "NR",
       "plot": "In 1870, a small Wisconsin town of Scandinavian settlers struggles with the aftermath of the Civil War. When a dangerous new threat emerges, a man must choose between protecting his young family and defending the community that gave him a renewed sense of purpose.",
@@ -555,7 +508,7 @@
         "History"
       ],
       "runtime_minutes": 126,
-      "user_rating": 7.6,
+      "user_rating": 7.5,
       "critic_score": null,
       "us_rating": null,
       "plot": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
@@ -580,7 +533,7 @@
       "user_rating": 7,
       "critic_score": null,
       "us_rating": null,
-      "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we all live.",
+      "plot": "An incisive look behind the legend of a widely celebrated inventor-entrepreneur whose influence reaches across the world. The film focuses on the figure behind that public reputation and the impact he has on the world in which people live.",
       "trailer": "https://www.youtube.com/watch?v=eY_8SyndC10",
       "imdb_id": "tt27041231",
       "tmdb_id": 1096228,
@@ -593,7 +546,7 @@
     {
       "id": 1920228,
       "title": "Devour",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-09",
       "genres": [
         "Horror",
@@ -604,7 +557,7 @@
       "user_rating": 5.2,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
+      "plot": "After a disastrous gig leaves an all-girl heavy metal band stranded, its members find a woman in danger in a town ruled by a warlock. Surrounded by cannibals, vampires, and a deadly werewolf, they must fight to survive.",
       "trailer": "https://www.youtube.com/watch?v=jfXzYeXd9Y4",
       "imdb_id": "tt14541160",
       "tmdb_id": 1406253,
@@ -627,7 +580,7 @@
       "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
+      "plot": "Three fathers join their teenage daughters on a school trip to a remote island, where a peaceful getaway gives way to unexpected problems. Their different parenting styles spark tension, and as the situation grows harder to manage, each father must reckon with how past experiences shape his choices.",
       "trailer": "https://www.youtube.com/watch?v=ke00C6G7ewg",
       "imdb_id": "tt36462731",
       "tmdb_id": 1461432,
@@ -715,7 +668,7 @@
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7.3,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -723,9 +676,9 @@
       "imdb_id": "tt45368240",
       "tmdb_id": 1765072,
       "watchmode_url": "https://www.watchmode.com/title/11229535/",
-      "poster_path": "/fYnS7wwZ4cdLElAcDhyIQUUBqHS.jpg",
+      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYnS7wwZ4cdLElAcDhyIQUUBqHS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
     },
     {
@@ -937,34 +890,57 @@
       "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jySTVXi8UDajVgYh01KavKtY4YJ.jpg"
+    },
+    {
+      "id": 11021641,
+      "title": "Ozzy & Black Sabbath: Back to the Beginning",
+      "year": 2026,
+      "release_date": "2026-10-28",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "runtime_minutes": 147,
+      "user_rating": 8.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A landmark farewell concert reunites pioneering heavy metal performers for a high-energy celebration of classic songs. The live event also features guest artists and other bands performing tributes and original material, creating a powerful salute to the genre’s enduring legacy.",
+      "trailer": null,
+      "imdb_id": "tt46055956",
+      "tmdb_id": 1515139,
+      "watchmode_url": "https://www.watchmode.com/title/11021641/",
+      "poster_path": "/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
+      "backdrop_path": "/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg"
+    },
+    {
+      "id": 1795869,
+      "title": "The Blood Countess",
+      "year": 2026,
+      "release_date": "2026-10-29",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy",
+        "Mystery"
+      ],
+      "runtime_minutes": 119,
+      "user_rating": 5.1,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A powerful vampire and her maid pursue a legendary elixir and a book that could endanger their supernatural world. Chasing them are a determined police inspector, two vampire experts, an unconventional nephew, and his therapist.",
+      "trailer": "https://www.youtube.com/watch?v=jNG343pAJxI",
+      "imdb_id": "tt28151657",
+      "tmdb_id": 1251608,
+      "watchmode_url": "https://www.watchmode.com/title/1795869/",
+      "poster_path": "/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
+      "backdrop_path": "/9IdxfMvkZzO8wjnygz784OzaK03.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9IdxfMvkZzO8wjnygz784OzaK03.jpg"
     }
   ],
   "kids": [
-    {
-      "id": 178503,
-      "title": "Coco",
-      "year": 2017,
-      "release_date": "2017-10-27",
-      "genres": [
-        "Family",
-        "Animation",
-        "Music",
-        "Adventure"
-      ],
-      "runtime_minutes": 105,
-      "user_rating": 8.5,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "Despite a generations-old family ban on music, a young aspiring guitarist pursues his dream and is swept into the vibrant Land of the Dead. With help from a charming trickster, he races to uncover the truth about his family’s history and find a way home.",
-      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
-      "imdb_id": "tt2380307",
-      "tmdb_id": 354912,
-      "watchmode_url": "https://www.watchmode.com/title/178503/",
-      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
-    },
     {
       "id": 1749638,
       "title": "The Wild Robot",
@@ -1015,6 +991,30 @@
       "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+    },
+    {
+      "id": 1409773,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "release_date": "1993-10-09",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "runtime_minutes": 76,
+      "user_rating": 8.1,
+      "critic_score": 89,
+      "us_rating": "PG",
+      "plot": "A weary Halloween figure discovers the wonders of Christmas and decides to bring the holiday’s cheer to a world built around scares. As the unusual plan takes shape, a thoughtful rag-doll companion worries about its consequences and tries to set things right.",
+      "trailer": "https://www.youtube.com/watch?v=lVtetOjX_vk",
+      "imdb_id": "tt0107688",
+      "tmdb_id": 9479,
+      "watchmode_url": "https://www.watchmode.com/title/1409773/",
+      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
       "id": 1982660,
