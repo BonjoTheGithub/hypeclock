@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-09T17:11:13.996Z",
+  "generated_at": "2026-10-10T15:57:26.570Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -41,7 +41,7 @@ window.HYPE_MOVIES={
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.5,
+      "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
@@ -74,9 +74,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop_path": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg"
     },
     {
       "id": 1823717,
@@ -122,29 +122,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/wVg11RahrRfghgqViuoJgcJL1iM.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wVg11RahrRfghgqViuoJgcJL1iM.jpg"
-    },
-    {
-      "id": 1793884,
-      "title": "Digger",
-      "year": 2026,
-      "release_date": "2026-09-28",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 129,
-      "user_rating": 7.5,
-      "critic_score": 49,
-      "us_rating": "R",
-      "plot": "A powerful oil tycoon faces a frantic crisis after a disaster linked to his company threatens to unleash catastrophe. As he works with political leaders and scientists to respond, he must confront the consequences of his actions and the forces shaping the unfolding emergency.",
-      "trailer": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
-      "imdb_id": "tt31450459",
-      "tmdb_id": 1248832,
-      "watchmode_url": "https://www.watchmode.com/title/1793884/",
-      "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
     },
     {
       "id": 1624092,
@@ -310,6 +287,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
     },
     {
+      "id": 1793884,
+      "title": "Digger",
+      "year": 2026,
+      "release_date": "2026-09-28",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtime_minutes": 129,
+      "user_rating": 7.5,
+      "critic_score": 49,
+      "us_rating": "R",
+      "plot": "A powerful oil tycoon faces a frantic crisis after a disaster linked to his company threatens to unleash catastrophe. As he works with political leaders and scientists to respond, he must confront the consequences of his actions and the forces shaping the unfolding emergency.",
+      "trailer": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
+      "imdb_id": "tt31450459",
+      "tmdb_id": 1248832,
+      "watchmode_url": "https://www.watchmode.com/title/1793884/",
+      "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop_path": "/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg"
+    },
+    {
       "id": 11042837,
       "title": "The Love Hypothesis",
       "year": 2026,
@@ -381,6 +381,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
+      "id": 1784996,
+      "title": "Animals",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "runtime_minutes": 106,
+      "user_rating": 2.1,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "After the son of a mayoral candidate is kidnapped, the candidate and his wife have only a few hours to find the ransom. With most of their money tied up in the campaign, they must take desperate steps that bring hidden parts of their lives into view.",
+      "trailer": "https://www.youtube.com/watch?v=mlBfQJ8oxB0",
+      "imdb_id": "tt31049299",
+      "tmdb_id": 1236045,
+      "watchmode_url": "https://www.watchmode.com/title/1784996/",
+      "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
+    },
+    {
       "id": 1513886,
       "title": "Resident Evil: Welcome to Raccoon City",
       "year": 2021,
@@ -403,29 +426,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
-    },
-    {
-      "id": 1818331,
-      "title": "Verity",
-      "year": 2026,
-      "release_date": "2026-09-30",
-      "genres": [
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime_minutes": 114,
-      "user_rating": 6.2,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A struggling writer takes a ghostwriting job for a bestselling novelist who is unable to work after an accident. While staying at the novelist’s home to study her notes, she discovers unsettling material and begins to question what is happening within the household.",
-      "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
-      "imdb_id": "tt32261958",
-      "tmdb_id": 1283515,
-      "watchmode_url": "https://www.watchmode.com/title/1818331/",
-      "poster_path": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-      "backdrop_path": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9qxyrJfjk577ym5WD6HCDmunoyO.jpg"
     },
     {
       "id": 1782549,
@@ -476,121 +476,6 @@ window.HYPE_MOVIES={
   ],
   "upcoming": [
     {
-      "id": 1788404,
-      "title": "A Prayer for the Dying",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 5.7,
-      "critic_score": null,
-      "us_rating": "NR",
-      "plot": "In 1870, a small Wisconsin town of Scandinavian settlers struggles with the aftermath of the Civil War. When a dangerous new threat emerges, a man must choose between protecting his young family and defending the community that gave him a renewed sense of purpose.",
-      "trailer": "https://www.youtube.com/watch?v=xbQjXVk9Sps",
-      "imdb_id": "tt31183803",
-      "tmdb_id": 1241046,
-      "watchmode_url": "https://www.watchmode.com/title/1788404/",
-      "poster_path": "/kYIhGPwr5ztkvnRcD4GzZGfuNhv.jpg",
-      "backdrop_path": "/yMqBFMvAGPw5aM4azNN07kSjNM0.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYIhGPwr5ztkvnRcD4GzZGfuNhv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yMqBFMvAGPw5aM4azNN07kSjNM0.jpg"
-    },
-    {
-      "id": 1821329,
-      "title": "Tenzing",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "runtime_minutes": 126,
-      "user_rating": 7.5,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "trailer": "https://www.youtube.com/watch?v=KkYCY5YR12U",
-      "imdb_id": "tt6262770",
-      "tmdb_id": 1288069,
-      "watchmode_url": "https://www.watchmode.com/title/1821329/",
-      "poster_path": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "backdrop_path": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg"
-    },
-    {
-      "id": 1892191,
-      "title": "Musk",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Documentary"
-      ],
-      "runtime_minutes": 235,
-      "user_rating": 7,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "An incisive look behind the legend of a widely celebrated inventor-entrepreneur whose influence reaches across the world. The film focuses on the figure behind that public reputation and the impact he has on the world in which people live.",
-      "trailer": "https://www.youtube.com/watch?v=eY_8SyndC10",
-      "imdb_id": "tt27041231",
-      "tmdb_id": 1096228,
-      "watchmode_url": "https://www.watchmode.com/title/1892191/",
-      "poster_path": "/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
-      "backdrop_path": "/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fAyZqyN78VYb0usFgsmYjxZIFcN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rbF8b5NqcN5SprJmWz9CwGquMGa.jpg"
-    },
-    {
-      "id": 1920228,
-      "title": "Devour",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Action"
-      ],
-      "runtime_minutes": 113,
-      "user_rating": 5.2,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "After a disastrous gig leaves an all-girl heavy metal band stranded, its members find a woman in danger in a town ruled by a warlock. Surrounded by cannibals, vampires, and a deadly werewolf, they must fight to survive.",
-      "trailer": "https://www.youtube.com/watch?v=jfXzYeXd9Y4",
-      "imdb_id": "tt14541160",
-      "tmdb_id": 1406253,
-      "watchmode_url": "https://www.watchmode.com/title/1920228/",
-      "poster_path": "/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
-      "backdrop_path": "/mH4p9AFcadWTSUVkgVOODXkgays.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mH4p9AFcadWTSUVkgVOODXkgays.jpg"
-    },
-    {
-      "id": 1980029,
-      "title": "Adult Supervision",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "runtime_minutes": 108,
-      "user_rating": 6.9,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Three fathers join their teenage daughters on a school trip to a remote island, where a peaceful getaway gives way to unexpected problems. Their different parenting styles spark tension, and as the situation grows harder to manage, each father must reckon with how past experiences shape his choices.",
-      "trailer": "https://www.youtube.com/watch?v=ke00C6G7ewg",
-      "imdb_id": "tt36462731",
-      "tmdb_id": 1461432,
-      "watchmode_url": "https://www.watchmode.com/title/1980029/",
-      "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
-      "backdrop_path": "/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg"
-    },
-    {
       "id": 11000067,
       "title": "Always Lalisa",
       "year": 2026,
@@ -602,7 +487,7 @@ window.HYPE_MOVIES={
       "runtime_minutes": 98,
       "user_rating": 7.2,
       "critic_score": null,
-      "us_rating": null,
+      "us_rating": "NR",
       "plot": "Documentary following global superstar LISA during a transformative year away from BLACKPINK, the K-pop phenomenon that made her one of the world's most recognizable performers. Documenting a year of risk, reinvention, and self-discovery as LISA begins to define her next chapter.",
       "trailer": "https://www.youtube.com/watch?v=KAjC7EFzGKU",
       "imdb_id": "tt37108970",
@@ -624,7 +509,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 135,
-      "user_rating": 7.7,
+      "user_rating": 7.6,
       "critic_score": 85,
       "us_rating": null,
       "plot": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
@@ -643,13 +528,15 @@ window.HYPE_MOVIES={
       "year": 2026,
       "release_date": "2026-10-14",
       "genres": [
-        "Animation"
+        "Animation",
+        "Drama",
+        "Family"
       ],
       "runtime_minutes": 90,
       "user_rating": 7.6,
       "critic_score": 79,
       "us_rating": null,
-      "plot": "In rural France, Christophe (10) tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+      "plot": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
       "trailer": null,
       "imdb_id": "tt36639956",
       "tmdb_id": 947493,
@@ -668,7 +555,7 @@ window.HYPE_MOVIES={
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7.2,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -870,7 +757,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1985219,
-      "title": "Sanguine",
+      "title": "Species",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -938,9 +825,150 @@ window.HYPE_MOVIES={
       "backdrop_path": "/9IdxfMvkZzO8wjnygz784OzaK03.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jKIAwCSDTv9i4J6KrAY1YpEvrGH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9IdxfMvkZzO8wjnygz784OzaK03.jpg"
+    },
+    {
+      "id": 1942282,
+      "title": "Free at Heart",
+      "year": 2025,
+      "release_date": "2026-10-29",
+      "genres": [
+        "Drama",
+        "Family",
+        "Romance"
+      ],
+      "runtime_minutes": 116,
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A sheltered teen’s small-town routine is shaken when his family takes in another boy his age. As the two grow closer, they uncover a complicated family connection that strains trust at home and forces them to navigate intense feelings, secrecy, and the pressure of community judgment.",
+      "trailer": "https://www.youtube.com/watch?v=0tVpYYFlbJw",
+      "imdb_id": "tt40204609",
+      "tmdb_id": 1427540,
+      "watchmode_url": "https://www.watchmode.com/title/1942282/",
+      "poster_path": "/byxSlSW5KB0xkvTSBRkD4LZtxNL.jpg",
+      "backdrop_path": "/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/byxSlSW5KB0xkvTSBRkD4LZtxNL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg"
+    },
+    {
+      "id": 11026751,
+      "title": "The Restoration at Grayson Manor",
+      "year": 2025,
+      "release_date": "2026-10-29",
+      "genres": [
+        "Horror"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 5.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "After an accident leaves a young man without his hands, his mother turns to radical technology in hopes of helping him recover. Their efforts unfold at the family manor, where the promise of restoration brings difficult choices and unsettling uncertainty.",
+      "trailer": "https://www.youtube.com/watch?v=eb2OTdBLKUg",
+      "imdb_id": "tt32767134",
+      "tmdb_id": 1528009,
+      "watchmode_url": "https://www.watchmode.com/title/11026751/",
+      "poster_path": "/m9aKkiCwlQWri27z9WEwezfkUcw.jpg",
+      "backdrop_path": "/eOassvwSzhNfHzPA00XtDD0jYs4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m9aKkiCwlQWri27z9WEwezfkUcw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eOassvwSzhNfHzPA00XtDD0jYs4.jpg"
+    },
+    {
+      "id": 1421481,
+      "title": "The Strange Little Cat",
+      "year": 2013,
+      "release_date": "2026-10-30",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtime_minutes": 72,
+      "user_rating": 6.3,
+      "critic_score": 80,
+      "us_rating": null,
+      "plot": "It is a Saturday in autumn, and Karin and Simon are visiting their parents and youngest sister Clara. This family gathering provides the occasion for a dinner together, at which other relatives appear over the course of the day. While the family members animate the apartment’s space with their conversations, everyday activities and cooking preparations, the cat and dog range through the various rooms. they too become a central element in this quotidian familial dance that repeatedly manifests stylized elements, disrupting any naturalistic mode of presentation. In this way, adjoining spaces open up between family drama, fairy tale and the psychological study of a mother.",
+      "trailer": "https://www.youtube.com/watch?v=ZSIqAjoz-p0",
+      "imdb_id": "tt2586000",
+      "tmdb_id": 164328,
+      "watchmode_url": "https://www.watchmode.com/title/1421481/",
+      "poster_path": "/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
+      "backdrop_path": "/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg"
+    },
+    {
+      "id": 1647844,
+      "title": "Wild Horse Nine",
+      "year": 2026,
+      "release_date": "2026-10-30",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime_minutes": 116,
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "trailer": "https://www.youtube.com/watch?v=Haw_sznA5aQ",
+      "imdb_id": "tt15799564",
+      "tmdb_id": 891621,
+      "watchmode_url": "https://www.watchmode.com/title/1647844/",
+      "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg"
+    },
+    {
+      "id": 11074184,
+      "title": "Nuisance Bear",
+      "year": 2026,
+      "release_date": "2026-11-01",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 7,
+      "critic_score": 70,
+      "us_rating": null,
+      "plot": "A polar bear struggles to survive as its ancient migration brings it into contact with tourists, wildlife officers, and hunters. As people label the sacred predator a nuisance, the film explores who belongs in a landscape shared by humans and wildlife.",
+      "trailer": null,
+      "imdb_id": "tt39150922",
+      "tmdb_id": 1595210,
+      "watchmode_url": "https://www.watchmode.com/title/11074184/",
+      "poster_path": "/An1QdmHWNxX2V03kq3akOCid69r.jpg",
+      "backdrop_path": "/hqDiQteXWMoyezEmbPy0nRYdUST.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/An1QdmHWNxX2V03kq3akOCid69r.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hqDiQteXWMoyezEmbPy0nRYdUST.jpg"
     }
   ],
   "kids": [
+    {
+      "id": 178503,
+      "title": "Coco",
+      "year": 2017,
+      "release_date": "2017-10-27",
+      "genres": [
+        "Family",
+        "Animation",
+        "Music",
+        "Adventure"
+      ],
+      "runtime_minutes": 105,
+      "user_rating": 8.5,
+      "critic_score": 89,
+      "us_rating": "PG",
+      "plot": "Despite a generations-old family ban on music, a young aspiring guitarist pursues his dream and is swept into the vibrant Land of the Dead. With help from a charming trickster, he races to uncover the truth about his family’s history and find a way home.",
+      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
+      "imdb_id": "tt2380307",
+      "tmdb_id": 354912,
+      "watchmode_url": "https://www.watchmode.com/title/178503/",
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
+    },
     {
       "id": 1749638,
       "title": "The Wild Robot",
@@ -1041,32 +1069,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
-    },
-    {
-      "id": 199607,
-      "title": "Despicable Me",
-      "year": 2010,
-      "release_date": "2010-07-08",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Crime",
-        "Science Fiction",
-        "Family"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 7.7,
-      "critic_score": 76,
-      "us_rating": null,
-      "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
-      "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
-      "imdb_id": "tt1323594",
-      "tmdb_id": 20352,
-      "watchmode_url": "https://www.watchmode.com/title/199607/",
-      "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
-      "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg"
     },
     {
       "id": 1624092,
