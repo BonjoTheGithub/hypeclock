@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-10T15:57:26.570Z",
+  "generated_at": "2026-10-11T16:25:29.407Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -50,9 +50,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg"
     },
     {
       "id": 1773876,
@@ -124,6 +124,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wVg11RahrRfghgqViuoJgcJL1iM.jpg"
     },
     {
+      "id": 1784996,
+      "title": "Animals",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "runtime_minutes": 106,
+      "user_rating": 4.7,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "After the son of a mayoral candidate is kidnapped, the candidate and his wife have only a few hours to find the ransom. With most of their money tied up in the campaign, they must take desperate steps that bring hidden parts of their lives into view.",
+      "trailer": "https://www.youtube.com/watch?v=mlBfQJ8oxB0",
+      "imdb_id": "tt31049299",
+      "tmdb_id": 1236045,
+      "watchmode_url": "https://www.watchmode.com/title/1784996/",
+      "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
+    },
+    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -184,7 +207,7 @@ window.HYPE_MOVIES={
       "user_rating": 6.5,
       "critic_score": 66,
       "us_rating": "PG-13",
-      "plot": "A former soldier and an unlikely partner race across dangerous territory to complete a critical medical delivery. Hunted by a ruthless cartel, they must stay ahead of their pursuers while trying to save a little girl’s life.",
+      "plot": "A former soldier and his unlikely partner must transport a vital medical delivery while a ruthless cartel pursues them. What begins as a simple courier job becomes a dangerous race against time, with mounting obstacles threatening their chance to reach a young girl in need.",
       "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
       "imdb_id": "tt31349844",
       "tmdb_id": 1377237,
@@ -226,7 +249,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 98,
-      "user_rating": 5.7,
+      "user_rating": 5.6,
       "critic_score": 58,
       "us_rating": "PG-13",
       "plot": "Two climbers travel to Thailand to attempt a forbidden route across Mount Kwan, hoping to confront their fears. Thousands of feet above the ground, unstable paths, extreme exposure, and limited options turn the dangerous journey into a desperate fight to survive.",
@@ -238,29 +261,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg"
-    },
-    {
-      "id": 1779945,
-      "title": "The Fix",
-      "year": 2026,
-      "release_date": "2026-09-10",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 142,
-      "user_rating": 4.9,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn former CIA operatives sets out for Tehran to pursue a life-changing score, confronting the consequences of their past while risking everything on an ambitious mission.",
-      "trailer": "https://www.youtube.com/watch?v=NYC0v8xqQdM",
-      "imdb_id": "tt9601292",
-      "tmdb_id": 1228834,
-      "watchmode_url": "https://www.watchmode.com/title/1779945/",
-      "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-      "backdrop_path": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg"
     },
     {
       "id": 11229413,
@@ -287,6 +287,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
     },
     {
+      "id": 1779945,
+      "title": "The Fix",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 142,
+      "user_rating": 4.9,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn former CIA operatives sets out for Tehran to pursue a life-changing score, confronting the consequences of their past while risking everything on an ambitious mission.",
+      "trailer": "https://www.youtube.com/watch?v=NYC0v8xqQdM",
+      "imdb_id": "tt9601292",
+      "tmdb_id": 1228834,
+      "watchmode_url": "https://www.watchmode.com/title/1779945/",
+      "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "backdrop_path": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg"
+    },
+    {
       "id": 1793884,
       "title": "Digger",
       "year": 2026,
@@ -305,9 +328,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1248832,
       "watchmode_url": "https://www.watchmode.com/title/1793884/",
       "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_path": "/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
     },
     {
       "id": 11042837,
@@ -381,29 +404,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
-      "id": 1784996,
-      "title": "Animals",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 2.1,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "After the son of a mayoral candidate is kidnapped, the candidate and his wife have only a few hours to find the ransom. With most of their money tied up in the campaign, they must take desperate steps that bring hidden parts of their lives into view.",
-      "trailer": "https://www.youtube.com/watch?v=mlBfQJ8oxB0",
-      "imdb_id": "tt31049299",
-      "tmdb_id": 1236045,
-      "watchmode_url": "https://www.watchmode.com/title/1784996/",
-      "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-      "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
-    },
-    {
       "id": 1513886,
       "title": "Resident Evil: Welcome to Raccoon City",
       "year": 2021,
@@ -428,6 +428,30 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
+      "id": 1725513,
+      "title": "Matchbox the Movie",
+      "year": 2026,
+      "release_date": "2026-10-05",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "runtime_minutes": 127,
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+      "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
+      "imdb_id": "tt28498219",
+      "tmdb_id": 1148365,
+      "watchmode_url": "https://www.watchmode.com/title/1725513/",
+      "poster_path": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "backdrop_path": "/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg"
+    },
+    {
       "id": 1782549,
       "title": "Pinocchio: Unstrung",
       "year": 2026,
@@ -450,28 +474,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg"
-    },
-    {
-      "id": 1225505,
-      "title": "Siren: Erotic Ghost",
-      "year": 2004,
-      "release_date": "2004-10-22",
-      "genres": [
-        "Horror"
-      ],
-      "runtime_minutes": 76,
-      "user_rating": 4,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "When a crew of bank robbers believes that an alluring young woman has blown their cover, they kidnap the girl. Back at their hideout they develop sinister plans to rape and then kill her. When one of the crooks mysteriously turns up dead however, they begin to realize that their intended victim may be a powerful, vindictive, supernatural force.",
-      "trailer": null,
-      "imdb_id": "tt0468862",
-      "tmdb_id": 52720,
-      "watchmode_url": "https://www.watchmode.com/title/1225505/",
-      "poster_path": "/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
-      "backdrop_path": "/sHLDucxRYKTL73tzd922Eynudxb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sHLDucxRYKTL73tzd922Eynudxb.jpg"
     }
   ],
   "upcoming": [
@@ -497,6 +499,28 @@ window.HYPE_MOVIES={
       "backdrop_path": "/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg"
+    },
+    {
+      "id": 1975495,
+      "title": "I See Buildings Fall Like Lightning",
+      "year": 2026,
+      "release_date": "2026-10-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 6.7,
+      "critic_score": 72,
+      "us_rating": null,
+      "plot": "Five childhood friends grow up sharing games, school escapes, and big dreams about the future. Now in their thirties, they’re facing the quiet pressure of adulthood as the life they once imagined starts to feel further and further away.",
+      "trailer": null,
+      "imdb_id": "tt38991615",
+      "tmdb_id": 1455247,
+      "watchmode_url": "https://www.watchmode.com/title/1975495/",
+      "poster_path": "/8NyU9Nn6QvPtxYPRCRwETcBtTBd.jpg",
+      "backdrop_path": "/hpeJZsjwcySRYOxveHZlETVBwE3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8NyU9Nn6QvPtxYPRCRwETcBtTBd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpeJZsjwcySRYOxveHZlETVBwE3.jpg"
     },
     {
       "id": 1689779,
@@ -555,7 +579,7 @@ window.HYPE_MOVIES={
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7.6,
+      "user_rating": 7,
       "critic_score": null,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -649,7 +673,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 145,
-      "user_rating": 7.3,
+      "user_rating": 7.2,
       "critic_score": 95,
       "us_rating": null,
       "plot": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
@@ -663,6 +687,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg"
     },
     {
+      "id": 1703778,
+      "title": "A Talent for Murder",
+      "year": 2026,
+      "release_date": "2026-10-22",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtime_minutes": 106,
+      "user_rating": 7.2,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+      "trailer": "https://www.youtube.com/watch?v=IzFgGhFrx0o",
+      "imdb_id": "tt14129116",
+      "tmdb_id": 1084409,
+      "watchmode_url": "https://www.watchmode.com/title/1703778/",
+      "poster_path": "/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "backdrop_path": "/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg"
+    },
+    {
       "id": 1987809,
       "title": "The Diary of a Chambermaid",
       "year": 2026,
@@ -672,7 +719,7 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 94,
-      "user_rating": 6.7,
+      "user_rating": 6.8,
       "critic_score": 76,
       "us_rating": null,
       "plot": "Gianina, a young Romanian chambermaid, works for a bourgeois family in Bordeaux and spends her evenings rehearsing a maid’s story with an amateur theater group. She cares for her employer’s son while her own daughter grows up far away in Romania, and as Christmas nears, the hope of reunion grows stronger.",
@@ -742,7 +789,7 @@ window.HYPE_MOVIES={
         "War"
       ],
       "runtime_minutes": 130,
-      "user_rating": 5.9,
+      "user_rating": 6,
       "critic_score": null,
       "us_rating": null,
       "plot": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
@@ -757,7 +804,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1985219,
-      "title": "Species",
+      "title": "Sanguine",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -895,52 +942,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg"
-    },
-    {
-      "id": 1647844,
-      "title": "Wild Horse Nine",
-      "year": 2026,
-      "release_date": "2026-10-30",
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Thriller"
-      ],
-      "runtime_minutes": 116,
-      "user_rating": 7.9,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-      "trailer": "https://www.youtube.com/watch?v=Haw_sznA5aQ",
-      "imdb_id": "tt15799564",
-      "tmdb_id": 891621,
-      "watchmode_url": "https://www.watchmode.com/title/1647844/",
-      "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg"
-    },
-    {
-      "id": 11074184,
-      "title": "Nuisance Bear",
-      "year": 2026,
-      "release_date": "2026-11-01",
-      "genres": [
-        "Documentary"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 7,
-      "critic_score": 70,
-      "us_rating": null,
-      "plot": "A polar bear struggles to survive as its ancient migration brings it into contact with tourists, wildlife officers, and hunters. As people label the sacred predator a nuisance, the film explores who belongs in a landscape shared by humans and wildlife.",
-      "trailer": null,
-      "imdb_id": "tt39150922",
-      "tmdb_id": 1595210,
-      "watchmode_url": "https://www.watchmode.com/title/11074184/",
-      "poster_path": "/An1QdmHWNxX2V03kq3akOCid69r.jpg",
-      "backdrop_path": "/hqDiQteXWMoyezEmbPy0nRYdUST.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/An1QdmHWNxX2V03kq3akOCid69r.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hqDiQteXWMoyezEmbPy0nRYdUST.jpg"
     }
   ],
   "kids": [
@@ -1057,7 +1058,7 @@ window.HYPE_MOVIES={
         "Family"
       ],
       "runtime_minutes": 109,
-      "user_rating": 8,
+      "user_rating": 7.9,
       "critic_score": 84,
       "us_rating": null,
       "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
