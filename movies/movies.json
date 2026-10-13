@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-12T19:59:57.139Z",
+  "generated_at": "2026-10-13T17:48:10.391Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -121,31 +121,9 @@
       "tmdb_id": 1148365,
       "watchmode_url": "https://www.watchmode.com/title/1725513/",
       "poster_path": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "backdrop_path": "/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
+      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg"
-    },
-    {
-      "id": 191063,
-      "title": "Loves of a French Pussycat",
-      "year": 1972,
-      "release_date": "1972-03-09",
-      "genres": [
-        "Comedy"
-      ],
-      "runtime_minutes": 94,
-      "user_rating": 4.5,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "Rolf, a sex-advice columnist and a lecher, has affairs with numerous women, but never a permanent relationship. Suzanne, one of his ex-lovers, offers to bet that no woman can get Rolf to propose marriage, a bet her girlfriend Andrea eagerly accepts. But there's a catch: To win the bet, Andrea must get the womanizing Rolf to commit to marriage without first going to bed with him.",
-      "trailer": null,
-      "imdb_id": "tt0068986",
-      "tmdb_id": 264980,
-      "watchmode_url": "https://www.watchmode.com/title/191063/",
-      "poster_path": "/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
-      "backdrop_path": "/wVg11RahrRfghgqViuoJgcJL1iM.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WGq9cMuj09tnTJ5wdkINOJff04.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wVg11RahrRfghgqViuoJgcJL1iM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
     },
     {
       "id": 1784996,
@@ -165,9 +143,9 @@
       "imdb_id": "tt31049299",
       "tmdb_id": 1236045,
       "watchmode_url": "https://www.watchmode.com/title/1784996/",
-      "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "poster_path": "/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
       "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
     },
     {
@@ -208,14 +186,14 @@
       "user_rating": 6.4,
       "critic_score": 78,
       "us_rating": "PG-13",
-      "plot": "After a mysterious cosmic event tears an ordinary suburban neighborhood from its surroundings, a family finds itself in an unknown, prehistoric wilderness. With familiar streets transformed and danger closing in, they must work together to survive, protect one another, and find a way forward.",
+      "plot": "After a mysterious cosmic event tears an ordinary suburban neighborhood from its familiar surroundings, a family finds itself in an unknown and increasingly dangerous place. With the landscape transformed and prehistoric dangers nearby, they must stick together and navigate the strange new world in hopes of surviving.",
       "trailer": "https://www.youtube.com/watch?v=3oB9AxspVow",
       "imdb_id": "tt27165187",
       "tmdb_id": 1101383,
       "watchmode_url": "https://www.watchmode.com/title/1882453/",
-      "poster_path": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "poster_path": "/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
       "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
@@ -237,9 +215,9 @@
       "tmdb_id": 1377237,
       "watchmode_url": "https://www.watchmode.com/title/1875027/",
       "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iXR79oKsLHwLno9jdzxxeFP21sy.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg"
     },
     {
       "id": 1821586,
@@ -381,7 +359,7 @@
     {
       "id": 1855581,
       "title": "Obsession",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-05-13",
       "genres": [
         "Horror",
@@ -473,32 +451,33 @@
       "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg"
+    },
+    {
+      "id": 1782549,
+      "title": "Pinocchio: Unstrung",
+      "year": 2026,
+      "release_date": "2026-07-22",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Mystery"
+      ],
+      "runtime_minutes": 82,
+      "user_rating": 5.6,
+      "critic_score": 55,
+      "us_rating": "R",
+      "plot": "Created by a toymaker and influenced by a sinister cricket, a wooden boy begins a violent quest to become human. As he pursues this goal piece by piece, the dark bond shaping his journey turns a familiar fairy tale into a grim horror story.",
+      "trailer": "https://www.youtube.com/watch?v=Y4lZewE6JMI",
+      "imdb_id": "tt30887701",
+      "tmdb_id": 1232569,
+      "watchmode_url": "https://www.watchmode.com/title/1782549/",
+      "poster_path": "/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop_path": "/xenXu6gt6iTJBNH80CNr7kg5q2z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xenXu6gt6iTJBNH80CNr7kg5q2z.jpg"
     }
   ],
   "upcoming": [
-    {
-      "id": 11000067,
-      "title": "Always Lisa",
-      "year": 2026,
-      "release_date": "2026-10-12",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 7.2,
-      "critic_score": null,
-      "us_rating": "NR",
-      "plot": "A documentary follows a global superstar through a transformative year away from the group that helped make her a worldwide performer. As she takes risks and explores new possibilities, she begins to shape what comes next and discover more about herself.",
-      "trailer": "https://www.youtube.com/watch?v=KAjC7EFzGKU",
-      "imdb_id": "tt37108970",
-      "tmdb_id": 1489932,
-      "watchmode_url": "https://www.watchmode.com/title/11000067/",
-      "poster_path": "/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-      "backdrop_path": "/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg"
-    },
     {
       "id": 1975495,
       "title": "I See Buildings Fall Like Lightning",
@@ -511,7 +490,7 @@
       "user_rating": 6.8,
       "critic_score": 72,
       "us_rating": null,
-      "plot": "Five childhood friends grow up sharing games, school escapes, and big dreams about the future. Now in their thirties, they’re facing the quiet pressure of adulthood as the life they once imagined starts to feel further and further away.",
+      "plot": "Once inseparable, a group of childhood friends spent their early years playing, skipping school, and imagining the lives they might lead. Now in their thirties, they face the quiet realization that the future they pictured may be slipping out of reach.",
       "trailer": null,
       "imdb_id": "tt38991615",
       "tmdb_id": 1455247,
@@ -608,9 +587,9 @@
       "imdb_id": "tt45368240",
       "tmdb_id": 1765072,
       "watchmode_url": "https://www.watchmode.com/title/11229535/",
-      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster_path": "/l6iuf8OaKqvtaP56IYi0Aj6FSSc.jpg",
       "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l6iuf8OaKqvtaP56IYi0Aj6FSSc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
     },
     {
@@ -650,7 +629,7 @@
       "runtime_minutes": 108,
       "user_rating": 7.9,
       "critic_score": null,
-      "us_rating": "R",
+      "us_rating": null,
       "plot": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
       "trailer": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
       "imdb_id": "tt34890576",
@@ -732,7 +711,7 @@
     },
     {
       "id": 1987809,
-      "title": "Diary of a Chambermaid",
+      "title": "The Diary of a Chambermaid",
       "year": 2026,
       "release_date": "2026-10-23",
       "genres": [
@@ -939,6 +918,30 @@
       "backdrop_path": "/eOassvwSzhNfHzPA00XtDD0jYs4.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/m9aKkiCwlQWri27z9WEwezfkUcw.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/eOassvwSzhNfHzPA00XtDD0jYs4.jpg"
+    },
+    {
+      "id": 1421481,
+      "title": "The Strange Little Cat",
+      "year": 2013,
+      "release_date": "2026-10-30",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtime_minutes": 72,
+      "user_rating": 6.3,
+      "critic_score": 80,
+      "us_rating": "Not Rated",
+      "plot": "It is a Saturday in autumn, and Karin and Simon are visiting their parents and youngest sister Clara. This family gathering provides the occasion for a dinner together, at which other relatives appear over the course of the day. While the family members animate the apartment’s space with their conversations, everyday activities and cooking preparations, the cat and dog range through the various rooms. they too become a central element in this quotidian familial dance that repeatedly manifests stylized elements, disrupting any naturalistic mode of presentation. In this way, adjoining spaces open up between family drama, fairy tale and the psychological study of a mother.",
+      "trailer": "https://www.youtube.com/watch?v=ZSIqAjoz-p0",
+      "imdb_id": "tt2586000",
+      "tmdb_id": 164328,
+      "watchmode_url": "https://www.watchmode.com/title/1421481/",
+      "poster_path": "/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
+      "backdrop_path": "/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg"
     }
   ],
   "kids": [
@@ -1069,6 +1072,32 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
     },
     {
+      "id": 199607,
+      "title": "Despicable Me",
+      "year": 2010,
+      "release_date": "2010-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Science Fiction",
+        "Family"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 7.7,
+      "critic_score": 76,
+      "us_rating": null,
+      "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
+      "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
+      "imdb_id": "tt1323594",
+      "tmdb_id": 20352,
+      "watchmode_url": "https://www.watchmode.com/title/199607/",
+      "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg"
+    },
+    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -1142,31 +1171,6 @@
       "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
-    },
-    {
-      "id": 11036529,
-      "title": "Doraemon: Nobita and the New Castle of the Undersea Devil",
-      "year": 2026,
-      "release_date": "2026-02-27",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Family"
-      ],
-      "runtime_minutes": 102,
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A group of friends discovers a secret underwater castle filled with mysteries and riches. With the help of futuristic gadgets, they dive into an ocean adventure through a breathtaking aquatic world, combining humor, teamwork, and imagination as they explore its hidden wonders.",
-      "trailer": null,
-      "imdb_id": "tt38201958",
-      "tmdb_id": 1542261,
-      "watchmode_url": "https://www.watchmode.com/title/11036529/",
-      "poster_path": "/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-      "backdrop_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pxd9rc03EMMln3tVFdfd427Fpsi.jpg"
     },
     {
       "id": 1840434,
