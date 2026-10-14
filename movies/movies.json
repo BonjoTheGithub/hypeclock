@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-13T17:48:10.391Z",
+  "generated_at": "2026-10-14T15:28:55.000Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -41,7 +41,7 @@
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.5,
+      "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After a devastating war, a legendary king begins a long, perilous journey home. Along the way, he faces powerful gods, terrifying monsters, dangerous temptations, and difficult choices that test his cleverness, courage, and humanity, while his family struggles with his prolonged absence and uncertainty about his return.",
@@ -50,9 +50,9 @@
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
     },
     {
       "id": 1773876,
@@ -74,9 +74,9 @@
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop_path": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg"
     },
     {
       "id": 1823717,
@@ -121,9 +121,9 @@
       "tmdb_id": 1148365,
       "watchmode_url": "https://www.watchmode.com/title/1725513/",
       "poster_path": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "backdrop_path": "/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
     },
     {
       "id": 1784996,
@@ -135,8 +135,8 @@
         "Drama"
       ],
       "runtime_minutes": 106,
-      "user_rating": 5.8,
-      "critic_score": 35,
+      "user_rating": 5.9,
+      "critic_score": 34,
       "us_rating": "R",
       "plot": "After the son of a mayoral candidate is kidnapped, the candidate and his wife have only a few hours to find the ransom. With most of their money tied up in the campaign, they must take desperate steps that bring hidden parts of their lives into view.",
       "trailer": "https://www.youtube.com/watch?v=mlBfQJ8oxB0",
@@ -147,30 +147,6 @@
       "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
-    },
-    {
-      "id": 1624092,
-      "title": "Coyote vs. Acme",
-      "year": 2026,
-      "release_date": "2026-08-17",
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Family"
-      ],
-      "runtime_minutes": 103,
-      "user_rating": 7.5,
-      "critic_score": 87,
-      "us_rating": "PG",
-      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
-      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
-      "imdb_id": "tt1756855",
-      "tmdb_id": 1204680,
-      "watchmode_url": "https://www.watchmode.com/title/1624092/",
-      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
     },
     {
       "id": 1882453,
@@ -215,9 +191,9 @@
       "tmdb_id": 1377237,
       "watchmode_url": "https://www.watchmode.com/title/1875027/",
       "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_path": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
     },
     {
       "id": 1821586,
@@ -251,7 +227,7 @@
         "Thriller"
       ],
       "runtime_minutes": 98,
-      "user_rating": 5.6,
+      "user_rating": 5.5,
       "critic_score": 58,
       "us_rating": "PG-13",
       "plot": "Two climbers travel to Thailand to attempt a forbidden route across Mount Kwan, hoping to confront their fears. Thousands of feet above the ground, unstable paths, extreme exposure, and limited options turn the dangerous journey into a desperate fight to survive.",
@@ -306,9 +282,9 @@
       "imdb_id": "tt9601292",
       "tmdb_id": 1228834,
       "watchmode_url": "https://www.watchmode.com/title/1779945/",
-      "poster_path": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
       "backdrop_path": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg"
     },
     {
@@ -334,29 +310,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg"
     },
     {
-      "id": 1793884,
-      "title": "Digger",
-      "year": 2026,
-      "release_date": "2026-09-28",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 129,
-      "user_rating": 7.5,
-      "critic_score": 49,
-      "us_rating": "R",
-      "plot": "A powerful oil tycoon faces a frantic crisis after a disaster linked to his company threatens to unleash catastrophe. As he works with political leaders and scientists to respond, he must confront the consequences of his actions and the forces shaping the unfolding emergency.",
-      "trailer": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
-      "imdb_id": "tt31450459",
-      "tmdb_id": 1248832,
-      "watchmode_url": "https://www.watchmode.com/title/1793884/",
-      "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
-    },
-    {
       "id": 1855581,
       "title": "Obsession",
       "year": 2026,
@@ -369,7 +322,7 @@
       "user_rating": 8,
       "critic_score": 85,
       "us_rating": null,
-      "plot": "After using a mysterious wish-granting object to win over his longtime crush, a hopeful romantic gets exactly what he wanted. But the altered relationship quickly turns unsettling, forcing him to confront the frightening consequences of trying to control another person’s feelings.",
+      "plot": "A lovesick young man breaks a mysterious wishing object in hopes of winning his crush’s heart. When his wish comes true in an unsettling way, he must face the disturbing consequences of getting exactly what he wanted.",
       "trailer": "https://www.youtube.com/watch?v=0G5CjgPw1x4",
       "imdb_id": "tt37287335",
       "tmdb_id": 1339713,
@@ -378,6 +331,30 @@
       "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
+    },
+    {
+      "id": 1624092,
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "release_date": "2026-08-17",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 7.5,
+      "critic_score": 87,
+      "us_rating": "PG",
+      "plot": "After another Acme product backfires during his pursuit of the Roadrunner, a determined coyote takes the corporation to court with help from a struggling billboard lawyer. Their case brings cartoon chaos, courtroom clashes, and a fresh challenge for the company behind his long-running disasters.",
+      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
+      "imdb_id": "tt1756855",
+      "tmdb_id": 1204680,
+      "watchmode_url": "https://www.watchmode.com/title/1624092/",
+      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
     },
     {
       "id": 1823785,
@@ -394,7 +371,7 @@
       "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": null,
-      "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
+      "plot": "When a young girl becomes absorbed in a new tablet, her toys find it harder to hold her attention. The group faces a new challenge as they try to help her reconnect with playtime, navigating changing habits and the place technology has in a child’s life.",
       "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
@@ -418,7 +395,7 @@
       "user_rating": 5.4,
       "critic_score": 37,
       "us_rating": "R",
-      "plot": "In a declining Midwestern town once dominated by a pharmaceutical company, a hidden evil is unleashed beneath the surface. As residents change and danger spreads, a small group of survivors must work together to uncover the truth and survive the night.",
+      "plot": "Once a thriving company town, Raccoon City has fallen into decline after a pharmaceutical giant departs. When a hidden evil spreads through the town, a small group of survivors must work together through the night and seek the truth behind the company.",
       "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
       "imdb_id": "tt6920084",
       "tmdb_id": 460458,
@@ -427,6 +404,54 @@
       "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
+    },
+    {
+      "id": 1892115,
+      "title": "Practical Magic 2",
+      "year": 2026,
+      "release_date": "2026-09-09",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Comedy"
+      ],
+      "runtime_minutes": 130,
+      "user_rating": 6.5,
+      "critic_score": 40,
+      "us_rating": null,
+      "plot": "Two sisters from a long line of magical women face a dangerous curse threatening to tear their family apart. As they search for a way forward, they must rely on their bond and confront the forces surrounding their family.",
+      "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
+      "imdb_id": "tt32588798",
+      "tmdb_id": 1302904,
+      "watchmode_url": "https://www.watchmode.com/title/1892115/",
+      "poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
+    },
+    {
+      "id": 1706207,
+      "title": "Hope",
+      "year": 2026,
+      "release_date": "2026-07-15",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Action"
+      ],
+      "runtime_minutes": 157,
+      "user_rating": 7,
+      "critic_score": 73,
+      "us_rating": null,
+      "plot": "In a remote South Korean village, local police investigate a mysterious creature causing chaos in the community. As fear and confusion spread, the investigation becomes entangled with human conflict, challenging what the villagers think they understand about the threat.",
+      "trailer": "https://www.youtube.com/watch?v=zXUdRQPLBjk",
+      "imdb_id": "tt27369017",
+      "tmdb_id": 1058424,
+      "watchmode_url": "https://www.watchmode.com/title/1706207/",
+      "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
     },
     {
       "id": 1818694,
@@ -439,8 +464,8 @@
         "Thriller"
       ],
       "runtime_minutes": 92,
-      "user_rating": 5.7,
-      "critic_score": 52,
+      "user_rating": 5.8,
+      "critic_score": 62,
       "us_rating": "R",
       "plot": "A squad of genetically engineered super soldiers escapes into a desert town, putting a young girl and her mother in danger. The mother, an Army sniper, must fight back against the violent threat and protect her daughter.",
       "trailer": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
@@ -448,58 +473,12 @@
       "tmdb_id": 1284046,
       "watchmode_url": "https://www.watchmode.com/title/1818694/",
       "poster_path": "/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "backdrop_path": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "backdrop_path": "/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pmPXXniQlb4EdYY0gVZO90rf54F.jpg"
-    },
-    {
-      "id": 1782549,
-      "title": "Pinocchio: Unstrung",
-      "year": 2026,
-      "release_date": "2026-07-22",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Mystery"
-      ],
-      "runtime_minutes": 82,
-      "user_rating": 5.6,
-      "critic_score": 55,
-      "us_rating": "R",
-      "plot": "Created by a toymaker and influenced by a sinister cricket, a wooden boy begins a violent quest to become human. As he pursues this goal piece by piece, the dark bond shaping his journey turns a familiar fairy tale into a grim horror story.",
-      "trailer": "https://www.youtube.com/watch?v=Y4lZewE6JMI",
-      "imdb_id": "tt30887701",
-      "tmdb_id": 1232569,
-      "watchmode_url": "https://www.watchmode.com/title/1782549/",
-      "poster_path": "/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
-      "backdrop_path": "/xenXu6gt6iTJBNH80CNr7kg5q2z.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xenXu6gt6iTJBNH80CNr7kg5q2z.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg"
     }
   ],
   "upcoming": [
-    {
-      "id": 1975495,
-      "title": "I See Buildings Fall Like Lightning",
-      "year": 2026,
-      "release_date": "2026-10-13",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 6.8,
-      "critic_score": 72,
-      "us_rating": null,
-      "plot": "Once inseparable, a group of childhood friends spent their early years playing, skipping school, and imagining the lives they might lead. Now in their thirties, they face the quiet realization that the future they pictured may be slipping out of reach.",
-      "trailer": null,
-      "imdb_id": "tt38991615",
-      "tmdb_id": 1455247,
-      "watchmode_url": "https://www.watchmode.com/title/1975495/",
-      "poster_path": "/8NyU9Nn6QvPtxYPRCRwETcBtTBd.jpg",
-      "backdrop_path": "/hpeJZsjwcySRYOxveHZlETVBwE3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8NyU9Nn6QvPtxYPRCRwETcBtTBd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpeJZsjwcySRYOxveHZlETVBwE3.jpg"
-    },
     {
       "id": 1689779,
       "title": "Minotaur",
@@ -511,10 +490,10 @@
         "Thriller"
       ],
       "runtime_minutes": 135,
-      "user_rating": 7.7,
+      "user_rating": 7.6,
       "critic_score": 85,
       "us_rating": null,
-      "plot": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+      "plot": "A successful company director faces mounting pressure at work as the world around him grows increasingly unstable. When he discovers his wife’s affair, the carefully ordered life he has built begins to unravel, with tensions escalating toward violence.",
       "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
       "imdb_id": "tt37118301",
       "tmdb_id": 848700,
@@ -538,7 +517,7 @@
       "user_rating": 7.6,
       "critic_score": 79,
       "us_rating": null,
-      "plot": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
+      "plot": "In rural France, a boy struggles to meet his distant father's expectations on the family farm. When he begins collapsing without warning, he must adapt to life in an iron corset, discovering music, friendship, and mischief as he searches for a sense of balance.",
       "trailer": null,
       "imdb_id": "tt36639956",
       "tmdb_id": 947493,
@@ -579,7 +558,7 @@
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7,
+      "user_rating": 7.6,
       "critic_score": 93,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -587,9 +566,9 @@
       "imdb_id": "tt45368240",
       "tmdb_id": 1765072,
       "watchmode_url": "https://www.watchmode.com/title/11229535/",
-      "poster_path": "/l6iuf8OaKqvtaP56IYi0Aj6FSSc.jpg",
+      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l6iuf8OaKqvtaP56IYi0Aj6FSSc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
     },
     {
@@ -696,7 +675,7 @@
         "Drama"
       ],
       "runtime_minutes": 106,
-      "user_rating": 7.1,
+      "user_rating": 6.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
@@ -804,7 +783,7 @@
     },
     {
       "id": 1985219,
-      "title": "Sanguine",
+      "title": "Species",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -942,6 +921,30 @@
       "backdrop_path": "/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg"
+    },
+    {
+      "id": 1647844,
+      "title": "Wild Horse Nine",
+      "year": 2026,
+      "release_date": "2026-10-30",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime_minutes": 117,
+      "user_rating": 8,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "trailer": "https://www.youtube.com/watch?v=Haw_sznA5aQ",
+      "imdb_id": "tt15799564",
+      "tmdb_id": 891621,
+      "watchmode_url": "https://www.watchmode.com/title/1647844/",
+      "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg"
     }
   ],
   "kids": [
@@ -960,7 +963,7 @@
       "user_rating": 8.5,
       "critic_score": 89,
       "us_rating": "PG",
-      "plot": "Despite a generations-old family ban on music, a young aspiring guitarist pursues his dream and is swept into the vibrant Land of the Dead. With help from a charming trickster, he races to uncover the truth about his family’s history and find a way home.",
+      "plot": "A young aspiring musician struggles against his family’s generations-old ban on music. After a mysterious turn of events takes him to the vibrant Land of the Dead, he teams up with a charming trickster on a journey to understand his family’s past and find a way home.",
       "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
       "imdb_id": "tt2380307",
       "tmdb_id": 354912,
@@ -1011,7 +1014,7 @@
       "user_rating": 8.2,
       "critic_score": 96,
       "us_rating": null,
-      "plot": "When an 11-year-old girl moves to a new city, her emotions struggle to guide her through the upheaval. As Joy and Sadness become separated from the others, they travel through unfamiliar parts of her mind while trying to restore balance and help her cope with change.",
+      "plot": "When an 11-year-old moves to a new city, her emotions try to help her adjust to a life away from familiar friends and routines. After two of them become lost in the reaches of her mind, they must find their way back while the others try to manage the upheaval.",
       "trailer": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
       "imdb_id": "tt2096673",
       "tmdb_id": 150540,
@@ -1046,32 +1049,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
-      "id": 1982660,
-      "title": "Forgotten Island",
-      "year": 2026,
-      "release_date": "2026-09-10",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 7.9,
-      "critic_score": 84,
-      "us_rating": null,
-      "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
-      "trailer": "https://www.youtube.com/watch?v=a8RHqN93qfo",
-      "imdb_id": "tt36583977",
-      "tmdb_id": 1465063,
-      "watchmode_url": "https://www.watchmode.com/title/1982660/",
-      "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
-    },
-    {
       "id": 199607,
       "title": "Despicable Me",
       "year": 2010,
@@ -1087,7 +1064,7 @@
       "user_rating": 7.7,
       "critic_score": 76,
       "us_rating": null,
-      "plot": "A determined supervillain devises an audacious plan to steal the Moon, but needs three orphaned girls to help him reach a rival's heavily protected gadget. As the scheme unfolds, the girls bring unexpected warmth and challenge his commitment to the criminal life.",
+      "plot": "A supervillain sets out to prove himself by planning an audacious theft of the Moon. To advance his scheme, he adopts three orphaned girls, but the bond that grows between them begins to challenge the criminal life he has always known.",
       "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
       "imdb_id": "tt1323594",
       "tmdb_id": 20352,
@@ -1136,7 +1113,7 @@
       "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": null,
-      "plot": "When a child becomes absorbed in a new tablet, her beloved toys face an unexpected challenge to playtime. As the group struggles to stay connected with her, they must adapt to changing interests and work together to protect their place in her world.",
+      "plot": "When a young girl becomes absorbed in a new tablet, her toys find it harder to hold her attention. The group faces a new challenge as they try to help her reconnect with playtime, navigating changing habits and the place technology has in a child’s life.",
       "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
@@ -1162,7 +1139,7 @@
       "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": "PG",
-      "plot": "After solving a major case, two police partners follow a twisting mystery when a snake’s arrival disrupts the animal metropolis. Their investigation takes them undercover into unfamiliar parts of town, testing their teamwork while raising questions about prejudice, stereotypes, greed, and the city’s past.",
+      "plot": "After solving a major case, two rookie officers follow a new mystery that unsettles their animal-filled city. Their investigation takes them undercover into unfamiliar neighborhoods, where they must work through fresh challenges and test the strength of their partnership.",
       "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
@@ -1171,6 +1148,31 @@
       "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
+    },
+    {
+      "id": 11036529,
+      "title": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+      "year": 2026,
+      "release_date": "2026-02-27",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Family"
+      ],
+      "runtime_minutes": 102,
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A group of friends discovers a secret underwater castle filled with mysteries and riches. With the help of futuristic gadgets, they dive into an ocean adventure through a breathtaking aquatic world, combining humor, teamwork, and imagination as they explore its hidden wonders.",
+      "trailer": null,
+      "imdb_id": "tt38201958",
+      "tmdb_id": 1542261,
+      "watchmode_url": "https://www.watchmode.com/title/11036529/",
+      "poster_path": "/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
+      "backdrop_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/pxd9rc03EMMln3tVFdfd427Fpsi.jpg"
     },
     {
       "id": 1840434,
@@ -1188,7 +1190,7 @@
       "user_rating": 6.5,
       "critic_score": 80,
       "us_rating": "PG",
-      "plot": "A group of chaotic yellow movie hopefuls storms Hollywood and becomes famous before a major change sends them tumbling back down. When their attempt to make a monster movie unleashes real danger, they must work together to stop the mayhem and protect the world.",
+      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
       "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
       "imdb_id": "tt32890033",
       "tmdb_id": 1315772,
