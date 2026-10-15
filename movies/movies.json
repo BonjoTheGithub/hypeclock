@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-14T15:28:55.000Z",
+  "generated_at": "2026-10-15T15:19:58.720Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -50,9 +50,9 @@
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+      "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg"
     },
     {
       "id": 1773876,
@@ -149,6 +149,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
     },
     {
+      "id": 1855581,
+      "title": "Obsession",
+      "year": 2026,
+      "release_date": "2026-05-13",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 8,
+      "critic_score": 85,
+      "us_rating": null,
+      "plot": "A lovesick young man breaks a mysterious wishing object in hopes of winning his crush’s heart. When his wish comes true in an unsettling way, he must face the disturbing consequences of getting exactly what he wanted.",
+      "trailer": "https://www.youtube.com/watch?v=0G5CjgPw1x4",
+      "imdb_id": "tt37287335",
+      "tmdb_id": 1339713,
+      "watchmode_url": "https://www.watchmode.com/title/1855581/",
+      "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
+    },
+    {
       "id": 1882453,
       "title": "The End of Oak Street",
       "year": 2026,
@@ -183,7 +206,7 @@
       ],
       "runtime_minutes": 97,
       "user_rating": 6.5,
-      "critic_score": 66,
+      "critic_score": 67,
       "us_rating": "PG-13",
       "plot": "A former soldier and his unlikely partner must transport a vital medical delivery while a ruthless cartel pursues them. What begins as a simple courier job becomes a dangerous race against time, with mounting obstacles threatening their chance to reach a young girl in need.",
       "trailer": "https://www.youtube.com/watch?v=m8JUmBgHejI",
@@ -217,6 +240,30 @@
       "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
+    },
+    {
+      "id": 1706207,
+      "title": "Hope",
+      "year": 2026,
+      "release_date": "2026-07-15",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Action"
+      ],
+      "runtime_minutes": 157,
+      "user_rating": 7,
+      "critic_score": 73,
+      "us_rating": null,
+      "plot": "In a remote South Korean village, local police investigate a mysterious creature causing chaos in the community. As fear and confusion spread, the investigation becomes entangled with human conflict, challenging what the villagers think they understand about the threat.",
+      "trailer": "https://www.youtube.com/watch?v=ODnHr2Emnf0",
+      "imdb_id": "tt27369017",
+      "tmdb_id": 1058424,
+      "watchmode_url": "https://www.watchmode.com/title/1706207/",
+      "poster_path": "/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+      "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
     },
     {
       "id": 1942846,
@@ -283,9 +330,9 @@
       "tmdb_id": 1228834,
       "watchmode_url": "https://www.watchmode.com/title/1779945/",
       "poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-      "backdrop_path": "/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
+      "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
     },
     {
       "id": 11193084,
@@ -310,33 +357,10 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg"
     },
     {
-      "id": 1855581,
-      "title": "Obsession",
-      "year": 2026,
-      "release_date": "2026-05-13",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 8,
-      "critic_score": 85,
-      "us_rating": null,
-      "plot": "A lovesick young man breaks a mysterious wishing object in hopes of winning his crush’s heart. When his wish comes true in an unsettling way, he must face the disturbing consequences of getting exactly what he wanted.",
-      "trailer": "https://www.youtube.com/watch?v=0G5CjgPw1x4",
-      "imdb_id": "tt37287335",
-      "tmdb_id": 1339713,
-      "watchmode_url": "https://www.watchmode.com/title/1855581/",
-      "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
-    },
-    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
-      "release_date": "2026-08-17",
+      "release_date": "2026-08-20",
       "genres": [
         "Comedy",
         "Adventure",
@@ -416,7 +440,7 @@
         "Comedy"
       ],
       "runtime_minutes": 130,
-      "user_rating": 6.5,
+      "user_rating": 6.4,
       "critic_score": 40,
       "us_rating": null,
       "plot": "Two sisters from a long line of magical women face a dangerous curse threatening to tear their family apart. As they search for a way forward, they must rely on their bond and confront the forces surrounding their family.",
@@ -430,30 +454,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
     },
     {
-      "id": 1706207,
-      "title": "Hope",
-      "year": 2026,
-      "release_date": "2026-07-15",
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Action"
-      ],
-      "runtime_minutes": 157,
-      "user_rating": 7,
-      "critic_score": 73,
-      "us_rating": null,
-      "plot": "In a remote South Korean village, local police investigate a mysterious creature causing chaos in the community. As fear and confusion spread, the investigation becomes entangled with human conflict, challenging what the villagers think they understand about the threat.",
-      "trailer": "https://www.youtube.com/watch?v=zXUdRQPLBjk",
-      "imdb_id": "tt27369017",
-      "tmdb_id": 1058424,
-      "watchmode_url": "https://www.watchmode.com/title/1706207/",
-      "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
-    },
-    {
       "id": 1818694,
       "title": "Onslaught",
       "year": 2026,
@@ -464,8 +464,8 @@
         "Thriller"
       ],
       "runtime_minutes": 92,
-      "user_rating": 5.8,
-      "critic_score": 62,
+      "user_rating": 5.7,
+      "critic_score": 52,
       "us_rating": "R",
       "plot": "A squad of genetically engineered super soldiers escapes into a desert town, putting a young girl and her mother in danger. The mother, an Army sniper, must fight back against the violent threat and protect her daughter.",
       "trailer": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
@@ -479,54 +479,6 @@
     }
   ],
   "upcoming": [
-    {
-      "id": 1689779,
-      "title": "Minotaur",
-      "year": 2026,
-      "release_date": "2026-10-14",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 135,
-      "user_rating": 7.6,
-      "critic_score": 85,
-      "us_rating": null,
-      "plot": "A successful company director faces mounting pressure at work as the world around him grows increasingly unstable. When he discovers his wife’s affair, the carefully ordered life he has built begins to unravel, with tensions escalating toward violence.",
-      "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
-      "imdb_id": "tt37118301",
-      "tmdb_id": 848700,
-      "watchmode_url": "https://www.watchmode.com/title/1689779/",
-      "poster_path": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
-      "backdrop_path": "/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/i5HacpkXOKQ85lfbnMO3jXvAnPy.jpg"
-    },
-    {
-      "id": 1950265,
-      "title": "Iron Boy",
-      "year": 2026,
-      "release_date": "2026-10-14",
-      "genres": [
-        "Animation",
-        "Drama",
-        "Family"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 7.6,
-      "critic_score": 79,
-      "us_rating": null,
-      "plot": "In rural France, a boy struggles to meet his distant father's expectations on the family farm. When he begins collapsing without warning, he must adapt to life in an iron corset, discovering music, friendship, and mischief as he searches for a sense of balance.",
-      "trailer": null,
-      "imdb_id": "tt36639956",
-      "tmdb_id": 947493,
-      "watchmode_url": "https://www.watchmode.com/title/1950265/",
-      "poster_path": "/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
-      "backdrop_path": "/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aXNm7mgW22mxCSwSV7i7GHjy6Ga.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg"
-    },
     {
       "id": 11074991,
       "title": "Once Upon a Time in Harlem",
@@ -558,7 +510,7 @@
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7.6,
+      "user_rating": 7.5,
       "critic_score": 93,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -570,6 +522,30 @@
       "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
+    },
+    {
+      "id": 1682009,
+      "title": "Wildwood",
+      "year": 2026,
+      "release_date": "2026-10-19",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtime_minutes": 131,
+      "user_rating": 8,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "plot": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "trailer": "https://www.youtube.com/watch?v=POneS8h1jyU",
+      "imdb_id": "tt2056785",
+      "tmdb_id": 791523,
+      "watchmode_url": "https://www.watchmode.com/title/1682009/",
+      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
     },
     {
       "id": 1757035,
@@ -806,7 +782,7 @@
     },
     {
       "id": 11021641,
-      "title": "Ozzy & Black Sabbath: Back to the Beginning",
+      "title": "Back to the Beginning: Ozzy's Final Bow",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -933,7 +909,7 @@
         "Thriller"
       ],
       "runtime_minutes": 117,
-      "user_rating": 8,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
@@ -945,34 +921,31 @@
       "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg"
+    },
+    {
+      "id": 1940696,
+      "title": "Animol",
+      "year": 2026,
+      "release_date": "2026-10-30",
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 93,
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Inside a young offender institution, a new arrival is thrown into a harsh world of gangs, loyalty, and constant threat. As a quiet connection forms with another inmate, their bond becomes a risky weakness in a place that punishes vulnerability.",
+      "trailer": "https://www.youtube.com/watch?v=BphpDpDAJHQ",
+      "imdb_id": "tt33995791",
+      "tmdb_id": 1425784,
+      "watchmode_url": "https://www.watchmode.com/title/1940696/",
+      "poster_path": "/xZ4lxL9ijoi9trZAuD9Wex6xopK.jpg",
+      "backdrop_path": "/k2nrkAOCZO9XAHPdIkAovWmzjoV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZ4lxL9ijoi9trZAuD9Wex6xopK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k2nrkAOCZO9XAHPdIkAovWmzjoV.jpg"
     }
   ],
   "kids": [
-    {
-      "id": 178503,
-      "title": "Coco",
-      "year": 2017,
-      "release_date": "2017-10-27",
-      "genres": [
-        "Family",
-        "Animation",
-        "Music",
-        "Adventure"
-      ],
-      "runtime_minutes": 105,
-      "user_rating": 8.5,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "A young aspiring musician struggles against his family’s generations-old ban on music. After a mysterious turn of events takes him to the vibrant Land of the Dead, he teams up with a charming trickster on a journey to understand his family’s past and find a way home.",
-      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
-      "imdb_id": "tt2380307",
-      "tmdb_id": 354912,
-      "watchmode_url": "https://www.watchmode.com/title/178503/",
-      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
-    },
     {
       "id": 1749638,
       "title": "The Wild Robot",
@@ -1049,6 +1022,32 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
+      "id": 1982660,
+      "title": "Forgotten Island",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 7.9,
+      "critic_score": 84,
+      "us_rating": null,
+      "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
+      "trailer": "https://www.youtube.com/watch?v=f7mFVeWnVLw",
+      "imdb_id": "tt36583977",
+      "tmdb_id": 1465063,
+      "watchmode_url": "https://www.watchmode.com/title/1982660/",
+      "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+    },
+    {
       "id": 199607,
       "title": "Despicable Me",
       "year": 2010,
@@ -1078,7 +1077,7 @@
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
-      "release_date": "2026-08-17",
+      "release_date": "2026-08-20",
       "genres": [
         "Comedy",
         "Adventure",
