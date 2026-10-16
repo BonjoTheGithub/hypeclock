@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-15T15:19:58.720Z",
+  "generated_at": "2026-10-16T15:00:13.429Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -50,9 +50,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "backdrop_path": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
     },
     {
       "id": 1773876,
@@ -121,9 +121,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1148365,
       "watchmode_url": "https://www.watchmode.com/title/1725513/",
       "poster_path": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "backdrop_path": "/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
     },
     {
       "id": 1784996,
@@ -172,28 +172,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
     },
     {
-      "id": 1882453,
-      "title": "The End of Oak Street",
-      "year": 2026,
-      "release_date": "2026-08-12",
+      "id": 1513886,
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "year": 2021,
+      "release_date": "2021-11-24",
       "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
+        "Action",
+        "Horror",
+        "Science Fiction"
       ],
-      "runtime_minutes": 100,
-      "user_rating": 6.4,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "After a mysterious cosmic event tears an ordinary suburban neighborhood from its familiar surroundings, a family finds itself in an unknown and increasingly dangerous place. With the landscape transformed and prehistoric dangers nearby, they must stick together and navigate the strange new world in hopes of surviving.",
-      "trailer": "https://www.youtube.com/watch?v=3oB9AxspVow",
-      "imdb_id": "tt27165187",
-      "tmdb_id": 1101383,
-      "watchmode_url": "https://www.watchmode.com/title/1882453/",
-      "poster_path": "/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
-      "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
+      "runtime_minutes": 107,
+      "user_rating": 5.4,
+      "critic_score": 37,
+      "us_rating": "R",
+      "plot": "Once a thriving company town, Raccoon City has fallen into decline after a pharmaceutical giant departs. When a hidden evil spreads through the town, a small group of survivors must work together through the night and seek the truth behind the company.",
+      "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
+      "imdb_id": "tt6920084",
+      "tmdb_id": 460458,
+      "watchmode_url": "https://www.watchmode.com/title/1513886/",
+      "poster_path": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
     },
     {
       "id": 1875027,
@@ -217,29 +217,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
-    },
-    {
-      "id": 1821586,
-      "title": "Mutiny",
-      "year": 2026,
-      "release_date": "2026-08-19",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 96,
-      "user_rating": 5.9,
-      "critic_score": 51,
-      "us_rating": "R",
-      "plot": "After witnessing his employer’s murder and being framed for the crime, a disgraced former policeman hides aboard a cargo ship to pursue revenge. As he navigates the vessel and faces a heavily armed crew, he uncovers a wider international conspiracy tied to the killing.",
-      "trailer": "https://www.youtube.com/watch?v=FKSdXH89jbo",
-      "imdb_id": "tt32338669",
-      "tmdb_id": 1288445,
-      "watchmode_url": "https://www.watchmode.com/title/1821586/",
-      "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
     },
     {
       "id": 1706207,
@@ -266,6 +243,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
     },
     {
+      "id": 1821586,
+      "title": "Mutiny",
+      "year": 2026,
+      "release_date": "2026-08-19",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 5.9,
+      "critic_score": 51,
+      "us_rating": "R",
+      "plot": "After witnessing his employer’s murder and being framed for the crime, a disgraced former policeman hides aboard a cargo ship to pursue revenge. As he navigates the vessel and faces a heavily armed crew, he uncovers a wider international conspiracy tied to the killing.",
+      "trailer": "https://www.youtube.com/watch?v=FKSdXH89jbo",
+      "imdb_id": "tt32338669",
+      "tmdb_id": 1288445,
+      "watchmode_url": "https://www.watchmode.com/title/1821586/",
+      "poster_path": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop_path": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
+    },
+    {
       "id": 1942846,
       "title": "Fall 2: Deadpoint",
       "year": 2026,
@@ -283,33 +283,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1101412,
       "watchmode_url": "https://www.watchmode.com/title/1942846/",
       "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg"
-    },
-    {
-      "id": 11229413,
-      "title": "After Impact",
-      "year": 2026,
-      "release_date": "2026-09-15",
-      "genres": [
-        "Science Fiction",
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 3,
-      "critic_score": null,
-      "us_rating": "NR",
-      "plot": "After losing a parent, a man inherits a vast greenhouse as an asteroid threatens Earth. As society breaks down, he retreats to a family bunker and struggles with injury, isolation, betrayal, and the difficult choices survival demands when a faint radio signal suggests someone else may still be out there.",
-      "trailer": "https://www.youtube.com/watch?v=Af8D6sRDyxo",
-      "imdb_id": "tt36809539",
-      "tmdb_id": 1751701,
-      "watchmode_url": "https://www.watchmode.com/title/11229413/",
-      "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-      "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
     },
     {
       "id": 1779945,
@@ -343,7 +319,7 @@ window.HYPE_MOVIES={
         "Horror"
       ],
       "runtime_minutes": 89,
-      "user_rating": 3.4,
+      "user_rating": 3.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "A desperate father keeps his recently zombified daughter safe while searching for a cure. When he is ordered to carry an unknown package through hordes of undead, he must choose between following the rules and risking everything for her survival.",
@@ -355,6 +331,30 @@ window.HYPE_MOVIES={
       "backdrop_path": "/yKx5gYrYgakKZuUWAsuFDStBroy.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/qKhMVWwFikSUzOpkhOl35GBLkGH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg"
+    },
+    {
+      "id": 11229413,
+      "title": "After Impact",
+      "year": 2026,
+      "release_date": "2026-09-15",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 3,
+      "critic_score": null,
+      "us_rating": "NR",
+      "plot": "After losing a parent, a man inherits a vast greenhouse as an asteroid threatens Earth. As society breaks down, he retreats to a family bunker and struggles with injury, isolation, betrayal, and the difficult choices survival demands when a faint radio signal suggests someone else may still be out there.",
+      "trailer": "https://www.youtube.com/watch?v=Af8D6sRDyxo",
+      "imdb_id": "tt36809539",
+      "tmdb_id": 1751701,
+      "watchmode_url": "https://www.watchmode.com/title/11229413/",
+      "poster_path": "/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "backdrop_path": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
     },
     {
       "id": 1624092,
@@ -379,6 +379,30 @@ window.HYPE_MOVIES={
       "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
+    },
+    {
+      "id": 1882453,
+      "title": "The End of Oak Street",
+      "year": 2026,
+      "release_date": "2026-08-12",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime_minutes": 100,
+      "user_rating": 6.4,
+      "critic_score": 78,
+      "us_rating": "PG-13",
+      "plot": "After a mysterious cosmic event tears an ordinary suburban neighborhood from its familiar surroundings, a family finds itself in an unknown and increasingly dangerous place. With the landscape transformed and prehistoric dangers nearby, they must stick together and navigate the strange new world in hopes of surviving.",
+      "trailer": "https://www.youtube.com/watch?v=3oB9AxspVow",
+      "imdb_id": "tt27165187",
+      "tmdb_id": 1101383,
+      "watchmode_url": "https://www.watchmode.com/title/1882453/",
+      "poster_path": "/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
+      "backdrop_path": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hkPxuAMEqIqo1HCtIi4sqx0GRuP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
     },
     {
       "id": 1823785,
@@ -406,28 +430,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
-      "id": 1513886,
-      "title": "Resident Evil: Welcome to Raccoon City",
-      "year": 2021,
-      "release_date": "2021-11-24",
+      "id": 138100,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "release_date": "2018-04-25",
       "genres": [
+        "Adventure",
         "Action",
-        "Horror",
         "Science Fiction"
       ],
-      "runtime_minutes": 107,
-      "user_rating": 5.4,
-      "critic_score": 37,
-      "us_rating": "R",
-      "plot": "Once a thriving company town, Raccoon City has fallen into decline after a pharmaceutical giant departs. When a hidden evil spreads through the town, a small group of survivors must work together through the night and seek the truth behind the company.",
-      "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
-      "imdb_id": "tt6920084",
-      "tmdb_id": 460458,
-      "watchmode_url": "https://www.watchmode.com/title/1513886/",
-      "poster_path": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
-      "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
+      "runtime_minutes": 149,
+      "user_rating": 8.5,
+      "critic_score": 77,
+      "us_rating": "PG-13",
+      "plot": "A formidable intergalactic threat seeks to gather six powerful artifacts, putting the fate of Earth and the wider universe at risk. As heroes and allies unite to stop him, they face a challenge that tests the limits of their strength and resolve.",
+      "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+      "imdb_id": "tt4154756",
+      "tmdb_id": 299536,
+      "watchmode_url": "https://www.watchmode.com/title/138100/",
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
     },
     {
       "id": 1892115,
@@ -452,33 +476,32 @@ window.HYPE_MOVIES={
       "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
-    },
-    {
-      "id": 1818694,
-      "title": "Onslaught",
-      "year": 2026,
-      "release_date": "2026-09-02",
-      "genres": [
-        "Action",
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 92,
-      "user_rating": 5.7,
-      "critic_score": 52,
-      "us_rating": "R",
-      "plot": "A squad of genetically engineered super soldiers escapes into a desert town, putting a young girl and her mother in danger. The mother, an Army sniper, must fight back against the violent threat and protect her daughter.",
-      "trailer": "https://www.youtube.com/watch?v=AMLCbpM1fRQ",
-      "imdb_id": "tt32268691",
-      "tmdb_id": 1284046,
-      "watchmode_url": "https://www.watchmode.com/title/1818694/",
-      "poster_path": "/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "backdrop_path": "/clePZhqOSzNyjfuFBpOrziLEFzb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/clePZhqOSzNyjfuFBpOrziLEFzb.jpg"
     }
   ],
   "upcoming": [
+    {
+      "id": 11006368,
+      "title": "Goody Goody",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "runtime_minutes": 80,
+      "user_rating": 4.6,
+      "critic_score": 50,
+      "us_rating": null,
+      "plot": "During a long home birth, expecting parents and their midwife are lulled into a fragile sense of comfort. When complications arise and a blizzard traps the family inside, they begin to suspect a sinister presence may be sharing their isolated home.",
+      "trailer": "https://www.youtube.com/watch?v=T5dMa8OMyWg",
+      "imdb_id": "tt27558029",
+      "tmdb_id": 1472210,
+      "watchmode_url": "https://www.watchmode.com/title/11006368/",
+      "poster_path": "/9DyaSMQ6W3NvJ9BYTV2piiAXlCX.jpg",
+      "backdrop_path": "/6JFW51fTGQBi38YjUOAiTu9t1CM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9DyaSMQ6W3NvJ9BYTV2piiAXlCX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6JFW51fTGQBi38YjUOAiTu9t1CM.jpg"
+    },
     {
       "id": 11074991,
       "title": "Once Upon a Time in Harlem",
@@ -491,7 +514,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.2,
       "critic_score": 89,
       "us_rating": null,
-      "plot": "Set around a remarkable 1972 gathering in Harlem, this film revisits a filmmaker’s long-held belief that the event was one of the most important moments ever captured on film. It explores art, legacy, and cultural history through a singular celebration of Black creative life.",
+      "plot": "A decade after a filmmaker’s death, a gathering he captured decades earlier offers a window into a vibrant cultural moment. The film centers on a 1972 party he considered the most important event he recorded, bringing together influential figures from the Harlem Renaissance.",
       "trailer": "https://www.youtube.com/watch?v=ESnX3LQbCVI",
       "imdb_id": "tt39163347",
       "tmdb_id": 1596300,
@@ -510,7 +533,7 @@ window.HYPE_MOVIES={
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 7.5,
+      "user_rating": 7.4,
       "critic_score": 93,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -533,8 +556,8 @@ window.HYPE_MOVIES={
         "Adventure",
         "Fantasy"
       ],
-      "runtime_minutes": 131,
-      "user_rating": 8,
+      "runtime_minutes": 130,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": "PG-13",
       "plot": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
@@ -645,7 +668,7 @@ window.HYPE_MOVIES={
       "id": 1703778,
       "title": "A Talent for Murder",
       "year": 2026,
-      "release_date": "2026-10-22",
+      "release_date": "2026-10-23",
       "genres": [
         "Crime",
         "Drama"
@@ -711,6 +734,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg"
     },
     {
+      "id": 11214820,
+      "title": "Poster Boy: Becoming Zyzz",
+      "year": 2026,
+      "release_date": "2026-10-24",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 80,
+      "user_rating": 5.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "This documentary traces the rise and lasting influence of an unlikely internet icon, from an anonymous teenager to a global symbol of fitness culture. It explores how his transformation shaped ideas about influencers, identity, and self-invention for a generation.",
+      "trailer": "https://www.youtube.com/watch?v=UWBgCUNviVo",
+      "imdb_id": "tt37018920",
+      "tmdb_id": 1728002,
+      "watchmode_url": "https://www.watchmode.com/title/11214820/",
+      "poster_path": "/wCz3Atdab3o8M90F1FobXcfUXWJ.jpg",
+      "backdrop_path": "/jmk5QEUH3bCCdevayRyTONEXXTs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wCz3Atdab3o8M90F1FobXcfUXWJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jmk5QEUH3bCCdevayRyTONEXXTs.jpg"
+    },
+    {
       "id": 11097329,
       "title": "BTS: THE RETURN",
       "year": 2026,
@@ -744,7 +789,7 @@ window.HYPE_MOVIES={
         "War"
       ],
       "runtime_minutes": 130,
-      "user_rating": 6,
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": null,
       "plot": "In June 1943, Jean Moulin, leader of the French Resistance, is arrested while attempting to reunite the forces of the \"Armée Secrète.\" Interrogated by Klaus Barbie, the head of the Gestapo in Lyon, Moulin is drawn into a relentless confrontation.",
@@ -759,7 +804,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1985219,
-      "title": "Species",
+      "title": "Sanguine",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -831,7 +876,7 @@ window.HYPE_MOVIES={
     {
       "id": 1942282,
       "title": "Free at Heart",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-29",
       "genres": [
         "Drama",
@@ -897,55 +942,33 @@ window.HYPE_MOVIES={
       "backdrop_path": "/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bcGc12rQIoEQzxgA2x0YKwYTM5B.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg"
-    },
-    {
-      "id": 1647844,
-      "title": "Wild Horse Nine",
-      "year": 2026,
-      "release_date": "2026-10-30",
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Thriller"
-      ],
-      "runtime_minutes": 117,
-      "user_rating": 7.9,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-      "trailer": "https://www.youtube.com/watch?v=Haw_sznA5aQ",
-      "imdb_id": "tt15799564",
-      "tmdb_id": 891621,
-      "watchmode_url": "https://www.watchmode.com/title/1647844/",
-      "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b17UWf3LqHgKolQkXckne32qv0.jpg"
-    },
-    {
-      "id": 1940696,
-      "title": "Animol",
-      "year": 2026,
-      "release_date": "2026-10-30",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 93,
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Inside a young offender institution, a new arrival is thrown into a harsh world of gangs, loyalty, and constant threat. As a quiet connection forms with another inmate, their bond becomes a risky weakness in a place that punishes vulnerability.",
-      "trailer": "https://www.youtube.com/watch?v=BphpDpDAJHQ",
-      "imdb_id": "tt33995791",
-      "tmdb_id": 1425784,
-      "watchmode_url": "https://www.watchmode.com/title/1940696/",
-      "poster_path": "/xZ4lxL9ijoi9trZAuD9Wex6xopK.jpg",
-      "backdrop_path": "/k2nrkAOCZO9XAHPdIkAovWmzjoV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xZ4lxL9ijoi9trZAuD9Wex6xopK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/k2nrkAOCZO9XAHPdIkAovWmzjoV.jpg"
     }
   ],
   "kids": [
+    {
+      "id": 1357583,
+      "title": "Spirited Away",
+      "year": 2001,
+      "release_date": "2001-07-20",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 125,
+      "user_rating": 8.8,
+      "critic_score": 96,
+      "us_rating": null,
+      "plot": "A young girl is drawn into a strange world inhabited by spirits after her family takes an unexpected detour. With her parents transformed and her way home uncertain, she must find courage, adapt to unfamiliar rules, and seek help among the world’s curious inhabitants.",
+      "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+      "imdb_id": "tt0245429",
+      "tmdb_id": 129,
+      "watchmode_url": "https://www.watchmode.com/title/1357583/",
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg"
+    },
     {
       "id": 1749638,
       "title": "The Wild Robot",
@@ -972,32 +995,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
     },
     {
-      "id": 1184041,
-      "title": "Inside Out",
-      "year": 2015,
-      "release_date": "2015-06-17",
-      "genres": [
-        "Animation",
-        "Family",
-        "Adventure",
-        "Drama",
-        "Comedy"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 8.2,
-      "critic_score": 96,
-      "us_rating": null,
-      "plot": "When an 11-year-old moves to a new city, her emotions try to help her adjust to a life away from familiar friends and routines. After two of them become lost in the reaches of her mind, they must find their way back while the others try to manage the upheaval.",
-      "trailer": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
-      "imdb_id": "tt2096673",
-      "tmdb_id": 150540,
-      "watchmode_url": "https://www.watchmode.com/title/1184041/",
-      "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-      "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
-    },
-    {
       "id": 1409773,
       "title": "The Nightmare Before Christmas",
       "year": 1993,
@@ -1020,32 +1017,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
-    },
-    {
-      "id": 1982660,
-      "title": "Forgotten Island",
-      "year": 2026,
-      "release_date": "2026-09-10",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 7.9,
-      "critic_score": 84,
-      "us_rating": null,
-      "plot": "During their final night together, two high school graduates discover a mysterious portal leading to a fantastical island. When they learn that returning home could cost them every memory of their friendship, they race across the island to find another way back before they forget each other.",
-      "trailer": "https://www.youtube.com/watch?v=f7mFVeWnVLw",
-      "imdb_id": "tt36583977",
-      "tmdb_id": 1465063,
-      "watchmode_url": "https://www.watchmode.com/title/1982660/",
-      "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
     },
     {
       "id": 199607,
@@ -1149,55 +1120,79 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
-      "id": 11036529,
-      "title": "Doraemon: Nobita and the New Castle of the Undersea Devil",
-      "year": 2026,
-      "release_date": "2026-02-27",
+      "id": 1352322,
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "release_date": "1938-01-22",
       "genres": [
-        "Animation",
-        "Adventure",
         "Fantasy",
+        "Animation",
         "Family"
       ],
-      "runtime_minutes": 102,
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A group of friends discovers a secret underwater castle filled with mysteries and riches. With the help of futuristic gadgets, they dive into an ocean adventure through a breathtaking aquatic world, combining humor, teamwork, and imagination as they explore its hidden wonders.",
-      "trailer": null,
-      "imdb_id": "tt38201958",
-      "tmdb_id": 1542261,
-      "watchmode_url": "https://www.watchmode.com/title/11036529/",
-      "poster_path": "/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-      "backdrop_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/pxd9rc03EMMln3tVFdfd427Fpsi.jpg"
+      "runtime_minutes": 83,
+      "user_rating": 7.5,
+      "critic_score": 97,
+      "us_rating": "G",
+      "plot": "A young woman flees into the forest to escape her jealous stepmother, a queen determined to remain the fairest in the land. She finds shelter in a cottage shared by seven distinctive little companions, while the queen continues to pursue her.",
+      "trailer": "https://www.youtube.com/watch?v=kLfNrd3dUc8",
+      "imdb_id": "tt0029583",
+      "tmdb_id": 408,
+      "watchmode_url": "https://www.watchmode.com/title/1352322/",
+      "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+      "backdrop_path": "/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg"
     },
     {
-      "id": 1840434,
-      "title": "Minions & Monsters",
-      "year": 2026,
-      "release_date": "2026-06-24",
+      "id": 199608,
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "release_date": "2013-06-26",
       "genres": [
-        "Adventure",
         "Animation",
         "Comedy",
         "Family",
-        "Fantasy"
+        "Science Fiction"
       ],
-      "runtime_minutes": 90,
-      "user_rating": 6.5,
-      "critic_score": 80,
+      "runtime_minutes": 98,
+      "user_rating": 7.5,
+      "critic_score": 69,
       "us_rating": "PG",
-      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
-      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
-      "imdb_id": "tt32890033",
-      "tmdb_id": 1315772,
-      "watchmode_url": "https://www.watchmode.com/title/1840434/",
-      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
+      "plot": "A former supervillain turned devoted father is recruited by a secret organization to help track down a powerful new criminal. As he takes on the investigation, he balances the demands of the case with family life and an energetic new partner.",
+      "trailer": "https://www.youtube.com/watch?v=TlbnGSMJQbQ",
+      "imdb_id": "tt1690953",
+      "tmdb_id": 93456,
+      "watchmode_url": "https://www.watchmode.com/title/199608/",
+      "poster_path": "/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "backdrop_path": "/uD267eSiACfWLxp47t3gYymOQRj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uD267eSiACfWLxp47t3gYymOQRj.jpg"
+    },
+    {
+      "id": 1255914,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "release_date": "2022-06-29",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Science Fiction",
+        "Family"
+      ],
+      "runtime_minutes": 87,
+      "user_rating": 6.7,
+      "critic_score": 63,
+      "us_rating": "PG",
+      "plot": "A young supervillain fan dreams of joining a notorious group of villains and sets out to prove he is evil enough. With his loyal little helpers at his side, he gets caught up in a plan involving a powerful group and a stolen treasure.",
+      "trailer": "https://www.youtube.com/watch?v=6DxjJzmYsXo",
+      "imdb_id": "tt5113044",
+      "tmdb_id": 438148,
+      "watchmode_url": "https://www.watchmode.com/title/1255914/",
+      "poster_path": "/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg",
+      "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg"
     }
   ]
 };
