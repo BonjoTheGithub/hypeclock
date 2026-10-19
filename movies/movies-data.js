@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-18T14:09:34.168Z",
+  "generated_at": "2026-10-19T17:10:12.156Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 56,
   "tmdb_requests_this_refresh": 48,
@@ -26,9 +26,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
     },
     {
       "id": 1869118,
@@ -55,30 +55,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
     },
     {
-      "id": 1939424,
-      "title": "Resident Evil",
-      "year": 2026,
-      "release_date": "2026-09-16",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 7.8,
-      "critic_score": 88,
-      "us_rating": null,
-      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
-      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
-      "imdb_id": "tt35538033",
-      "tmdb_id": 1423191,
-      "watchmode_url": "https://www.watchmode.com/title/1939424/",
-      "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
-    },
-    {
       "id": 1706207,
       "title": "Hope",
       "year": 2026,
@@ -97,10 +73,10 @@ window.HYPE_MOVIES={
       "imdb_id": "tt27369017",
       "tmdb_id": 1058424,
       "watchmode_url": "https://www.watchmode.com/title/1706207/",
-      "poster_path": "/qW1m7bcsRb2lo8xG2v0p4mARyH8.jpg",
-      "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qW1m7bcsRb2lo8xG2v0p4mARyH8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
+      "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg"
     },
     {
       "id": 1725513,
@@ -136,7 +112,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 106,
-      "user_rating": 6.3,
+      "user_rating": 6.2,
       "critic_score": 52,
       "us_rating": null,
       "plot": "A young mother raising her daughter in the house where she grew up discovers she can enter a parallel realm inhabited by dangerous spirits. When she learns she can bring entities from that world into reality, she must confront a growing supernatural threat while protecting her family.",
@@ -173,28 +149,51 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/tzoarEu7TsG959upiELyYPm5kO9.jpg"
     },
     {
-      "id": 1892115,
-      "title": "Practical Magic 2",
+      "id": 1939424,
+      "title": "Resident Evil",
       "year": 2026,
-      "release_date": "2026-09-09",
+      "release_date": "2026-09-16",
       "genres": [
-        "Romance",
-        "Fantasy",
-        "Comedy"
+        "Horror",
+        "Science Fiction",
+        "Adventure"
       ],
-      "runtime_minutes": 130,
-      "user_rating": 6.4,
-      "critic_score": 40,
+      "runtime_minutes": 95,
+      "user_rating": 7.8,
+      "critic_score": 88,
       "us_rating": null,
-      "plot": "Two sisters from a long line of magical women face a dangerous curse threatening to tear their family apart. As they search for a way forward, they must rely on their bond and confront the forces surrounding their family.",
-      "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
-      "imdb_id": "tt32588798",
-      "tmdb_id": 1302904,
-      "watchmode_url": "https://www.watchmode.com/title/1892115/",
-      "poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
+      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
+      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "imdb_id": "tt35538033",
+      "tmdb_id": 1423191,
+      "watchmode_url": "https://www.watchmode.com/title/1939424/",
+      "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+    },
+    {
+      "id": 11049995,
+      "title": "Masterplan",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 110,
+      "user_rating": 5.6,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A legendary thief recruits two young strangers to help steal a famous painting, then reveals an unexpected family connection. Thrust into a chaotic reunion, the new family must learn to work together—and tolerate one another—if they hope to pull off an ambitious heist.",
+      "trailer": "https://www.youtube.com/watch?v=gc0t8AfMP6k",
+      "imdb_id": "tt38672588",
+      "tmdb_id": 1561726,
+      "watchmode_url": "https://www.watchmode.com/title/11049995/",
+      "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "backdrop_path": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg"
     },
     {
       "id": 1875027,
@@ -220,28 +219,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
     },
     {
-      "id": 1513886,
-      "title": "Resident Evil: Welcome to Raccoon City",
-      "year": 2021,
-      "release_date": "2021-11-24",
+      "id": 1892115,
+      "title": "Practical Magic 2",
+      "year": 2026,
+      "release_date": "2026-09-09",
       "genres": [
-        "Action",
-        "Horror",
-        "Science Fiction"
+        "Romance",
+        "Fantasy",
+        "Comedy"
       ],
-      "runtime_minutes": 107,
-      "user_rating": 5.4,
-      "critic_score": 37,
-      "us_rating": "R",
-      "plot": "Once a thriving company town, Raccoon City has fallen into decline after a pharmaceutical giant departs. When a hidden evil spreads through the town, a small group of survivors must work together through the night and seek the truth behind the company.",
-      "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
-      "imdb_id": "tt6920084",
-      "tmdb_id": 460458,
-      "watchmode_url": "https://www.watchmode.com/title/1513886/",
-      "poster_path": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
-      "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
+      "runtime_minutes": 130,
+      "user_rating": 6.3,
+      "critic_score": 40,
+      "us_rating": null,
+      "plot": "Two sisters from a long line of magical women face a dangerous curse threatening to tear their family apart. As they search for a way forward, they must rely on their bond and confront the forces surrounding their family.",
+      "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
+      "imdb_id": "tt32588798",
+      "tmdb_id": 1302904,
+      "watchmode_url": "https://www.watchmode.com/title/1892115/",
+      "poster_path": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
     },
     {
       "id": 1942846,
@@ -283,10 +282,10 @@ window.HYPE_MOVIES={
       "imdb_id": "tt27419420",
       "tmdb_id": 1153576,
       "watchmode_url": "https://www.watchmode.com/title/1729065/",
-      "poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "backdrop_path": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg"
+      "poster_path": "/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "backdrop_path": "/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg"
     },
     {
       "id": 1779945,
@@ -334,29 +333,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yKx5gYrYgakKZuUWAsuFDStBroy.jpg"
     },
     {
-      "id": 1855581,
-      "title": "Obsession",
-      "year": 2026,
-      "release_date": "2026-05-13",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 8,
-      "critic_score": 85,
-      "us_rating": null,
-      "plot": "A lovesick young man breaks a mysterious wishing object in hopes of winning his crush’s heart. When his wish comes true in an unsettling way, he must face the disturbing consequences of getting exactly what he wanted.",
-      "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
-      "imdb_id": "tt37287335",
-      "tmdb_id": 1339713,
-      "watchmode_url": "https://www.watchmode.com/title/1855581/",
-      "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
-    },
-    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -379,30 +355,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
-    },
-    {
-      "id": 138019,
-      "title": "Avatar: Fire and Ash",
-      "year": 2025,
-      "release_date": "2025-12-17",
-      "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Fantasy"
-      ],
-      "runtime_minutes": 198,
-      "user_rating": 7.4,
-      "critic_score": 64,
-      "us_rating": "PG-13",
-      "plot": "After a devastating conflict leaves a family facing loss, a new threat emerges on Pandora: a fierce Na’vi clan with its own ambitions. As the family fights to survive, old wounds and fresh tensions test their bonds and challenge the future of their world.",
-      "trailer": "https://www.youtube.com/watch?v=nb_fFj_0rq8",
-      "imdb_id": "tt1757678",
-      "tmdb_id": 83533,
-      "watchmode_url": "https://www.watchmode.com/title/138019/",
-      "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg"
     },
     {
       "id": 1882453,
@@ -454,26 +406,75 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
-      "id": 1914790,
-      "title": "Other Mommy",
-      "year": 2026,
-      "release_date": "2026-10-07",
+      "id": 1513886,
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "year": 2021,
+      "release_date": "2021-11-24",
       "genres": [
-        "Horror"
+        "Action",
+        "Horror",
+        "Science Fiction"
       ],
-      "runtime_minutes": 93,
+      "runtime_minutes": 107,
+      "user_rating": 5.4,
+      "critic_score": 37,
+      "us_rating": "R",
+      "plot": "Once a thriving company town, Raccoon City has fallen into decline after a pharmaceutical giant departs. When a hidden evil spreads through the town, a small group of survivors must work together through the night and seek the truth behind the company.",
+      "trailer": "https://www.youtube.com/watch?v=4q6UGCyHZCI",
+      "imdb_id": "tt6920084",
+      "tmdb_id": 460458,
+      "watchmode_url": "https://www.watchmode.com/title/1513886/",
+      "poster_path": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "backdrop_path": "/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wYtEvBmpBRXPdwGgr1gcWiwJSI7.jpg"
+    },
+    {
+      "id": 11017878,
+      "title": "Buddy",
+      "year": 2026,
+      "release_date": "2026-08-27",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 7,
+      "critic_score": 78,
+      "us_rating": null,
+      "plot": "A magical orange unicorn hosts a children’s television show while holding its young cast captive inside a surreal world. As the cheerful lessons grow increasingly disturbing, the children begin questioning their reality and searching for a way to survive their demented host.",
+      "trailer": "https://www.youtube.com/watch?v=0mil0YgOtu8",
+      "imdb_id": "tt37281055",
+      "tmdb_id": 1514026,
+      "watchmode_url": "https://www.watchmode.com/title/11017878/",
+      "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
+    },
+    {
+      "id": 1888110,
+      "title": "Reporting Live",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "runtime_minutes": 116,
       "user_rating": 5.6,
       "critic_score": null,
-      "us_rating": "R",
-      "plot": "A young girl forms a relationship with a sinister entity in her home, where it looks uncannily like her own mother. This connection draws her into a terrifying and increasingly dark world, as the presence becomes part of her life at home.",
-      "trailer": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
-      "imdb_id": "tt36586020",
-      "tmdb_id": 1400837,
-      "watchmode_url": "https://www.watchmode.com/title/1914790/",
-      "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg"
+      "us_rating": "PG-13",
+      "plot": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
+      "trailer": "https://www.youtube.com/watch?v=VqbrAbuQC1o",
+      "imdb_id": "tt47657999",
+      "tmdb_id": 1389172,
+      "watchmode_url": "https://www.watchmode.com/title/1888110/",
+      "poster_path": "/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
+      "backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVabS4lTi6IMscr2FOucxydE6ZD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg"
     }
   ],
   "upcoming": [
@@ -491,7 +492,7 @@ window.HYPE_MOVIES={
       "user_rating": 8.7,
       "critic_score": null,
       "us_rating": "PG-13",
-      "plot": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "plot": "A young girl and her classmate enter a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries. They face a desperate quest to rescue her abducted baby brother from a murder of crows led by a mysterious woman.",
       "trailer": "https://www.youtube.com/watch?v=POneS8h1jyU",
       "imdb_id": "tt2056785",
       "tmdb_id": 791523,
@@ -536,7 +537,7 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 116,
-      "user_rating": 6.2,
+      "user_rating": 5.8,
       "critic_score": null,
       "us_rating": "PG-13",
       "plot": "An Artificial Friend named Klara finds a deep bond with a troubled young girl, bringing light and hope to a grieving family through her unwavering devotion and innocent wonder.",
@@ -652,7 +653,7 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 94,
-      "user_rating": 6.8,
+      "user_rating": 6.7,
       "critic_score": 76,
       "us_rating": null,
       "plot": "Gianina, a young Romanian chambermaid, works for a bourgeois family in Bordeaux and spends her evenings rehearsing a maid’s story with an amateur theater group. She cares for her employer’s son while her own daughter grows up far away in Romania, and as Christmas nears, the hope of reunion grows stronger.",
@@ -1098,32 +1099,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
     },
     {
-      "id": 199607,
-      "title": "Despicable Me",
-      "year": 2010,
-      "release_date": "2010-07-08",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Crime",
-        "Science Fiction",
-        "Family"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 7.7,
-      "critic_score": 76,
-      "us_rating": null,
-      "plot": "A supervillain sets out to prove himself by planning an audacious theft of the Moon. To advance his scheme, he adopts three orphaned girls, but the bond that grows between them begins to challenge the criminal life he has always known.",
-      "trailer": "https://www.youtube.com/watch?v=DsiayV5LuD0",
-      "imdb_id": "tt1323594",
-      "tmdb_id": 20352,
-      "watchmode_url": "https://www.watchmode.com/title/199607/",
-      "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
-      "backdrop_path": "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg"
-    },
-    {
       "id": 1624092,
       "title": "Coyote vs. Acme",
       "year": 2026,
@@ -1197,6 +1172,32 @@ window.HYPE_MOVIES={
       "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
+    },
+    {
+      "id": 1546856,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "release_date": "2023-04-05",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "runtime_minutes": 93,
+      "user_rating": 7.2,
+      "critic_score": 52,
+      "us_rating": "PG",
+      "plot": "Two Brooklyn plumber brothers are transported through a mysterious pipe into a magical world, where they are separated. One brother sets off on a fast-moving quest to reunite with the other, encountering colorful new places and familiar challenges along the way.",
+      "trailer": "https://www.youtube.com/watch?v=TnGl01FkMMo",
+      "imdb_id": "tt6718170",
+      "tmdb_id": 502356,
+      "watchmode_url": "https://www.watchmode.com/title/1546856/",
+      "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
     }
   ]
 };
