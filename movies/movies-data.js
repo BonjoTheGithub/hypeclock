@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-21T15:36:51.355Z",
+  "generated_at": "2026-10-22T15:39:22.864Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 58,
   "tmdb_requests_this_refresh": 50,
@@ -148,29 +148,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg"
     },
     {
-      "id": 1816835,
-      "title": "The Social Reckoning",
-      "year": 2026,
-      "release_date": "2026-10-07",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 113,
-      "user_rating": 6.9,
-      "critic_score": 53,
-      "us_rating": null,
-      "plot": "A young engineer teams up with a newspaper reporter on a risky effort to expose closely guarded secrets at a powerful social network. Their journey puts them in the middle of a high-stakes whistleblowing story.",
-      "trailer": "https://www.youtube.com/watch?v=MfHEZw7Xw_c",
-      "imdb_id": "tt37510326",
-      "tmdb_id": 1281331,
-      "watchmode_url": "https://www.watchmode.com/title/1816835/",
-      "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "backdrop_path": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg"
-    },
-    {
       "id": 1914790,
       "title": "Other Mommy",
       "year": 2026,
@@ -179,7 +156,7 @@ window.HYPE_MOVIES={
         "Horror"
       ],
       "runtime_minutes": 93,
-      "user_rating": 5.6,
+      "user_rating": 5.5,
       "critic_score": 28,
       "us_rating": "R",
       "plot": "A young girl forms a relationship with a sinister entity in her home, where it looks uncannily like her own mother. This connection draws her into a terrifying and increasingly dark world, as the presence becomes part of her life at home.",
@@ -204,7 +181,7 @@ window.HYPE_MOVIES={
       ],
       "runtime_minutes": 127,
       "user_rating": 5.9,
-      "critic_score": 30,
+      "critic_score": 29,
       "us_rating": null,
       "plot": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
@@ -271,7 +248,7 @@ window.HYPE_MOVIES={
         "Fantasy"
       ],
       "runtime_minutes": 120,
-      "user_rating": 6.2,
+      "user_rating": 6.3,
       "critic_score": null,
       "us_rating": "PG-13",
       "plot": "In 1993, two estranged martial artists are drawn back into combat when a mysterious fighter recruits them for a global tournament. As the brutal competition unfolds, a deadly conspiracy tests their uneasy partnership and forces them to confront difficult parts of their past.",
@@ -293,7 +270,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 106,
-      "user_rating": 6.9,
+      "user_rating": 6.8,
       "critic_score": null,
       "us_rating": "PG-13",
       "plot": "After his father’s death, a young diver searches off the California coast for his remains, only to be swallowed by a massive sperm whale. Trapped inside with his oxygen running low, he must draw on lessons from his father as he struggles to find a way out.",
@@ -302,33 +279,33 @@ window.HYPE_MOVIES={
       "tmdb_id": 1255833,
       "watchmode_url": "https://www.watchmode.com/title/1798840/",
       "poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "backdrop_path": "/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
+      "backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg"
     },
     {
-      "id": 1818771,
-      "title": "Sacrifice",
+      "id": 1914859,
+      "title": "Clayface",
       "year": 2026,
-      "release_date": "2026-04-09",
+      "release_date": "2026-10-19",
       "genres": [
-        "Adventure",
-        "Comedy",
-        "Action"
+        "Horror",
+        "Thriller",
+        "Science Fiction"
       ],
-      "runtime_minutes": 100,
-      "user_rating": 5.2,
-      "critic_score": 53,
-      "us_rating": "R",
-      "plot": "At a lavish charity gala filled with celebrities and billionaires, a movie star facing an existential crisis is taken hostage by a radical warrior and her followers. As the evening spirals into chaos, the hostage and captors are drawn into an unpredictable journey that blurs the boundaries between performance, belief, salvation, and sacrifice.",
-      "trailer": "https://www.youtube.com/watch?v=bzGU0b5XAKc",
-      "imdb_id": "tt32268992",
-      "tmdb_id": 1284186,
-      "watchmode_url": "https://www.watchmode.com/title/1818771/",
-      "poster_path": "/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-      "backdrop_path": "/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg"
+      "runtime_minutes": 109,
+      "user_rating": 7.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A young man rises from the streets of Gotham to become a Hollywood star, but a crime boss’s actions leave him disfigured and abandoned. Desperate for help, he undergoes a treatment that restores his appearance while unsettling his sense of reality, setting him on a destructive path.",
+      "trailer": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
+      "imdb_id": "tt34890576",
+      "tmdb_id": 1400940,
+      "watchmode_url": "https://www.watchmode.com/title/1914859/",
+      "poster_path": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "backdrop_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg"
     },
     {
       "id": 1793884,
@@ -378,29 +355,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
     },
     {
-      "id": 11009661,
-      "title": "Sense and Sensibility",
-      "year": 2026,
-      "release_date": "2026-09-23",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "runtime_minutes": 132,
-      "user_rating": 7.5,
-      "critic_score": 74,
-      "us_rating": null,
-      "plot": "After their family loses its home, two sisters move to a distant relative’s estate and face the challenges of reduced circumstances. As each navigates romance and financial uncertainty, their contrasting temperaments shape how they respond to love and society’s restrictions.",
-      "trailer": "https://www.youtube.com/watch?v=mcrwcvad84U",
-      "imdb_id": "tt13609648",
-      "tmdb_id": 1503762,
-      "watchmode_url": "https://www.watchmode.com/title/11009661/",
-      "poster_path": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "backdrop_path": "/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg"
-    },
-    {
       "id": 1875027,
       "title": "Runner",
       "year": 2026,
@@ -424,26 +378,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
     },
     {
-      "id": 11229535,
-      "title": "You Can See Everything",
+      "id": 11017878,
+      "title": "Buddy",
       "year": 2026,
-      "release_date": "2026-10-16",
+      "release_date": "2026-08-27",
       "genres": [
-        "Documentary"
+        "Horror",
+        "Comedy",
+        "Fantasy"
       ],
-      "runtime_minutes": 174,
-      "user_rating": 9.3,
-      "critic_score": 93,
+      "runtime_minutes": 96,
+      "user_rating": 6.9,
+      "critic_score": 78,
       "us_rating": null,
-      "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
-      "trailer": "https://www.youtube.com/watch?v=HvW_N5p1q44",
-      "imdb_id": "tt45368240",
-      "tmdb_id": 1765072,
-      "watchmode_url": "https://www.watchmode.com/title/11229535/",
-      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
+      "plot": "A magical orange unicorn hosts a children’s television show while holding its young cast captive inside a surreal world. As the cheerful lessons grow increasingly disturbing, the children begin questioning their reality and searching for a way to survive their demented host.",
+      "trailer": "https://www.youtube.com/watch?v=0mil0YgOtu8",
+      "imdb_id": "tt37281055",
+      "tmdb_id": 1514026,
+      "watchmode_url": "https://www.watchmode.com/title/11017878/",
+      "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
     },
     {
       "id": 1892115,
@@ -468,101 +424,78 @@ window.HYPE_MOVIES={
       "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
+    },
+    {
+      "id": 1779945,
+      "title": "The Fix",
+      "year": 2026,
+      "release_date": "2026-09-10",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 142,
+      "user_rating": 5,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Disillusioned after the war in Afghanistan, a group of disgraced, battle-worn former intelligence operatives head to Tehran to pursue a score that could change their lives. As they try to make it happen, they also grapple with past mistakes and the desire to make amends.",
+      "trailer": "https://www.youtube.com/watch?v=NYC0v8xqQdM",
+      "imdb_id": "tt9601292",
+      "tmdb_id": 1228834,
+      "watchmode_url": "https://www.watchmode.com/title/1779945/",
+      "poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+      "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
+    },
+    {
+      "id": 1818771,
+      "title": "Sacrifice",
+      "year": 2026,
+      "release_date": "2026-04-09",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Action"
+      ],
+      "runtime_minutes": 100,
+      "user_rating": 5.2,
+      "critic_score": 53,
+      "us_rating": "R",
+      "plot": "At a lavish charity gala filled with celebrities and billionaires, a movie star facing an existential crisis is taken hostage by a radical warrior and her followers. As the evening spirals into chaos, the hostage and captors are drawn into an unpredictable journey that blurs the boundaries between performance, belief, salvation, and sacrifice.",
+      "trailer": "https://www.youtube.com/watch?v=bzGU0b5XAKc",
+      "imdb_id": "tt32268992",
+      "tmdb_id": 1284186,
+      "watchmode_url": "https://www.watchmode.com/title/1818771/",
+      "poster_path": "/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+      "backdrop_path": "/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg"
     }
   ],
   "upcoming": [
     {
-      "id": 1757035,
-      "title": "Wicker",
+      "id": 11133964,
+      "title": "No Paradise If You Are Killed by a Woman",
       "year": 2026,
-      "release_date": "2026-10-21",
+      "release_date": "2026-10-22",
       "genres": [
-        "Romance",
-        "Fantasy",
-        "Comedy"
-      ],
-      "runtime_minutes": 105,
-      "user_rating": 7.2,
-      "critic_score": 75,
-      "us_rating": null,
-      "plot": "On the edge of a seaside village, a ridiculed fisherwoman grows tired of her narrow-minded neighbours and commissions a husband made from wicker. Her unconventional romance unsettles the conservative town, stirring outrage, jealousy and chaos.",
-      "trailer": "https://www.youtube.com/watch?v=HP0BWBWn14I",
-      "imdb_id": "tt29611136",
-      "tmdb_id": 1195803,
-      "watchmode_url": "https://www.watchmode.com/title/1757035/",
-      "poster_path": "/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-      "backdrop_path": "/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg"
-    },
-    {
-      "id": 1778440,
-      "title": "Klara and the Sun",
-      "year": 2026,
-      "release_date": "2026-10-21",
-      "genres": [
-        "Science Fiction",
+        "Action",
         "Drama"
       ],
-      "runtime_minutes": 116,
-      "user_rating": 5.8,
+      "runtime_minutes": 110,
+      "user_rating": 8.6,
       "critic_score": null,
-      "us_rating": "PG-13",
-      "plot": "An Artificial Friend forms a close bond with a troubled young girl and becomes a source of hope for a family facing grief. Through devotion and innocent wonder, she offers comfort as the family navigates a difficult time.",
-      "trailer": "https://www.youtube.com/watch?v=wixzainceAE",
-      "imdb_id": "tt14371256",
-      "tmdb_id": 858035,
-      "watchmode_url": "https://www.watchmode.com/title/1778440/",
-      "poster_path": "/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-      "backdrop_path": "/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xqovj2p6HRsgHxN81qYAYF4StgM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg"
-    },
-    {
-      "id": 1969393,
-      "title": "Coward",
-      "year": 2026,
-      "release_date": "2026-10-21",
-      "genres": [
-        "Drama",
-        "Romance",
-        "War"
-      ],
-      "runtime_minutes": 120,
-      "user_rating": 7.1,
-      "critic_score": 73,
       "us_rating": null,
-      "plot": "During the First World War, soldiers working behind the front line struggle to keep their spirits up. Inspired by war rhetoric, each person searches for a personal way to cope amid the pressures of conflict.",
-      "trailer": "https://www.youtube.com/watch?v=vyRlBGfVlvQ",
-      "imdb_id": "tt39328391",
-      "tmdb_id": 1437981,
-      "watchmode_url": "https://www.watchmode.com/title/1969393/",
-      "poster_path": "/jhBDAdVy7qPglzcBsPDMJXQ9Cls.jpg",
-      "backdrop_path": "/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jhBDAdVy7qPglzcBsPDMJXQ9Cls.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/tW0ZxAcvLNZiSvHnBS2lpNOGB2S.jpg"
-    },
-    {
-      "id": 11126829,
-      "title": "La Gradiva",
-      "year": 2026,
-      "release_date": "2026-10-21",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 145,
-      "user_rating": 7.2,
-      "critic_score": 95,
-      "us_rating": null,
-      "plot": "During a class trip to Naples, a group of French teenagers visit the ancient ruins of Pompeii. As their high school graduation draws near, they grapple with anxiety and exhilaration, balancing uncertainty about what lies ahead with the excitement of this moment in their lives.",
-      "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
-      "imdb_id": "tt36107185",
-      "tmdb_id": 1154730,
-      "watchmode_url": "https://www.watchmode.com/title/11126829/",
-      "poster_path": "/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
-      "backdrop_path": "/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg"
+      "plot": "A Kurdish-Norwegian sniper returns to a battlefield she once escaped, driven by vengeance and the desperate hope of rescuing her younger sister, who remains imprisoned by ISIS in Mosul. Her mission brings together personal loss, family loyalty, and the dangers of returning to a place marked by war and captivity.",
+      "trailer": "https://www.youtube.com/watch?v=sBqFhLg7HnA",
+      "imdb_id": "tt43705006",
+      "tmdb_id": 1590884,
+      "watchmode_url": "https://www.watchmode.com/title/11133964/",
+      "poster_path": "/7InHgpBa0YEEbLi7zGgGmgnUt70.jpg",
+      "backdrop_path": "/3Ef0soMIvRQFfi99lABKFy3aiLE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7InHgpBa0YEEbLi7zGgGmgnUt70.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3Ef0soMIvRQFfi99lABKFy3aiLE.jpg"
     },
     {
       "id": 1703778,
@@ -597,11 +530,11 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 94,
-      "user_rating": 6.7,
+      "user_rating": 6.8,
       "critic_score": 76,
       "us_rating": null,
       "plot": "Gianina, a young Romanian chambermaid, works for a bourgeois family in Bordeaux and spends her evenings rehearsing a maid’s story with an amateur theater group. She cares for her employer’s son while her own daughter grows up far away in Romania, and as Christmas nears, the hope of reunion grows stronger.",
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=6ksPIUxSH88",
       "imdb_id": "tt38785098",
       "tmdb_id": 1472813,
       "watchmode_url": "https://www.watchmode.com/title/1987809/",
@@ -609,6 +542,30 @@ window.HYPE_MOVIES={
       "backdrop_path": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg"
+    },
+    {
+      "id": 1992696,
+      "title": "Terrestrial",
+      "year": 2026,
+      "release_date": "2026-10-23",
+      "genres": [
+        "Thriller",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 4.8,
+      "critic_score": null,
+      "us_rating": "NR",
+      "plot": "A reunion weekend spirals out of control for four college friends when the host - a science fiction writer on the verge of newfound success - fights to maintain his sense of reality in the face of sudden, uncanny dangers.",
+      "trailer": null,
+      "imdb_id": "tt36870725",
+      "tmdb_id": 1479481,
+      "watchmode_url": "https://www.watchmode.com/title/1992696/",
+      "poster_path": "/sHkkXROc8IVZ9vrVE4SWi6faQ8p.jpg",
+      "backdrop_path": "/AcIFQnS4vGWGTfb2wkr4ytOcpY9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sHkkXROc8IVZ9vrVE4SWi6faQ8p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/AcIFQnS4vGWGTfb2wkr4ytOcpY9.jpg"
     },
     {
       "id": 11214820,
@@ -727,7 +684,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11021641,
-      "title": "Back to the Beginning: Ozzy's Final Bow",
+      "title": "Ozzy & Black Sabbath: Back to the Beginning",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -900,7 +857,7 @@ window.HYPE_MOVIES={
         "Action"
       ],
       "runtime_minutes": 135,
-      "user_rating": 7.9,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
@@ -935,33 +892,56 @@ window.HYPE_MOVIES={
       "backdrop_path": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg"
+    },
+    {
+      "id": 11109407,
+      "title": "The Last Temptation of Becky",
+      "year": 2026,
+      "release_date": "2026-11-04",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 89,
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+      "trailer": "https://www.youtube.com/watch?v=aQrxHLuqJCk",
+      "imdb_id": "tt40210362",
+      "tmdb_id": 1642568,
+      "watchmode_url": "https://www.watchmode.com/title/11109407/",
+      "poster_path": "/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
+      "backdrop_path": "/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg"
+    },
+    {
+      "id": 1698322,
+      "title": "Being Heumann",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "runtime_minutes": 127,
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+      "trailer": "https://www.youtube.com/watch?v=CQp2pUXLvJk",
+      "imdb_id": "tt15095848",
+      "tmdb_id": 1050981,
+      "watchmode_url": "https://www.watchmode.com/title/1698322/",
+      "poster_path": "/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+      "backdrop_path": "/oBnXYbdvloYAHttptpASZYmztft.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oBnXYbdvloYAHttptpASZYmztft.jpg"
     }
   ],
   "kids": [
-    {
-      "id": 1357583,
-      "title": "Spirited Away",
-      "year": 2001,
-      "release_date": "2001-07-20",
-      "genres": [
-        "Animation",
-        "Family",
-        "Fantasy"
-      ],
-      "runtime_minutes": 125,
-      "user_rating": 8.8,
-      "critic_score": 96,
-      "us_rating": null,
-      "plot": "A young girl is drawn into a strange world inhabited by spirits after her family takes an unexpected detour. With her parents transformed and her way home uncertain, she must find courage, adapt to unfamiliar rules, and seek help among the world’s curious inhabitants.",
-      "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
-      "imdb_id": "tt0245429",
-      "tmdb_id": 129,
-      "watchmode_url": "https://www.watchmode.com/title/1357583/",
-      "poster_path": "/jUo8cNmU400WtZiJss45HNXlQ2e.jpg",
-      "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jUo8cNmU400WtZiJss45HNXlQ2e.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg"
-    },
     {
       "id": 178503,
       "title": "Coco",
@@ -1087,6 +1067,31 @@ window.HYPE_MOVIES={
       "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+    },
+    {
+      "id": 1692869,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "release_date": "2024-06-11",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 97,
+      "user_rating": 7.7,
+      "critic_score": 82,
+      "us_rating": "PG",
+      "plot": "As a teenager enters a new stage of life, her mind’s familiar emotions face an unexpected change when Anxiety arrives alongside other new feelings. At hockey camp, she navigates shifting friendships and the pressure to fit in, while the emotions try to understand how to guide her through it all.",
+      "trailer": "https://www.youtube.com/watch?v=LEjhY15eCx0",
+      "imdb_id": "tt22022452",
+      "tmdb_id": 1022789,
+      "watchmode_url": "https://www.watchmode.com/title/1692869/",
+      "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
     },
     {
       "id": 1823785,
