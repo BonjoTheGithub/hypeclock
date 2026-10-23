@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-22T15:39:22.864Z",
+  "generated_at": "2026-10-23T15:28:17.609Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 58,
   "tmdb_requests_this_refresh": 50,
@@ -148,6 +148,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg"
     },
     {
+      "id": 1729065,
+      "title": "Street Fighter",
+      "year": 2026,
+      "release_date": "2026-10-13",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "runtime_minutes": 120,
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "plot": "In 1993, two estranged martial artists are drawn back into combat when a mysterious fighter recruits them for a global tournament. As the brutal competition unfolds, a deadly conspiracy tests their uneasy partnership and forces them to confront difficult parts of their past.",
+      "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
+      "imdb_id": "tt27419420",
+      "tmdb_id": 1153576,
+      "watchmode_url": "https://www.watchmode.com/title/1729065/",
+      "poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "backdrop_path": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
+    },
+    {
       "id": 1914790,
       "title": "Other Mommy",
       "year": 2026,
@@ -228,7 +251,7 @@ window.HYPE_MOVIES={
       "user_rating": 5.5,
       "critic_score": 58,
       "us_rating": "PG-13",
-      "plot": "Two climbers travel to Thailand to attempt a forbidden route across Mount Kwan, hoping to confront their fears. Thousands of feet above the ground, unstable paths, extreme exposure, and limited options turn the dangerous journey into a desperate fight to survive.",
+      "plot": "During a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground. Surrounded by dizzying heights and exposed, dangerous paths, they face increasingly difficult odds and must fight to survive with little room for error.",
       "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
       "imdb_id": "tt31192372",
       "tmdb_id": 1101412,
@@ -237,29 +260,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
-    },
-    {
-      "id": 1729065,
-      "title": "Street Fighter",
-      "year": 2026,
-      "release_date": "2026-10-13",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "runtime_minutes": 120,
-      "user_rating": 6.3,
-      "critic_score": null,
-      "us_rating": "PG-13",
-      "plot": "In 1993, two estranged martial artists are drawn back into combat when a mysterious fighter recruits them for a global tournament. As the brutal competition unfolds, a deadly conspiracy tests their uneasy partnership and forces them to confront difficult parts of their past.",
-      "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
-      "imdb_id": "tt27419420",
-      "tmdb_id": 1153576,
-      "watchmode_url": "https://www.watchmode.com/title/1729065/",
-      "poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "backdrop_path": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
     },
     {
       "id": 1798840,
@@ -302,9 +302,9 @@ window.HYPE_MOVIES={
       "imdb_id": "tt34890576",
       "tmdb_id": 1400940,
       "watchmode_url": "https://www.watchmode.com/title/1914859/",
-      "poster_path": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
       "backdrop_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg"
     },
     {
@@ -326,9 +326,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1248832,
       "watchmode_url": "https://www.watchmode.com/title/1793884/",
       "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_path": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "backdrop_path": "/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg"
     },
     {
       "id": 1939424,
@@ -353,6 +353,28 @@ window.HYPE_MOVIES={
       "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+    },
+    {
+      "id": 11229535,
+      "title": "You Can See Everything",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 174,
+      "user_rating": 9.2,
+      "critic_score": 98,
+      "us_rating": null,
+      "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
+      "trailer": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "imdb_id": "tt45368240",
+      "tmdb_id": 1765072,
+      "watchmode_url": "https://www.watchmode.com/title/11229535/",
+      "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "backdrop_path": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
     },
     {
       "id": 1875027,
@@ -447,56 +469,9 @@ window.HYPE_MOVIES={
       "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
-    },
-    {
-      "id": 1818771,
-      "title": "Sacrifice",
-      "year": 2026,
-      "release_date": "2026-04-09",
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Action"
-      ],
-      "runtime_minutes": 100,
-      "user_rating": 5.2,
-      "critic_score": 53,
-      "us_rating": "R",
-      "plot": "At a lavish charity gala filled with celebrities and billionaires, a movie star facing an existential crisis is taken hostage by a radical warrior and her followers. As the evening spirals into chaos, the hostage and captors are drawn into an unpredictable journey that blurs the boundaries between performance, belief, salvation, and sacrifice.",
-      "trailer": "https://www.youtube.com/watch?v=bzGU0b5XAKc",
-      "imdb_id": "tt32268992",
-      "tmdb_id": 1284186,
-      "watchmode_url": "https://www.watchmode.com/title/1818771/",
-      "poster_path": "/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-      "backdrop_path": "/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg"
     }
   ],
   "upcoming": [
-    {
-      "id": 11133964,
-      "title": "No Paradise If You Are Killed by a Woman",
-      "year": 2026,
-      "release_date": "2026-10-22",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "runtime_minutes": 110,
-      "user_rating": 8.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A Kurdish-Norwegian sniper returns to a battlefield she once escaped, driven by vengeance and the desperate hope of rescuing her younger sister, who remains imprisoned by ISIS in Mosul. Her mission brings together personal loss, family loyalty, and the dangers of returning to a place marked by war and captivity.",
-      "trailer": "https://www.youtube.com/watch?v=sBqFhLg7HnA",
-      "imdb_id": "tt43705006",
-      "tmdb_id": 1590884,
-      "watchmode_url": "https://www.watchmode.com/title/11133964/",
-      "poster_path": "/7InHgpBa0YEEbLi7zGgGmgnUt70.jpg",
-      "backdrop_path": "/3Ef0soMIvRQFfi99lABKFy3aiLE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7InHgpBa0YEEbLi7zGgGmgnUt70.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3Ef0soMIvRQFfi99lABKFy3aiLE.jpg"
-    },
     {
       "id": 1703778,
       "title": "A Talent for Murder",
@@ -507,10 +482,10 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 106,
-      "user_rating": 6.6,
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": "R",
-      "plot": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+      "plot": "A young man travels from New York to Switzerland, hoping to persuade an acclaimed thriller writer to create one final installment in her celebrated crime series. As he pursues his goal, his efforts take on a more sinister tone.",
       "trailer": "https://www.youtube.com/watch?v=IzFgGhFrx0o",
       "imdb_id": "tt14129116",
       "tmdb_id": 1084409,
@@ -530,7 +505,7 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 94,
-      "user_rating": 6.8,
+      "user_rating": 6.7,
       "critic_score": 76,
       "us_rating": null,
       "plot": "Gianina, a young Romanian chambermaid, works for a bourgeois family in Bordeaux and spends her evenings rehearsing a maid’s story with an amateur theater group. She cares for her employer’s son while her own daughter grows up far away in Romania, and as Christmas nears, the hope of reunion grows stronger.",
@@ -557,7 +532,7 @@ window.HYPE_MOVIES={
       "user_rating": 4.8,
       "critic_score": null,
       "us_rating": "NR",
-      "plot": "A reunion weekend spirals out of control for four college friends when the host - a science fiction writer on the verge of newfound success - fights to maintain his sense of reality in the face of sudden, uncanny dangers.",
+      "plot": "During a reunion weekend, four college friends face sudden, uncanny dangers as their host, a science fiction writer on the verge of success, struggles to hold on to his sense of reality. The gathering begins to spiral out of control.",
       "trailer": null,
       "imdb_id": "tt36870725",
       "tmdb_id": 1479481,
@@ -677,14 +652,14 @@ window.HYPE_MOVIES={
       "imdb_id": "tt9213874",
       "tmdb_id": 1496696,
       "watchmode_url": "https://www.watchmode.com/title/11004686/",
-      "poster_path": "/lOvbJXGOPo7Lx3vz2o14pjpb0j7.jpg",
-      "backdrop_path": "/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lOvbJXGOPo7Lx3vz2o14pjpb0j7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg"
+      "poster_path": "/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "backdrop_path": "/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
     },
     {
       "id": 11021641,
-      "title": "Ozzy & Black Sabbath: Back to the Beginning",
+      "title": "Back to the Beginning: Ozzy's Final Bow",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -717,7 +692,7 @@ window.HYPE_MOVIES={
         "Fantasy"
       ],
       "runtime_minutes": 119,
-      "user_rating": 5.1,
+      "user_rating": 5.2,
       "critic_score": null,
       "us_rating": null,
       "plot": "A powerful vampire and her maid pursue a legendary elixir and a book that could endanger their supernatural world. Chasing them are a determined police inspector, two vampire experts, an unconventional nephew, and his therapist.",
@@ -733,7 +708,7 @@ window.HYPE_MOVIES={
     {
       "id": 1942282,
       "title": "Free at Heart",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-29",
       "genres": [
         "Drama",
@@ -757,7 +732,7 @@ window.HYPE_MOVIES={
     {
       "id": 11026751,
       "title": "The Restoration at Grayson Manor",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-10-29",
       "genres": [
         "Horror"
@@ -939,6 +914,31 @@ window.HYPE_MOVIES={
       "backdrop_path": "/oBnXYbdvloYAHttptpASZYmztft.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oBnXYbdvloYAHttptpASZYmztft.jpg"
+    },
+    {
+      "id": 1699549,
+      "title": "The Invisible Guest",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime_minutes": 120,
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer to defend her. With only three hours left, they must work together to uncover what really happened and piece together the truth behind the accusation before time runs out.",
+      "trailer": "https://www.youtube.com/watch?v=epCg2RbyF80",
+      "imdb_id": "tt17497130",
+      "tmdb_id": 1058588,
+      "watchmode_url": "https://www.watchmode.com/title/1699549/",
+      "poster_path": "/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+      "backdrop_path": "/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg"
     }
   ],
   "kids": [
@@ -1007,7 +1007,7 @@ window.HYPE_MOVIES={
       "runtime_minutes": 95,
       "user_rating": 8.2,
       "critic_score": 96,
-      "us_rating": null,
+      "us_rating": "PG",
       "plot": "When an 11-year-old moves to a new city, her emotions try to help her adjust to a life away from familiar friends and routines. After two of them become lost in the reaches of her mind, they must find their way back while the others try to manage the upheaval.",
       "trailer": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
       "imdb_id": "tt2096673",
@@ -1067,31 +1067,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
-    },
-    {
-      "id": 1692869,
-      "title": "Inside Out 2",
-      "year": 2024,
-      "release_date": "2024-06-11",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family"
-      ],
-      "runtime_minutes": 97,
-      "user_rating": 7.7,
-      "critic_score": 82,
-      "us_rating": "PG",
-      "plot": "As a teenager enters a new stage of life, her mind’s familiar emotions face an unexpected change when Anxiety arrives alongside other new feelings. At hockey camp, she navigates shifting friendships and the pressure to fit in, while the emotions try to understand how to guide her through it all.",
-      "trailer": "https://www.youtube.com/watch?v=LEjhY15eCx0",
-      "imdb_id": "tt22022452",
-      "tmdb_id": 1022789,
-      "watchmode_url": "https://www.watchmode.com/title/1692869/",
-      "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-      "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
     },
     {
       "id": 1823785,
@@ -1193,6 +1168,30 @@ window.HYPE_MOVIES={
       "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
+    },
+    {
+      "id": 1751320,
+      "title": "Tad and the Magic Lamp",
+      "year": 2026,
+      "release_date": "2026-08-26",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtime_minutes": 94,
+      "user_rating": 6.7,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "An enthusiastic explorer accidentally unleashes an ancient spell, setting off a new adventure with his girlfriend and friends. Together, they face the consequences of the magic lamp while searching for a way to put things right.",
+      "trailer": "https://www.youtube.com/watch?v=8-Bjo_rXCkM",
+      "imdb_id": "tt36164852",
+      "tmdb_id": 1187326,
+      "watchmode_url": "https://www.watchmode.com/title/1751320/",
+      "poster_path": "/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+      "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg"
     }
   ]
 };
