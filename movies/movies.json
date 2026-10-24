@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-23T15:28:17.609Z",
+  "generated_at": "2026-10-24T14:07:23.162Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 58,
   "tmdb_requests_this_refresh": 50,
@@ -50,9 +50,9 @@
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
     },
     {
       "id": 1611652,
@@ -88,7 +88,7 @@
         "Action"
       ],
       "runtime_minutes": 157,
-      "user_rating": 6.9,
+      "user_rating": 6.8,
       "critic_score": 73,
       "us_rating": null,
       "plot": "In a remote South Korean village, local police investigate a mysterious creature causing chaos in the community. As fear and confusion spread, the investigation becomes entangled with human conflict, challenging what the villagers think they understand about the threat.",
@@ -171,6 +171,28 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
     },
     {
+      "id": 1798840,
+      "title": "Whalefall",
+      "year": 2026,
+      "release_date": "2026-10-14",
+      "genres": [
+        "Thriller"
+      ],
+      "runtime_minutes": 106,
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "plot": "After his father’s death, a young diver searches off the California coast for his remains, only to be swallowed by a massive sperm whale. Trapped inside with his oxygen running low, he must draw on lessons from his father as he struggles to find a way out.",
+      "trailer": "https://www.youtube.com/watch?v=67ho3OxCmmM",
+      "imdb_id": "tt28535715",
+      "tmdb_id": 1255833,
+      "watchmode_url": "https://www.watchmode.com/title/1798840/",
+      "poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg"
+    },
+    {
       "id": 1914790,
       "title": "Other Mommy",
       "year": 2026,
@@ -180,7 +202,7 @@
       ],
       "runtime_minutes": 93,
       "user_rating": 5.5,
-      "critic_score": 28,
+      "critic_score": 29,
       "us_rating": "R",
       "plot": "A young girl forms a relationship with a sinister entity in her home, where it looks uncannily like her own mother. This connection draws her into a terrifying and increasingly dark world, as the presence becomes part of her life at home.",
       "trailer": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
@@ -204,7 +226,7 @@
       ],
       "runtime_minutes": 127,
       "user_rating": 5.9,
-      "critic_score": 29,
+      "critic_score": 31,
       "us_rating": null,
       "plot": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
@@ -262,28 +284,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
     },
     {
-      "id": 1798840,
-      "title": "Whalefall",
-      "year": 2026,
-      "release_date": "2026-10-14",
-      "genres": [
-        "Thriller"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": "PG-13",
-      "plot": "After his father’s death, a young diver searches off the California coast for his remains, only to be swallowed by a massive sperm whale. Trapped inside with his oxygen running low, he must draw on lessons from his father as he struggles to find a way out.",
-      "trailer": "https://www.youtube.com/watch?v=67ho3OxCmmM",
-      "imdb_id": "tt28535715",
-      "tmdb_id": 1255833,
-      "watchmode_url": "https://www.watchmode.com/title/1798840/",
-      "poster_path": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "backdrop_path": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg"
-    },
-    {
       "id": 1914859,
       "title": "Clayface",
       "year": 2026,
@@ -294,7 +294,7 @@
         "Science Fiction"
       ],
       "runtime_minutes": 109,
-      "user_rating": 7.9,
+      "user_rating": 7.4,
       "critic_score": null,
       "us_rating": null,
       "plot": "A young man rises from the streets of Gotham to become a Hollywood star, but a crime boss’s actions leave him disfigured and abandoned. Desperate for help, he undergoes a treatment that restores his appearance while unsettling his sense of reality, setting him on a destructive path.",
@@ -363,7 +363,7 @@
         "Documentary"
       ],
       "runtime_minutes": 174,
-      "user_rating": 9.2,
+      "user_rating": 9.1,
       "critic_score": 98,
       "us_rating": null,
       "plot": "Thirty-four days before reporting to prison, a notorious Silicon Valley founder invites a skeptical film crew to document her life. The project expands into an intimate, unsettling three-year examination of ambition, public scrutiny, and the boundaries between personal portrait and spectacle.",
@@ -394,9 +394,9 @@
       "imdb_id": "tt31349844",
       "tmdb_id": 1377237,
       "watchmode_url": "https://www.watchmode.com/title/1875027/",
-      "poster_path": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "poster_path": "/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
       "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
     },
     {
@@ -473,76 +473,6 @@
   ],
   "upcoming": [
     {
-      "id": 1703778,
-      "title": "A Talent for Murder",
-      "year": 2026,
-      "release_date": "2026-10-23",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 6.5,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A young man travels from New York to Switzerland, hoping to persuade an acclaimed thriller writer to create one final installment in her celebrated crime series. As he pursues his goal, his efforts take on a more sinister tone.",
-      "trailer": "https://www.youtube.com/watch?v=IzFgGhFrx0o",
-      "imdb_id": "tt14129116",
-      "tmdb_id": 1084409,
-      "watchmode_url": "https://www.watchmode.com/title/1703778/",
-      "poster_path": "/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "backdrop_path": "/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg"
-    },
-    {
-      "id": 1987809,
-      "title": "The Diary of a Chambermaid",
-      "year": 2026,
-      "release_date": "2026-10-23",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "runtime_minutes": 94,
-      "user_rating": 6.7,
-      "critic_score": 76,
-      "us_rating": null,
-      "plot": "Gianina, a young Romanian chambermaid, works for a bourgeois family in Bordeaux and spends her evenings rehearsing a maid’s story with an amateur theater group. She cares for her employer’s son while her own daughter grows up far away in Romania, and as Christmas nears, the hope of reunion grows stronger.",
-      "trailer": "https://www.youtube.com/watch?v=6ksPIUxSH88",
-      "imdb_id": "tt38785098",
-      "tmdb_id": 1472813,
-      "watchmode_url": "https://www.watchmode.com/title/1987809/",
-      "poster_path": "/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
-      "backdrop_path": "/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vktQLUEEjg1KZhXfDINqxZNB29x.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bYaiKiCmTOnd2EW0yuzA4vno8g.jpg"
-    },
-    {
-      "id": 1992696,
-      "title": "Terrestrial",
-      "year": 2026,
-      "release_date": "2026-10-23",
-      "genres": [
-        "Thriller",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 4.8,
-      "critic_score": null,
-      "us_rating": "NR",
-      "plot": "During a reunion weekend, four college friends face sudden, uncanny dangers as their host, a science fiction writer on the verge of success, struggles to hold on to his sense of reality. The gathering begins to spiral out of control.",
-      "trailer": null,
-      "imdb_id": "tt36870725",
-      "tmdb_id": 1479481,
-      "watchmode_url": "https://www.watchmode.com/title/1992696/",
-      "poster_path": "/sHkkXROc8IVZ9vrVE4SWi6faQ8p.jpg",
-      "backdrop_path": "/AcIFQnS4vGWGTfb2wkr4ytOcpY9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sHkkXROc8IVZ9vrVE4SWi6faQ8p.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AcIFQnS4vGWGTfb2wkr4ytOcpY9.jpg"
-    },
-    {
       "id": 11214820,
       "title": "Poster Boy: Becoming Zyzz",
       "year": 2026,
@@ -613,7 +543,7 @@
     },
     {
       "id": 1985219,
-      "title": "Sanguine",
+      "title": "Species",
       "year": 2026,
       "release_date": "2026-10-28",
       "genres": [
@@ -658,29 +588,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
     },
     {
-      "id": 11021641,
-      "title": "Back to the Beginning: Ozzy's Final Bow",
-      "year": 2026,
-      "release_date": "2026-10-28",
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "runtime_minutes": 147,
-      "user_rating": 8.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A landmark farewell concert reunites pioneering heavy metal performers for a high-energy celebration of classic songs. The live event also features guest artists and other bands performing tributes and original material, creating a powerful salute to the genre’s enduring legacy.",
-      "trailer": "https://www.youtube.com/watch?v=oNsFj5RTF14",
-      "imdb_id": "tt46055956",
-      "tmdb_id": 1515139,
-      "watchmode_url": "https://www.watchmode.com/title/11021641/",
-      "poster_path": "/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
-      "backdrop_path": "/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iO8vwdtmOivoyUguheJtDLXp2Gq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hFIhPUW8oO2EJYXLAuWFMJBzjsR.jpg"
-    },
-    {
       "id": 1795869,
       "title": "The Blood Countess",
       "year": 2026,
@@ -708,7 +615,7 @@
     {
       "id": 1942282,
       "title": "Free at Heart",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-29",
       "genres": [
         "Drama",
@@ -732,7 +639,7 @@
     {
       "id": 11026751,
       "title": "The Restoration at Grayson Manor",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-29",
       "genres": [
         "Horror"
@@ -939,6 +846,98 @@
       "backdrop_path": "/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg"
+    },
+    {
+      "id": 1788407,
+      "title": "Mouse",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "runtime_minutes": 120,
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "At the start of the summer before senior year, a teenager’s close relationship with her best friend is suddenly upended. Without that friendship, she feels lost and begins forming an increasingly complicated connection with the friend’s mother.",
+      "trailer": "https://www.youtube.com/watch?v=sfvh4VZsFuY",
+      "imdb_id": "tt13652154",
+      "tmdb_id": 1241052,
+      "watchmode_url": "https://www.watchmode.com/title/1788407/",
+      "poster_path": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+      "backdrop_path": "/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg"
+    },
+    {
+      "id": 1897899,
+      "title": "I Play Rocky",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "runtime_minutes": 128,
+      "user_rating": 7.7,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "trailer": "https://www.youtube.com/watch?v=V_g_Ut0jO-0",
+      "imdb_id": "tt11995650",
+      "tmdb_id": 1286656,
+      "watchmode_url": "https://www.watchmode.com/title/1897899/",
+      "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "backdrop_path": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg"
+    },
+    {
+      "id": 11074184,
+      "title": "Nuisance Bear",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 89,
+      "user_rating": 7,
+      "critic_score": 70,
+      "us_rating": null,
+      "plot": "A polar bear struggles to survive as its ancient migration brings it into contact with tourists, wildlife officers, and hunters. As people label the sacred predator a nuisance, the film explores who belongs in a landscape shared by humans and wildlife.",
+      "trailer": "https://www.youtube.com/watch?v=dL4lFKY8Cy4",
+      "imdb_id": "tt39150922",
+      "tmdb_id": 1595210,
+      "watchmode_url": "https://www.watchmode.com/title/11074184/",
+      "poster_path": "/An1QdmHWNxX2V03kq3akOCid69r.jpg",
+      "backdrop_path": "/hqDiQteXWMoyezEmbPy0nRYdUST.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/An1QdmHWNxX2V03kq3akOCid69r.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hqDiQteXWMoyezEmbPy0nRYdUST.jpg"
+    },
+    {
+      "id": 11074269,
+      "title": "Zi",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Romance"
+      ],
+      "runtime_minutes": 99,
+      "user_rating": 5.6,
+      "critic_score": 62,
+      "us_rating": null,
+      "plot": "In Hong Kong, a young woman troubled by visions of her future self encounters a stranger who alters the direction of her night. Their meeting opens the possibility of change, as she faces an uncertain path and questions what may still lie ahead.",
+      "trailer": "https://www.youtube.com/watch?v=HxDfJlBJ22Y",
+      "imdb_id": "tt39150111",
+      "tmdb_id": 1595346,
+      "watchmode_url": "https://www.watchmode.com/title/11074269/",
+      "poster_path": "/k0MdqAUD3PsdgjDGBNGhP5E0Xct.jpg",
+      "backdrop_path": "/jxxHGKum9FzHxwnVky0LbXgfSDj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k0MdqAUD3PsdgjDGBNGhP5E0Xct.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jxxHGKum9FzHxwnVky0LbXgfSDj.jpg"
     }
   ],
   "kids": [
