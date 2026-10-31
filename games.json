@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:29:44.953Z",
+  "generated_at": "2026-10-31T05:57:21.343Z",
   "games": [
     {
       "id": 431,
@@ -13,6 +13,19 @@
       "developer": "Imperia Online Ltd.",
       "release_date": "2005-08-23",
       "freetogame_profile_url": "https://www.freetogame.com/imperia-online"
+    },
+    {
+      "id": 644,
+      "title": "World of Tanks: HEAT",
+      "thumbnail": "https://www.freetogame.com/g/644/thumbnail.jpg",
+      "short_description": "A free-to-play hero-based shooter set in the World of Tanks universe.",
+      "game_url": "https://www.freetogame.com/open/world-of-tanks-heat",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming Group Limited",
+      "developer": "Wargaming Group Limited",
+      "release_date": "2026-05-26",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks-heat"
     },
     {
       "id": 642,
@@ -767,19 +780,6 @@
       "developer": "SoftStar",
       "release_date": "2005-09-03",
       "freetogame_profile_url": "https://www.freetogame.com/domo"
-    },
-    {
-      "id": 320,
-      "title": "Dungeons and Dragons Online",
-      "thumbnail": "https://www.freetogame.com/g/320/thumbnail.jpg",
-      "short_description": "A free-to-play MMORPG based on the beloved D&D RPG that started it all.",
-      "game_url": "https://www.freetogame.com/open/dungeons-dragons-online",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Warner Bros. Interactive Entertainment",
-      "developer": "Turbine, Inc.",
-      "release_date": "2006-02-28",
-      "freetogame_profile_url": "https://www.freetogame.com/dungeons-dragons-online"
     }
   ]
 }
