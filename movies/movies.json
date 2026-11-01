@@ -1,10 +1,10 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-10-31T15:52:22.484Z",
+  "generated_at": "2026-11-01T16:54:56.124Z",
   "refresh_hours": 24,
-  "estimated_credits_this_refresh": 56,
-  "tmdb_requests_this_refresh": 48,
+  "estimated_credits_this_refresh": 55,
+  "tmdb_requests_this_refresh": 47,
   "popular": [
     {
       "id": 1682009,
@@ -18,7 +18,7 @@
       ],
       "runtime_minutes": 132,
       "user_rating": 8.9,
-      "critic_score": 93,
+      "critic_score": 94,
       "us_rating": "PG-13",
       "plot": "A young girl and her classmate enter a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries. They face a desperate quest to rescue her abducted baby brother from a murder of crows led by a mysterious woman.",
       "trailer": "https://www.youtube.com/watch?v=POneS8h1jyU",
@@ -44,7 +44,7 @@
       "user_rating": 8.1,
       "critic_score": 78,
       "us_rating": "PG-13",
-      "plot": "A full-time crimefighter protects a city that has forgotten who he is, while watching people from his past move on without him. As loneliness and strange changes in his abilities add to the pressure, he must face a dangerous new threat that puts the city and those he cares about at risk.",
+      "plot": "A full-time crimefighter faces the loneliness of living in a world that no longer remembers him, while watching old friends move on without him. As his powers begin to change in ways he can’t control, he must confront a dangerous threat to the city and the people he cares about.",
       "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
       "imdb_id": "tt22084616",
       "tmdb_id": 969681,
@@ -112,7 +112,7 @@
         "Thriller"
       ],
       "runtime_minutes": 103,
-      "user_rating": 5.8,
+      "user_rating": 5.7,
       "critic_score": null,
       "us_rating": "R",
       "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
@@ -160,7 +160,7 @@
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.5,
+      "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After the Trojan War, a legendary king sets out on a perilous journey home. He faces divine interference, mythological creatures, and trials that test his cleverness and humanity, while those waiting for him at home face troubles of their own.",
@@ -269,29 +269,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
     },
     {
-      "id": 1823717,
-      "title": "Insidious: Out of the Further",
-      "year": 2026,
-      "release_date": "2026-08-19",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 6.2,
-      "critic_score": 53,
-      "us_rating": null,
-      "plot": "A young mother raising her daughter in her childhood home discovers she can enter a mysterious realm called the Further. There, she has an unusual ability to bring its inhabitants into the real world, drawing her into a frightening struggle to protect her family.",
-      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
-      "imdb_id": "tt32393988",
-      "tmdb_id": 1291595,
-      "watchmode_url": "https://www.watchmode.com/title/1823717/",
-      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
-    },
-    {
       "id": 1942846,
       "title": "Fall 2: Deadpoint",
       "year": 2026,
@@ -358,57 +335,35 @@
       "imdb_id": "tt39120306",
       "tmdb_id": 1657630,
       "watchmode_url": "https://www.watchmode.com/title/11116873/",
-      "poster_path": "/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
+      "poster_path": "/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
       "backdrop_path": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
     },
     {
-      "id": 11049995,
-      "title": "Masterplan",
-      "year": 2026,
-      "release_date": "2026-10-16",
+      "id": 178503,
+      "title": "Coco",
+      "year": 2017,
+      "release_date": "2017-10-27",
       "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 110,
-      "user_rating": 5.5,
-      "critic_score": 39,
-      "us_rating": "R",
-      "plot": "A legendary thief recruits two young strangers to help steal a famous painting, then reveals an unexpected family connection. Thrust into a chaotic reunion, the new family must learn to work together—and tolerate one another—if they hope to pull off an ambitious heist.",
-      "trailer": "https://www.youtube.com/watch?v=gc0t8AfMP6k",
-      "imdb_id": "tt38672588",
-      "tmdb_id": 1561726,
-      "watchmode_url": "https://www.watchmode.com/title/11049995/",
-      "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "backdrop_path": "/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg"
-    },
-    {
-      "id": 1939424,
-      "title": "Resident Evil",
-      "year": 2026,
-      "release_date": "2026-09-16",
-      "genres": [
-        "Horror",
-        "Science Fiction",
+        "Family",
+        "Animation",
+        "Music",
         "Adventure"
       ],
-      "runtime_minutes": 95,
-      "user_rating": 7.7,
-      "critic_score": 88,
-      "us_rating": null,
-      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
-      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
-      "imdb_id": "tt35538033",
-      "tmdb_id": 1423191,
-      "watchmode_url": "https://www.watchmode.com/title/1939424/",
-      "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+      "runtime_minutes": 105,
+      "user_rating": 8.5,
+      "critic_score": 89,
+      "us_rating": "PG",
+      "plot": "A young aspiring musician struggles against his family’s generations-old ban on music. After a mysterious turn of events takes him to the vibrant Land of the Dead, he teams up with a charming trickster on a journey to understand his family’s past and find a way home.",
+      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
+      "imdb_id": "tt2380307",
+      "tmdb_id": 354912,
+      "watchmode_url": "https://www.watchmode.com/title/178503/",
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
     },
     {
       "id": 1982660,
@@ -435,6 +390,29 @@
       "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+    },
+    {
+      "id": 1823717,
+      "title": "Insidious: Out of the Further",
+      "year": 2026,
+      "release_date": "2026-08-19",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 106,
+      "user_rating": 6.2,
+      "critic_score": 53,
+      "us_rating": null,
+      "plot": "A young mother raising her daughter in her childhood home discovers she can enter a mysterious realm called the Further. There, she has an unusual ability to bring its inhabitants into the real world, drawing her into a frightening struggle to protect her family.",
+      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
+      "imdb_id": "tt32393988",
+      "tmdb_id": 1291595,
+      "watchmode_url": "https://www.watchmode.com/title/1823717/",
+      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
     },
     {
       "id": 1409773,
@@ -482,6 +460,29 @@
       "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
+    },
+    {
+      "id": 1874462,
+      "title": "Crawlers",
+      "year": 2026,
+      "release_date": "2026-09-24",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime_minutes": 80,
+      "user_rating": 5.5,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Residents of a troubled apartment complex struggle to survive when deadly spiders invade their building. As panic spreads through the tenants, an unexpectedly capable manager may be their best chance of making it out alive.",
+      "trailer": "https://www.youtube.com/watch?v=4DowjB87tRE",
+      "imdb_id": "tt32329539",
+      "tmdb_id": 1376400,
+      "watchmode_url": "https://www.watchmode.com/title/1874462/",
+      "poster_path": "/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+      "backdrop_path": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg"
     }
   ],
   "upcoming": [
@@ -519,7 +520,7 @@
         "Drama"
       ],
       "runtime_minutes": 126,
-      "user_rating": 7.9,
+      "user_rating": 8,
       "critic_score": 80,
       "us_rating": null,
       "plot": "A washed-up underground party promoter suddenly faces a major change when he’s forced to care for a son he never knew he had. As his new responsibilities collide with his old lifestyle, everyday choices become a high-stakes test of what he wants next.",
@@ -614,7 +615,7 @@
         "Comedy"
       ],
       "runtime_minutes": 120,
-      "user_rating": 6.9,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "plot": "At the start of the summer before senior year, a teenager’s close relationship with her best friend is suddenly upended. Without that friendship, she feels lost and begins forming an increasingly complicated connection with the friend’s mother.",
@@ -773,7 +774,7 @@
         "Drama"
       ],
       "runtime_minutes": 132,
-      "user_rating": 2.8,
+      "user_rating": 3,
       "critic_score": null,
       "us_rating": null,
       "plot": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
@@ -814,18 +815,18 @@
     {
       "id": 1710003,
       "title": "Eternal Return",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-12",
       "genres": [
         "Romance",
         "Science Fiction"
       ],
       "runtime_minutes": 115,
-      "user_rating": 7.4,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "plot": "After losing someone she deeply loved, a young woman becomes emotionally closed off and abandons her former dreams. A chance meeting with a cartographer introduces her to magical maps connected to meaningful moments, prompting a journey through memory, loss, and the possibility of opening her heart again.",
-      "trailer": "https://www.youtube.com/watch?v=Omchv_hsck4",
+      "trailer": "https://www.youtube.com/watch?v=2iIBYPng3uI",
       "imdb_id": "tt27725750",
       "tmdb_id": 1125822,
       "watchmode_url": "https://www.watchmode.com/title/1710003/",
@@ -942,9 +943,9 @@
       "imdb_id": "tt18163224",
       "tmdb_id": 951018,
       "watchmode_url": "https://www.watchmode.com/title/11136980/",
-      "poster_path": "/pWhGSn4IaPOfNAgh9ZhGVhkuvO1.jpg",
+      "poster_path": "/67hNnsOQmC6DDYf7SuZc3ReldsB.jpg",
       "backdrop_path": "/sdMLtTxADRF3WAHmtL9oUFNY5wt.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pWhGSn4IaPOfNAgh9ZhGVhkuvO1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/67hNnsOQmC6DDYf7SuZc3ReldsB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sdMLtTxADRF3WAHmtL9oUFNY5wt.jpg"
     }
   ],
@@ -1127,6 +1128,31 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
+      "id": 1392486,
+      "title": "The Fox and the Hound",
+      "year": 1981,
+      "release_date": "1981-07-10",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "runtime_minutes": 82,
+      "user_rating": 7.4,
+      "critic_score": 70,
+      "us_rating": "G",
+      "plot": "A young fox is welcomed into a farm family and soon befriends a hound puppy. Their playful childhood friendship is tested as the hound is raised to hunt, placing the two friends on opposing sides of the countryside’s expectations.",
+      "trailer": "https://www.youtube.com/watch?v=LhV6BBvt8Vs",
+      "imdb_id": "tt0082406",
+      "tmdb_id": 10948,
+      "watchmode_url": "https://www.watchmode.com/title/1392486/",
+      "poster_path": "/bbPEYD1z1DN13UJMr9sjhMh8DJx.jpg",
+      "backdrop_path": "/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bbPEYD1z1DN13UJMr9sjhMh8DJx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg"
+    },
+    {
       "id": 1546856,
       "title": "The Super Mario Bros. Movie",
       "year": 2023,
@@ -1175,32 +1201,6 @@
       "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg"
-    },
-    {
-      "id": 1840434,
-      "title": "Minions & Monsters",
-      "year": 2026,
-      "release_date": "2026-06-24",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 6.5,
-      "critic_score": 80,
-      "us_rating": "PG",
-      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
-      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
-      "imdb_id": "tt32890033",
-      "tmdb_id": 1315772,
-      "watchmode_url": "https://www.watchmode.com/title/1840434/",
-      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
   ]
 }
