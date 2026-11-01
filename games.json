@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:58:54.048Z",
+  "generated_at": "2026-11-01T22:11:37.629Z",
   "games": [
     {
       "id": 431,
@@ -288,19 +288,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/blankos"
     },
     {
-      "id": 339,
-      "title": "Tibia",
-      "thumbnail": "https://www.freetogame.com/g/339/thumbnail.jpg",
-      "short_description": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
-      "game_url": "https://www.freetogame.com/open/tibia",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "CipSoft",
-      "developer": "CipSoft",
-      "release_date": "1997-01-07",
-      "freetogame_profile_url": "https://www.freetogame.com/tibia"
-    },
-    {
       "id": 614,
       "title": "Dungeon Stalker",
       "thumbnail": "https://www.freetogame.com/g/614/thumbnail.jpg",
@@ -314,6 +301,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/dungeon-stalker"
     },
     {
+      "id": 339,
+      "title": "Tibia",
+      "thumbnail": "https://www.freetogame.com/g/339/thumbnail.jpg",
+      "short_description": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
+      "game_url": "https://www.freetogame.com/open/tibia",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "CipSoft",
+      "developer": "CipSoft",
+      "release_date": "1997-01-07",
+      "freetogame_profile_url": "https://www.freetogame.com/tibia"
+    },
+    {
       "id": 572,
       "title": "Ravendawn",
       "thumbnail": "https://www.freetogame.com/g/572/thumbnail.jpg",
@@ -325,19 +325,6 @@
       "developer": "Tavernlight Games",
       "release_date": "2024-01-16",
       "freetogame_profile_url": "https://www.freetogame.com/ravendawn"
-    },
-    {
-      "id": 452,
-      "title": "Call of Duty: Warzone",
-      "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg",
-      "short_description": "A standalone free-to-play battle royale and modes accessible via Call of Duty: Modern Warfare.",
-      "game_url": "https://www.freetogame.com/open/call-of-duty-warzone",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Activision",
-      "developer": "Infinity Ward",
-      "release_date": "2020-03-10",
-      "freetogame_profile_url": "https://www.freetogame.com/call-of-duty-warzone"
     },
     {
       "id": 551,
@@ -366,6 +353,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/star-trek-online"
     },
     {
+      "id": 452,
+      "title": "Call of Duty: Warzone",
+      "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg",
+      "short_description": "A standalone free-to-play battle royale and modes accessible via Call of Duty: Modern Warfare.",
+      "game_url": "https://www.freetogame.com/open/call-of-duty-warzone",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Activision",
+      "developer": "Infinity Ward",
+      "release_date": "2020-03-10",
+      "freetogame_profile_url": "https://www.freetogame.com/call-of-duty-warzone"
+    },
+    {
       "id": 639,
       "title": "The Seven Deadly Sins: Origin",
       "thumbnail": "https://www.freetogame.com/g/639/thumbnail.jpg",
@@ -390,19 +390,6 @@
       "developer": "Bad Guitar Studio",
       "release_date": "2025-03-06",
       "freetogame_profile_url": "https://www.freetogame.com/fragpunk"
-    },
-    {
-      "id": 24,
-      "title": "Counter-Strike 2",
-      "thumbnail": "https://www.freetogame.com/g/24/thumbnail.jpg",
-      "short_description": "The popular multiplayer shooter from Valve.",
-      "game_url": "https://www.freetogame.com/open/counter-strike-2",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Valve",
-      "developer": "Valve",
-      "release_date": "2012-08-21",
-      "freetogame_profile_url": "https://www.freetogame.com/counter-strike-2"
     },
     {
       "id": 545,
@@ -431,6 +418,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution"
     },
     {
+      "id": 24,
+      "title": "Counter-Strike 2",
+      "thumbnail": "https://www.freetogame.com/g/24/thumbnail.jpg",
+      "short_description": "The popular multiplayer shooter from Valve.",
+      "game_url": "https://www.freetogame.com/open/counter-strike-2",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Valve",
+      "developer": "Valve",
+      "release_date": "2012-08-21",
+      "freetogame_profile_url": "https://www.freetogame.com/counter-strike-2"
+    },
+    {
       "id": 5,
       "title": "Crossout",
       "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
@@ -442,19 +442,6 @@
       "developer": "Gaijin",
       "release_date": "2017-05-30",
       "freetogame_profile_url": "https://www.freetogame.com/crossout"
-    },
-    {
-      "id": 330,
-      "title": "Lineage 2",
-      "thumbnail": "https://www.freetogame.com/g/330/thumbnail.jpg",
-      "short_description": "A 3D fantasy MMORPG with a strong emphasis on PvP.",
-      "game_url": "https://www.freetogame.com/open/lineage-2",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "NCSoft",
-      "developer": "NCSoft",
-      "release_date": "2004-04-27",
-      "freetogame_profile_url": "https://www.freetogame.com/lineage-2"
     },
     {
       "id": 578,
@@ -470,17 +457,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/predecessor"
     },
     {
-      "id": 652,
-      "title": "Aion 2",
-      "thumbnail": "https://www.freetogame.com/g/652/thumbnail.jpg",
-      "short_description": "The sequel to NC's original Aion featuring vertical exploration and combat.",
-      "game_url": "https://www.freetogame.com/open/aion-2",
+      "id": 330,
+      "title": "Lineage 2",
+      "thumbnail": "https://www.freetogame.com/g/330/thumbnail.jpg",
+      "short_description": "A 3D fantasy MMORPG with a strong emphasis on PvP.",
+      "game_url": "https://www.freetogame.com/open/lineage-2",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "NC",
-      "developer": "NC",
-      "release_date": "2026-10-05",
-      "freetogame_profile_url": "https://www.freetogame.com/aion-2"
+      "publisher": "NCSoft",
+      "developer": "NCSoft",
+      "release_date": "2004-04-27",
+      "freetogame_profile_url": "https://www.freetogame.com/lineage-2"
     },
     {
       "id": 297,
@@ -509,6 +496,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/eternal-return"
     },
     {
+      "id": 652,
+      "title": "Aion 2",
+      "thumbnail": "https://www.freetogame.com/g/652/thumbnail.jpg",
+      "short_description": "The sequel to NC's original Aion featuring vertical exploration and combat.",
+      "game_url": "https://www.freetogame.com/open/aion-2",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "NC",
+      "developer": "NC",
+      "release_date": "2026-10-05",
+      "freetogame_profile_url": "https://www.freetogame.com/aion-2"
+    },
+    {
       "id": 584,
       "title": "Once Human",
       "thumbnail": "https://www.freetogame.com/g/584/thumbnail.jpg",
@@ -522,19 +522,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/once-human"
     },
     {
-      "id": 628,
-      "title": "World of Sea Battle",
-      "thumbnail": "https://www.freetogame.com/g/628/thumbnail.jpg",
-      "short_description": "A free-to-play historical open-sea MMORPG.",
-      "game_url": "https://www.freetogame.com/open/world-of-sea-battle",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Thera Interactive",
-      "developer": "Thera Interactive",
-      "release_date": "2025-10-21",
-      "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
-    },
-    {
       "id": 154,
       "title": "Sphere 3: Enchanted World",
       "thumbnail": "https://www.freetogame.com/g/154/thumbnail.jpg",
@@ -546,6 +533,19 @@
       "developer": "NIKITA ONLINE",
       "release_date": "2015-08-18",
       "freetogame_profile_url": "https://www.freetogame.com/sphere-3"
+    },
+    {
+      "id": 628,
+      "title": "World of Sea Battle",
+      "thumbnail": "https://www.freetogame.com/g/628/thumbnail.jpg",
+      "short_description": "A free-to-play historical open-sea MMORPG.",
+      "game_url": "https://www.freetogame.com/open/world-of-sea-battle",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Thera Interactive",
+      "developer": "Thera Interactive",
+      "release_date": "2025-10-21",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
     },
     {
       "id": 274,
@@ -600,32 +600,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
     },
     {
-      "id": 458,
-      "title": "League of Angels - Heaven's Fury",
-      "thumbnail": "https://www.freetogame.com/g/458/thumbnail.jpg",
-      "short_description": "A free-to-play, browser-based fantasy online action RPG based loosely on Western mythology!",
-      "game_url": "https://www.freetogame.com/open/league-of-angels-heavens-fury",
-      "genre": "MMORPG",
-      "platform": "Web Browser",
-      "publisher": "Gtarcade",
-      "developer": "Yoozoo Games",
-      "release_date": "2020-01-09",
-      "freetogame_profile_url": "https://www.freetogame.com/league-of-angels-heavens-fury"
-    },
-    {
-      "id": 57,
-      "title": "Fortnite",
-      "thumbnail": "https://www.freetogame.com/g/57/thumbnail.jpg",
-      "short_description": "A free-to-play, standalone mode of Epic Game's Fortnite. ",
-      "game_url": "https://www.freetogame.com/open/fortnite-battle-royale",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Epic Games",
-      "developer": "Epic Games",
-      "release_date": "2017-09-26",
-      "freetogame_profile_url": "https://www.freetogame.com/fortnite-battle-royale"
-    },
-    {
       "id": 645,
       "title": "Crystal Saga Nova",
       "thumbnail": "https://www.freetogame.com/g/645/thumbnail.jpg",
@@ -637,6 +611,19 @@
       "developer": "F5 Game Company",
       "release_date": "2026-05-26",
       "freetogame_profile_url": "https://www.freetogame.com/crystal-saga-nova"
+    },
+    {
+      "id": 458,
+      "title": "League of Angels - Heaven's Fury",
+      "thumbnail": "https://www.freetogame.com/g/458/thumbnail.jpg",
+      "short_description": "A free-to-play, browser-based fantasy online action RPG based loosely on Western mythology!",
+      "game_url": "https://www.freetogame.com/open/league-of-angels-heavens-fury",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "Gtarcade",
+      "developer": "Yoozoo Games",
+      "release_date": "2020-01-09",
+      "freetogame_profile_url": "https://www.freetogame.com/league-of-angels-heavens-fury"
     },
     {
       "id": 601,
@@ -665,6 +652,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/archeage"
     },
     {
+      "id": 57,
+      "title": "Fortnite",
+      "thumbnail": "https://www.freetogame.com/g/57/thumbnail.jpg",
+      "short_description": "A free-to-play, standalone mode of Epic Game's Fortnite. ",
+      "game_url": "https://www.freetogame.com/open/fortnite-battle-royale",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Epic Games",
+      "developer": "Epic Games",
+      "release_date": "2017-09-26",
+      "freetogame_profile_url": "https://www.freetogame.com/fortnite-battle-royale"
+    },
+    {
       "id": 13,
       "title": "Guild Wars 2",
       "thumbnail": "https://www.freetogame.com/g/13/thumbnail.jpg",
@@ -676,6 +676,19 @@
       "developer": "ArenaNet",
       "release_date": "2012-08-28",
       "freetogame_profile_url": "https://www.freetogame.com/guild-wars-2"
+    },
+    {
+      "id": 615,
+      "title": "Arena Breakout: Infinite",
+      "thumbnail": "https://www.freetogame.com/g/615/thumbnail.jpg",
+      "short_description": "A free-to-play tactical extraction shooter.",
+      "game_url": "https://www.freetogame.com/open/arena-breakout-infinite",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "MoreFun Studios",
+      "developer": "MoreFun Studios",
+      "release_date": "2025-09-16",
+      "freetogame_profile_url": "https://www.freetogame.com/arena-breakout-infinite"
     },
     {
       "id": 11,
@@ -702,19 +715,6 @@
       "developer": "Gaijin Entertainment",
       "release_date": "2013-08-15",
       "freetogame_profile_url": "https://www.freetogame.com/war-thunder"
-    },
-    {
-      "id": 615,
-      "title": "Arena Breakout: Infinite",
-      "thumbnail": "https://www.freetogame.com/g/615/thumbnail.jpg",
-      "short_description": "A free-to-play tactical extraction shooter.",
-      "game_url": "https://www.freetogame.com/open/arena-breakout-infinite",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "MoreFun Studios",
-      "developer": "MoreFun Studios",
-      "release_date": "2025-09-16",
-      "freetogame_profile_url": "https://www.freetogame.com/arena-breakout-infinite"
     },
     {
       "id": 4,
