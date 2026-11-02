@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-01T16:54:56.124Z",
+  "generated_at": "2026-11-02T20:30:29.478Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 55,
   "tmdb_requests_this_refresh": 47,
@@ -25,9 +25,9 @@
       "imdb_id": "tt2056785",
       "tmdb_id": 791523,
       "watchmode_url": "https://www.watchmode.com/title/1682009/",
-      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "poster_path": "/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
       "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
     },
     {
@@ -74,9 +74,9 @@
       "tmdb_id": 1058424,
       "watchmode_url": "https://www.watchmode.com/title/1706207/",
       "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "backdrop_path": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg"
     },
     {
       "id": 1386160,
@@ -112,7 +112,7 @@
         "Thriller"
       ],
       "runtime_minutes": 103,
-      "user_rating": 5.7,
+      "user_rating": 5.8,
       "critic_score": null,
       "us_rating": "R",
       "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
@@ -124,6 +124,30 @@
       "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
+    },
+    {
+      "id": 11012885,
+      "title": "Apocalypse Z: New World",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 5.4,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
+      "imdb_id": "tt37522541",
+      "tmdb_id": 1507696,
+      "watchmode_url": "https://www.watchmode.com/title/11012885/",
+      "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
     },
     {
       "id": 1914859,
@@ -168,10 +192,10 @@
       "imdb_id": "tt33764258",
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
+      "poster_path": "/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
+      "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
     },
     {
       "id": 1879456,
@@ -198,30 +222,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg"
     },
     {
-      "id": 11017878,
-      "title": "Buddy",
-      "year": 2026,
-      "release_date": "2026-08-27",
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Fantasy"
-      ],
-      "runtime_minutes": 96,
-      "user_rating": 6.8,
-      "critic_score": 78,
-      "us_rating": null,
-      "plot": "A magical orange unicorn hosts a children’s television show while holding its young cast captive inside a surreal world. As the cheerful lessons grow increasingly disturbing, the children begin questioning their reality and searching for a way to survive their demented host.",
-      "trailer": "https://www.youtube.com/watch?v=0mil0YgOtu8",
-      "imdb_id": "tt37281055",
-      "tmdb_id": 1514026,
-      "watchmode_url": "https://www.watchmode.com/title/11017878/",
-      "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
-    },
-    {
       "id": 1725513,
       "title": "Matchbox: The Movie",
       "year": 2026,
@@ -244,6 +244,30 @@
       "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
+    },
+    {
+      "id": 11017878,
+      "title": "Buddy",
+      "year": 2026,
+      "release_date": "2026-08-27",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 6.8,
+      "critic_score": 78,
+      "us_rating": null,
+      "plot": "A magical orange unicorn hosts a children’s television show while holding its young cast captive inside a surreal world. As the cheerful lessons grow increasingly disturbing, the children begin questioning their reality and searching for a way to survive their demented host.",
+      "trailer": "https://www.youtube.com/watch?v=0mil0YgOtu8",
+      "imdb_id": "tt37281055",
+      "tmdb_id": 1514026,
+      "watchmode_url": "https://www.watchmode.com/title/11017878/",
+      "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
     },
     {
       "id": 1818331,
@@ -327,18 +351,42 @@
         "Thriller"
       ],
       "runtime_minutes": 96,
-      "user_rating": 3.7,
+      "user_rating": 3.8,
       "critic_score": null,
       "us_rating": "NR",
       "plot": "An elite military unit enters a South American jungle to eliminate an enemy target, but the mission becomes a fight for survival when supernatural forces emerge. Centuries earlier, another expedition vanished in the same territory, where a hidden ancient presence still resists anyone seeking control.",
-      "trailer": "https://www.youtube.com/watch?v=vKRghpnFzx4",
+      "trailer": "https://www.youtube.com/watch?v=hj6Cer6bJUI",
       "imdb_id": "tt39120306",
       "tmdb_id": 1657630,
       "watchmode_url": "https://www.watchmode.com/title/11116873/",
-      "poster_path": "/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
+      "poster_path": "/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
       "backdrop_path": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
+    },
+    {
+      "id": 11057177,
+      "title": "Collision Course",
+      "year": 2026,
+      "release_date": "2026-10-30",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "runtime_minutes": 122,
+      "user_rating": 5.5,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "In Spain in 2013, a bank robbery takes a dangerous turn when the getaway ends in a crash. As the thieves deal with the fallout, betrayals and lies reveal that their conflicts began long before the heist.",
+      "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
+      "imdb_id": "tt38793125",
+      "tmdb_id": 1571955,
+      "watchmode_url": "https://www.watchmode.com/title/11057177/",
+      "poster_path": "/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+      "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
     },
     {
       "id": 178503,
@@ -437,52 +485,6 @@
       "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
-    },
-    {
-      "id": 1779945,
-      "title": "The Fix",
-      "year": 2026,
-      "release_date": "2026-09-10",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 142,
-      "user_rating": 5,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "Disillusioned after the war in Afghanistan, a group of disgraced, battle-worn former intelligence operatives head to Tehran to pursue a score that could change their lives. As they try to make it happen, they also grapple with past mistakes and the desire to make amends.",
-      "trailer": "https://www.youtube.com/watch?v=NYC0v8xqQdM",
-      "imdb_id": "tt9601292",
-      "tmdb_id": 1228834,
-      "watchmode_url": "https://www.watchmode.com/title/1779945/",
-      "poster_path": "/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-      "backdrop_path": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
-    },
-    {
-      "id": 1874462,
-      "title": "Crawlers",
-      "year": 2026,
-      "release_date": "2026-09-24",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 80,
-      "user_rating": 5.5,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "Residents of a troubled apartment complex struggle to survive when deadly spiders invade their building. As panic spreads through the tenants, an unexpectedly capable manager may be their best chance of making it out alive.",
-      "trailer": "https://www.youtube.com/watch?v=4DowjB87tRE",
-      "imdb_id": "tt32329539",
-      "tmdb_id": 1376400,
-      "watchmode_url": "https://www.watchmode.com/title/1874462/",
-      "poster_path": "/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-      "backdrop_path": "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg"
     }
   ],
   "upcoming": [
@@ -638,7 +640,7 @@
         "Thriller"
       ],
       "runtime_minutes": 124,
-      "user_rating": 7.4,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "plot": "Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet, once immersed in the commune, they find themselves inexorably drawn into the Leader’s labyrinthine web of psycho-spiritual manipulation.",
@@ -752,7 +754,7 @@
         "Thriller"
       ],
       "runtime_minutes": 102,
-      "user_rating": 5.8,
+      "user_rating": 5.9,
       "critic_score": 59,
       "us_rating": null,
       "plot": "An eccentric young governess arrives at a remote Gothic manor, where a string of unsettling events leads the household to question her identity. As suspicion grows, the truth appears more dangerous than anyone expects, placing the residents in an increasingly disturbing situation.",
@@ -774,7 +776,7 @@
         "Drama"
       ],
       "runtime_minutes": 132,
-      "user_rating": 3,
+      "user_rating": 2.7,
       "critic_score": null,
       "us_rating": null,
       "plot": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
@@ -866,7 +868,7 @@
         "Drama"
       ],
       "runtime_minutes": 109,
-      "user_rating": 5.8,
+      "user_rating": 5.7,
       "critic_score": null,
       "us_rating": null,
       "plot": "Tessa is a brilliant British defence barrister dominating London’s ruthless courtrooms. Fierce, witty, and self-made, she defends men accused of sexual assault — until she is assaulted herself by a colleague from a powerful legal dynasty.  Suddenly, the system she trusted turns against her. As she faces the same tactics she once used in court, Tessa’s faith in justice unravels. Once in control, now exposed and disbelieved, she must fight to reclaim her voice and sense of self.",
@@ -929,7 +931,7 @@
     {
       "id": 11136980,
       "title": "A Fox Under a Pink Moon",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-13",
       "genres": [
         "Documentary"
