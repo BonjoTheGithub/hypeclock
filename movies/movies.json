@@ -1,11 +1,35 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-02T20:30:29.478Z",
+  "generated_at": "2026-11-03T18:02:25.456Z",
   "refresh_hours": 24,
-  "estimated_credits_this_refresh": 55,
-  "tmdb_requests_this_refresh": 47,
+  "estimated_credits_this_refresh": 57,
+  "tmdb_requests_this_refresh": 49,
   "popular": [
+    {
+      "id": 11012885,
+      "title": "Apocalypse Z: New World",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 5.4,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
+      "imdb_id": "tt37522541",
+      "tmdb_id": 1507696,
+      "watchmode_url": "https://www.watchmode.com/title/11012885/",
+      "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
+    },
     {
       "id": 1682009,
       "title": "Wildwood",
@@ -103,77 +127,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg"
     },
     {
-      "id": 11133963,
-      "title": "Drive - The Pretenders",
-      "year": 2026,
-      "release_date": "2026-10-27",
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "runtime_minutes": 103,
-      "user_rating": 5.8,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
-      "trailer": "https://www.youtube.com/watch?v=-sV69CJwUwU",
-      "imdb_id": "tt37180686",
-      "tmdb_id": 1596275,
-      "watchmode_url": "https://www.watchmode.com/title/11133963/",
-      "poster_path": "/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
-    },
-    {
-      "id": 11012885,
-      "title": "Apocalypse Z: New World",
-      "year": 2026,
-      "release_date": "2026-10-09",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "runtime_minutes": 96,
-      "user_rating": 5.4,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
-      "imdb_id": "tt37522541",
-      "tmdb_id": 1507696,
-      "watchmode_url": "https://www.watchmode.com/title/11012885/",
-      "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
-    },
-    {
-      "id": 1914859,
-      "title": "Clayface",
-      "year": 2026,
-      "release_date": "2026-10-19",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 7.7,
-      "critic_score": 68,
-      "us_rating": null,
-      "plot": "A young man rises from the streets of Gotham to become a Hollywood star, but a crime boss’s actions leave him disfigured and abandoned. Desperate for help, he undergoes a treatment that restores his appearance while unsettling his sense of reality, setting him on a destructive path.",
-      "trailer": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
-      "imdb_id": "tt34890576",
-      "tmdb_id": 1400940,
-      "watchmode_url": "https://www.watchmode.com/title/1914859/",
-      "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-      "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
-    },
-    {
       "id": 1869118,
       "title": "The Odyssey",
       "year": 2026,
@@ -196,6 +149,30 @@
       "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
+    },
+    {
+      "id": 1939424,
+      "title": "Resident Evil",
+      "year": 2026,
+      "release_date": "2026-09-16",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 7.7,
+      "critic_score": 88,
+      "us_rating": null,
+      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
+      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "imdb_id": "tt35538033",
+      "tmdb_id": 1423191,
+      "watchmode_url": "https://www.watchmode.com/title/1939424/",
+      "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
     },
     {
       "id": 1879456,
@@ -222,30 +199,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg"
     },
     {
-      "id": 1725513,
-      "title": "Matchbox: The Movie",
-      "year": 2026,
-      "release_date": "2026-10-05",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "runtime_minutes": 127,
-      "user_rating": 5.9,
-      "critic_score": 32,
-      "us_rating": null,
-      "plot": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-      "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
-      "imdb_id": "tt28498219",
-      "tmdb_id": 1148365,
-      "watchmode_url": "https://www.watchmode.com/title/1725513/",
-      "poster_path": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
-    },
-    {
       "id": 11017878,
       "title": "Buddy",
       "year": 2026,
@@ -268,6 +221,30 @@
       "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
+    },
+    {
+      "id": 1725513,
+      "title": "Matchbox: The Movie",
+      "year": 2026,
+      "release_date": "2026-10-05",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "runtime_minutes": 127,
+      "user_rating": 5.9,
+      "critic_score": 32,
+      "us_rating": null,
+      "plot": "When a group of former childhood friends reunites, their plans take an unexpected turn as they become caught up in a dangerous international plot. They must work together to stop the threat and save the world, in a globe-spanning adventure that mixes action with comedy and puts their old friendship to the test.",
+      "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
+      "imdb_id": "tt28498219",
+      "tmdb_id": 1148365,
+      "watchmode_url": "https://www.watchmode.com/title/1725513/",
+      "poster_path": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
     },
     {
       "id": 1818331,
@@ -339,6 +316,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg"
     },
     {
+      "id": 11133963,
+      "title": "Drive - The Pretenders",
+      "year": 2026,
+      "release_date": "2026-10-27",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 5.8,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
+      "trailer": "https://www.youtube.com/watch?v=-sV69CJwUwU",
+      "imdb_id": "tt37180686",
+      "tmdb_id": 1596275,
+      "watchmode_url": "https://www.watchmode.com/title/11133963/",
+      "poster_path": "/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
+    },
+    {
       "id": 11116873,
       "title": "The Awakening",
       "year": 2026,
@@ -354,7 +354,7 @@
       "user_rating": 3.8,
       "critic_score": null,
       "us_rating": "NR",
-      "plot": "An elite military unit enters a South American jungle to eliminate an enemy target, but the mission becomes a fight for survival when supernatural forces emerge. Centuries earlier, another expedition vanished in the same territory, where a hidden ancient presence still resists anyone seeking control.",
+      "plot": "An elite military unit enters a South American jungle on a mission and encounters a deadly supernatural force. As the group faces an ancient presence that continues to claim anyone who dares enter its domain, the mission becomes a confrontation with a threat rooted in the jungle.",
       "trailer": "https://www.youtube.com/watch?v=hj6Cer6bJUI",
       "imdb_id": "tt39120306",
       "tmdb_id": 1657630,
@@ -365,13 +365,37 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
     },
     {
+      "id": 1914859,
+      "title": "Clayface",
+      "year": 2026,
+      "release_date": "2026-10-19",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 7.7,
+      "critic_score": 68,
+      "us_rating": null,
+      "plot": "A young man rises from the streets of Gotham to become a Hollywood star, but a crime boss’s actions leave him disfigured and abandoned. Desperate for help, he undergoes a treatment that restores his appearance while unsettling his sense of reality, setting him on a destructive path.",
+      "trailer": "https://www.youtube.com/watch?v=OGO4Mqvo3jI",
+      "imdb_id": "tt34890576",
+      "tmdb_id": 1400940,
+      "watchmode_url": "https://www.watchmode.com/title/1914859/",
+      "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+      "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
+    },
+    {
       "id": 11057177,
       "title": "Collision Course",
       "year": 2026,
       "release_date": "2026-10-30",
       "genres": [
+        "Thriller",
         "Drama",
-        "Action",
         "Crime"
       ],
       "runtime_minutes": 122,
@@ -414,30 +438,27 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
     },
     {
-      "id": 1982660,
-      "title": "Forgotten Island",
+      "id": 1937817,
+      "title": "LA BOLA NEGRA",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": "2026-09-25",
       "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
+        "Drama",
+        "War"
       ],
-      "runtime_minutes": 109,
-      "user_rating": 7.8,
-      "critic_score": 85,
+      "runtime_minutes": 159,
+      "user_rating": 8.3,
+      "critic_score": 84,
       "us_rating": null,
-      "plot": "Two high school graduates and best friends are transported through a mysterious portal to a fantastical island filled with magical creatures. To find their way home, they must face a difficult cost tied to the memories that bind them, while seeking help and a way to leave before their friendship slips away.",
-      "trailer": "https://www.youtube.com/watch?v=f7mFVeWnVLw",
-      "imdb_id": "tt36583977",
-      "tmdb_id": 1465063,
-      "watchmode_url": "https://www.watchmode.com/title/1982660/",
-      "poster_path": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+      "plot": "Three men living in different eras are connected by sexuality, desire, pain, and the legacies that shape their lives. Their intertwined stories explore how intimate experiences can echo across time and link people separated by generations.",
+      "trailer": "https://www.youtube.com/watch?v=lBVxKt0gKDY",
+      "imdb_id": "tt35511966",
+      "tmdb_id": 1422041,
+      "watchmode_url": "https://www.watchmode.com/title/1937817/",
+      "poster_path": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+      "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
     },
     {
       "id": 1823717,
@@ -461,30 +482,6 @@
       "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
-    },
-    {
-      "id": 1409773,
-      "title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "release_date": "1993-10-09",
-      "genres": [
-        "Fantasy",
-        "Animation",
-        "Family"
-      ],
-      "runtime_minutes": 76,
-      "user_rating": 8.1,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "A weary Halloween figure discovers the wonders of Christmas and decides to bring the holiday’s cheer to a world built around scares. As the unusual plan takes shape, a thoughtful rag-doll companion worries about its consequences and tries to set things right.",
-      "trailer": "https://www.youtube.com/watch?v=wr6N_hZyBCk",
-      "imdb_id": "tt0107688",
-      "tmdb_id": 9479,
-      "watchmode_url": "https://www.watchmode.com/title/1409773/",
-      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     }
   ],
   "upcoming": [
@@ -644,7 +641,7 @@
       "critic_score": null,
       "us_rating": null,
       "plot": "Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet, once immersed in the commune, they find themselves inexorably drawn into the Leader’s labyrinthine web of psycho-spiritual manipulation.",
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=L3FUDA_I-BQ",
       "imdb_id": "tt8613988",
       "tmdb_id": 1287365,
       "watchmode_url": "https://www.watchmode.com/title/1820890/",
@@ -817,7 +814,7 @@
     {
       "id": 1710003,
       "title": "Eternal Return",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-12",
       "genres": [
         "Romance",
@@ -1022,9 +1019,9 @@
       "imdb_id": "tt0107688",
       "tmdb_id": 9479,
       "watchmode_url": "https://www.watchmode.com/title/1409773/",
-      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "poster_path": "/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg",
       "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
@@ -1145,7 +1142,7 @@
       "critic_score": 70,
       "us_rating": "G",
       "plot": "A young fox is welcomed into a farm family and soon befriends a hound puppy. Their playful childhood friendship is tested as the hound is raised to hunt, placing the two friends on opposing sides of the countryside’s expectations.",
-      "trailer": "https://www.youtube.com/watch?v=LhV6BBvt8Vs",
+      "trailer": "https://www.youtube.com/watch?v=_8e4ktV1Ktk",
       "imdb_id": "tt0082406",
       "tmdb_id": 10948,
       "watchmode_url": "https://www.watchmode.com/title/1392486/",
