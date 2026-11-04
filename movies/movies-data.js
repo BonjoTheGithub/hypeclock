@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-03T18:02:25.456Z",
+  "generated_at": "2026-11-04T18:13:59.818Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -20,7 +20,7 @@ window.HYPE_MOVIES={
       "user_rating": 5.4,
       "critic_score": null,
       "us_rating": "R",
-      "plot": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "plot": "After a virus outbreak leaves the Canary Islands as Europe’s last refuge, a team heads to the mainland on a mission to find vital supplies. A man with questionable intentions joins them, and the operation becomes a desperate fight to survive amid infected hordes and growing divisions within the group.",
       "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
@@ -41,7 +41,7 @@ window.HYPE_MOVIES={
         "Fantasy"
       ],
       "runtime_minutes": 132,
-      "user_rating": 8.9,
+      "user_rating": 8.8,
       "critic_score": 94,
       "us_rating": "PG-13",
       "plot": "A young girl and her classmate enter a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries. They face a desperate quest to rescue her abducted baby brother from a murder of crows led by a mysterious woman.",
@@ -122,9 +122,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 155,
       "watchmode_url": "https://www.watchmode.com/title/1386160/",
       "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "backdrop_path": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+      "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
     },
     {
       "id": 1869118,
@@ -145,10 +145,10 @@ window.HYPE_MOVIES={
       "imdb_id": "tt33764258",
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
-      "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9EJDqzAQ0HoNvMDkOQuirXt1RCg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_path": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
     },
     {
       "id": 1939424,
@@ -169,34 +169,10 @@ window.HYPE_MOVIES={
       "imdb_id": "tt35538033",
       "tmdb_id": 1423191,
       "watchmode_url": "https://www.watchmode.com/title/1939424/",
-      "poster_path": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "poster_path": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
-    },
-    {
-      "id": 1879456,
-      "title": "The Dog Stars",
-      "year": 2026,
-      "release_date": "2026-08-26",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 119,
-      "user_rating": 6.5,
-      "critic_score": 45,
-      "us_rating": "R",
-      "plot": "In a world devastated by a pandemic, a solitary pilot makes a home in a Colorado airplane hangar with his dog and a guarded gunman. When a mysterious radio transmission reaches him during a flight, he sets out to discover where it came from, confronting the dangers and uncertainties of life among the survivors.",
-      "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
-      "imdb_id": "tt21285562",
-      "tmdb_id": 1384216,
-      "watchmode_url": "https://www.watchmode.com/title/1879456/",
-      "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg"
     },
     {
       "id": 11017878,
@@ -212,7 +188,7 @@ window.HYPE_MOVIES={
       "user_rating": 6.8,
       "critic_score": 78,
       "us_rating": null,
-      "plot": "A magical orange unicorn hosts a children’s television show while holding its young cast captive inside a surreal world. As the cheerful lessons grow increasingly disturbing, the children begin questioning their reality and searching for a way to survive their demented host.",
+      "plot": "In a colorful children’s-show world, a group of kids sing, dance, and follow a cheerful orange unicorn who promises to spread happiness. When one child refuses to join in, the show’s sunny routine begins to fracture, revealing a more unsettling reality beneath its cheerful surface.",
       "trailer": "https://www.youtube.com/watch?v=0mil0YgOtu8",
       "imdb_id": "tt37281055",
       "tmdb_id": 1514026,
@@ -245,6 +221,31 @@ window.HYPE_MOVIES={
       "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
+    },
+    {
+      "id": 178503,
+      "title": "Coco",
+      "year": 2017,
+      "release_date": "2017-10-27",
+      "genres": [
+        "Family",
+        "Animation",
+        "Music",
+        "Adventure"
+      ],
+      "runtime_minutes": 105,
+      "user_rating": 8.5,
+      "critic_score": 89,
+      "us_rating": "PG",
+      "plot": "A young aspiring musician struggles against his family’s generations-old ban on music. After a mysterious turn of events takes him to the vibrant Land of the Dead, he teams up with a charming trickster on a journey to understand his family’s past and find a way home.",
+      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
+      "imdb_id": "tt2380307",
+      "tmdb_id": 354912,
+      "watchmode_url": "https://www.watchmode.com/title/178503/",
+      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
     },
     {
       "id": 1818331,
@@ -292,30 +293,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
     },
     {
-      "id": 1782549,
-      "title": "Pinocchio: Unstrung",
-      "year": 2026,
-      "release_date": "2026-07-22",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Mystery"
-      ],
-      "runtime_minutes": 82,
-      "user_rating": 5.6,
-      "critic_score": 55,
-      "us_rating": "R",
-      "plot": "Created by a toymaker and influenced by a sinister cricket, a wooden puppet sets out on a violent quest to become a real boy. His path is tied to a brother who already has what he wants, driving a dark reimagining of a familiar fairy tale.",
-      "trailer": "https://www.youtube.com/watch?v=Xt3zQ8v2pzk",
-      "imdb_id": "tt30887701",
-      "tmdb_id": 1232569,
-      "watchmode_url": "https://www.watchmode.com/title/1782549/",
-      "poster_path": "/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
-      "backdrop_path": "/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/7RsPdXLDNugDIlwXPVeeprNfMx.jpg"
-    },
-    {
       "id": 11133963,
       "title": "Drive - The Pretenders",
       "year": 2026,
@@ -337,6 +314,30 @@ window.HYPE_MOVIES={
       "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
+    },
+    {
+      "id": 11233940,
+      "title": "A Story of Derry",
+      "year": 2026,
+      "release_date": "2026-10-31",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtime_minutes": 30,
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "trailer": "https://www.youtube.com/watch?v=iOjzJsHS0M0",
+      "imdb_id": "tt50389959",
+      "tmdb_id": 1813355,
+      "watchmode_url": "https://www.watchmode.com/title/11233940/",
+      "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+      "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
     },
     {
       "id": 11116873,
@@ -399,7 +400,7 @@ window.HYPE_MOVIES={
         "Crime"
       ],
       "runtime_minutes": 122,
-      "user_rating": 5.5,
+      "user_rating": 5.9,
       "critic_score": null,
       "us_rating": "R",
       "plot": "In Spain in 2013, a bank robbery takes a dangerous turn when the getaway ends in a crash. As the thieves deal with the fallout, betrayals and lies reveal that their conflicts began long before the heist.",
@@ -413,29 +414,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
     },
     {
-      "id": 178503,
-      "title": "Coco",
-      "year": 2017,
-      "release_date": "2017-10-27",
+      "id": 1879456,
+      "title": "The Dog Stars",
+      "year": 2026,
+      "release_date": "2026-08-26",
       "genres": [
-        "Family",
-        "Animation",
-        "Music",
-        "Adventure"
+        "Action",
+        "Thriller",
+        "Science Fiction"
       ],
-      "runtime_minutes": 105,
-      "user_rating": 8.5,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "A young aspiring musician struggles against his family’s generations-old ban on music. After a mysterious turn of events takes him to the vibrant Land of the Dead, he teams up with a charming trickster on a journey to understand his family’s past and find a way home.",
-      "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
-      "imdb_id": "tt2380307",
-      "tmdb_id": 354912,
-      "watchmode_url": "https://www.watchmode.com/title/178503/",
-      "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
+      "runtime_minutes": 119,
+      "user_rating": 6.5,
+      "critic_score": 45,
+      "us_rating": "R",
+      "plot": "In a world devastated by a pandemic, a solitary pilot makes a home in a Colorado airplane hangar with his dog and a guarded gunman. When a mysterious radio transmission reaches him during a flight, he sets out to discover where it came from, confronting the dangers and uncertainties of life among the survivors.",
+      "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
+      "imdb_id": "tt21285562",
+      "tmdb_id": 1384216,
+      "watchmode_url": "https://www.watchmode.com/title/1879456/",
+      "poster_path": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg"
     },
     {
       "id": 1937817,
@@ -486,30 +486,6 @@ window.HYPE_MOVIES={
   ],
   "upcoming": [
     {
-      "id": 1877491,
-      "title": "Godzilla Minus Zero",
-      "year": 2026,
-      "release_date": "2026-11-03",
-      "genres": [
-        "Science Fiction",
-        "Horror",
-        "Action"
-      ],
-      "runtime_minutes": 135,
-      "user_rating": 7.8,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "trailer": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
-      "imdb_id": "tt34384661",
-      "tmdb_id": 1381071,
-      "watchmode_url": "https://www.watchmode.com/title/1877491/",
-      "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
-    },
-    {
       "id": 11067329,
       "title": "Club Kid",
       "year": 2026,
@@ -522,7 +498,7 @@ window.HYPE_MOVIES={
       "user_rating": 8,
       "critic_score": 80,
       "us_rating": null,
-      "plot": "A washed-up underground party promoter suddenly faces a major change when he’s forced to care for a son he never knew he had. As his new responsibilities collide with his old lifestyle, everyday choices become a high-stakes test of what he wants next.",
+      "plot": "A hard-partying club promoter in New York City sees his whirlwind lifestyle upended when a 10-year-old boy arrives, claiming to be the son he never knew he had. Their unexpected connection brings a new challenge into his fast-moving world.",
       "trailer": "https://www.youtube.com/watch?v=guKEdb_iRXw",
       "imdb_id": "tt38058097",
       "tmdb_id": 1585239,
@@ -546,7 +522,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.1,
       "critic_score": null,
       "us_rating": "R",
-      "plot": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+      "plot": "A CIA field agent goes undercover in Poland to infiltrate a family of innkeepers running a tourist venture at Hitler’s former WWII bunker. When she learns the family patriarch is pursuing a plan to bring about the Fourth Reich, she takes matters into her own hands.",
       "trailer": "https://www.youtube.com/watch?v=aQrxHLuqJCk",
       "imdb_id": "tt40210362",
       "tmdb_id": 1642568,
@@ -668,9 +644,9 @@ window.HYPE_MOVIES={
       "imdb_id": "tt11995650",
       "tmdb_id": 1286656,
       "watchmode_url": "https://www.watchmode.com/title/1897899/",
-      "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "poster_path": "/c0KUggz86JiqSU92eJBgrxmkrL3.jpg",
       "backdrop_path": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c0KUggz86JiqSU92eJBgrxmkrL3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg"
     },
     {
@@ -710,7 +686,7 @@ window.HYPE_MOVIES={
       "critic_score": 62,
       "us_rating": null,
       "plot": "In Hong Kong, a young woman troubled by visions of her future self encounters a stranger who alters the direction of her night. Their meeting opens the possibility of change, as she faces an uncertain path and questions what may still lie ahead.",
-      "trailer": "https://www.youtube.com/watch?v=HxDfJlBJ22Y",
+      "trailer": "https://www.youtube.com/watch?v=myMH8NefmMk",
       "imdb_id": "tt39150111",
       "tmdb_id": 1595346,
       "watchmode_url": "https://www.watchmode.com/title/11074269/",
@@ -806,15 +782,15 @@ window.HYPE_MOVIES={
       "imdb_id": "tt27733119",
       "tmdb_id": 1125627,
       "watchmode_url": "https://www.watchmode.com/title/1709879/",
-      "poster_path": "/dVuxzF8odLaajzUk5SC4vRub7aL.jpg",
+      "poster_path": "/ff4e7wiMRwus8p5wdUzy3jmTZP8.jpg",
       "backdrop_path": "/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dVuxzF8odLaajzUk5SC4vRub7aL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ff4e7wiMRwus8p5wdUzy3jmTZP8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg"
     },
     {
       "id": 1710003,
       "title": "Eternal Return",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-12",
       "genres": [
         "Romance",
@@ -946,6 +922,28 @@ window.HYPE_MOVIES={
       "backdrop_path": "/sdMLtTxADRF3WAHmtL9oUFNY5wt.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/67hNnsOQmC6DDYf7SuZc3ReldsB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sdMLtTxADRF3WAHmtL9oUFNY5wt.jpg"
+    },
+    {
+      "id": 11161599,
+      "title": "Dear Lara",
+      "year": 2026,
+      "release_date": "2026-11-15",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 95,
+      "user_rating": 7,
+      "critic_score": null,
+      "us_rating": "NR",
+      "plot": "A violinist challenges powerful institutions within the classical music world after uncovering abuse and complicity. Her pursuit of justice brings wider attention to entrenched misogyny, institutional failures, and the systems that allow abuse to persist within elite musical circles.",
+      "trailer": null,
+      "imdb_id": "tt37022669",
+      "tmdb_id": 1562590,
+      "watchmode_url": "https://www.watchmode.com/title/11161599/",
+      "poster_path": "/grpQhtkqXrjMvx0Ay3lN0VniyR.jpg",
+      "backdrop_path": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/grpQhtkqXrjMvx0Ay3lN0VniyR.jpg",
+      "backdrop_url": null
     }
   ],
   "kids": [
@@ -1019,9 +1017,9 @@ window.HYPE_MOVIES={
       "imdb_id": "tt0107688",
       "tmdb_id": 9479,
       "watchmode_url": "https://www.watchmode.com/title/1409773/",
-      "poster_path": "/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg",
+      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
       "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
@@ -1037,7 +1035,7 @@ window.HYPE_MOVIES={
         "Family"
       ],
       "runtime_minutes": 109,
-      "user_rating": 7.8,
+      "user_rating": 7.7,
       "critic_score": 85,
       "us_rating": null,
       "plot": "Two high school graduates and best friends are transported through a mysterious portal to a fantastical island filled with magical creatures. To find their way home, they must face a difficult cost tied to the memories that bind them, while seeking help and a way to leave before their friendship slips away.",
@@ -1099,32 +1097,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
-    },
-    {
-      "id": 1785478,
-      "title": "Zootopia 2",
-      "year": 2025,
-      "release_date": "2025-11-26",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Mystery",
-        "Family"
-      ],
-      "runtime_minutes": 108,
-      "user_rating": 7.5,
-      "critic_score": 83,
-      "us_rating": "PG",
-      "plot": "After solving a major case, two rookie officers follow a new mystery that unsettles their animal-filled city. Their investigation takes them undercover into unfamiliar neighborhoods, where they must work through fresh challenges and test the strength of their partnership.",
-      "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
-      "imdb_id": "tt26443597",
-      "tmdb_id": 1084242,
-      "watchmode_url": "https://www.watchmode.com/title/1785478/",
-      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
       "id": 1392486,
@@ -1200,6 +1172,32 @@ window.HYPE_MOVIES={
       "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg"
+    },
+    {
+      "id": 1840434,
+      "title": "Minions & Monsters",
+      "year": 2026,
+      "release_date": "2026-06-24",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 6.5,
+      "critic_score": 80,
+      "us_rating": "PG",
+      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
+      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "imdb_id": "tt32890033",
+      "tmdb_id": 1315772,
+      "watchmode_url": "https://www.watchmode.com/title/1840434/",
+      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
   ]
 };
