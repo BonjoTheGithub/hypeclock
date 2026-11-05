@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-04T18:13:59.818Z",
+  "generated_at": "2026-11-05T18:16:56.818Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -17,7 +17,7 @@ window.HYPE_MOVIES={
         "Horror"
       ],
       "runtime_minutes": 96,
-      "user_rating": 5.4,
+      "user_rating": 5.3,
       "critic_score": null,
       "us_rating": "R",
       "plot": "After a virus outbreak leaves the Canary Islands as Europe’s last refuge, a team heads to the mainland on a mission to find vital supplies. A man with questionable intentions joins them, and the operation becomes a desperate fight to survive amid infected hordes and growing divisions within the group.",
@@ -49,34 +49,34 @@ window.HYPE_MOVIES={
       "imdb_id": "tt2056785",
       "tmdb_id": 791523,
       "watchmode_url": "https://www.watchmode.com/title/1682009/",
-      "poster_path": "/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
     },
     {
-      "id": 1773876,
-      "title": "Spider-Man: Brand New Day",
+      "id": 1939424,
+      "title": "Resident Evil",
       "year": 2026,
-      "release_date": "2026-07-29",
+      "release_date": "2026-09-16",
       "genres": [
+        "Horror",
         "Science Fiction",
-        "Action",
         "Adventure"
       ],
-      "runtime_minutes": 145,
-      "user_rating": 8.1,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "A full-time crimefighter faces the loneliness of living in a world that no longer remembers him, while watching old friends move on without him. As his powers begin to change in ways he can’t control, he must confront a dangerous threat to the city and the people he cares about.",
-      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "imdb_id": "tt22084616",
-      "tmdb_id": 969681,
-      "watchmode_url": "https://www.watchmode.com/title/1773876/",
-      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg"
+      "runtime_minutes": 94,
+      "user_rating": 7.7,
+      "critic_score": 88,
+      "us_rating": null,
+      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
+      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "imdb_id": "tt35538033",
+      "tmdb_id": 1423191,
+      "watchmode_url": "https://www.watchmode.com/title/1939424/",
+      "poster_path": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
     },
     {
       "id": 1706207,
@@ -151,28 +151,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
     },
     {
-      "id": 1939424,
-      "title": "Resident Evil",
+      "id": 1773876,
+      "title": "Spider-Man: Brand New Day",
       "year": 2026,
-      "release_date": "2026-09-16",
+      "release_date": "2026-07-29",
       "genres": [
-        "Horror",
         "Science Fiction",
+        "Action",
         "Adventure"
       ],
-      "runtime_minutes": 95,
-      "user_rating": 7.7,
-      "critic_score": 88,
-      "us_rating": null,
-      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
-      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
-      "imdb_id": "tt35538033",
-      "tmdb_id": 1423191,
-      "watchmode_url": "https://www.watchmode.com/title/1939424/",
-      "poster_path": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+      "runtime_minutes": 145,
+      "user_rating": 8.1,
+      "critic_score": 78,
+      "us_rating": "PG-13",
+      "plot": "A full-time crimefighter faces the loneliness of living in a world that no longer remembers him, while watching old friends move on without him. As his powers begin to change in ways he can’t control, he must confront a dangerous threat to the city and the people he cares about.",
+      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "imdb_id": "tt22084616",
+      "tmdb_id": 969681,
+      "watchmode_url": "https://www.watchmode.com/title/1773876/",
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_path": "/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg"
     },
     {
       "id": 11017878,
@@ -194,33 +194,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1514026,
       "watchmode_url": "https://www.watchmode.com/title/11017878/",
       "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdrop_path": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "backdrop_path": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
-    },
-    {
-      "id": 1725513,
-      "title": "Matchbox: The Movie",
-      "year": 2026,
-      "release_date": "2026-10-05",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "runtime_minutes": 127,
-      "user_rating": 5.9,
-      "critic_score": 32,
-      "us_rating": null,
-      "plot": "When a group of former childhood friends reunites, their plans take an unexpected turn as they become caught up in a dangerous international plot. They must work together to stop the threat and save the world, in a globe-spanning adventure that mixes action with comedy and puts their old friendship to the test.",
-      "trailer": "https://www.youtube.com/watch?v=7xfqITrMDcI",
-      "imdb_id": "tt28498219",
-      "tmdb_id": 1148365,
-      "watchmode_url": "https://www.watchmode.com/title/1725513/",
-      "poster_path": "/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-      "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg"
     },
     {
       "id": 178503,
@@ -326,7 +302,7 @@ window.HYPE_MOVIES={
         "Mystery"
       ],
       "runtime_minutes": 30,
-      "user_rating": 6.9,
+      "user_rating": 7,
       "critic_score": null,
       "us_rating": "R",
       "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
@@ -364,6 +340,29 @@ window.HYPE_MOVIES={
       "backdrop_path": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
+    },
+    {
+      "id": 1825466,
+      "title": "The Mongoose",
+      "year": 2026,
+      "release_date": "2026-10-29",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 99,
+      "user_rating": 5.1,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A falsely accused war veteran with little left to lose sets off on a televised cross-country car chase, with police in pursuit. Former members of his military unit help along the way, while a fascinated public follows the journey and hopes he can reach safety.",
+      "trailer": "https://www.youtube.com/watch?v=aHrMFtt40_Q",
+      "imdb_id": "tt13611778",
+      "tmdb_id": 1294189,
+      "watchmode_url": "https://www.watchmode.com/title/1825466/",
+      "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop_path": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg"
     },
     {
       "id": 1914859,
@@ -414,6 +413,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
     },
     {
+      "id": 1873814,
+      "title": "Primetime",
+      "year": 2026,
+      "release_date": "2026-09-23",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "runtime_minutes": 110,
+      "user_rating": 7.2,
+      "critic_score": 77,
+      "us_rating": null,
+      "plot": "In 2006, a television host pursues a high-profile sting operation to boost his show and make a name for himself. As the production pushes for bigger results, the line between seeking justice and turning real suffering into entertainment grows harder to ignore.",
+      "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+      "imdb_id": "tt34206385",
+      "tmdb_id": 1375441,
+      "watchmode_url": "https://www.watchmode.com/title/1873814/",
+      "poster_path": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop_path": "/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg"
+    },
+    {
       "id": 1879456,
       "title": "The Dog Stars",
       "year": 2026,
@@ -459,79 +481,9 @@ window.HYPE_MOVIES={
       "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
-    },
-    {
-      "id": 1823717,
-      "title": "Insidious: Out of the Further",
-      "year": 2026,
-      "release_date": "2026-08-19",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 6.2,
-      "critic_score": 53,
-      "us_rating": null,
-      "plot": "A young mother raising her daughter in her childhood home discovers she can enter a mysterious realm called the Further. There, she has an unusual ability to bring its inhabitants into the real world, drawing her into a frightening struggle to protect her family.",
-      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
-      "imdb_id": "tt32393988",
-      "tmdb_id": 1291595,
-      "watchmode_url": "https://www.watchmode.com/title/1823717/",
-      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
     }
   ],
   "upcoming": [
-    {
-      "id": 11067329,
-      "title": "Club Kid",
-      "year": 2026,
-      "release_date": "2026-11-04",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 126,
-      "user_rating": 8,
-      "critic_score": 80,
-      "us_rating": null,
-      "plot": "A hard-partying club promoter in New York City sees his whirlwind lifestyle upended when a 10-year-old boy arrives, claiming to be the son he never knew he had. Their unexpected connection brings a new challenge into his fast-moving world.",
-      "trailer": "https://www.youtube.com/watch?v=guKEdb_iRXw",
-      "imdb_id": "tt38058097",
-      "tmdb_id": 1585239,
-      "watchmode_url": "https://www.watchmode.com/title/11067329/",
-      "poster_path": "/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
-      "backdrop_path": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg"
-    },
-    {
-      "id": 11109407,
-      "title": "The Last Temptation of Becky",
-      "year": 2026,
-      "release_date": "2026-11-04",
-      "genres": [
-        "Action",
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 89,
-      "user_rating": 7.1,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A CIA field agent goes undercover in Poland to infiltrate a family of innkeepers running a tourist venture at Hitler’s former WWII bunker. When she learns the family patriarch is pursuing a plan to bring about the Fourth Reich, she takes matters into her own hands.",
-      "trailer": "https://www.youtube.com/watch?v=aQrxHLuqJCk",
-      "imdb_id": "tt40210362",
-      "tmdb_id": 1642568,
-      "watchmode_url": "https://www.watchmode.com/title/11109407/",
-      "poster_path": "/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
-      "backdrop_path": "/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg"
-    },
     {
       "id": 1698322,
       "title": "Being Heumann",
@@ -636,7 +588,7 @@ window.HYPE_MOVIES={
         "History"
       ],
       "runtime_minutes": 128,
-      "user_rating": 7.6,
+      "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
       "plot": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
@@ -644,9 +596,9 @@ window.HYPE_MOVIES={
       "imdb_id": "tt11995650",
       "tmdb_id": 1286656,
       "watchmode_url": "https://www.watchmode.com/title/1897899/",
-      "poster_path": "/c0KUggz86JiqSU92eJBgrxmkrL3.jpg",
+      "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
       "backdrop_path": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c0KUggz86JiqSU92eJBgrxmkrL3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg"
     },
     {
@@ -749,7 +701,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 132,
-      "user_rating": 2.7,
+      "user_rating": 2.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
@@ -790,7 +742,7 @@ window.HYPE_MOVIES={
     {
       "id": 1710003,
       "title": "Eternal Return",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-12",
       "genres": [
         "Romance",
@@ -904,7 +856,7 @@ window.HYPE_MOVIES={
     {
       "id": 11136980,
       "title": "A Fox Under a Pink Moon",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-13",
       "genres": [
         "Documentary"
@@ -944,9 +896,78 @@ window.HYPE_MOVIES={
       "backdrop_path": null,
       "poster_url": "https://image.tmdb.org/t/p/w500/grpQhtkqXrjMvx0Ay3lN0VniyR.jpg",
       "backdrop_url": null
+    },
+    {
+      "id": 1970117,
+      "title": "Heysel 85",
+      "year": 2026,
+      "release_date": "2026-11-18",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "runtime_minutes": 92,
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "When 39 people are killed prior to the European Cup at the Brussels Heysel stadium in 1985, the mayor's daughter and an Italian journalist are torn between their professional assignments, family, and human nature.",
+      "trailer": "https://www.youtube.com/watch?v=fCkPu_05-cA",
+      "imdb_id": "tt30135000",
+      "tmdb_id": 1447885,
+      "watchmode_url": "https://www.watchmode.com/title/1970117/",
+      "poster_path": "/hTEN2A1Kw8hH8CuaGXIUPcSzv9V.jpg",
+      "backdrop_path": "/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hTEN2A1Kw8hH8CuaGXIUPcSzv9V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg"
+    },
+    {
+      "id": 1653600,
+      "title": "Fogaréu",
+      "year": 2022,
+      "release_date": "2026-11-19",
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 100,
+      "user_rating": 6.4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "On the border between the real and the fantastic, between the colonial past and the overwhelming modernity of agribusiness, the city of Goiás is the scene of the meeting between the young Fernanda and her secret roots. She returns to the home of her wealthy uncle, after the death of her adoptive mother, in order to implode the certainties and to reveal the painful truth about its origin.",
+      "trailer": "https://www.youtube.com/watch?v=iAgqn8_QzWk",
+      "imdb_id": "tt14113574",
+      "tmdb_id": 764516,
+      "watchmode_url": "https://www.watchmode.com/title/1653600/",
+      "poster_path": "/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
+      "backdrop_path": "/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg"
     }
   ],
   "kids": [
+    {
+      "id": 1357583,
+      "title": "Spirited Away",
+      "year": 2001,
+      "release_date": "2001-07-20",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 125,
+      "user_rating": 8.8,
+      "critic_score": 96,
+      "us_rating": "PG",
+      "plot": "A young girl is drawn into a strange world inhabited by spirits after her family takes an unexpected detour. With her parents transformed and her way home uncertain, she must find courage, adapt to unfamiliar rules, and seek help among the world’s curious inhabitants.",
+      "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+      "imdb_id": "tt0245429",
+      "tmdb_id": 129,
+      "watchmode_url": "https://www.watchmode.com/title/1357583/",
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg"
+    },
     {
       "id": 178503,
       "title": "Coco",
@@ -973,30 +994,29 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
     },
     {
-      "id": 1184041,
-      "title": "Inside Out",
-      "year": 2015,
-      "release_date": "2015-06-17",
+      "id": 1749638,
+      "title": "The Wild Robot",
+      "year": 2024,
+      "release_date": "2024-09-12",
       "genres": [
-        "Animation",
         "Family",
-        "Adventure",
-        "Drama",
-        "Comedy"
+        "Animation",
+        "Science Fiction",
+        "Adventure"
       ],
-      "runtime_minutes": 95,
-      "user_rating": 8.2,
-      "critic_score": 96,
-      "us_rating": "PG",
-      "plot": "When an 11-year-old moves to a new city, her emotions try to help her adjust to a life away from familiar friends and routines. After two of them become lost in the reaches of her mind, they must find their way back while the others try to manage the upheaval.",
-      "trailer": "https://www.youtube.com/watch?v=_MC3XuMvsDI",
-      "imdb_id": "tt2096673",
-      "tmdb_id": 150540,
-      "watchmode_url": "https://www.watchmode.com/title/1184041/",
-      "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-      "backdrop_path": "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+      "runtime_minutes": 102,
+      "user_rating": 8.3,
+      "critic_score": 91,
+      "us_rating": null,
+      "plot": "After a shipwreck leaves an intelligent robot stranded on an uninhabited island, she must adapt to its wild surroundings. As she gradually bonds with the animals, she takes on the challenge of caring for an orphaned baby goose, discovering new ways to connect and belong.",
+      "trailer": "https://www.youtube.com/watch?v=67vbA5ZJdKQ",
+      "imdb_id": "tt29623480",
+      "tmdb_id": 1184918,
+      "watchmode_url": "https://www.watchmode.com/title/1749638/",
+      "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
     },
     {
       "id": 1409773,
@@ -1097,31 +1117,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
-    },
-    {
-      "id": 1392486,
-      "title": "The Fox and the Hound",
-      "year": 1981,
-      "release_date": "1981-07-10",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Drama",
-        "Family"
-      ],
-      "runtime_minutes": 82,
-      "user_rating": 7.4,
-      "critic_score": 70,
-      "us_rating": "G",
-      "plot": "A young fox is welcomed into a farm family and soon befriends a hound puppy. Their playful childhood friendship is tested as the hound is raised to hunt, placing the two friends on opposing sides of the countryside’s expectations.",
-      "trailer": "https://www.youtube.com/watch?v=_8e4ktV1Ktk",
-      "imdb_id": "tt0082406",
-      "tmdb_id": 10948,
-      "watchmode_url": "https://www.watchmode.com/title/1392486/",
-      "poster_path": "/bbPEYD1z1DN13UJMr9sjhMh8DJx.jpg",
-      "backdrop_path": "/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bbPEYD1z1DN13UJMr9sjhMh8DJx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg"
     },
     {
       "id": 1546856,
