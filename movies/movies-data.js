@@ -1,10 +1,10 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-05T18:16:56.818Z",
+  "generated_at": "2026-11-06T17:41:27.611Z",
   "refresh_hours": 24,
-  "estimated_credits_this_refresh": 57,
-  "tmdb_requests_this_refresh": 49,
+  "estimated_credits_this_refresh": 56,
+  "tmdb_requests_this_refresh": 48,
   "popular": [
     {
       "id": 11012885,
@@ -146,9 +146,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+      "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
     },
     {
       "id": 1773876,
@@ -170,9 +170,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
+      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
     },
     {
       "id": 11017878,
@@ -247,28 +247,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
     },
     {
-      "id": 1942846,
-      "title": "Fall 2: Deadpoint",
-      "year": 2026,
-      "release_date": "2026-09-01",
-      "genres": [
-        "Thriller"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 5.5,
-      "critic_score": 58,
-      "us_rating": "PG-13",
-      "plot": "During a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground. Surrounded by dizzying heights and exposed, dangerous paths, they face increasingly difficult odds and must fight to survive with little room for error.",
-      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
-      "imdb_id": "tt31192372",
-      "tmdb_id": 1101412,
-      "watchmode_url": "https://www.watchmode.com/title/1942846/",
-      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
-    },
-    {
       "id": 11133963,
       "title": "Drive - The Pretenders",
       "year": 2026,
@@ -292,6 +270,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
     },
     {
+      "id": 1942846,
+      "title": "Fall 2: Deadpoint",
+      "year": 2026,
+      "release_date": "2026-09-01",
+      "genres": [
+        "Thriller"
+      ],
+      "runtime_minutes": 98,
+      "user_rating": 5.5,
+      "critic_score": 58,
+      "us_rating": "PG-13",
+      "plot": "During a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground. Surrounded by dizzying heights and exposed, dangerous paths, they face increasingly difficult odds and must fight to survive with little room for error.",
+      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
+      "imdb_id": "tt31192372",
+      "tmdb_id": 1101412,
+      "watchmode_url": "https://www.watchmode.com/title/1942846/",
+      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
+    },
+    {
       "id": 11233940,
       "title": "A Story of Derry",
       "year": 2026,
@@ -302,7 +302,7 @@ window.HYPE_MOVIES={
         "Mystery"
       ],
       "runtime_minutes": 30,
-      "user_rating": 7,
+      "user_rating": 6.9,
       "critic_score": null,
       "us_rating": "R",
       "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
@@ -311,9 +311,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1813355,
       "watchmode_url": "https://www.watchmode.com/title/11233940/",
       "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "backdrop_path": "/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg"
     },
     {
       "id": 11116873,
@@ -351,7 +351,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 99,
-      "user_rating": 5.1,
+      "user_rating": 5.2,
       "critic_score": null,
       "us_rating": "R",
       "plot": "A falsely accused war veteran with little left to lose sets off on a televised cross-country car chase, with police in pursuit. Former members of his military unit help along the way, while a fascinated public follows the journey and hopes he can reach safety.",
@@ -360,9 +360,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1294189,
       "watchmode_url": "https://www.watchmode.com/title/1825466/",
       "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_path": "/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "backdrop_path": "/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
     },
     {
       "id": 1914859,
@@ -399,7 +399,7 @@ window.HYPE_MOVIES={
         "Crime"
       ],
       "runtime_minutes": 122,
-      "user_rating": 5.9,
+      "user_rating": 5.8,
       "critic_score": null,
       "us_rating": "R",
       "plot": "In Spain in 2013, a bank robbery takes a dangerous turn when the getaway ends in a crash. As the thieves deal with the fallout, betrayals and lies reveal that their conflicts began long before the heist.",
@@ -411,6 +411,31 @@ window.HYPE_MOVIES={
       "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
+    },
+    {
+      "id": 1624092,
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "release_date": "2026-08-20",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family",
+        "Animation"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 7.5,
+      "critic_score": 87,
+      "us_rating": "PG",
+      "plot": "After years of failed gadgets in his pursuit of a speedy bird, a determined coyote takes a bold new route: bringing the Acme Corporation to court. With help from a struggling lawyer, he faces a legal battle that mixes cartoon chaos with questions of fairness and corporate power.",
+      "trailer": "https://www.youtube.com/watch?v=H-43VeYGiPM",
+      "imdb_id": "tt1756855",
+      "tmdb_id": 1204680,
+      "watchmode_url": "https://www.watchmode.com/title/1624092/",
+      "poster_path": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_path": "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
     },
     {
       "id": 1873814,
@@ -458,29 +483,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg"
-    },
-    {
-      "id": 1937817,
-      "title": "LA BOLA NEGRA",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama",
-        "War"
-      ],
-      "runtime_minutes": 159,
-      "user_rating": 8.3,
-      "critic_score": 84,
-      "us_rating": null,
-      "plot": "Three men living in different eras are connected by sexuality, desire, pain, and the legacies that shape their lives. Their intertwined stories explore how intimate experiences can echo across time and link people separated by generations.",
-      "trailer": "https://www.youtube.com/watch?v=lBVxKt0gKDY",
-      "imdb_id": "tt35511966",
-      "tmdb_id": 1422041,
-      "watchmode_url": "https://www.watchmode.com/title/1937817/",
-      "poster_path": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
-      "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
     }
   ],
   "upcoming": [
@@ -496,8 +498,8 @@ window.HYPE_MOVIES={
       "runtime_minutes": 127,
       "user_rating": 6.9,
       "critic_score": null,
-      "us_rating": "R",
-      "plot": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+      "us_rating": null,
+      "plot": "A determined disability rights activist turns frustration with being treated as a burden into a call for change. In 1977, she joins more than 100 protesters in a bold public stand, insisting that the system—not disabled people—is what needs to change.",
       "trailer": "https://www.youtube.com/watch?v=CQp2pUXLvJk",
       "imdb_id": "tt15095848",
       "tmdb_id": 1050981,
@@ -545,7 +547,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "plot": "At the start of the summer before senior year, a teenager’s close relationship with her best friend is suddenly upended. Without that friendship, she feels lost and begins forming an increasingly complicated connection with the friend’s mother.",
+      "plot": "The summer before senior year, a teenager struggles to find her footing after her closest friendship is disrupted. As she adjusts to the change, she develops an unexpected and complicated bond with her best friend’s mother.",
       "trailer": "https://www.youtube.com/watch?v=sfvh4VZsFuY",
       "imdb_id": "tt13652154",
       "tmdb_id": 1241052,
@@ -568,7 +570,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet, once immersed in the commune, they find themselves inexorably drawn into the Leader’s labyrinthine web of psycho-spiritual manipulation.",
+      "plot": "A woman renounces her family to join an enigmatic commune led by a charismatic figure. Her daughters risk everything to enter the group and bring her home, but life inside exposes them to the leader’s unsettling influence and tests their resolve.",
       "trailer": "https://www.youtube.com/watch?v=L3FUDA_I-BQ",
       "imdb_id": "tt8613988",
       "tmdb_id": 1287365,
@@ -591,7 +593,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.7,
       "critic_score": null,
       "us_rating": null,
-      "plot": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "plot": "An unknown actor believes he is meant not only to write a boxing story but also to play its central fighter. Told no at every turn, he risks everything to hold onto the lead role and bring his vision to life.",
       "trailer": "https://www.youtube.com/watch?v=V_g_Ut0jO-0",
       "imdb_id": "tt11995650",
       "tmdb_id": 1286656,
@@ -701,7 +703,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 132,
-      "user_rating": 2.8,
+      "user_rating": 2.7,
       "critic_score": null,
       "us_rating": null,
       "plot": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
@@ -856,7 +858,7 @@ window.HYPE_MOVIES={
     {
       "id": 11136980,
       "title": "A Fox Under a Pink Moon",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-13",
       "genres": [
         "Documentary"
@@ -945,30 +947,6 @@ window.HYPE_MOVIES={
   ],
   "kids": [
     {
-      "id": 1357583,
-      "title": "Spirited Away",
-      "year": 2001,
-      "release_date": "2001-07-20",
-      "genres": [
-        "Animation",
-        "Family",
-        "Fantasy"
-      ],
-      "runtime_minutes": 125,
-      "user_rating": 8.8,
-      "critic_score": 96,
-      "us_rating": "PG",
-      "plot": "A young girl is drawn into a strange world inhabited by spirits after her family takes an unexpected detour. With her parents transformed and her way home uncertain, she must find courage, adapt to unfamiliar rules, and seek help among the world’s curious inhabitants.",
-      "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
-      "imdb_id": "tt0245429",
-      "tmdb_id": 129,
-      "watchmode_url": "https://www.watchmode.com/title/1357583/",
-      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-      "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg"
-    },
-    {
       "id": 178503,
       "title": "Coco",
       "year": 2017,
@@ -1032,7 +1010,7 @@ window.HYPE_MOVIES={
       "user_rating": 8.1,
       "critic_score": 89,
       "us_rating": "PG",
-      "plot": "A weary Halloween figure discovers the wonders of Christmas and decides to bring the holiday’s cheer to a world built around scares. As the unusual plan takes shape, a thoughtful rag-doll companion worries about its consequences and tries to set things right.",
+      "plot": "A restless ruler of Halloween Town discovers a festive new world and becomes fascinated by its traditions. Hoping to bring that holiday spirit home, he sets a plan in motion, while a thoughtful rag-doll companion worries that his good intentions may lead to trouble.",
       "trailer": "https://www.youtube.com/watch?v=wr6N_hZyBCk",
       "imdb_id": "tt0107688",
       "tmdb_id": 9479,
@@ -1056,7 +1034,7 @@ window.HYPE_MOVIES={
       ],
       "runtime_minutes": 109,
       "user_rating": 7.7,
-      "critic_score": 85,
+      "critic_score": 84,
       "us_rating": null,
       "plot": "Two high school graduates and best friends are transported through a mysterious portal to a fantastical island filled with magical creatures. To find their way home, they must face a difficult cost tied to the memories that bind them, while seeking help and a way to leave before their friendship slips away.",
       "trailer": "https://www.youtube.com/watch?v=f7mFVeWnVLw",
@@ -1117,6 +1095,32 @@ window.HYPE_MOVIES={
       "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+    },
+    {
+      "id": 1785478,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "release_date": "2025-11-26",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Mystery",
+        "Family"
+      ],
+      "runtime_minutes": 108,
+      "user_rating": 7.5,
+      "critic_score": 83,
+      "us_rating": "PG",
+      "plot": "After solving a major case, two rookie officers follow a new mystery that unsettles their animal-filled city. Their investigation takes them undercover into unfamiliar neighborhoods, where they must work through fresh challenges and test the strength of their partnership.",
+      "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
+      "imdb_id": "tt26443597",
+      "tmdb_id": 1084242,
+      "watchmode_url": "https://www.watchmode.com/title/1785478/",
+      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
       "id": 1546856,
