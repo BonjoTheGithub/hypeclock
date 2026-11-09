@@ -1,58 +1,57 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-08T16:47:03.628Z",
+  "generated_at": "2026-11-09T21:05:31.821Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
   "popular": [
     {
-      "id": 11012885,
-      "title": "Apocalypse Z: New World",
+      "id": 1869118,
+      "title": "The Odyssey",
       "year": 2026,
-      "release_date": "2026-10-09",
+      "release_date": "2026-07-15",
       "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "runtime_minutes": 96,
-      "user_rating": 5.3,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "After a virus outbreak leaves the Canary Islands as Europe’s last refuge, a team heads to the mainland on a mission to find vital supplies. A man with questionable intentions joins them, and the operation becomes a desperate fight to survive amid infected hordes and growing divisions within the group.",
-      "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
-      "imdb_id": "tt37522541",
-      "tmdb_id": 1507696,
-      "watchmode_url": "https://www.watchmode.com/title/11012885/",
-      "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
-    },
-    {
-      "id": 1682009,
-      "title": "Wildwood",
-      "year": 2026,
-      "release_date": "2026-10-19",
-      "genres": [
-        "Animation",
         "Adventure",
+        "Action",
         "Fantasy"
       ],
-      "runtime_minutes": 132,
-      "user_rating": 8.8,
-      "critic_score": 93,
-      "us_rating": "PG-13",
-      "plot": "A young girl and her classmate enter a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries. They face a desperate quest to rescue her abducted baby brother from a murder of crows led by a mysterious woman.",
-      "trailer": "https://www.youtube.com/watch?v=POneS8h1jyU",
-      "imdb_id": "tt2056785",
-      "tmdb_id": 791523,
-      "watchmode_url": "https://www.watchmode.com/title/1682009/",
-      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
+      "runtime_minutes": 173,
+      "user_rating": 8.6,
+      "critic_score": 91,
+      "us_rating": "R",
+      "plot": "After the Trojan War, a legendary king sets out on a perilous journey home. He faces divine interference, mythological creatures, and trials that test his cleverness and humanity, while those waiting for him at home face troubles of their own.",
+      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
+      "imdb_id": "tt33764258",
+      "tmdb_id": 1368337,
+      "watchmode_url": "https://www.watchmode.com/title/1869118/",
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
+    },
+    {
+      "id": 1927112,
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "release_date": "2026-09-19",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "runtime_minutes": 101,
+      "user_rating": 7.4,
+      "critic_score": 75,
+      "us_rating": null,
+      "plot": "After a plane crash leaves a Special Forces officer and his combat dog stranded in the Alaskan wilderness, they must rely on each other to endure the harsh conditions and find a way through. Their journey is a rugged test of survival, shaped by danger, exhaustion, and the deep bond between them.",
+      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
+      "imdb_id": "tt7526136",
+      "tmdb_id": 1263337,
+      "watchmode_url": "https://www.watchmode.com/title/1927112/",
+      "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "backdrop_path": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
     },
     {
       "id": 1611652,
@@ -126,27 +125,51 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
     },
     {
-      "id": 1927112,
-      "title": "Heart of the Beast",
-      "year": 2026,
-      "release_date": "2026-09-19",
+      "id": 1397643,
+      "title": "The Hotel New Hampshire",
+      "year": 1984,
+      "release_date": "1984-03-09",
       "genres": [
-        "Adventure",
-        "Thriller"
+        "Comedy",
+        "Drama"
       ],
-      "runtime_minutes": 105,
-      "user_rating": 7.4,
-      "critic_score": 75,
-      "us_rating": null,
-      "plot": "After a plane crash leaves a Special Forces officer and his combat dog stranded in the Alaskan wilderness, they must rely on each other to endure the harsh conditions and find a way through. Their journey is a rugged test of survival, shaped by danger, exhaustion, and the deep bond between them.",
-      "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
-      "imdb_id": "tt7526136",
-      "tmdb_id": 1263337,
-      "watchmode_url": "https://www.watchmode.com/title/1927112/",
-      "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop_path": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
+      "runtime_minutes": 110,
+      "user_rating": 5.9,
+      "critic_score": 54,
+      "us_rating": "R",
+      "plot": "Beginning in the 1950s, an unconventional family pursues a life in the hotel business, running establishments in New England and Vienna. As the years pass and unexpected events reshape their lives, the family faces a strange, often unsettling mix of hardship and humor.",
+      "trailer": "https://www.youtube.com/watch?v=ibUBoYL_6vk",
+      "imdb_id": "tt0087428",
+      "tmdb_id": 11308,
+      "watchmode_url": "https://www.watchmode.com/title/1397643/",
+      "poster_path": "/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+      "backdrop_path": "/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg"
+    },
+    {
+      "id": 11012885,
+      "title": "Apocalypse Z: New World",
+      "year": 2026,
+      "release_date": "2026-10-09",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror"
+      ],
+      "runtime_minutes": 96,
+      "user_rating": 5.3,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "After a virus outbreak leaves the Canary Islands as Europe’s last refuge, a team heads to the mainland on a mission to find vital supplies. A man with questionable intentions joins them, and the operation becomes a desperate fight to survive amid infected hordes and growing divisions within the group.",
+      "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
+      "imdb_id": "tt37522541",
+      "tmdb_id": 1507696,
+      "watchmode_url": "https://www.watchmode.com/title/11012885/",
+      "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
     },
     {
       "id": 1773876,
@@ -245,26 +268,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
     },
     {
-      "id": 1942846,
-      "title": "Fall 2: Deadpoint",
+      "id": 1877491,
+      "title": "Godzilla Minus Zero",
       "year": 2026,
-      "release_date": "2026-09-01",
+      "release_date": "2026-11-03",
       "genres": [
-        "Thriller"
+        "Science Fiction",
+        "Horror",
+        "Action"
       ],
-      "runtime_minutes": 98,
-      "user_rating": 5.5,
-      "critic_score": 58,
-      "us_rating": "PG-13",
-      "plot": "During a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground. Surrounded by dizzying heights and exposed, dangerous paths, they face increasingly difficult odds and must fight to survive with little room for error.",
-      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
-      "imdb_id": "tt31192372",
-      "tmdb_id": 1101412,
-      "watchmode_url": "https://www.watchmode.com/title/1942846/",
-      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
+      "runtime_minutes": 135,
+      "user_rating": 8.1,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "trailer": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+      "imdb_id": "tt34384661",
+      "tmdb_id": 1381071,
+      "watchmode_url": "https://www.watchmode.com/title/1877491/",
+      "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
     },
     {
       "id": 1825466,
@@ -326,7 +351,7 @@ window.HYPE_MOVIES={
         "Mystery"
       ],
       "runtime_minutes": 30,
-      "user_rating": 6.9,
+      "user_rating": 6.8,
       "critic_score": null,
       "us_rating": "R",
       "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
@@ -338,29 +363,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg"
-    },
-    {
-      "id": 1397643,
-      "title": "The Hotel New Hampshire",
-      "year": 1984,
-      "release_date": "1984-03-09",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 110,
-      "user_rating": 5.9,
-      "critic_score": 54,
-      "us_rating": "R",
-      "plot": "Beginning in the 1950s, an unconventional family pursues a life in the hotel business, running establishments in New England and Vienna. As the years pass and unexpected events reshape their lives, the family faces a strange, often unsettling mix of hardship and humor.",
-      "trailer": "https://www.youtube.com/watch?v=ibUBoYL_6vk",
-      "imdb_id": "tt0087428",
-      "tmdb_id": 11308,
-      "watchmode_url": "https://www.watchmode.com/title/1397643/",
-      "poster_path": "/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
-      "backdrop_path": "/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg"
     },
     {
       "id": 11057177,
@@ -387,28 +389,51 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
     },
     {
-      "id": 1869118,
-      "title": "The Odyssey",
+      "id": 1682009,
+      "title": "Wildwood",
       "year": 2026,
-      "release_date": "2026-07-15",
+      "release_date": "2026-10-19",
       "genres": [
+        "Animation",
         "Adventure",
-        "Action",
         "Fantasy"
       ],
-      "runtime_minutes": 173,
-      "user_rating": 8.5,
-      "critic_score": 91,
-      "us_rating": "R",
-      "plot": "After the Trojan War, a legendary king sets out on a perilous journey home. He faces divine interference, mythological creatures, and trials that test his cleverness and humanity, while those waiting for him at home face troubles of their own.",
-      "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
-      "imdb_id": "tt33764258",
-      "tmdb_id": 1368337,
-      "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
+      "runtime_minutes": 132,
+      "user_rating": 8.8,
+      "critic_score": 93,
+      "us_rating": "PG-13",
+      "plot": "A young girl and her classmate enter a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries. They face a desperate quest to rescue her abducted baby brother from a murder of crows led by a mysterious woman.",
+      "trailer": "https://www.youtube.com/watch?v=POneS8h1jyU",
+      "imdb_id": "tt2056785",
+      "tmdb_id": 791523,
+      "watchmode_url": "https://www.watchmode.com/title/1682009/",
+      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
+    },
+    {
+      "id": 11056833,
+      "title": "A Dog's Perfect Christmas",
+      "year": 2026,
+      "release_date": "2026-11-04",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtime_minutes": 102,
+      "user_rating": 6.7,
+      "critic_score": 35,
+      "us_rating": "PG-13",
+      "plot": "At Christmas, a family in crisis struggles to keep its household together. A teenager, her grandfather, and his trusty basset hound face the challenge of holding the family together during the holiday, as they try to get through a difficult time at home.",
+      "trailer": "https://www.youtube.com/watch?v=L18ih13Bf-U",
+      "imdb_id": "tt38515310",
+      "tmdb_id": 1570488,
+      "watchmode_url": "https://www.watchmode.com/title/11056833/",
+      "poster_path": "/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "backdrop_path": "/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg"
     },
     {
       "id": 11017878,
@@ -436,7 +461,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1937817,
-      "title": "La Bola Negra",
+      "title": "La bola negra",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -456,29 +481,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
-    },
-    {
-      "id": 1823717,
-      "title": "Insidious: Out of the Further",
-      "year": 2026,
-      "release_date": "2026-08-19",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 106,
-      "user_rating": 6.2,
-      "critic_score": 53,
-      "us_rating": null,
-      "plot": "A young mother raising her daughter in her childhood home discovers she can enter a mysterious realm called the Further. There, she has an unusual ability to bring its inhabitants into the real world, drawing her into a frightening struggle to protect her family.",
-      "trailer": "https://www.youtube.com/watch?v=jxU8FU3o75A",
-      "imdb_id": "tt32393988",
-      "tmdb_id": 1291595,
-      "watchmode_url": "https://www.watchmode.com/title/1823717/",
-      "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg"
     }
   ],
   "upcoming": [
@@ -514,7 +516,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 132,
-      "user_rating": 2.9,
+      "user_rating": 3,
       "critic_score": null,
       "us_rating": null,
       "plot": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
@@ -581,7 +583,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 109,
-      "user_rating": 5.7,
+      "user_rating": 5.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "Tessa is a brilliant British defence barrister dominating London’s ruthless courtrooms. Fierce, witty, and self-made, she defends men accused of sexual assault — until she is assaulted herself by a colleague from a powerful legal dynasty.  Suddenly, the system she trusted turns against her. As she faces the same tactics she once used in court, Tessa’s faith in justice unravels. Once in control, now exposed and disbelieved, she must fight to reclaim her voice and sense of self.",
@@ -845,7 +847,7 @@ window.HYPE_MOVIES={
     {
       "id": 1886542,
       "title": "Tristes Tropiques",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-25",
       "genres": [
         "Action",
@@ -962,31 +964,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
     },
     {
-      "id": 1749638,
-      "title": "The Wild Robot",
-      "year": 2024,
-      "release_date": "2024-09-12",
-      "genres": [
-        "Family",
-        "Animation",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "runtime_minutes": 102,
-      "user_rating": 8.3,
-      "critic_score": 91,
-      "us_rating": null,
-      "plot": "After a shipwreck leaves an intelligent robot stranded on an uninhabited island, she must adapt to its wild surroundings. As she gradually bonds with the animals, she takes on the challenge of caring for an orphaned baby goose, discovering new ways to connect and belong.",
-      "trailer": "https://www.youtube.com/watch?v=67vbA5ZJdKQ",
-      "imdb_id": "tt29623480",
-      "tmdb_id": 1184918,
-      "watchmode_url": "https://www.watchmode.com/title/1749638/",
-      "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
-      "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
-    },
-    {
       "id": 1409773,
       "title": "The Nightmare Before Christmas",
       "year": 1993,
@@ -1087,6 +1064,32 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
     },
     {
+      "id": 1785478,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "release_date": "2025-11-26",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Mystery",
+        "Family"
+      ],
+      "runtime_minutes": 108,
+      "user_rating": 7.5,
+      "critic_score": 83,
+      "us_rating": "PG",
+      "plot": "After solving a major case, two rookie officers follow a new mystery that unsettles their animal-filled city. Their investigation takes them undercover into unfamiliar neighborhoods, where they must work through fresh challenges and test the strength of their partnership.",
+      "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
+      "imdb_id": "tt26443597",
+      "tmdb_id": 1084242,
+      "watchmode_url": "https://www.watchmode.com/title/1785478/",
+      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
+    },
+    {
       "id": 1546856,
       "title": "The Super Mario Bros. Movie",
       "year": 2023,
@@ -1128,7 +1131,7 @@ window.HYPE_MOVIES={
       "critic_score": 76,
       "us_rating": null,
       "plot": "On the way back to a family home, a young hero is misled by a dark legendary figure, causing an innocent girl to be pulled into the underworld. With help from loyal friends, he must set things right and escape before the danger grows.",
-      "trailer": "https://www.youtube.com/watch?v=YclerlveAm4",
+      "trailer": "https://www.youtube.com/watch?v=eji78BJCXZY",
       "imdb_id": "tt6772418",
       "tmdb_id": 494656,
       "watchmode_url": "https://www.watchmode.com/title/1213452/",
@@ -1139,7 +1142,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1751320,
-      "title": "Tad and The Magic Lamp",
+      "title": "Tad and the Magic Lamp",
       "year": 2026,
       "release_date": "2026-08-26",
       "genres": [
