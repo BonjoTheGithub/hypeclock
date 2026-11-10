@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:31:41.386Z",
+  "generated_at": "2026-11-10T07:30:37.732Z",
   "games": [
     {
       "id": 431,
@@ -106,19 +106,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/gloria-victis"
     },
     {
-      "id": 540,
-      "title": "Overwatch",
-      "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
-      "short_description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
-      "game_url": "https://www.freetogame.com/open/overwatch",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Activision Blizzard",
-      "developer": "Blizzard Entertainment",
-      "release_date": "2022-10-04",
-      "freetogame_profile_url": "https://www.freetogame.com/overwatch"
-    },
-    {
       "id": 626,
       "title": "Where Winds Meet",
       "thumbnail": "https://www.freetogame.com/g/626/thumbnail.jpg",
@@ -130,6 +117,19 @@
       "developer": "NetEase Games",
       "release_date": "2025-11-14",
       "freetogame_profile_url": "https://www.freetogame.com/where-winds-meet"
+    },
+    {
+      "id": 540,
+      "title": "Overwatch",
+      "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+      "short_description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+      "game_url": "https://www.freetogame.com/open/overwatch",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Activision Blizzard",
+      "developer": "Blizzard Entertainment",
+      "release_date": "2022-10-04",
+      "freetogame_profile_url": "https://www.freetogame.com/overwatch"
     },
     {
       "id": 508,
@@ -184,19 +184,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/genshin-impact"
     },
     {
-      "id": 20,
-      "title": "Splitgate",
-      "thumbnail": "https://www.freetogame.com/g/20/thumbnail.jpg",
-      "short_description": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
-      "game_url": "https://www.freetogame.com/open/splitgate",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "1047 Games",
-      "developer": "1047 Games",
-      "release_date": "2019-05-22",
-      "freetogame_profile_url": "https://www.freetogame.com/splitgate"
-    },
-    {
       "id": 466,
       "title": "Valorant",
       "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg",
@@ -208,6 +195,19 @@
       "developer": "Riot Games",
       "release_date": "2020-06-02",
       "freetogame_profile_url": "https://www.freetogame.com/valorant"
+    },
+    {
+      "id": 20,
+      "title": "Splitgate",
+      "thumbnail": "https://www.freetogame.com/g/20/thumbnail.jpg",
+      "short_description": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
+      "game_url": "https://www.freetogame.com/open/splitgate",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "1047 Games",
+      "developer": "1047 Games",
+      "release_date": "2019-05-22",
+      "freetogame_profile_url": "https://www.freetogame.com/splitgate"
     },
     {
       "id": 9,
@@ -236,19 +236,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/fall-guys"
     },
     {
-      "id": 606,
-      "title": "Steel Hunters",
-      "thumbnail": "https://www.freetogame.com/g/606/thumbnail.jpg",
-      "short_description": "A post-apocalyptic extraction shooter with giant mechs.",
-      "game_url": "https://www.freetogame.com/open/steel-hunters",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Wargaming ",
-      "developer": "Wargaming",
-      "release_date": "2025-04-02",
-      "freetogame_profile_url": "https://www.freetogame.com/steel-hunters"
-    },
-    {
       "id": 452,
       "title": "Call of Duty: Warzone",
       "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg",
@@ -260,6 +247,19 @@
       "developer": "Infinity Ward",
       "release_date": "2020-03-10",
       "freetogame_profile_url": "https://www.freetogame.com/call-of-duty-warzone"
+    },
+    {
+      "id": 606,
+      "title": "Steel Hunters",
+      "thumbnail": "https://www.freetogame.com/g/606/thumbnail.jpg",
+      "short_description": "A post-apocalyptic extraction shooter with giant mechs.",
+      "game_url": "https://www.freetogame.com/open/steel-hunters",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming ",
+      "developer": "Wargaming",
+      "release_date": "2025-04-02",
+      "freetogame_profile_url": "https://www.freetogame.com/steel-hunters"
     },
     {
       "id": 339,
@@ -301,30 +301,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/star-trek-online"
     },
     {
-      "id": 575,
-      "title": "One Punch Man: World",
-      "thumbnail": "https://www.freetogame.com/g/575/thumbnail.jpg",
-      "short_description": "A free-to-play multiplayer 3D action game from Crunchyroll Games.",
-      "game_url": "https://www.freetogame.com/open/one-punch-man-world",
-      "genre": "Action Game",
+      "id": 628,
+      "title": "World of Sea Battle",
+      "thumbnail": "https://www.freetogame.com/g/628/thumbnail.jpg",
+      "short_description": "A free-to-play historical open-sea MMORPG.",
+      "game_url": "https://www.freetogame.com/open/world-of-sea-battle",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Perfect World Games",
-      "developer": "Crunchyroll",
-      "release_date": "2024-01-31",
-      "freetogame_profile_url": "https://www.freetogame.com/one-punch-man-world"
-    },
-    {
-      "id": 498,
-      "title": "Blankos Block Party",
-      "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg",
-      "short_description": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
-      "game_url": "https://www.freetogame.com/open/blankos",
-      "genre": "MMO",
-      "platform": "PC (Windows)",
-      "publisher": "Third Kind Games",
-      "developer": "Mythical Games Inc",
-      "release_date": "2020-12-11",
-      "freetogame_profile_url": "https://www.freetogame.com/blankos"
+      "publisher": "Thera Interactive",
+      "developer": "Thera Interactive",
+      "release_date": "2025-10-21",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
     },
     {
       "id": 24,
@@ -340,19 +327,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/counter-strike-2"
     },
     {
-      "id": 628,
-      "title": "World of Sea Battle",
-      "thumbnail": "https://www.freetogame.com/g/628/thumbnail.jpg",
-      "short_description": "A free-to-play historical open-sea MMORPG.",
-      "game_url": "https://www.freetogame.com/open/world-of-sea-battle",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Thera Interactive",
-      "developer": "Thera Interactive",
-      "release_date": "2025-10-21",
-      "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
-    },
-    {
       "id": 5,
       "title": "Crossout",
       "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
@@ -364,19 +338,6 @@
       "developer": "Gaijin",
       "release_date": "2017-05-30",
       "freetogame_profile_url": "https://www.freetogame.com/crossout"
-    },
-    {
-      "id": 614,
-      "title": "Dungeon Stalker",
-      "thumbnail": "https://www.freetogame.com/g/614/thumbnail.jpg",
-      "short_description": "A free-to-play dungeon crawler with survival elements.",
-      "game_url": "https://www.freetogame.com/open/dungeon-stalker",
-      "genre": "Dungeon Crawler",
-      "platform": "PC (Windows)",
-      "publisher": "OneUniverse",
-      "developer": "OneUniverse",
-      "release_date": "2025-08-13",
-      "freetogame_profile_url": "https://www.freetogame.com/dungeon-stalker"
     },
     {
       "id": 477,
@@ -392,30 +353,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/eternal-return"
     },
     {
-      "id": 330,
-      "title": "Lineage 2",
-      "thumbnail": "https://www.freetogame.com/g/330/thumbnail.jpg",
-      "short_description": "A 3D fantasy MMORPG with a strong emphasis on PvP.",
-      "game_url": "https://www.freetogame.com/open/lineage-2",
-      "genre": "MMORPG",
+      "id": 498,
+      "title": "Blankos Block Party",
+      "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg",
+      "short_description": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
+      "game_url": "https://www.freetogame.com/open/blankos",
+      "genre": "MMO",
       "platform": "PC (Windows)",
-      "publisher": "NCSoft",
-      "developer": "NCSoft",
-      "release_date": "2004-04-27",
-      "freetogame_profile_url": "https://www.freetogame.com/lineage-2"
+      "publisher": "Third Kind Games",
+      "developer": "Mythical Games Inc",
+      "release_date": "2020-12-11",
+      "freetogame_profile_url": "https://www.freetogame.com/blankos"
     },
     {
-      "id": 572,
-      "title": "Ravendawn",
-      "thumbnail": "https://www.freetogame.com/g/572/thumbnail.jpg",
-      "short_description": "A 2D top-down MMORPG featuring homesteading and building mechanics.",
-      "game_url": "https://www.freetogame.com/open/ravendawn",
-      "genre": "MMORPG",
+      "id": 575,
+      "title": "One Punch Man: World",
+      "thumbnail": "https://www.freetogame.com/g/575/thumbnail.jpg",
+      "short_description": "A free-to-play multiplayer 3D action game from Crunchyroll Games.",
+      "game_url": "https://www.freetogame.com/open/one-punch-man-world",
+      "genre": "Action Game",
       "platform": "PC (Windows)",
-      "publisher": "Tavernlight Games",
-      "developer": "Tavernlight Games",
-      "release_date": "2024-01-16",
-      "freetogame_profile_url": "https://www.freetogame.com/ravendawn"
+      "publisher": "Perfect World Games",
+      "developer": "Crunchyroll",
+      "release_date": "2024-01-31",
+      "freetogame_profile_url": "https://www.freetogame.com/one-punch-man-world"
     },
     {
       "id": 297,
@@ -431,43 +392,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/wizard101"
     },
     {
-      "id": 551,
-      "title": "Veiled Experts",
-      "thumbnail": "https://www.freetogame.com/g/551/thumbnail.jpg",
-      "short_description": "A free-to-play multiplayer shooter game focused on the search and destroy mode of classic shooters.",
-      "game_url": "https://www.freetogame.com/open/veiled-experts",
-      "genre": "Shooter",
+      "id": 330,
+      "title": "Lineage 2",
+      "thumbnail": "https://www.freetogame.com/g/330/thumbnail.jpg",
+      "short_description": "A 3D fantasy MMORPG with a strong emphasis on PvP.",
+      "game_url": "https://www.freetogame.com/open/lineage-2",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Nexon Games Co., LTC",
-      "developer": "Nexon",
-      "release_date": "2023-05-18",
-      "freetogame_profile_url": "https://www.freetogame.com/veiled-experts"
-    },
-    {
-      "id": 2,
-      "title": "World of Tanks",
-      "thumbnail": "https://www.freetogame.com/g/2/thumbnail2.jpg",
-      "short_description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
-      "game_url": "https://www.freetogame.com/open/world-of-tanks",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Wargaming",
-      "developer": "Wargaming",
-      "release_date": "2011-04-12",
-      "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
-    },
-    {
-      "id": 584,
-      "title": "Once Human",
-      "thumbnail": "https://www.freetogame.com/g/584/thumbnail.jpg",
-      "short_description": "A post-apocalyptic open-world survival game from Starry Studio.",
-      "game_url": "https://www.freetogame.com/open/once-human",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Starry Studio",
-      "developer": "Starry Studio",
-      "release_date": "2024-07-09",
-      "freetogame_profile_url": "https://www.freetogame.com/once-human"
+      "publisher": "NCSoft",
+      "developer": "NCSoft",
+      "release_date": "2004-04-27",
+      "freetogame_profile_url": "https://www.freetogame.com/lineage-2"
     },
     {
       "id": 57,
@@ -483,30 +418,43 @@
       "freetogame_profile_url": "https://www.freetogame.com/fortnite-battle-royale"
     },
     {
-      "id": 272,
-      "title": "Allods Online",
-      "thumbnail": "https://www.freetogame.com/g/272/thumbnail.jpg",
-      "short_description": "A fantasy MMORPG that follows more traditional “World of Warcraft-like” MMO traditions.",
-      "game_url": "https://www.freetogame.com/open/allods-online",
+      "id": 572,
+      "title": "Ravendawn",
+      "thumbnail": "https://www.freetogame.com/g/572/thumbnail.jpg",
+      "short_description": "A 2D top-down MMORPG featuring homesteading and building mechanics.",
+      "game_url": "https://www.freetogame.com/open/ravendawn",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "My.com",
-      "developer": "Allods Team",
-      "release_date": "2011-04-26",
-      "freetogame_profile_url": "https://www.freetogame.com/allods-online"
+      "publisher": "Tavernlight Games",
+      "developer": "Tavernlight Games",
+      "release_date": "2024-01-16",
+      "freetogame_profile_url": "https://www.freetogame.com/ravendawn"
     },
     {
-      "id": 154,
-      "title": "Sphere 3: Enchanted World",
-      "thumbnail": "https://www.freetogame.com/g/154/thumbnail.jpg",
-      "short_description": "A fantasy action MMORPG with a non-target combat system.",
-      "game_url": "https://www.freetogame.com/open/sphere-3",
-      "genre": "MMORPG",
+      "id": 614,
+      "title": "Dungeon Stalker",
+      "thumbnail": "https://www.freetogame.com/g/614/thumbnail.jpg",
+      "short_description": "A free-to-play dungeon crawler with survival elements.",
+      "game_url": "https://www.freetogame.com/open/dungeon-stalker",
+      "genre": "Dungeon Crawler",
       "platform": "PC (Windows)",
-      "publisher": "NIKITA ONLINE",
-      "developer": "NIKITA ONLINE",
-      "release_date": "2015-08-18",
-      "freetogame_profile_url": "https://www.freetogame.com/sphere-3"
+      "publisher": "OneUniverse",
+      "developer": "OneUniverse",
+      "release_date": "2025-08-13",
+      "freetogame_profile_url": "https://www.freetogame.com/dungeon-stalker"
+    },
+    {
+      "id": 584,
+      "title": "Once Human",
+      "thumbnail": "https://www.freetogame.com/g/584/thumbnail.jpg",
+      "short_description": "A post-apocalyptic open-world survival game from Starry Studio.",
+      "game_url": "https://www.freetogame.com/open/once-human",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Starry Studio",
+      "developer": "Starry Studio",
+      "release_date": "2024-07-09",
+      "freetogame_profile_url": "https://www.freetogame.com/once-human"
     },
     {
       "id": 274,
@@ -522,69 +470,56 @@
       "freetogame_profile_url": "https://www.freetogame.com/getamped-2"
     },
     {
-      "id": 604,
-      "title": "FragPunk",
-      "thumbnail": "https://www.freetogame.com/g/604/thumbnail.jpg",
-      "short_description": "A free-to-play 5v5 hero shooter that uses cards to modify matches.",
-      "game_url": "https://www.freetogame.com/open/fragpunk",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Bad Guitar Studio",
-      "developer": "Bad Guitar Studio",
-      "release_date": "2025-03-06",
-      "freetogame_profile_url": "https://www.freetogame.com/fragpunk"
-    },
-    {
-      "id": 639,
-      "title": "The Seven Deadly Sins: Origin",
-      "thumbnail": "https://www.freetogame.com/g/639/thumbnail.jpg",
-      "short_description": "A free-to-play action RPG based on the manga and anime.",
-      "game_url": "https://www.freetogame.com/open/the-seven-deadly-sins-origin",
-      "genre": "RPG",
-      "platform": "PC (Windows)",
-      "publisher": "Netmarble",
-      "developer": "Netmarble",
-      "release_date": "2026-03-16",
-      "freetogame_profile_url": "https://www.freetogame.com/the-seven-deadly-sins-origin"
-    },
-    {
-      "id": 545,
-      "title": "Fangs",
-      "thumbnail": "https://www.freetogame.com/g/545/thumbnail.jpg",
-      "short_description": "A 4v4 MOBA with hero-specific strategies.",
-      "game_url": "https://www.freetogame.com/open/fangs",
-      "genre": "MOBA",
-      "platform": "PC (Windows)",
-      "publisher": "Hidden Leaf Games",
-      "developer": "Hidden Leaf Games",
-      "release_date": "2022-11-30",
-      "freetogame_profile_url": "https://www.freetogame.com/fangs"
-    },
-    {
-      "id": 537,
-      "title": "Gundam Evolution",
-      "thumbnail": "https://www.freetogame.com/g/537/thumbnail.jpg",
-      "short_description": "A 6v6 team-based shooter based on the Gundam multiverse",
-      "game_url": "https://www.freetogame.com/open/gundam-evolution",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Bandai Namco",
-      "developer": "Bandai Namco",
-      "release_date": "2022-09-21",
-      "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution"
-    },
-    {
-      "id": 10,
-      "title": "ArcheAge",
-      "thumbnail": "https://www.freetogame.com/g/10/thumbnail.jpg",
-      "short_description": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.",
-      "game_url": "https://www.freetogame.com/open/archeage",
+      "id": 154,
+      "title": "Sphere 3: Enchanted World",
+      "thumbnail": "https://www.freetogame.com/g/154/thumbnail.jpg",
+      "short_description": "A fantasy action MMORPG with a non-target combat system.",
+      "game_url": "https://www.freetogame.com/open/sphere-3",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Kakao Games",
-      "developer": "XL Games",
-      "release_date": "2014-09-04",
-      "freetogame_profile_url": "https://www.freetogame.com/archeage"
+      "publisher": "NIKITA ONLINE",
+      "developer": "NIKITA ONLINE",
+      "release_date": "2015-08-18",
+      "freetogame_profile_url": "https://www.freetogame.com/sphere-3"
+    },
+    {
+      "id": 272,
+      "title": "Allods Online",
+      "thumbnail": "https://www.freetogame.com/g/272/thumbnail.jpg",
+      "short_description": "A fantasy MMORPG that follows more traditional “World of Warcraft-like” MMO traditions.",
+      "game_url": "https://www.freetogame.com/open/allods-online",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "My.com",
+      "developer": "Allods Team",
+      "release_date": "2011-04-26",
+      "freetogame_profile_url": "https://www.freetogame.com/allods-online"
+    },
+    {
+      "id": 2,
+      "title": "World of Tanks",
+      "thumbnail": "https://www.freetogame.com/g/2/thumbnail2.jpg",
+      "short_description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
+      "game_url": "https://www.freetogame.com/open/world-of-tanks",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming",
+      "developer": "Wargaming",
+      "release_date": "2011-04-12",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
+    },
+    {
+      "id": 551,
+      "title": "Veiled Experts",
+      "thumbnail": "https://www.freetogame.com/g/551/thumbnail.jpg",
+      "short_description": "A free-to-play multiplayer shooter game focused on the search and destroy mode of classic shooters.",
+      "game_url": "https://www.freetogame.com/open/veiled-experts",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Nexon Games Co., LTC",
+      "developer": "Nexon",
+      "release_date": "2023-05-18",
+      "freetogame_profile_url": "https://www.freetogame.com/veiled-experts"
     },
     {
       "id": 13,
@@ -600,19 +535,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/guild-wars-2"
     },
     {
-      "id": 11,
-      "title": "Neverwinter",
-      "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
-      "short_description": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
-      "game_url": "https://www.freetogame.com/open/neverwinter",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Perfect World Entertainment",
-      "developer": "Cryptic Studios",
-      "release_date": "2013-12-06",
-      "freetogame_profile_url": "https://www.freetogame.com/neverwinter"
-    },
-    {
       "id": 652,
       "title": "Aion 2",
       "thumbnail": "https://www.freetogame.com/g/652/thumbnail.jpg",
@@ -626,17 +548,82 @@
       "freetogame_profile_url": "https://www.freetogame.com/aion-2"
     },
     {
-      "id": 578,
-      "title": "Predecessor",
-      "thumbnail": "https://www.freetogame.com/g/578/thumbnail.jpg",
-      "short_description": "A free-to-play MOBA shooter developed and published by Omeda Studios.",
-      "game_url": "https://www.freetogame.com/open/predecessor",
+      "id": 604,
+      "title": "FragPunk",
+      "thumbnail": "https://www.freetogame.com/g/604/thumbnail.jpg",
+      "short_description": "A free-to-play 5v5 hero shooter that uses cards to modify matches.",
+      "game_url": "https://www.freetogame.com/open/fragpunk",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Bad Guitar Studio",
+      "developer": "Bad Guitar Studio",
+      "release_date": "2025-03-06",
+      "freetogame_profile_url": "https://www.freetogame.com/fragpunk"
+    },
+    {
+      "id": 11,
+      "title": "Neverwinter",
+      "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
+      "short_description": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
+      "game_url": "https://www.freetogame.com/open/neverwinter",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Perfect World Entertainment",
+      "developer": "Cryptic Studios",
+      "release_date": "2013-12-06",
+      "freetogame_profile_url": "https://www.freetogame.com/neverwinter"
+    },
+    {
+      "id": 545,
+      "title": "Fangs",
+      "thumbnail": "https://www.freetogame.com/g/545/thumbnail.jpg",
+      "short_description": "A 4v4 MOBA with hero-specific strategies.",
+      "game_url": "https://www.freetogame.com/open/fangs",
       "genre": "MOBA",
       "platform": "PC (Windows)",
-      "publisher": "Omeda Studios",
-      "developer": "Omeda Studios",
-      "release_date": "2024-03-28",
-      "freetogame_profile_url": "https://www.freetogame.com/predecessor"
+      "publisher": "Hidden Leaf Games",
+      "developer": "Hidden Leaf Games",
+      "release_date": "2022-11-30",
+      "freetogame_profile_url": "https://www.freetogame.com/fangs"
+    },
+    {
+      "id": 10,
+      "title": "ArcheAge",
+      "thumbnail": "https://www.freetogame.com/g/10/thumbnail.jpg",
+      "short_description": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.",
+      "game_url": "https://www.freetogame.com/open/archeage",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Kakao Games",
+      "developer": "XL Games",
+      "release_date": "2014-09-04",
+      "freetogame_profile_url": "https://www.freetogame.com/archeage"
+    },
+    {
+      "id": 639,
+      "title": "The Seven Deadly Sins: Origin",
+      "thumbnail": "https://www.freetogame.com/g/639/thumbnail.jpg",
+      "short_description": "A free-to-play action RPG based on the manga and anime.",
+      "game_url": "https://www.freetogame.com/open/the-seven-deadly-sins-origin",
+      "genre": "RPG",
+      "platform": "PC (Windows)",
+      "publisher": "Netmarble",
+      "developer": "Netmarble",
+      "release_date": "2026-03-16",
+      "freetogame_profile_url": "https://www.freetogame.com/the-seven-deadly-sins-origin"
+    },
+    {
+      "id": 537,
+      "title": "Gundam Evolution",
+      "thumbnail": "https://www.freetogame.com/g/537/thumbnail.jpg",
+      "short_description": "A 6v6 team-based shooter based on the Gundam multiverse",
+      "game_url": "https://www.freetogame.com/open/gundam-evolution",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Bandai Namco",
+      "developer": "Bandai Namco",
+      "release_date": "2022-09-21",
+      "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution"
     },
     {
       "id": 12,
@@ -652,45 +639,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/war-thunder"
     },
     {
-      "id": 6,
-      "title": "Blade and Soul",
-      "thumbnail": "https://www.freetogame.com/g/6/thumbnail.jpg",
-      "short_description": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks.",
-      "game_url": "https://www.freetogame.com/open/blade-and-soul",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "NCSoft",
-      "developer": "NCSoft",
-      "release_date": "2016-01-19",
-      "freetogame_profile_url": "https://www.freetogame.com/blade-and-soul"
-    },
-    {
-      "id": 597,
-      "title": "Strinova",
-      "thumbnail": "https://www.freetogame.com/g/597/thumbnail.jpg",
-      "short_description": "A third-person tactical shooter that features the unique mechanic of allowing players to switch between three-dimensional and two-dimensional forms.",
-      "game_url": "https://www.freetogame.com/open/strinova",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "iDreamSky",
-      "developer": "iDreamSky",
-      "release_date": "2024-11-21",
-      "freetogame_profile_url": "https://www.freetogame.com/strinova"
-    },
-    {
-      "id": 4,
-      "title": "CRSED: F.O.A.D.",
-      "thumbnail": "https://www.freetogame.com/g/4/thumbnail.jpg",
-      "short_description": "Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)",
-      "game_url": "https://www.freetogame.com/open/crsed",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Gaijin Distribution KFT",
-      "developer": "Darkflow Software",
-      "release_date": "2019-12-12",
-      "freetogame_profile_url": "https://www.freetogame.com/crsed"
-    },
-    {
       "id": 645,
       "title": "Crystal Saga Nova",
       "thumbnail": "https://www.freetogame.com/g/645/thumbnail.jpg",
@@ -702,6 +650,19 @@
       "developer": "F5 Game Company",
       "release_date": "2026-05-26",
       "freetogame_profile_url": "https://www.freetogame.com/crystal-saga-nova"
+    },
+    {
+      "id": 6,
+      "title": "Blade and Soul",
+      "thumbnail": "https://www.freetogame.com/g/6/thumbnail.jpg",
+      "short_description": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks.",
+      "game_url": "https://www.freetogame.com/open/blade-and-soul",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "NCSoft",
+      "developer": "NCSoft",
+      "release_date": "2016-01-19",
+      "freetogame_profile_url": "https://www.freetogame.com/blade-and-soul"
     },
     {
       "id": 7,
@@ -717,6 +678,32 @@
       "freetogame_profile_url": "https://www.freetogame.com/armored-warfare"
     },
     {
+      "id": 578,
+      "title": "Predecessor",
+      "thumbnail": "https://www.freetogame.com/g/578/thumbnail.jpg",
+      "short_description": "A free-to-play MOBA shooter developed and published by Omeda Studios.",
+      "game_url": "https://www.freetogame.com/open/predecessor",
+      "genre": "MOBA",
+      "platform": "PC (Windows)",
+      "publisher": "Omeda Studios",
+      "developer": "Omeda Studios",
+      "release_date": "2024-03-28",
+      "freetogame_profile_url": "https://www.freetogame.com/predecessor"
+    },
+    {
+      "id": 4,
+      "title": "CRSED: F.O.A.D.",
+      "thumbnail": "https://www.freetogame.com/g/4/thumbnail.jpg",
+      "short_description": "Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)",
+      "game_url": "https://www.freetogame.com/open/crsed",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Gaijin Distribution KFT",
+      "developer": "Darkflow Software",
+      "release_date": "2019-12-12",
+      "freetogame_profile_url": "https://www.freetogame.com/crsed"
+    },
+    {
       "id": 653,
       "title": "SPAM",
       "thumbnail": "https://www.freetogame.com/g/653/thumbnail.jpg",
@@ -730,30 +717,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/spam"
     },
     {
-      "id": 601,
-      "title": "Delta Force",
-      "thumbnail": "https://www.freetogame.com/g/601/thumbnail.jpg",
-      "short_description": "A free-to-play team-based tactical shooter.",
-      "game_url": "https://www.freetogame.com/open/delta-force",
+      "id": 597,
+      "title": "Strinova",
+      "thumbnail": "https://www.freetogame.com/g/597/thumbnail.jpg",
+      "short_description": "A third-person tactical shooter that features the unique mechanic of allowing players to switch between three-dimensional and two-dimensional forms.",
+      "game_url": "https://www.freetogame.com/open/strinova",
       "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "TiMi Studio Group",
-      "developer": "Team Jade",
-      "release_date": "2024-12-04",
-      "freetogame_profile_url": "https://www.freetogame.com/delta-force"
+      "publisher": "iDreamSky",
+      "developer": "iDreamSky",
+      "release_date": "2024-11-21",
+      "freetogame_profile_url": "https://www.freetogame.com/strinova"
     },
     {
-      "id": 320,
-      "title": "Dungeons and Dragons Online",
-      "thumbnail": "https://www.freetogame.com/g/320/thumbnail.jpg",
-      "short_description": "A free-to-play MMORPG based on the beloved D&D RPG that started it all.",
-      "game_url": "https://www.freetogame.com/open/dungeons-dragons-online",
+      "id": 365,
+      "title": "Naruto Online",
+      "thumbnail": "https://www.freetogame.com/g/365/thumbnail.jpg",
+      "short_description": "A free-to-play MMO based on the popular anime series and manga, developed \r\nby Bandai Namco Entertainment. ",
+      "game_url": "https://www.freetogame.com/open/naruto-online",
       "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Warner Bros. Interactive Entertainment",
-      "developer": "Turbine, Inc.",
-      "release_date": "2006-02-28",
-      "freetogame_profile_url": "https://www.freetogame.com/dungeons-dragons-online"
+      "platform": "Web Browser",
+      "publisher": "OAS Games",
+      "developer": "Bandai Namco",
+      "release_date": "2016-07-20",
+      "freetogame_profile_url": "https://www.freetogame.com/naruto-online"
     },
     {
       "id": 324,
@@ -769,17 +756,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/domo"
     },
     {
-      "id": 365,
-      "title": "Naruto Online",
-      "thumbnail": "https://www.freetogame.com/g/365/thumbnail.jpg",
-      "short_description": "A free-to-play MMO based on the popular anime series and manga, developed \r\nby Bandai Namco Entertainment. ",
-      "game_url": "https://www.freetogame.com/open/naruto-online",
+      "id": 320,
+      "title": "Dungeons and Dragons Online",
+      "thumbnail": "https://www.freetogame.com/g/320/thumbnail.jpg",
+      "short_description": "A free-to-play MMORPG based on the beloved D&D RPG that started it all.",
+      "game_url": "https://www.freetogame.com/open/dungeons-dragons-online",
       "genre": "MMORPG",
-      "platform": "Web Browser",
-      "publisher": "OAS Games",
-      "developer": "Bandai Namco",
-      "release_date": "2016-07-20",
-      "freetogame_profile_url": "https://www.freetogame.com/naruto-online"
+      "platform": "PC (Windows)",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "developer": "Turbine, Inc.",
+      "release_date": "2006-02-28",
+      "freetogame_profile_url": "https://www.freetogame.com/dungeons-dragons-online"
+    },
+    {
+      "id": 327,
+      "title": "Everquest 2",
+      "thumbnail": "https://www.freetogame.com/g/327/thumbnail.jpg",
+      "short_description": "A free to play 3D fantasy MMORPG and the sequel to EverQuest.",
+      "game_url": "https://www.freetogame.com/open/everquest-2",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Daybreak Games",
+      "developer": "Daybreak Games",
+      "release_date": "2004-11-08",
+      "freetogame_profile_url": "https://www.freetogame.com/everquest-2"
     }
   ]
 }
