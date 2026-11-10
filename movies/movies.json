@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-09T21:05:31.821Z",
+  "generated_at": "2026-11-10T18:15:16.024Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -25,9 +25,9 @@
       "imdb_id": "tt33764258",
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "poster_path": "/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
       "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
     },
     {
@@ -49,9 +49,9 @@
       "tmdb_id": 1263337,
       "watchmode_url": "https://www.watchmode.com/title/1927112/",
       "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop_path": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+      "backdrop_path": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6uVRPFflyJpo8Cx872olmlGTWla.jpg"
     },
     {
       "id": 1611652,
@@ -123,29 +123,6 @@
       "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
-    },
-    {
-      "id": 1397643,
-      "title": "The Hotel New Hampshire",
-      "year": 1984,
-      "release_date": "1984-03-09",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "runtime_minutes": 110,
-      "user_rating": 5.9,
-      "critic_score": 54,
-      "us_rating": "R",
-      "plot": "Beginning in the 1950s, an unconventional family pursues a life in the hotel business, running establishments in New England and Vienna. As the years pass and unexpected events reshape their lives, the family faces a strange, often unsettling mix of hardship and humor.",
-      "trailer": "https://www.youtube.com/watch?v=ibUBoYL_6vk",
-      "imdb_id": "tt0087428",
-      "tmdb_id": 11308,
-      "watchmode_url": "https://www.watchmode.com/title/1397643/",
-      "poster_path": "/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
-      "backdrop_path": "/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg"
     },
     {
       "id": 11012885,
@@ -292,6 +269,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
     },
     {
+      "id": 11233940,
+      "title": "A Story of Derry",
+      "year": 2026,
+      "release_date": "2026-10-31",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtime_minutes": 30,
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "trailer": "https://www.youtube.com/watch?v=iOjzJsHS0M0",
+      "imdb_id": "tt50389959",
+      "tmdb_id": 1813355,
+      "watchmode_url": "https://www.watchmode.com/title/11233940/",
+      "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+      "backdrop_path": "/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg"
+    },
+    {
       "id": 1825466,
       "title": "The Mongoose",
       "year": 2026,
@@ -341,28 +342,51 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
     },
     {
-      "id": 11233940,
-      "title": "A Story of Derry",
+      "id": 1885275,
+      "title": "Ramayana: Rise of a Legend",
       "year": 2026,
-      "release_date": "2026-10-31",
+      "release_date": "2026-11-05",
       "genres": [
-        "Drama",
-        "Horror",
-        "Mystery"
+        "Fantasy",
+        "Action",
+        "Adventure"
       ],
-      "runtime_minutes": 30,
-      "user_rating": 6.8,
+      "runtime_minutes": 201,
+      "user_rating": 7.5,
       "critic_score": null,
+      "us_rating": null,
+      "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile begin a legendary journey. Their story is shaped by love, duty, and destiny as they face greater challenges ahead, setting the stage for a tale that reaches beyond their early experiences.",
+      "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
+      "imdb_id": "tt27988879",
+      "tmdb_id": 656908,
+      "watchmode_url": "https://www.watchmode.com/title/1885275/",
+      "poster_path": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+      "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg"
+    },
+    {
+      "id": 1397643,
+      "title": "The Hotel New Hampshire",
+      "year": 1984,
+      "release_date": "1984-03-09",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtime_minutes": 110,
+      "user_rating": 5.9,
+      "critic_score": 54,
       "us_rating": "R",
-      "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "trailer": "https://www.youtube.com/watch?v=iOjzJsHS0M0",
-      "imdb_id": "tt50389959",
-      "tmdb_id": 1813355,
-      "watchmode_url": "https://www.watchmode.com/title/11233940/",
-      "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "backdrop_path": "/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg"
+      "plot": "Beginning in the 1950s, an unconventional family pursues a life in the hotel business, running establishments in New England and Vienna. As the years pass and unexpected events reshape their lives, the family faces a strange, often unsettling mix of hardship and humor.",
+      "trailer": "https://www.youtube.com/watch?v=ibUBoYL_6vk",
+      "imdb_id": "tt0087428",
+      "tmdb_id": 11308,
+      "watchmode_url": "https://www.watchmode.com/title/1397643/",
+      "poster_path": "/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+      "backdrop_path": "/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg"
     },
     {
       "id": 11057177,
@@ -387,30 +411,6 @@
       "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
-    },
-    {
-      "id": 1682009,
-      "title": "Wildwood",
-      "year": 2026,
-      "release_date": "2026-10-19",
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy"
-      ],
-      "runtime_minutes": 132,
-      "user_rating": 8.8,
-      "critic_score": 93,
-      "us_rating": "PG-13",
-      "plot": "A young girl and her classmate enter a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries. They face a desperate quest to rescue her abducted baby brother from a murder of crows led by a mysterious woman.",
-      "trailer": "https://www.youtube.com/watch?v=POneS8h1jyU",
-      "imdb_id": "tt2056785",
-      "tmdb_id": 791523,
-      "watchmode_url": "https://www.watchmode.com/title/1682009/",
-      "poster_path": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
     },
     {
       "id": 11056833,
@@ -461,7 +461,7 @@
     },
     {
       "id": 1937817,
-      "title": "La bola negra",
+      "title": "La Bola Negra",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -503,9 +503,9 @@
       "tmdb_id": 1379486,
       "watchmode_url": "https://www.watchmode.com/title/1876449/",
       "poster_path": "/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
-      "backdrop_path": "/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
+      "backdrop_path": "/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg"
     },
     {
       "id": 11230566,
@@ -847,7 +847,7 @@
     {
       "id": 1886542,
       "title": "Tristes Tropiques",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-25",
       "genres": [
         "Action",
@@ -916,7 +916,7 @@
     {
       "id": 1697416,
       "title": "The Fox",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-26",
       "genres": [
         "Comedy",
@@ -962,6 +962,31 @@
       "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
+    },
+    {
+      "id": 1749638,
+      "title": "The Wild Robot",
+      "year": 2024,
+      "release_date": "2024-09-12",
+      "genres": [
+        "Family",
+        "Animation",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "runtime_minutes": 102,
+      "user_rating": 8.3,
+      "critic_score": 91,
+      "us_rating": null,
+      "plot": "After a shipwreck leaves an intelligent robot stranded on an uninhabited island, she must adapt to its wild surroundings. As she gradually bonds with the animals, she takes on the challenge of caring for an orphaned baby goose, discovering new ways to connect and belong.",
+      "trailer": "https://www.youtube.com/watch?v=67vbA5ZJdKQ",
+      "imdb_id": "tt29623480",
+      "tmdb_id": 1184918,
+      "watchmode_url": "https://www.watchmode.com/title/1749638/",
+      "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
     },
     {
       "id": 1409773,
@@ -1069,8 +1094,8 @@
       "year": 2025,
       "release_date": "2025-11-26",
       "genres": [
-        "Animation",
         "Adventure",
+        "Animation",
         "Comedy",
         "Mystery",
         "Family"
@@ -1117,7 +1142,7 @@
     },
     {
       "id": 1213452,
-      "title": "La Leyenda del Charro Negro",
+      "title": "The Legend of the Black Charro",
       "year": 2018,
       "release_date": "2018-01-19",
       "genres": [
@@ -1163,32 +1188,6 @@
       "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg"
-    },
-    {
-      "id": 1840434,
-      "title": "Minions & Monsters",
-      "year": 2026,
-      "release_date": "2026-06-24",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 6.5,
-      "critic_score": 80,
-      "us_rating": "PG",
-      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
-      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
-      "imdb_id": "tt32890033",
-      "tmdb_id": 1315772,
-      "watchmode_url": "https://www.watchmode.com/title/1840434/",
-      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
   ]
 }
