@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-10T18:15:16.024Z",
+  "generated_at": "2026-11-11T18:02:32.667Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -25,10 +25,10 @@ window.HYPE_MOVIES={
       "imdb_id": "tt33764258",
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
-      "poster_path": "/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-      "backdrop_path": "/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg"
+      "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg"
     },
     {
       "id": 1927112,
@@ -40,7 +40,7 @@ window.HYPE_MOVIES={
         "Thriller"
       ],
       "runtime_minutes": 101,
-      "user_rating": 7.4,
+      "user_rating": 7.3,
       "critic_score": 75,
       "us_rating": null,
       "plot": "After a plane crash leaves a Special Forces officer and his combat dog stranded in the Alaskan wilderness, they must rely on each other to endure the harsh conditions and find a way through. Their journey is a rugged test of survival, shaped by danger, exhaustion, and the deep bond between them.",
@@ -87,7 +87,7 @@ window.HYPE_MOVIES={
         "Adventure"
       ],
       "runtime_minutes": 94,
-      "user_rating": 7.7,
+      "user_rating": 7.6,
       "critic_score": 88,
       "us_rating": null,
       "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive as danger closes in. Far from a trained action hero, he faces increasingly frightening encounters while trying to make his way through the crisis.",
@@ -288,9 +288,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1813355,
       "watchmode_url": "https://www.watchmode.com/title/11233940/",
       "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "backdrop_path": "/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+      "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
     },
     {
       "id": 1825466,
@@ -311,35 +311,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1294189,
       "watchmode_url": "https://www.watchmode.com/title/1825466/",
       "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_path": "/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "backdrop_path": "/aezAUwTATFwXVvN1HUTglE8NGwu.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
-    },
-    {
-      "id": 11116873,
-      "title": "The Awakening",
-      "year": 2026,
-      "release_date": "2026-10-29",
-      "genres": [
-        "Horror",
-        "Action",
-        "War",
-        "Fantasy",
-        "Thriller"
-      ],
-      "runtime_minutes": 96,
-      "user_rating": 3.7,
-      "critic_score": null,
-      "us_rating": "NR",
-      "plot": "An elite military unit enters a South American jungle on a mission and encounters a deadly supernatural force. As the group faces an ancient presence that continues to claim anyone who dares enter its domain, the mission becomes a confrontation with a threat rooted in the jungle.",
-      "trailer": "https://www.youtube.com/watch?v=hj6Cer6bJUI",
-      "imdb_id": "tt39120306",
-      "tmdb_id": 1657630,
-      "watchmode_url": "https://www.watchmode.com/title/11116873/",
-      "poster_path": "/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
-      "backdrop_path": "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aezAUwTATFwXVvN1HUTglE8NGwu.jpg"
     },
     {
       "id": 1885275,
@@ -361,9 +335,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 656908,
       "watchmode_url": "https://www.watchmode.com/title/1885275/",
       "poster_path": "/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
-      "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+      "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
     },
     {
       "id": 1397643,
@@ -387,30 +361,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/6ja3HVez4A4XPNSMHhuOiu2UTXm.jpg"
-    },
-    {
-      "id": 11057177,
-      "title": "Collision Course",
-      "year": 2026,
-      "release_date": "2026-10-30",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "runtime_minutes": 122,
-      "user_rating": 5.8,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "In Spain in 2013, a bank robbery takes a dangerous turn when the getaway ends in a crash. As the thieves deal with the fallout, betrayals and lies reveal that their conflicts began long before the heist.",
-      "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
-      "imdb_id": "tt38793125",
-      "tmdb_id": 1571955,
-      "watchmode_url": "https://www.watchmode.com/title/11057177/",
-      "poster_path": "/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-      "backdrop_path": "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
     },
     {
       "id": 11056833,
@@ -469,7 +419,7 @@ window.HYPE_MOVIES={
         "War"
       ],
       "runtime_minutes": 159,
-      "user_rating": 8.3,
+      "user_rating": 8.4,
       "critic_score": 82,
       "us_rating": null,
       "plot": "Three men living in different eras are connected by sexuality, desire, pain, and the legacies that shape their lives. Their intertwined stories explore how intimate experiences can echo across time and link people separated by generations.",
@@ -481,6 +431,51 @@ window.HYPE_MOVIES={
       "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
+    },
+    {
+      "id": 1914790,
+      "title": "Other Mommy",
+      "year": 2026,
+      "release_date": "2026-10-07",
+      "genres": [
+        "Horror"
+      ],
+      "runtime_minutes": 93,
+      "user_rating": 5.5,
+      "critic_score": 29,
+      "us_rating": "R",
+      "plot": "A young girl forms a connection with a sinister presence in her home, one that looks uncannily like her mother. As the entity draws her into an increasingly frightening world, her family faces a growing threat.",
+      "trailer": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
+      "imdb_id": "tt36586020",
+      "tmdb_id": 1400837,
+      "watchmode_url": "https://www.watchmode.com/title/1914790/",
+      "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg"
+    },
+    {
+      "id": 11133963,
+      "title": "Drive - The Pretenders",
+      "year": 2026,
+      "release_date": "2026-10-27",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 5.8,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
+      "trailer": "https://www.youtube.com/watch?v=-sV69CJwUwU",
+      "imdb_id": "tt37180686",
+      "tmdb_id": 1596275,
+      "watchmode_url": "https://www.watchmode.com/title/11133963/",
+      "poster_path": "/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
     }
   ],
   "upcoming": [
@@ -516,10 +511,10 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 132,
-      "user_rating": 3,
+      "user_rating": 3.1,
       "critic_score": null,
       "us_rating": null,
-      "plot": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
+      "plot": "In 1938 Moscow, a disillusioned professor faces brutal questioning from a former student inside a prison. As he refuses to confess, he must confront his past and grapple with questions of morality, faith, and resistance.",
       "trailer": null,
       "imdb_id": "tt46082332",
       "tmdb_id": 1772726,
@@ -532,7 +527,7 @@ window.HYPE_MOVIES={
     {
       "id": 1710003,
       "title": "Eternal Return",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-12",
       "genres": [
         "Romance",
@@ -554,7 +549,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11117395,
-      "title": "Unbroken: The Untold Story of Shen Yun",
+      "title": "UNBROKEN: The Untold Story of Shen Yun",
       "year": 2026,
       "release_date": "2026-11-12",
       "genres": [
@@ -622,7 +617,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1909704,
-      "title": "Zeta",
+      "title": "Agent Zeta",
       "year": 2026,
       "release_date": "2026-11-13",
       "genres": [
@@ -669,7 +664,7 @@ window.HYPE_MOVIES={
     {
       "id": 11136980,
       "title": "A Fox Under a Pink Moon",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-13",
       "genres": [
         "Documentary"
@@ -720,7 +715,7 @@ window.HYPE_MOVIES={
         "History"
       ],
       "runtime_minutes": 92,
-      "user_rating": 6.6,
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": null,
       "plot": "When 39 people are killed prior to the European Cup at the Brussels Heysel stadium in 1985, the mayor's daughter and an Italian journalist are torn between their professional assignments, family, and human nature.",
@@ -728,9 +723,9 @@ window.HYPE_MOVIES={
       "imdb_id": "tt30135000",
       "tmdb_id": 1447885,
       "watchmode_url": "https://www.watchmode.com/title/1970117/",
-      "poster_path": "/hTEN2A1Kw8hH8CuaGXIUPcSzv9V.jpg",
+      "poster_path": "/fn54b8z4tiq9hPbT5m0FcEbDSrv.jpg",
       "backdrop_path": "/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hTEN2A1Kw8hH8CuaGXIUPcSzv9V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fn54b8z4tiq9hPbT5m0FcEbDSrv.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg"
     },
     {
@@ -791,7 +786,7 @@ window.HYPE_MOVIES={
       "critic_score": null,
       "us_rating": null,
       "plot": "In Montenegro’s remote highlands, a shepherd mother and daughter fight to protect their ancestral mountain from becoming a military training ground. Their struggle also brings painful memories of violence that changed their family back into focus.",
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=SKabqo5MiE8",
       "imdb_id": "tt39150043",
       "tmdb_id": 1596276,
       "watchmode_url": "https://www.watchmode.com/title/11074978/",
@@ -916,7 +911,7 @@ window.HYPE_MOVIES={
     {
       "id": 1697416,
       "title": "The Fox",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-26",
       "genres": [
         "Comedy",
@@ -1142,7 +1137,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1213452,
-      "title": "The Legend of the Black Charro",
+      "title": "La Leyenda del Charro Negro",
       "year": 2018,
       "release_date": "2018-01-19",
       "genres": [
