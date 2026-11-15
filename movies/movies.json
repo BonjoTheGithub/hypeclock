@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-14T16:44:03.162Z",
+  "generated_at": "2026-11-15T17:24:16.775Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -25,9 +25,9 @@
       "tmdb_id": 1263337,
       "watchmode_url": "https://www.watchmode.com/title/1927112/",
       "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop_path": "/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+      "backdrop_path": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/6uVRPFflyJpo8Cx872olmlGTWla.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg"
     },
     {
       "id": 1869118,
@@ -40,7 +40,7 @@
         "Fantasy"
       ],
       "runtime_minutes": 173,
-      "user_rating": 8.5,
+      "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
       "plot": "After the Trojan War, a legendary king sets out on a perilous journey home. He faces divine interference, mythological creatures, and trials that test his cleverness and humanity, while those waiting for him at home face troubles of their own.",
@@ -73,9 +73,9 @@
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop_path": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg"
     },
     {
       "id": 1611652,
@@ -173,6 +173,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
     },
     {
+      "id": 11133573,
+      "title": "Never Surrender",
+      "year": 2026,
+      "release_date": "2026-11-11",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime_minutes": 140,
+      "user_rating": 5.7,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "An ex-soldier and his grandchildren are forced to face ruthless criminals in a remote village. As they struggle to survive, they must work through their fears and regrets, bringing both family bonds and personal challenges into the heart of their fight.",
+      "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
+      "imdb_id": "tt39370926",
+      "tmdb_id": 1616687,
+      "watchmode_url": "https://www.watchmode.com/title/11133573/",
+      "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "backdrop_path": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg"
+    },
+    {
       "id": 1706207,
       "title": "Hope",
       "year": 2026,
@@ -195,6 +219,30 @@
       "backdrop_path": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg"
+    },
+    {
+      "id": 1885275,
+      "title": "Ramayana",
+      "year": 2026,
+      "release_date": "2026-11-05",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "runtime_minutes": 201,
+      "user_rating": 7.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile begin a legendary journey. Their story is shaped by love, duty, and destiny as they face greater challenges ahead, setting the stage for a tale that reaches beyond their early experiences.",
+      "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
+      "imdb_id": "tt27988879",
+      "tmdb_id": 656908,
+      "watchmode_url": "https://www.watchmode.com/title/1885275/",
+      "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+      "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
     },
     {
       "id": 1914790,
@@ -266,30 +314,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
     },
     {
-      "id": 1885275,
-      "title": "Ramayana: Rise of a Legend",
-      "year": 2026,
-      "release_date": "2026-11-05",
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Adventure"
-      ],
-      "runtime_minutes": 201,
-      "user_rating": 7.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile begin a legendary journey. Their story is shaped by love, duty, and destiny as they face greater challenges ahead, setting the stage for a tale that reaches beyond their early experiences.",
-      "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
-      "imdb_id": "tt27988879",
-      "tmdb_id": 656908,
-      "watchmode_url": "https://www.watchmode.com/title/1885275/",
-      "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-      "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
-    },
-    {
       "id": 1790869,
       "title": "Beware Boiúna",
       "year": 2026,
@@ -300,7 +324,7 @@
         "Action"
       ],
       "runtime_minutes": 103,
-      "user_rating": 5.9,
+      "user_rating": 5.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "A medical crew travels deep into the Amazon to provide care, but their mission turns into a struggle to survive when a colossal ancient predator awakens. As danger closes in, the jungle becomes a deadly battleground, where the crew must face a force tied to the region’s legends and the threats surrounding its land.",
@@ -410,7 +434,7 @@
     },
     {
       "id": 1937817,
-      "title": "La Bola Negra",
+      "title": "La bola negra",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -453,28 +477,6 @@
       "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
-    },
-    {
-      "id": 1942846,
-      "title": "Fall 2: Deadpoint",
-      "year": 2026,
-      "release_date": "2026-09-01",
-      "genres": [
-        "Thriller"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 5.5,
-      "critic_score": 58,
-      "us_rating": "PG-13",
-      "plot": "During a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground. Surrounded by dizzying heights and exposed, dangerous paths, they face increasingly difficult odds and must fight to survive with little room for error.",
-      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
-      "imdb_id": "tt31192372",
-      "tmdb_id": 1101412,
-      "watchmode_url": "https://www.watchmode.com/title/1942846/",
-      "poster_path": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_path": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
     }
   ],
   "upcoming": [
@@ -578,7 +580,7 @@
         "Documentary"
       ],
       "runtime_minutes": 105,
-      "user_rating": 7.5,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "In Montenegro’s remote highlands, a shepherd mother and daughter fight to protect their ancestral mountain from becoming a military training ground. Their struggle also brings painful memories of violence that changed their family back into focus.",
@@ -731,7 +733,7 @@
     {
       "id": 1697416,
       "title": "The Fox",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-26",
       "genres": [
         "Comedy",
@@ -785,7 +787,7 @@
         "History"
       ],
       "runtime_minutes": 102,
-      "user_rating": 7.7,
+      "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "As Alzheimer’s begins to erode her mother’s vibrant personality, a stubborn young woman must return to the small, conservative town she left behind. Caring for her leads her to face the painful realities of the disease and find acceptance in her complicated, imperfect family.",
@@ -916,7 +918,7 @@
     },
     {
       "id": 11126833,
-      "title": "Flesh & Fuel",
+      "title": "Flesh and Fuel",
       "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
@@ -1115,30 +1117,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
-      "id": 160332,
-      "title": "Bridge to Terabithia",
-      "year": 2007,
-      "release_date": "2007-02-15",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Family"
-      ],
-      "runtime_minutes": 95,
-      "user_rating": 7.4,
-      "critic_score": 79,
-      "us_rating": "PG",
-      "plot": "A schoolboy hoping to become the fastest runner is surprised when a new girl beats him. Though they come from different backgrounds, the two become close friends and invent Terabithia, a fantastical kingdom where they reign together, finding an imaginative refuge from the challenges of school and family life.",
-      "trailer": "https://www.youtube.com/watch?v=LFX6GR0jZL4",
-      "imdb_id": "tt0398808",
-      "tmdb_id": 1265,
-      "watchmode_url": "https://www.watchmode.com/title/160332/",
-      "poster_path": "/ieIoNyJvtwQ6joyG6npTKxnCtGH.jpg",
-      "backdrop_path": "/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ieIoNyJvtwQ6joyG6npTKxnCtGH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg"
-    },
-    {
       "id": 1213452,
       "title": "La Leyenda del Charro Negro",
       "year": 2018,
@@ -1186,6 +1164,32 @@
       "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg"
+    },
+    {
+      "id": 1840434,
+      "title": "Minions & Monsters",
+      "year": 2026,
+      "release_date": "2026-06-24",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 6.5,
+      "critic_score": 80,
+      "us_rating": "PG",
+      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
+      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "imdb_id": "tt32890033",
+      "tmdb_id": 1315772,
+      "watchmode_url": "https://www.watchmode.com/title/1840434/",
+      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
   ]
 }
