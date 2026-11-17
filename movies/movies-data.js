@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-16T20:40:47.155Z",
+  "generated_at": "2026-11-17T19:23:37.647Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -49,9 +49,33 @@ window.HYPE_MOVIES={
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
+      "backdrop_path": "/sdkZMG32J5aG0us2zoLbnD7Kd26.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sdkZMG32J5aG0us2zoLbnD7Kd26.jpg"
+    },
+    {
+      "id": 1773876,
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "release_date": "2026-07-29",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "runtime_minutes": 145,
+      "user_rating": 8.1,
+      "critic_score": 78,
+      "us_rating": "PG-13",
+      "plot": "A full-time crimefighter faces the loneliness of living in a world that no longer remembers him, while watching old friends move on without him. As his powers begin to change in ways he can’t control, he must confront a dangerous threat to the city and the people he cares about.",
+      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "imdb_id": "tt22084616",
+      "tmdb_id": 969681,
+      "watchmode_url": "https://www.watchmode.com/title/1773876/",
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
     },
     {
       "id": 1939424,
@@ -83,8 +107,7 @@ window.HYPE_MOVIES={
       "year": 2026,
       "release_date": "2026-10-07",
       "genres": [
-        "Horror",
-        "Mystery"
+        "Horror"
       ],
       "runtime_minutes": 93,
       "user_rating": 5.5,
@@ -123,30 +146,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
-    },
-    {
-      "id": 1773876,
-      "title": "Spider-Man: Brand New Day",
-      "year": 2026,
-      "release_date": "2026-07-29",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "runtime_minutes": 145,
-      "user_rating": 8.1,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "A full-time crimefighter faces the loneliness of living in a world that no longer remembers him, while watching old friends move on without him. As his powers begin to change in ways he can’t control, he must confront a dangerous threat to the city and the people he cares about.",
-      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "imdb_id": "tt22084616",
-      "tmdb_id": 969681,
-      "watchmode_url": "https://www.watchmode.com/title/1773876/",
-      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg"
     },
     {
       "id": 1611652,
@@ -215,9 +214,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1058424,
       "watchmode_url": "https://www.watchmode.com/title/1706207/",
       "poster_path": "/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "backdrop_path": "/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+      "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/j96rurZqmBjyY37Fncl3IB0qJNe.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg"
     },
     {
       "id": 1818331,
@@ -312,6 +311,29 @@ window.HYPE_MOVIES={
       "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
+    },
+    {
+      "id": 11050656,
+      "title": "Ghost Soldier",
+      "year": 2026,
+      "release_date": "2026-11-06",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 6.8,
+      "critic_score": null,
+      "us_rating": "PG-13",
+      "plot": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+      "trailer": "https://www.youtube.com/watch?v=l0pTZqZWs-c",
+      "imdb_id": "tt38686316",
+      "tmdb_id": 1562642,
+      "watchmode_url": "https://www.watchmode.com/title/11050656/",
+      "poster_path": "/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "backdrop_path": "/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
     },
     {
       "id": 1790869,
@@ -411,7 +433,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1937817,
-      "title": "La bola negra",
+      "title": "La Bola Negra",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -434,7 +456,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1885275,
-      "title": "Ramayana",
+      "title": "Ramayana: Rise of a Legend",
       "year": 2026,
       "release_date": "2026-11-05",
       "genres": [
@@ -455,29 +477,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
-    },
-    {
-      "id": 11133963,
-      "title": "Drive: The Pretenders",
-      "year": 2026,
-      "release_date": "2026-10-27",
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "runtime_minutes": 103,
-      "user_rating": 5.8,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
-      "trailer": "https://www.youtube.com/watch?v=-sV69CJwUwU",
-      "imdb_id": "tt37180686",
-      "tmdb_id": 1596275,
-      "watchmode_url": "https://www.watchmode.com/title/11133963/",
-      "poster_path": "/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
     }
   ],
   "upcoming": [
@@ -494,7 +493,7 @@ window.HYPE_MOVIES={
       "user_rating": 3.9,
       "critic_score": null,
       "us_rating": null,
-      "plot": "Dating expert Chelsey (Ayesha Curry) is determined to break her so-called “curse” of always getting dumped during the holiday season. But when fate reunites her with her high school flame (Matthew Daddario), she wonders if her bad luck might just be the universe’s way of leading her back to her first love.",
+      "plot": "A dating expert is determined to break her streak of being dumped during the holiday season. When she reconnects with a high school flame, she begins to wonder whether her romantic bad luck could be leading her somewhere unexpected.",
       "trailer": "https://www.youtube.com/watch?v=WgnJF5GiJ-0",
       "imdb_id": "tt46832540",
       "tmdb_id": 1801870,
@@ -530,7 +529,7 @@ window.HYPE_MOVIES={
     {
       "id": 1653600,
       "title": "Fogaréu",
-      "year": 2022,
+      "year": 2026,
       "release_date": "2026-11-19",
       "genres": [
         "Drama"
@@ -556,8 +555,7 @@ window.HYPE_MOVIES={
       "release_date": "2026-11-19",
       "genres": [
         "Drama",
-        "Crime",
-        "Thriller"
+        "Crime"
       ],
       "runtime_minutes": 119,
       "user_rating": 7.8,
@@ -568,15 +566,15 @@ window.HYPE_MOVIES={
       "imdb_id": "tt32321285",
       "tmdb_id": 1299329,
       "watchmode_url": "https://www.watchmode.com/title/1828967/",
-      "poster_path": "/8KTcbsdz2PcyA58puJMA3CUnZeA.jpg",
+      "poster_path": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
       "backdrop_path": "/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8KTcbsdz2PcyA58puJMA3CUnZeA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg"
     },
     {
       "id": 1939408,
       "title": "The Ozu Diaries",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-20",
       "genres": [
         "Documentary"
@@ -664,7 +662,7 @@ window.HYPE_MOVIES={
     {
       "id": 1886542,
       "title": "Tristes Tropiques",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-25",
       "genres": [
         "Action",
@@ -918,7 +916,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11126833,
-      "title": "Flesh and Fuel",
+      "title": "Flesh & Fuel",
       "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
@@ -928,7 +926,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
-      "plot": "A lonely French trucker's routine life on the road takes an unexpected turn when he encounters a Polish driver. As feelings develop, he struggles to balance his demanding job with a chance at love, determined to make their connection work.",
+      "plot": "Étienne is a truck driver. Addicted to the road, he reduces his emotional life to anonymous and fleeting encounters in parking lots. When he meets Bartosz, a Polish truck driver, his solitary routine is turned upside down.",
       "trailer": "https://www.youtube.com/watch?v=_n59yf8LXIs",
       "imdb_id": "tt35495082",
       "tmdb_id": 1084814,
@@ -940,6 +938,30 @@ window.HYPE_MOVIES={
     }
   ],
   "kids": [
+    {
+      "id": 1357583,
+      "title": "Spirited Away",
+      "year": 2001,
+      "release_date": "2001-07-20",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 125,
+      "user_rating": 8.8,
+      "critic_score": 96,
+      "us_rating": null,
+      "plot": "A young girl finds herself trapped in a mysterious world of spirits after her family encounters a strange transformation. To find a way home and help her family, she must navigate an unfamiliar place filled with unusual creatures, daunting challenges, and unexpected allies.",
+      "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+      "imdb_id": "tt0245429",
+      "tmdb_id": 129,
+      "watchmode_url": "https://www.watchmode.com/title/1357583/",
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg"
+    },
     {
       "id": 178503,
       "title": "Coco",
@@ -989,30 +1011,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
-    },
-    {
-      "id": 1409773,
-      "title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "release_date": "1993-10-09",
-      "genres": [
-        "Fantasy",
-        "Animation",
-        "Family"
-      ],
-      "runtime_minutes": 76,
-      "user_rating": 8.1,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "A restless ruler of Halloween Town discovers a festive new world and becomes fascinated by its traditions. Hoping to bring that holiday spirit home, he sets a plan in motion, while a thoughtful rag-doll companion worries that his good intentions may lead to trouble.",
-      "trailer": "https://www.youtube.com/watch?v=wr6N_hZyBCk",
-      "imdb_id": "tt0107688",
-      "tmdb_id": 9479,
-      "watchmode_url": "https://www.watchmode.com/title/1409773/",
-      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
       "id": 1982660,
@@ -1117,31 +1115,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
-      "id": 1213452,
-      "title": "La Leyenda del Charro Negro",
-      "year": 2018,
-      "release_date": "2018-01-19",
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Action",
-        "Family"
-      ],
-      "runtime_minutes": 85,
-      "user_rating": 7.2,
-      "critic_score": 76,
-      "us_rating": null,
-      "plot": "On the way back to a family home, a young hero is misled by a dark legendary figure, causing an innocent girl to be pulled into the underworld. With help from loyal friends, he must set things right and escape before the danger grows.",
-      "trailer": "https://www.youtube.com/watch?v=eji78BJCXZY",
-      "imdb_id": "tt6772418",
-      "tmdb_id": 494656,
-      "watchmode_url": "https://www.watchmode.com/title/1213452/",
-      "poster_path": "/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
-      "backdrop_path": "/3AXR3AFTHdU38OR14jfcK8FjJ5H.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3AXR3AFTHdU38OR14jfcK8FjJ5H.jpg"
-    },
-    {
       "id": 1881180,
       "title": "The Cat in the Hat",
       "year": 2026,
@@ -1169,7 +1142,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1751320,
-      "title": "Tad and the Magic Lamp",
+      "title": "Tad and The Magic Lamp",
       "year": 2026,
       "release_date": "2026-08-26",
       "genres": [
@@ -1190,6 +1163,32 @@ window.HYPE_MOVIES={
       "backdrop_path": "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/AdDxZgNmRYgDuweY8899buyVqlr.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg"
+    },
+    {
+      "id": 1840434,
+      "title": "Minions & Monsters",
+      "year": 2026,
+      "release_date": "2026-06-24",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 90,
+      "user_rating": 6.5,
+      "critic_score": 80,
+      "us_rating": "PG",
+      "plot": "A group of mischievous little creatures make their way into Hollywood and become movie stars, only to lose their success and unleash monsters through their filmmaking antics. With chaos spreading, they must work together to try to undo the trouble and save the planet.",
+      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "imdb_id": "tt32890033",
+      "tmdb_id": 1315772,
+      "watchmode_url": "https://www.watchmode.com/title/1840434/",
+      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
     }
   ]
 };
