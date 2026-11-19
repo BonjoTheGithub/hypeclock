@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-18T19:03:04.900Z",
+  "generated_at": "2026-11-19T19:09:42.077Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 58,
   "tmdb_requests_this_refresh": 50,
@@ -124,30 +124,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg"
     },
     {
-      "id": 1877491,
-      "title": "Godzilla Minus Zero",
-      "year": 2026,
-      "release_date": "2026-11-03",
-      "genres": [
-        "Science Fiction",
-        "Horror",
-        "Action"
-      ],
-      "runtime_minutes": 135,
-      "user_rating": 8.1,
-      "critic_score": 82,
-      "us_rating": null,
-      "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "trailer": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
-      "imdb_id": "tt34384661",
-      "tmdb_id": 1381071,
-      "watchmode_url": "https://www.watchmode.com/title/1877491/",
-      "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
-    },
-    {
       "id": 1611652,
       "title": "Project Hail Mary",
       "year": 2026,
@@ -190,9 +166,9 @@
       "tmdb_id": 1616687,
       "watchmode_url": "https://www.watchmode.com/title/11133573/",
       "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop_path": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
     },
     {
       "id": 1706207,
@@ -219,6 +195,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg"
     },
     {
+      "id": 1885275,
+      "title": "Ramayana: Rise of a Legend",
+      "year": 2026,
+      "release_date": "2026-11-05",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "runtime_minutes": 195,
+      "user_rating": 7.6,
+      "critic_score": 68,
+      "us_rating": null,
+      "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile begin a legendary journey. Their story is shaped by love, duty, and destiny as they face greater challenges ahead, setting the stage for a tale that reaches beyond their early experiences.",
+      "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
+      "imdb_id": "tt27988879",
+      "tmdb_id": 656908,
+      "watchmode_url": "https://www.watchmode.com/title/1885275/",
+      "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+      "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
+    },
+    {
       "id": 11233940,
       "title": "A Story of Derry",
       "year": 2026,
@@ -241,30 +241,6 @@
       "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
-    },
-    {
-      "id": 11054185,
-      "title": "Ebenezer",
-      "year": 2026,
-      "release_date": "2026-11-11",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Horror"
-      ],
-      "runtime_minutes": 115,
-      "user_rating": 7.4,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "An elderly miser is swept into a supernatural journey after his former business partner’s ghost and the Spirits of Christmas Past, Present, and Yet to Come confront him. As he faces his history and the choices before him, he must fight for a second chance at happiness.",
-      "trailer": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
-      "imdb_id": "tt38773219",
-      "tmdb_id": 1567605,
-      "watchmode_url": "https://www.watchmode.com/title/11054185/",
-      "poster_path": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "backdrop_path": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg"
     },
     {
       "id": 1825466,
@@ -338,6 +314,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
     },
     {
+      "id": 1877491,
+      "title": "Godzilla Minus Zero",
+      "year": 2026,
+      "release_date": "2026-11-03",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Action"
+      ],
+      "runtime_minutes": 135,
+      "user_rating": 8.1,
+      "critic_score": 82,
+      "us_rating": null,
+      "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "trailer": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+      "imdb_id": "tt34384661",
+      "tmdb_id": 1381071,
+      "watchmode_url": "https://www.watchmode.com/title/1877491/",
+      "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
+    },
+    {
       "id": 11037316,
       "title": "Heartland",
       "year": 2026,
@@ -347,7 +347,7 @@
         "Mystery"
       ],
       "runtime_minutes": 114,
-      "user_rating": 5.8,
+      "user_rating": 5.7,
       "critic_score": 61,
       "us_rating": "R",
       "plot": "A former country star emerges from seclusion to search for her missing niece, a rising musician. As she follows the trail through Nashville, she must reckon with her own past and navigate a murky world where trust is uncertain.",
@@ -356,9 +356,9 @@
       "tmdb_id": 1543469,
       "watchmode_url": "https://www.watchmode.com/title/11037316/",
       "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-      "backdrop_path": "/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
+      "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
     },
     {
       "id": 11017878,
@@ -431,30 +431,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
     },
     {
-      "id": 1885275,
-      "title": "Ramayana: Rise of a Legend",
-      "year": 2026,
-      "release_date": "2026-11-05",
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Adventure"
-      ],
-      "runtime_minutes": 195,
-      "user_rating": 7.6,
-      "critic_score": 68,
-      "us_rating": null,
-      "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile begin a legendary journey. Their story is shaped by love, duty, and destiny as they face greater challenges ahead, setting the stage for a tale that reaches beyond their early experiences.",
-      "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
-      "imdb_id": "tt27988879",
-      "tmdb_id": 656908,
-      "watchmode_url": "https://www.watchmode.com/title/1885275/",
-      "poster_path": "/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-      "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
-    },
-    {
       "id": 11133963,
       "title": "Drive - The Pretenders",
       "year": 2026,
@@ -476,36 +452,36 @@
       "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
+    },
+    {
+      "id": 11054185,
+      "title": "Ebenezer",
+      "year": 2026,
+      "release_date": "2026-11-11",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "runtime_minutes": 115,
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "An elderly miser is swept into a supernatural journey after his former business partner’s ghost and the Spirits of Christmas Past, Present, and Yet to Come confront him. As he faces his history and the choices before him, he must fight for a second chance at happiness.",
+      "trailer": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+      "imdb_id": "tt38773219",
+      "tmdb_id": 1567605,
+      "watchmode_url": "https://www.watchmode.com/title/11054185/",
+      "poster_path": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "backdrop_path": "/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg"
     }
   ],
   "upcoming": [
     {
-      "id": 1970117,
-      "title": "Heysel 85",
-      "year": 2026,
-      "release_date": "2026-11-18",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "runtime_minutes": 92,
-      "user_rating": 6.6,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Set around the 1985 disaster at a Brussels stadium, the story follows a mayor’s daughter and an Italian journalist as they navigate professional duties, family ties, and questions of human responsibility. Their experiences unfold amid a tense account of the events leading up to a European Cup match.",
-      "trailer": "https://www.youtube.com/watch?v=fCkPu_05-cA",
-      "imdb_id": "tt30135000",
-      "tmdb_id": 1447885,
-      "watchmode_url": "https://www.watchmode.com/title/1970117/",
-      "poster_path": "/fn54b8z4tiq9hPbT5m0FcEbDSrv.jpg",
-      "backdrop_path": "/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fn54b8z4tiq9hPbT5m0FcEbDSrv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/wsO9xUOoikdLOzLXkxeAFjvGe22.jpg"
-    },
-    {
       "id": 1653600,
       "title": "Fogaréu",
-      "year": 2022,
+      "year": 2026,
       "release_date": "2026-11-19",
       "genres": [
         "Drama"
@@ -514,7 +490,7 @@
       "user_rating": 6.4,
       "critic_score": null,
       "us_rating": null,
-      "plot": "On the border between the real and the fantastic, between the colonial past and the overwhelming modernity of agribusiness, the city of Goiás is the scene of the meeting between the young Fernanda and her secret roots. She returns to the home of her wealthy uncle, after the death of her adoptive mother, in order to implode the certainties and to reveal the painful truth about its origin.",
+      "plot": "After her adoptive mother dies, a young woman returns to the home of her wealthy uncle in the city of Goiás. There, amid the pull between colonial history and modern agribusiness, she confronts hidden roots and painful questions about where she comes from.",
       "trailer": "https://www.youtube.com/watch?v=iAgqn8_QzWk",
       "imdb_id": "tt14113574",
       "tmdb_id": 764516,
@@ -523,6 +499,29 @@
       "backdrop_path": "/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg"
+    },
+    {
+      "id": 1750067,
+      "title": "Agnes & Amir",
+      "year": 2026,
+      "release_date": "2026-11-19",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "runtime_minutes": 108,
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A young man who has fled Iran and a 101-year-old woman decide to live together. Though they come from very different stages of life, their unlikely friendship helps each of them find support and a renewed sense of connection.",
+      "trailer": null,
+      "imdb_id": "tt43598591",
+      "tmdb_id": 1185542,
+      "watchmode_url": "https://www.watchmode.com/title/1750067/",
+      "poster_path": "/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
+      "backdrop_path": "/fz82F00MCoJ2cQJBdDCe1riFUQF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fz82F00MCoJ2cQJBdDCe1riFUQF.jpg"
     },
     {
       "id": 1828967,
@@ -537,7 +536,7 @@
       "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
-      "plot": "After a young child witnesses a violent crime in a city park, she starts lashing out as fear and confusion take hold. Her parents struggle to help her feel safe again while navigating a difficult search for justice and the strain the trauma puts on their family.",
+      "plot": "After witnessing a brutal assault, an eight-year-old girl begins acting aggressively as she struggles to feel safe. Her parents disagree over how best to help her, while also facing the pressure of seeking justice and supporting their family through the aftermath.",
       "trailer": "https://www.youtube.com/watch?v=d7NLG3IfowQ",
       "imdb_id": "tt32321285",
       "tmdb_id": 1299329,
@@ -550,7 +549,7 @@
     {
       "id": 1939408,
       "title": "The Ozu Diaries",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-20",
       "genres": [
         "Documentary"
@@ -616,7 +615,7 @@
     {
       "id": 1842599,
       "title": "Fantasy",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-25",
       "genres": [
         "Drama"
@@ -646,7 +645,7 @@
         "Crime"
       ],
       "runtime_minutes": 108,
-      "user_rating": 5.9,
+      "user_rating": 5.8,
       "critic_score": null,
       "us_rating": null,
       "plot": "A tight-knit group of young killers, trained under a feared ruler in the rainforest and tied to a shadowy organization, sets out on a revenge mission. As they push forward, mistrust and tension within the group threaten to unravel their plan.",
@@ -736,7 +735,7 @@
         "Thriller"
       ],
       "runtime_minutes": 90,
-      "user_rating": 4.5,
+      "user_rating": 4.4,
       "critic_score": null,
       "us_rating": null,
       "plot": "A teen’s mistake exposes her father as Scorpion, a retired CIA assassin, forcing them on the run from his former mentor and the deadly operatives of The Zoo.",
@@ -820,7 +819,7 @@
     },
     {
       "id": 1888005,
-      "title": "Le faux Soir",
+      "title": "Le Faux Soir",
       "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
@@ -853,7 +852,7 @@
         "Mystery"
       ],
       "runtime_minutes": 119,
-      "user_rating": 7.4,
+      "user_rating": 7.3,
       "critic_score": null,
       "us_rating": null,
       "plot": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
@@ -987,6 +986,30 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
     },
     {
+      "id": 1409773,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "release_date": "1993-10-09",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "runtime_minutes": 76,
+      "user_rating": 8.1,
+      "critic_score": 89,
+      "us_rating": "PG",
+      "plot": "A restless ruler of Halloween Town discovers a festive new world and becomes fascinated by its traditions. Hoping to bring that holiday spirit home, he sets a plan in motion, while a thoughtful rag-doll companion worries that his good intentions may lead to trouble.",
+      "trailer": "https://www.youtube.com/watch?v=wr6N_hZyBCk",
+      "imdb_id": "tt0107688",
+      "tmdb_id": 9479,
+      "watchmode_url": "https://www.watchmode.com/title/1409773/",
+      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
+    },
+    {
       "id": 1982660,
       "title": "Forgotten Island",
       "year": 2026,
@@ -1089,31 +1112,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
     },
     {
-      "id": 1213452,
-      "title": "The Legend of the Black Charro",
-      "year": 2018,
-      "release_date": "2018-01-19",
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Action",
-        "Family"
-      ],
-      "runtime_minutes": 85,
-      "user_rating": 7.2,
-      "critic_score": 76,
-      "us_rating": null,
-      "plot": "On the way back to a family home, a young hero is misled by a dark legendary figure, causing an innocent girl to be pulled into the underworld. With help from loyal friends, he must set things right and escape before the danger grows.",
-      "trailer": "https://www.youtube.com/watch?v=eji78BJCXZY",
-      "imdb_id": "tt6772418",
-      "tmdb_id": 494656,
-      "watchmode_url": "https://www.watchmode.com/title/1213452/",
-      "poster_path": "/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
-      "backdrop_path": "/3AXR3AFTHdU38OR14jfcK8FjJ5H.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDLJ5vIeRL68cIHlob11w2pBzH0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3AXR3AFTHdU38OR14jfcK8FjJ5H.jpg"
-    },
-    {
       "id": 1881180,
       "title": "The Cat in the Hat",
       "year": 2026,
@@ -1127,7 +1125,7 @@
       ],
       "runtime_minutes": 108,
       "user_rating": 6.8,
-      "critic_score": null,
+      "critic_score": 52,
       "us_rating": null,
       "plot": "A mischievous cat takes on a challenging mission: cheering up two siblings as they adjust to life in a new town. Known for pushing boundaries, he must show he can handle the job or risk losing his magical hat forever.",
       "trailer": "https://www.youtube.com/watch?v=jz8pLlPhSeY",
@@ -1141,7 +1139,7 @@
     },
     {
       "id": 1751320,
-      "title": "Tad and The Magic Lamp",
+      "title": "Tad and the Magic Lamp",
       "year": 2026,
       "release_date": "2026-08-26",
       "genres": [
