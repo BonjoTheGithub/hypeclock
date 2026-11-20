@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-19T19:09:42.077Z",
+  "generated_at": "2026-11-20T18:49:30.426Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 58,
   "tmdb_requests_this_refresh": 50,
@@ -15,11 +15,11 @@ window.HYPE_MOVIES={
         "Adventure",
         "Thriller"
       ],
-      "runtime_minutes": 101,
+      "runtime_minutes": 102,
       "user_rating": 7.3,
       "critic_score": 75,
       "us_rating": null,
-      "plot": "After a plane crash leaves a Special Forces officer and his combat dog stranded in the Alaskan wilderness, they must rely on each other to endure the harsh conditions and find a way through. Their journey is a rugged test of survival, shaped by danger, exhaustion, and the deep bond between them.",
+      "plot": "After a plane crash, a Special Forces officer and his combat dog are stranded in the Alaskan wilderness. They must face the elements together in a fight to survive.",
       "trailer": "https://www.youtube.com/watch?v=JFQcDFhNh4o",
       "imdb_id": "tt7526136",
       "tmdb_id": 1263337,
@@ -43,15 +43,15 @@ window.HYPE_MOVIES={
       "user_rating": 8.6,
       "critic_score": 91,
       "us_rating": "R",
-      "plot": "After the Trojan War, a legendary king sets out on a perilous journey home. He faces divine interference, mythological creatures, and trials that test his cleverness and humanity, while those waiting for him at home face troubles of their own.",
+      "plot": "After the Trojan War, a king sets out on a long and dangerous journey home. He must contend with divine forces, mythological creatures, and trials that test his ingenuity and humanity.",
       "trailer": "https://www.youtube.com/watch?v=Mzw2ttJD2qQ",
       "imdb_id": "tt33764258",
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg"
     },
     {
       "id": 1773876,
@@ -67,15 +67,15 @@ window.HYPE_MOVIES={
       "user_rating": 8.1,
       "critic_score": 78,
       "us_rating": "PG-13",
-      "plot": "A full-time crimefighter faces the loneliness of living in a world that no longer remembers him, while watching old friends move on without him. As his powers begin to change in ways he can’t control, he must confront a dangerous threat to the city and the people he cares about.",
+      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
       "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
       "imdb_id": "tt22084616",
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
     },
     {
       "id": 1939424,
@@ -91,7 +91,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.6,
       "critic_score": 88,
       "us_rating": null,
-      "plot": "A medical courier is caught in a terrifying outbreak during one chaotic night and must fight to survive. As danger closes in, he faces a series of increasingly frightening encounters in a town overwhelmed by infected creatures.",
+      "plot": "A medical courier is caught in a horrifying outbreak during one chaotic night and must fight to survive.",
       "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
       "imdb_id": "tt35538033",
       "tmdb_id": 1423191,
@@ -124,6 +124,30 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg"
     },
     {
+      "id": 11133573,
+      "title": "Never Surrender",
+      "year": 2026,
+      "release_date": "2026-11-11",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime_minutes": 140,
+      "user_rating": 6.3,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "A guilt-ridden veteran and his estranged grandchildren must unite to survive when a deadly gang descends on his remote home.",
+      "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
+      "imdb_id": "tt39370926",
+      "tmdb_id": 1616687,
+      "watchmode_url": "https://www.watchmode.com/title/11133573/",
+      "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+    },
+    {
       "id": 1611652,
       "title": "Project Hail Mary",
       "year": 2026,
@@ -136,39 +160,15 @@ window.HYPE_MOVIES={
       "user_rating": 8.4,
       "critic_score": 86,
       "us_rating": "PG-13",
-      "plot": "A science teacher wakes aboard a spaceship light-years from home with no memory of his past or purpose. As he pieces together his mission, he must use scientific knowledge and creative problem-solving to investigate a mysterious substance linked to the sun’s decline and help avert a crisis threatening Earth.",
+      "plot": "A science teacher wakes aboard a spaceship light-years from home with no memory of who he is or how he got there. As he pieces together his mission, he must use science and ingenuity to investigate a mysterious substance threatening the sun and life on Earth.",
       "trailer": "https://www.youtube.com/watch?v=P0XN3-n-2Lo",
       "imdb_id": "tt12042730",
       "tmdb_id": 687163,
       "watchmode_url": "https://www.watchmode.com/title/1611652/",
       "poster_path": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
-    },
-    {
-      "id": 11133573,
-      "title": "Never Surrender",
-      "year": 2026,
-      "release_date": "2026-11-11",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "runtime_minutes": 140,
-      "user_rating": 6.2,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "An ex-soldier and his grandchildren are forced to face ruthless criminals in a remote village. As they struggle to survive, they must work through their fears and regrets, bringing both family bonds and personal challenges into the heart of their fight.",
-      "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
-      "imdb_id": "tt39370926",
-      "tmdb_id": 1616687,
-      "watchmode_url": "https://www.watchmode.com/title/11133573/",
-      "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg"
     },
     {
       "id": 1706207,
@@ -184,7 +184,7 @@ window.HYPE_MOVIES={
       "user_rating": 6.8,
       "critic_score": 74,
       "us_rating": null,
-      "plot": "In a remote South Korean harbor village, a police chief and his officers investigate a mysterious creature causing destruction in the community. As the threat grows, confusion and human conflict make it increasingly difficult for the residents to understand what they are facing.",
+      "plot": "In a remote South Korean village, local police investigate a mysterious creature causing havoc in the community. As events escalate, confusion and human conflict deepen the danger.",
       "trailer": "https://www.youtube.com/watch?v=ODnHr2Emnf0",
       "imdb_id": "tt27369017",
       "tmdb_id": 1058424,
@@ -290,14 +290,38 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
     },
     {
+      "id": 1830085,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": 2026,
+      "release_date": "2026-11-18",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "runtime_minutes": 159,
+      "user_rating": 7.5,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Set in Panem 24 years before the events of The Hunger Games, the story begins on the morning of the reaping for the 50th Hunger Games, known as the Second Quarter Quell. It returns to the world of the series at the start of this event.",
+      "trailer": "https://www.youtube.com/watch?v=fS35YSjopjE",
+      "imdb_id": "tt32558705",
+      "tmdb_id": 1300968,
+      "watchmode_url": "https://www.watchmode.com/title/1830085/",
+      "poster_path": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
+    },
+    {
       "id": 1790869,
       "title": "Beware Boiúna",
       "year": 2026,
       "release_date": "2026-10-01",
       "genres": [
+        "Adventure",
         "Horror",
-        "Thriller",
-        "Action"
+        "Thriller"
       ],
       "runtime_minutes": 103,
       "user_rating": 5.8,
@@ -327,7 +351,7 @@ window.HYPE_MOVIES={
       "user_rating": 8.1,
       "critic_score": 82,
       "us_rating": null,
-      "plot": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "plot": "Two years after Godzilla devastated Japan, the country struggles to rebuild and reclaim everyday life. Just as a hard-won peace seems possible, a new threat arrives and puts that recovery in jeopardy.",
       "trailer": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
       "imdb_id": "tt34384661",
       "tmdb_id": 1381071,
@@ -347,17 +371,17 @@ window.HYPE_MOVIES={
         "Mystery"
       ],
       "runtime_minutes": 114,
-      "user_rating": 5.7,
-      "critic_score": 61,
+      "user_rating": 5.6,
+      "critic_score": 58,
       "us_rating": "R",
-      "plot": "A former country star emerges from seclusion to search for her missing niece, a rising musician. As she follows the trail through Nashville, she must reckon with her own past and navigate a murky world where trust is uncertain.",
+      "plot": "A former country music legend returns to Nashville to investigate her rising-star niece’s disappearance.",
       "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
       "imdb_id": "tt38213251",
       "tmdb_id": 1543469,
       "watchmode_url": "https://www.watchmode.com/title/11037316/",
-      "poster_path": "/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "poster_path": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
       "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
     },
     {
@@ -374,7 +398,7 @@ window.HYPE_MOVIES={
       "user_rating": 6.8,
       "critic_score": 78,
       "us_rating": null,
-      "plot": "In a colorful children’s-show world, a group of kids sing, dance, and follow a cheerful orange unicorn who promises to spread happiness. When one child refuses to join in, the show’s sunny routine begins to fracture, revealing a more unsettling reality beneath its cheerful surface.",
+      "plot": "In a colorful world, a group of children sing, dance, and help a cheerful orange unicorn spread happiness. When one child refuses to join in, the perfect-looking world begins to show cracks.",
       "trailer": "https://www.youtube.com/watch?v=0mil0YgOtu8",
       "imdb_id": "tt37281055",
       "tmdb_id": 1514026,
@@ -397,7 +421,7 @@ window.HYPE_MOVIES={
       "user_rating": 6.2,
       "critic_score": 38,
       "us_rating": "R",
-      "plot": "A struggling writer takes a ghostwriting job for a bestselling novelist who is unable to work after an accident. While staying at the novelist’s home to study her notes, she discovers unsettling material and begins to question what is happening within the household.",
+      "plot": "A ghostwriter hired to work with a bestselling author discovers the author's personal notes and becomes entangled in a potentially lethal conspiracy.",
       "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
       "imdb_id": "tt32261958",
       "tmdb_id": 1283515,
@@ -406,52 +430,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
-    },
-    {
-      "id": 1937817,
-      "title": "LA BOLA NEGRA",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama",
-        "War"
-      ],
-      "runtime_minutes": 159,
-      "user_rating": 8.4,
-      "critic_score": 82,
-      "us_rating": null,
-      "plot": "Three men living in different eras are connected through sexuality, desire, pain, and the legacy of the past. As their stories unfold, the film explores how personal lives and hidden histories can echo across generations.",
-      "trailer": "https://www.youtube.com/watch?v=lBVxKt0gKDY",
-      "imdb_id": "tt35511966",
-      "tmdb_id": 1422041,
-      "watchmode_url": "https://www.watchmode.com/title/1937817/",
-      "poster_path": "/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-      "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
-    },
-    {
-      "id": 11133963,
-      "title": "Drive - The Pretenders",
-      "year": 2026,
-      "release_date": "2026-10-27",
-      "genres": [
-        "Romance",
-        "Thriller"
-      ],
-      "runtime_minutes": 103,
-      "user_rating": 5.8,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "A young race car mechanic fakes an engagement to a notorious racing star, hoping to improve his reputation while secretly pursuing her own chance to race. As the pretense continues, it puts both their ambitions and the growing connection between them at risk.",
-      "trailer": "https://www.youtube.com/watch?v=-sV69CJwUwU",
-      "imdb_id": "tt37180686",
-      "tmdb_id": 1596275,
-      "watchmode_url": "https://www.watchmode.com/title/11133963/",
-      "poster_path": "/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "backdrop_path": "/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
     },
     {
       "id": 11054185,
@@ -475,81 +453,36 @@ window.HYPE_MOVIES={
       "backdrop_path": "/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg"
+    },
+    {
+      "id": 1937817,
+      "title": "LA BOLA NEGRA",
+      "year": 2026,
+      "release_date": "2026-01-14",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtime_minutes": 159,
+      "user_rating": 8.4,
+      "critic_score": 82,
+      "us_rating": null,
+      "plot": "Three men living in different eras are connected through sexuality, desire, pain, and the legacy of the past. As their stories unfold, the film explores how personal lives and hidden histories can echo across generations.",
+      "trailer": "https://www.youtube.com/watch?v=lBVxKt0gKDY",
+      "imdb_id": "tt35511966",
+      "tmdb_id": 1422041,
+      "watchmode_url": "https://www.watchmode.com/title/1937817/",
+      "poster_path": "/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+      "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
     }
   ],
   "upcoming": [
     {
-      "id": 1653600,
-      "title": "Fogaréu",
-      "year": 2026,
-      "release_date": "2026-11-19",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 100,
-      "user_rating": 6.4,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "After her adoptive mother dies, a young woman returns to the home of her wealthy uncle in the city of Goiás. There, amid the pull between colonial history and modern agribusiness, she confronts hidden roots and painful questions about where she comes from.",
-      "trailer": "https://www.youtube.com/watch?v=iAgqn8_QzWk",
-      "imdb_id": "tt14113574",
-      "tmdb_id": 764516,
-      "watchmode_url": "https://www.watchmode.com/title/1653600/",
-      "poster_path": "/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
-      "backdrop_path": "/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/p5GvBKh8pC2aulmUCnaQUD0o4U8.jpg"
-    },
-    {
-      "id": 1750067,
-      "title": "Agnes & Amir",
-      "year": 2026,
-      "release_date": "2026-11-19",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "runtime_minutes": 108,
-      "user_rating": 7.4,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A young man who has fled Iran and a 101-year-old woman decide to live together. Though they come from very different stages of life, their unlikely friendship helps each of them find support and a renewed sense of connection.",
-      "trailer": null,
-      "imdb_id": "tt43598591",
-      "tmdb_id": 1185542,
-      "watchmode_url": "https://www.watchmode.com/title/1750067/",
-      "poster_path": "/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
-      "backdrop_path": "/fz82F00MCoJ2cQJBdDCe1riFUQF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9N9i5QcWnaH3kmMMeXDDU1e0hmV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/fz82F00MCoJ2cQJBdDCe1riFUQF.jpg"
-    },
-    {
-      "id": 1828967,
-      "title": "Josephine",
-      "year": 2026,
-      "release_date": "2026-11-19",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "runtime_minutes": 119,
-      "user_rating": 7.8,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "After witnessing a brutal assault, an eight-year-old girl begins acting aggressively as she struggles to feel safe. Her parents disagree over how best to help her, while also facing the pressure of seeking justice and supporting their family through the aftermath.",
-      "trailer": "https://www.youtube.com/watch?v=d7NLG3IfowQ",
-      "imdb_id": "tt32321285",
-      "tmdb_id": 1299329,
-      "watchmode_url": "https://www.watchmode.com/title/1828967/",
-      "poster_path": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
-      "backdrop_path": "/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg"
-    },
-    {
       "id": 1939408,
       "title": "The Ozu Diaries",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-20",
       "genres": [
         "Documentary"
@@ -577,7 +510,7 @@ window.HYPE_MOVIES={
         "Documentary"
       ],
       "runtime_minutes": 105,
-      "user_rating": 7.5,
+      "user_rating": 7.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "In Montenegro’s remote highlands, a shepherd mother and daughter fight to protect their ancestral mountain from becoming a military training ground. Their struggle also brings painful memories of violence that changed their family back into focus.",
@@ -615,7 +548,7 @@ window.HYPE_MOVIES={
     {
       "id": 1842599,
       "title": "Fantasy",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-25",
       "genres": [
         "Drama"
@@ -637,7 +570,7 @@ window.HYPE_MOVIES={
     {
       "id": 1886542,
       "title": "Tristes Tropiques",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-11-25",
       "genres": [
         "Action",
@@ -804,7 +737,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 154,
-      "user_rating": 7,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "plot": "A hospital leader in a small hometown raises his teenage son alone while remaining unaware of the boy’s secret nighttime activities. Their lives are thrown into turmoil when police suspicion turns toward the son in connection with a serious crime.",
@@ -819,7 +752,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1888005,
-      "title": "Le Faux Soir",
+      "title": "Le faux Soir",
       "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
@@ -827,7 +760,7 @@ window.HYPE_MOVIES={
         "History"
       ],
       "runtime_minutes": 133,
-      "user_rating": 7.1,
+      "user_rating": 7.2,
       "critic_score": null,
       "us_rating": null,
       "plot": "In German-occupied Belgium in November 1943, a resistance organization risks grave danger to publish a spoof edition of the country’s main propaganda-controlled newspaper. The publication satirizes the German occupiers and is considered the first act of media hacking in history.",
@@ -899,7 +832,7 @@ window.HYPE_MOVIES={
         "Romance"
       ],
       "runtime_minutes": 114,
-      "user_rating": 7.1,
+      "user_rating": 7,
       "critic_score": null,
       "us_rating": null,
       "plot": "Edinburgh, 1810. Two female teachers find themselves at the centre of a scandal when one of their pupils accuses them of having a love affair.",
@@ -933,6 +866,76 @@ window.HYPE_MOVIES={
       "backdrop_path": "/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/xEiyyOCR0RoKgP1wIqPEcQoRPTc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg"
+    },
+    {
+      "id": 11006753,
+      "title": "It Will Happen Tonight",
+      "year": 2026,
+      "release_date": "2026-12-03",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "runtime_minutes": 103,
+      "user_rating": 6.1,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "In Oslo, Thea and Matteo are awaiting the birth of their child. Meanwhile, in Mumbai, Charles asks Greta to marry him in public. Seven years later, in Rome, Matteo is playing tennis when Greta shows up for a match, dressed as a bride. For him it's love at first sight, but she's just married. Life goes on, yet Matteo cannot forget Greta. Seven years later, they meet again by chance; both are married and have children with other people. Love always brings them together at the wrong time. Loosely based on the short story collection \"Legami\" by Eshkol Nevo.",
+      "trailer": "https://www.youtube.com/watch?v=Rb6f1ibOxL8",
+      "imdb_id": "tt37341481",
+      "tmdb_id": 1499546,
+      "watchmode_url": "https://www.watchmode.com/title/11006753/",
+      "poster_path": "/g4c8HGej6x1bJxcsQdqL3rbzinY.jpg",
+      "backdrop_path": "/psE6lXFajtD6btvuEdWYfAhDPP7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g4c8HGej6x1bJxcsQdqL3rbzinY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/psE6lXFajtD6btvuEdWYfAhDPP7.jpg"
+    },
+    {
+      "id": 1710003,
+      "title": "Eternal Return",
+      "year": 2025,
+      "release_date": "2026-12-04",
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "runtime_minutes": 115,
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "After losing someone she deeply loved, a young woman becomes emotionally closed off and abandons her former dreams. A chance meeting with a cartographer introduces her to magical maps connected to meaningful moments, prompting a journey through memory, loss, and the possibility of opening her heart again.",
+      "trailer": "https://www.youtube.com/watch?v=2iIBYPng3uI",
+      "imdb_id": "tt27725750",
+      "tmdb_id": 1125822,
+      "watchmode_url": "https://www.watchmode.com/title/1710003/",
+      "poster_path": "/2uifxB5QsZoxgy1keRHTXJh1rwt.jpg",
+      "backdrop_path": "/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2uifxB5QsZoxgy1keRHTXJh1rwt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg"
+    },
+    {
+      "id": 1870369,
+      "title": "Tender Loving Care",
+      "year": 2026,
+      "release_date": "2026-12-04",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "runtime_minutes": 108,
+      "user_rating": 7.4,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Amy, a government child protection worker, moves back with her upbeat best friend Rosie, a social services officer facing daily anger and resentment. Amy's aging parents worry about her happiness while dealing with their own crisis.",
+      "trailer": "https://www.youtube.com/watch?v=-CDgxJgiQY4",
+      "imdb_id": "tt35638092",
+      "tmdb_id": 1370191,
+      "watchmode_url": "https://www.watchmode.com/title/1870369/",
+      "poster_path": "/ritUkpIiQU1IofeQdG4RFMrSu9J.jpg",
+      "backdrop_path": "/m04AhCtEgzRHH3lhzuBqsZHxBqk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ritUkpIiQU1IofeQdG4RFMrSu9J.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/m04AhCtEgzRHH3lhzuBqsZHxBqk.jpg"
     }
   ],
   "kids": [
@@ -975,7 +978,7 @@ window.HYPE_MOVIES={
       "user_rating": 8.5,
       "critic_score": 89,
       "us_rating": "PG",
-      "plot": "A young aspiring musician struggles against his family’s generations-old ban on music. After a mysterious turn of events takes him to the vibrant Land of the Dead, he teams up with a charming trickster on a journey to understand his family’s past and find a way home.",
+      "plot": "Despite a generations-old family ban on music, a young boy dreams of becoming a musician. A mysterious turn of events takes him to the colorful Land of the Dead, where he joins a charming trickster on a journey to uncover the truth behind his family history.",
       "trailer": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
       "imdb_id": "tt2380307",
       "tmdb_id": 354912,
@@ -1025,7 +1028,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.6,
       "critic_score": 84,
       "us_rating": null,
-      "plot": "Two high school graduates and best friends are transported through a mysterious portal to a fantastical island filled with magical creatures. To find their way home, they must face a difficult cost tied to the memories that bind them, while seeking help and a way to leave before their friendship slips away.",
+      "plot": "On their last night together, two high school graduates and best friends are transported through a mysterious portal to a fantastical island. To find their way home, they must face the possible loss of the memories that bind their friendship.",
       "trailer": "https://www.youtube.com/watch?v=f7mFVeWnVLw",
       "imdb_id": "tt36583977",
       "tmdb_id": 1465063,
@@ -1050,7 +1053,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": null,
-      "plot": "When a young girl becomes absorbed in a new tablet, her toys struggle to keep their place in her life. As they face a changing idea of playtime, the group must find a way to reconnect with her and adapt to the technology competing for her attention.",
+      "plot": "When a young girl becomes absorbed in a new tablet, the toys find their efforts to keep playtime going much harder. They must face a new challenge as technology competes for her attention.",
       "trailer": "https://www.youtube.com/watch?v=c51ND9Hdbw0",
       "imdb_id": "tt29355505",
       "tmdb_id": 1084244,
@@ -1101,7 +1104,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.5,
       "critic_score": 83,
       "us_rating": "PG",
-      "plot": "After a new snake disrupts the animal metropolis, two rookie cops follow a twisting mystery that leads them into unfamiliar parts of town. Working undercover, the partners must navigate doubts about their teamwork while investigating a case that touches on prejudice, stereotypes, and the city’s past.",
+      "plot": "After solving a major case, two rookie police partners pursue a new mystery when a snake’s arrival disrupts the animal metropolis. Their investigation takes them undercover into unfamiliar parts of town, testing their partnership along the way.",
       "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
       "imdb_id": "tt26443597",
       "tmdb_id": 1084242,
@@ -1124,7 +1127,7 @@ window.HYPE_MOVIES={
         "Comedy"
       ],
       "runtime_minutes": 108,
-      "user_rating": 6.8,
+      "user_rating": 6.7,
       "critic_score": 52,
       "us_rating": null,
       "plot": "A mischievous cat takes on a challenging mission: cheering up two siblings as they adjust to life in a new town. Known for pushing boundaries, he must show he can handle the job or risk losing his magical hat forever.",
@@ -1133,9 +1136,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1117898,
       "watchmode_url": "https://www.watchmode.com/title/1881180/",
       "poster_path": "/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-      "backdrop_path": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "backdrop_path": "/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/56Bepb58k71UUTVwKN1SxHmfzPK.jpg"
     },
     {
       "id": 1751320,
