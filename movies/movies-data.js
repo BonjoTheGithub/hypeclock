@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-21T17:46:05.375Z",
+  "generated_at": "2026-11-22T18:02:05.590Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 58,
   "tmdb_requests_this_refresh": 50,
@@ -54,28 +54,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/dZI4Ek4qc2Fib2G1zFkGhKKuc6j.jpg"
     },
     {
-      "id": 1939424,
-      "title": "Resident Evil",
+      "id": 1773876,
+      "title": "Spider-Man: Brand New Day",
       "year": 2026,
-      "release_date": "2026-09-16",
+      "release_date": "2026-07-29",
       "genres": [
-        "Horror",
         "Science Fiction",
+        "Action",
         "Adventure"
       ],
-      "runtime_minutes": 94,
-      "user_rating": 7.6,
-      "critic_score": 88,
-      "us_rating": null,
-      "plot": "A medical courier is caught in a horrifying outbreak during one chaotic night and must fight to survive.",
-      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
-      "imdb_id": "tt35538033",
-      "tmdb_id": 1423191,
-      "watchmode_url": "https://www.watchmode.com/title/1939424/",
-      "poster_path": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+      "runtime_minutes": 145,
+      "user_rating": 8.1,
+      "critic_score": 78,
+      "us_rating": "PG-13",
+      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
+      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "imdb_id": "tt22084616",
+      "tmdb_id": 969681,
+      "watchmode_url": "https://www.watchmode.com/title/1773876/",
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
     },
     {
       "id": 1186051,
@@ -148,28 +148,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
     },
     {
-      "id": 1773876,
-      "title": "Spider-Man: Brand New Day",
+      "id": 1939424,
+      "title": "Resident Evil",
       "year": 2026,
-      "release_date": "2026-07-29",
+      "release_date": "2026-09-16",
       "genres": [
+        "Horror",
         "Science Fiction",
-        "Action",
         "Adventure"
       ],
-      "runtime_minutes": 145,
-      "user_rating": 8.1,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
-      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "imdb_id": "tt22084616",
-      "tmdb_id": 969681,
-      "watchmode_url": "https://www.watchmode.com/title/1773876/",
-      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
+      "runtime_minutes": 94,
+      "user_rating": 7.6,
+      "critic_score": 88,
+      "us_rating": null,
+      "plot": "A medical courier is caught in a horrifying outbreak during one chaotic night and must fight to survive.",
+      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "imdb_id": "tt35538033",
+      "tmdb_id": 1423191,
+      "watchmode_url": "https://www.watchmode.com/title/1939424/",
+      "poster_path": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
     },
     {
       "id": 1611652,
@@ -220,7 +220,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1885275,
-      "title": "Ramayana: Rise of a Legend",
+      "title": "Ramayana",
       "year": 2026,
       "release_date": "2026-11-05",
       "genres": [
@@ -253,7 +253,7 @@ window.HYPE_MOVIES={
         "Adventure"
       ],
       "runtime_minutes": 158,
-      "user_rating": 7.8,
+      "user_rating": 7.9,
       "critic_score": null,
       "us_rating": null,
       "plot": "Set in Panem 24 years before the events of The Hunger Games, the story begins on the morning of the reaping for the 50th Hunger Games, known as the Second Quarter Quell. It returns to the world of the series at the start of this event.",
@@ -333,9 +333,9 @@ window.HYPE_MOVIES={
       "imdb_id": "tt10377864",
       "tmdb_id": 1244523,
       "watchmode_url": "https://www.watchmode.com/title/1790869/",
-      "poster_path": "/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg",
+      "poster_path": "/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
       "backdrop_path": "/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
     },
     {
@@ -349,7 +349,7 @@ window.HYPE_MOVIES={
       ],
       "runtime_minutes": 109,
       "user_rating": 6.5,
-      "critic_score": null,
+      "critic_score": 73,
       "us_rating": "PG-13",
       "plot": "A no-nonsense bodyguard is assigned to protect a charming action star over the holidays. Sparks fly, secrets unravel, and Christmas becomes more complicated.",
       "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
@@ -395,8 +395,8 @@ window.HYPE_MOVIES={
         "Mystery"
       ],
       "runtime_minutes": 114,
-      "user_rating": 5.6,
-      "critic_score": 58,
+      "user_rating": 5.7,
+      "critic_score": 53,
       "us_rating": "R",
       "plot": "A former country music legend returns to Nashville to investigate her rising-star niece’s disappearance.",
       "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
@@ -432,31 +432,8 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg"
     },
     {
-      "id": 1818331,
-      "title": "Verity",
-      "year": 2026,
-      "release_date": "2026-09-30",
-      "genres": [
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime_minutes": 117,
-      "user_rating": 6.2,
-      "critic_score": 38,
-      "us_rating": "R",
-      "plot": "A ghostwriter hired to work with a bestselling author discovers the author's personal notes and becomes entangled in a potentially lethal conspiracy.",
-      "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
-      "imdb_id": "tt32261958",
-      "tmdb_id": 1283515,
-      "watchmode_url": "https://www.watchmode.com/title/1818331/",
-      "poster_path": "/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "backdrop_path": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
-    },
-    {
       "id": 1937817,
-      "title": "LA BOLA NEGRA",
+      "title": "La bola negra",
       "year": 2026,
       "release_date": "2026-09-25",
       "genres": [
@@ -476,6 +453,29 @@ window.HYPE_MOVIES={
       "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
+    },
+    {
+      "id": 1825466,
+      "title": "The Mongoose",
+      "year": 2026,
+      "release_date": "2026-10-29",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 99,
+      "user_rating": 5.2,
+      "critic_score": 43,
+      "us_rating": "R",
+      "plot": "A falsely accused war hero with little to lose leads police on a televised cross-country car chase. Members of his former Special Forces battalion help him as a fascinated public follows the pursuit and hopes he gets away safely.",
+      "trailer": "https://www.youtube.com/watch?v=aHrMFtt40_Q",
+      "imdb_id": "tt13611778",
+      "tmdb_id": 1294189,
+      "watchmode_url": "https://www.watchmode.com/title/1825466/",
+      "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop_path": "/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
     }
   ],
   "upcoming": [
@@ -666,7 +666,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1918972,
-      "title": "Ben'Imana",
+      "title": "Ben'imana",
       "year": 2026,
       "release_date": "2026-11-27",
       "genres": [
@@ -766,7 +766,7 @@ window.HYPE_MOVIES={
         "Drama"
       ],
       "runtime_minutes": 127,
-      "user_rating": 7,
+      "user_rating": 6.9,
       "critic_score": null,
       "us_rating": null,
       "plot": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
