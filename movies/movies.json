@@ -1,10 +1,10 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-22T18:02:05.590Z",
+  "generated_at": "2026-11-23T22:13:38.134Z",
   "refresh_hours": 24,
-  "estimated_credits_this_refresh": 58,
-  "tmdb_requests_this_refresh": 50,
+  "estimated_credits_this_refresh": 57,
+  "tmdb_requests_this_refresh": 49,
   "popular": [
     {
       "id": 1927112,
@@ -49,33 +49,33 @@
       "tmdb_id": 1368337,
       "watchmode_url": "https://www.watchmode.com/title/1869118/",
       "poster_path": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_path": "/dZI4Ek4qc2Fib2G1zFkGhKKuc6j.jpg",
+      "backdrop_path": "/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dZI4Ek4qc2Fib2G1zFkGhKKuc6j.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg"
     },
     {
-      "id": 1773876,
-      "title": "Spider-Man: Brand New Day",
+      "id": 1830085,
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": 2026,
-      "release_date": "2026-07-29",
+      "release_date": "2026-11-18",
       "genres": [
         "Science Fiction",
         "Action",
         "Adventure"
       ],
-      "runtime_minutes": 145,
-      "user_rating": 8.1,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
-      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "imdb_id": "tt22084616",
-      "tmdb_id": 969681,
-      "watchmode_url": "https://www.watchmode.com/title/1773876/",
-      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "runtime_minutes": 158,
+      "user_rating": 7.8,
+      "critic_score": 62,
+      "us_rating": null,
+      "plot": "Set in Panem 24 years before the events of The Hunger Games, the story begins on the morning of the reaping for the 50th Hunger Games, known as the Second Quarter Quell. It returns to the world of the series at the start of this event.",
+      "trailer": "https://www.youtube.com/watch?v=fS35YSjopjE",
+      "imdb_id": "tt32558705",
+      "tmdb_id": 1300968,
+      "watchmode_url": "https://www.watchmode.com/title/1830085/",
+      "poster_path": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
     },
     {
       "id": 1186051,
@@ -137,7 +137,7 @@
       "user_rating": 6.3,
       "critic_score": null,
       "us_rating": "R",
-      "plot": "A guilt-ridden veteran and his estranged grandchildren must unite to survive when a deadly gang descends on his remote home.",
+      "plot": "When a deadly gang targets a veteran’s remote home, he and the estranged grandchildren he barely knows must work together to survive.",
       "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
       "imdb_id": "tt39370926",
       "tmdb_id": 1616687,
@@ -146,6 +146,53 @@
       "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
+    },
+    {
+      "id": 11042565,
+      "title": "Guarding Stars",
+      "year": 2026,
+      "release_date": "2026-11-18",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "runtime_minutes": 109,
+      "user_rating": 6.4,
+      "critic_score": 73,
+      "us_rating": "PG-13",
+      "plot": "A no-nonsense bodyguard is assigned to protect a charming action star over the holidays. Sparks fly, secrets unravel, and Christmas becomes more complicated.",
+      "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
+      "imdb_id": "tt6611324",
+      "tmdb_id": 1551025,
+      "watchmode_url": "https://www.watchmode.com/title/11042565/",
+      "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+      "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+    },
+    {
+      "id": 1773876,
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "release_date": "2026-07-29",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "runtime_minutes": 145,
+      "user_rating": 8.1,
+      "critic_score": 78,
+      "us_rating": "PG-13",
+      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
+      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "imdb_id": "tt22084616",
+      "tmdb_id": 969681,
+      "watchmode_url": "https://www.watchmode.com/title/1773876/",
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
     },
     {
       "id": 1939424,
@@ -243,30 +290,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
     },
     {
-      "id": 1830085,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "year": 2026,
-      "release_date": "2026-11-18",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "runtime_minutes": 158,
-      "user_rating": 7.9,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "Set in Panem 24 years before the events of The Hunger Games, the story begins on the morning of the reaping for the 50th Hunger Games, known as the Second Quarter Quell. It returns to the world of the series at the start of this event.",
-      "trailer": "https://www.youtube.com/watch?v=fS35YSjopjE",
-      "imdb_id": "tt32558705",
-      "tmdb_id": 1300968,
-      "watchmode_url": "https://www.watchmode.com/title/1830085/",
-      "poster_path": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-      "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
-    },
-    {
       "id": 11233940,
       "title": "A Story of Derry",
       "year": 2026,
@@ -304,7 +327,7 @@
       "user_rating": 5.3,
       "critic_score": null,
       "us_rating": "R",
-      "plot": "After a virus outbreak leaves the Canary Islands as Europe’s last refuge, a team heads to the mainland on a mission to find vital supplies. A man with questionable intentions joins them, and the operation becomes a desperate fight to survive amid infected hordes and growing divisions within the group.",
+      "plot": "After a virus outbreak leaves the Canary Islands as Europe’s last refuge, a special mission heads to the mainland for vital supplies. A man with questionable intentions joins the team, and the operation becomes a struggle to survive amid infected hordes and divided loyalties.",
       "trailer": "https://www.youtube.com/watch?v=BIEzwpyawtw",
       "imdb_id": "tt37522541",
       "tmdb_id": 1507696,
@@ -339,29 +362,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
     },
     {
-      "id": 11042565,
-      "title": "Guarding Stars",
-      "year": 2026,
-      "release_date": "2026-11-18",
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 6.5,
-      "critic_score": 73,
-      "us_rating": "PG-13",
-      "plot": "A no-nonsense bodyguard is assigned to protect a charming action star over the holidays. Sparks fly, secrets unravel, and Christmas becomes more complicated.",
-      "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
-      "imdb_id": "tt6611324",
-      "tmdb_id": 1551025,
-      "watchmode_url": "https://www.watchmode.com/title/11042565/",
-      "poster_path": "/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-      "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
-    },
-    {
       "id": 1877491,
       "title": "Godzilla Minus Zero",
       "year": 2026,
@@ -372,7 +372,7 @@
         "Action"
       ],
       "runtime_minutes": 135,
-      "user_rating": 8.1,
+      "user_rating": 8,
       "critic_score": 82,
       "us_rating": null,
       "plot": "Two years after Godzilla devastated Japan, the country struggles to rebuild and reclaim everyday life. Just as a hard-won peace seems possible, a new threat arrives and puts that recovery in jeopardy.",
@@ -386,36 +386,14 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
     },
     {
-      "id": 11037316,
-      "title": "Heartland",
-      "year": 2026,
-      "release_date": "2026-11-13",
-      "genres": [
-        "Thriller",
-        "Mystery"
-      ],
-      "runtime_minutes": 114,
-      "user_rating": 5.7,
-      "critic_score": 53,
-      "us_rating": "R",
-      "plot": "A former country music legend returns to Nashville to investigate her rising-star niece’s disappearance.",
-      "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
-      "imdb_id": "tt38213251",
-      "tmdb_id": 1543469,
-      "watchmode_url": "https://www.watchmode.com/title/11037316/",
-      "poster_path": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "backdrop_path": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg"
-    },
-    {
       "id": 11054185,
       "title": "Ebenezer",
       "year": 2026,
       "release_date": "2026-11-11",
       "genres": [
         "Fantasy",
-        "Comedy"
+        "Drama",
+        "Horror"
       ],
       "runtime_minutes": 115,
       "user_rating": 7.4,
@@ -430,6 +408,32 @@
       "backdrop_path": "/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg"
+    },
+    {
+      "id": 11074119,
+      "title": "Steps",
+      "year": 2026,
+      "release_date": "2026-11-20",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtime_minutes": 107,
+      "user_rating": 7,
+      "critic_score": 64,
+      "us_rating": null,
+      "plot": "A misunderstood stepsister is blamed for disrupting a royal ball with a stolen magic wand. After a spell goes wrong, she teams up with Cinderella and an unexpected ally to try to save the kingdom and mend a fractured fairytale.",
+      "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
+      "imdb_id": "tt14413964",
+      "tmdb_id": 1595124,
+      "watchmode_url": "https://www.watchmode.com/title/11074119/",
+      "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
     },
     {
       "id": 1937817,
@@ -473,9 +477,9 @@
       "tmdb_id": 1294189,
       "watchmode_url": "https://www.watchmode.com/title/1825466/",
       "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_path": "/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "backdrop_path": "/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg"
     }
   ],
   "upcoming": [
@@ -536,7 +540,7 @@
         "Romance"
       ],
       "runtime_minutes": 110,
-      "user_rating": 6.6,
+      "user_rating": 6.7,
       "critic_score": null,
       "us_rating": "PG",
       "plot": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need.",
@@ -618,6 +622,29 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/24fTCT6aavjyWC2RwzISUNMF2XL.jpg"
     },
     {
+      "id": 11020358,
+      "title": "Hollywood Hells",
+      "year": 2026,
+      "release_date": "2026-11-26",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "runtime_minutes": 84,
+      "user_rating": 3.8,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "A struggling actress attends an exclusive Hollywood party and uncovers a group of powerful people involved in real-life snuff films. Trapped in the shadowy world of fame, she fights to survive and turns their cameras against them.",
+      "trailer": "https://www.youtube.com/watch?v=r_VkrKFAiuA",
+      "imdb_id": "tt30877881",
+      "tmdb_id": 1517409,
+      "watchmode_url": "https://www.watchmode.com/title/11020358/",
+      "poster_path": "/ogouh8BbKHOuUDdWpKpuEbLjsWg.jpg",
+      "backdrop_path": "/yfb4k1xwuzENYkRTrokwrwsargx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogouh8BbKHOuUDdWpKpuEbLjsWg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/yfb4k1xwuzENYkRTrokwrwsargx.jpg"
+    },
+    {
       "id": 11234145,
       "title": "Scorpion",
       "year": 2026,
@@ -695,7 +722,7 @@
         "Drama"
       ],
       "runtime_minutes": 154,
-      "user_rating": 7,
+      "user_rating": 7.1,
       "critic_score": null,
       "us_rating": null,
       "plot": "A hospital leader in a small hometown raises his teenage son alone while remaining unaware of the boy’s secret nighttime activities. Their lives are thrown into turmoil when police suspicion turns toward the son in connection with a serious crime.",
@@ -766,7 +793,7 @@
         "Drama"
       ],
       "runtime_minutes": 127,
-      "user_rating": 6.9,
+      "user_rating": 7,
       "critic_score": null,
       "us_rating": null,
       "plot": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
@@ -914,31 +941,9 @@
       "tmdb_id": 1379537,
       "watchmode_url": "https://www.watchmode.com/title/1897880/",
       "poster_path": "/mEi0c3wUrjnekhv02RM1kEAC3Qc.jpg",
-      "backdrop_path": "/9124LLkc5VzlzseShFTOIn983Xd.jpg",
+      "backdrop_path": "/u4CvavtqC4kDAcnyZ1TBJ6Ne2Cm.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/mEi0c3wUrjnekhv02RM1kEAC3Qc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/9124LLkc5VzlzseShFTOIn983Xd.jpg"
-    },
-    {
-      "id": 1975495,
-      "title": "I See Buildings Fall Like Lightning",
-      "year": 2026,
-      "release_date": "2026-12-04",
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 109,
-      "user_rating": 7,
-      "critic_score": 72,
-      "us_rating": null,
-      "plot": "Once inseparable, a group of childhood friends spent their early years playing, skipping school, and imagining the lives they might lead. Now in their thirties, they face the quiet realization that the future they pictured may be slipping out of reach.",
-      "trailer": "https://www.youtube.com/watch?v=sk7NF_LWhLs",
-      "imdb_id": "tt38991615",
-      "tmdb_id": 1455247,
-      "watchmode_url": "https://www.watchmode.com/title/1975495/",
-      "poster_path": "/qoHvMUCuSwdtSZZQpLrZebjVXHg.jpg",
-      "backdrop_path": "/hpeJZsjwcySRYOxveHZlETVBwE3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qoHvMUCuSwdtSZZQpLrZebjVXHg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/hpeJZsjwcySRYOxveHZlETVBwE3.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/u4CvavtqC4kDAcnyZ1TBJ6Ne2Cm.jpg"
     }
   ],
   "kids": [
@@ -950,7 +955,8 @@
       "genres": [
         "Animation",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Adventure"
       ],
       "runtime_minutes": 125,
       "user_rating": 8.8,
@@ -990,30 +996,6 @@
       "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
-    },
-    {
-      "id": 1409773,
-      "title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "release_date": "1993-10-09",
-      "genres": [
-        "Fantasy",
-        "Animation",
-        "Family"
-      ],
-      "runtime_minutes": 76,
-      "user_rating": 8.1,
-      "critic_score": 89,
-      "us_rating": "PG",
-      "plot": "A restless ruler of Halloween Town discovers a festive new world and becomes fascinated by its traditions. Hoping to bring that holiday spirit home, he sets a plan in motion, while a thoughtful rag-doll companion worries that his good intentions may lead to trouble.",
-      "trailer": "https://www.youtube.com/watch?v=wr6N_hZyBCk",
-      "imdb_id": "tt0107688",
-      "tmdb_id": 9479,
-      "watchmode_url": "https://www.watchmode.com/title/1409773/",
-      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg"
     },
     {
       "id": 1982660,
@@ -1092,6 +1074,32 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
     },
     {
+      "id": 11074119,
+      "title": "Steps",
+      "year": 2026,
+      "release_date": "2026-11-20",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtime_minutes": 107,
+      "user_rating": 7,
+      "critic_score": 64,
+      "us_rating": null,
+      "plot": "A misunderstood stepsister is blamed for disrupting a royal ball with a stolen magic wand. After a spell goes wrong, she teams up with Cinderella and an unexpected ally to try to save the kingdom and mend a fractured fairytale.",
+      "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
+      "imdb_id": "tt14413964",
+      "tmdb_id": 1595124,
+      "watchmode_url": "https://www.watchmode.com/title/11074119/",
+      "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+    },
+    {
       "id": 1881180,
       "title": "The Cat in the Hat",
       "year": 2026,
@@ -1107,7 +1115,7 @@
       "user_rating": 6.7,
       "critic_score": 52,
       "us_rating": null,
-      "plot": "A mischievous cat takes on a challenging mission: cheering up two siblings as they adjust to life in a new town. Known for pushing boundaries, he must show he can handle the job or risk losing his magical hat forever.",
+      "plot": "The Cat takes on a mission to cheer up two siblings adjusting to life in a new town. His boundary-pushing antics put his magical hat at risk, so he must prove himself.",
       "trailer": "https://www.youtube.com/watch?v=jz8pLlPhSeY",
       "imdb_id": "tt2321555",
       "tmdb_id": 1117898,
