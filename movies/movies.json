@@ -1,7 +1,7 @@
 {
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-24T20:52:44.982Z",
+  "generated_at": "2026-11-25T20:10:50.176Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -50,9 +50,9 @@
       "tmdb_id": 969681,
       "watchmode_url": "https://www.watchmode.com/title/1773876/",
       "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/subj7knTn4DeS6KS7qI66EQKe9i.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
     },
     {
       "id": 1927112,
@@ -96,9 +96,9 @@
       "imdb_id": "tt32558705",
       "tmdb_id": 1300968,
       "watchmode_url": "https://www.watchmode.com/title/1830085/",
-      "poster_path": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster_path": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
       "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
     },
     {
@@ -124,28 +124,6 @@
       "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg"
-    },
-    {
-      "id": 1914790,
-      "title": "Other Mommy",
-      "year": 2026,
-      "release_date": "2026-10-07",
-      "genres": [
-        "Horror"
-      ],
-      "runtime_minutes": 93,
-      "user_rating": 5.5,
-      "critic_score": 29,
-      "us_rating": "R",
-      "plot": "A young girl forms a connection with a sinister presence in her home, one that looks uncannily like her mother. As the entity draws her into an increasingly frightening world, her family faces a growing threat.",
-      "trailer": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
-      "imdb_id": "tt36586020",
-      "tmdb_id": 1400837,
-      "watchmode_url": "https://www.watchmode.com/title/1914790/",
-      "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "backdrop_path": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg"
     },
     {
       "id": 11133573,
@@ -195,6 +173,32 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
     },
     {
+      "id": 11074119,
+      "title": "Steps",
+      "year": 2026,
+      "release_date": "2026-11-20",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtime_minutes": 107,
+      "user_rating": 7,
+      "critic_score": 67,
+      "us_rating": null,
+      "plot": "A misunderstood stepsister is blamed for disrupting a royal ball with a stolen magic wand. After a spell goes wrong, she teams up with Cinderella and an unexpected ally to try to save the kingdom and mend a fractured fairytale.",
+      "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
+      "imdb_id": "tt14413964",
+      "tmdb_id": 1595124,
+      "watchmode_url": "https://www.watchmode.com/title/11074119/",
+      "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+    },
+    {
       "id": 1939424,
       "title": "Resident Evil",
       "year": 2026,
@@ -214,9 +218,9 @@
       "tmdb_id": 1423191,
       "watchmode_url": "https://www.watchmode.com/title/1939424/",
       "poster_path": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "backdrop_path": "/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/vqNSvCFknXObgqn7nOFrJVEeGht.jpg"
     },
     {
       "id": 1706207,
@@ -241,6 +245,28 @@
       "backdrop_path": "/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg"
+    },
+    {
+      "id": 1914790,
+      "title": "Other Mommy",
+      "year": 2026,
+      "release_date": "2026-10-07",
+      "genres": [
+        "Horror"
+      ],
+      "runtime_minutes": 93,
+      "user_rating": 5.5,
+      "critic_score": 29,
+      "us_rating": "R",
+      "plot": "A young girl forms a connection with a sinister presence in her home, one that looks uncannily like her mother. As the entity draws her into an increasingly frightening world, her family faces a growing threat.",
+      "trailer": "https://www.youtube.com/watch?v=bEpTgowZ1dI",
+      "imdb_id": "tt36586020",
+      "tmdb_id": 1400837,
+      "watchmode_url": "https://www.watchmode.com/title/1914790/",
+      "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "backdrop_path": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg"
     },
     {
       "id": 11233940,
@@ -338,6 +364,28 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
     },
     {
+      "id": 11229535,
+      "title": "You Can See Everything",
+      "year": 2026,
+      "release_date": "2026-10-16",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 174,
+      "user_rating": 8.9,
+      "critic_score": 97,
+      "us_rating": null,
+      "plot": "Thirty-four days before she is due to begin a prison sentence, a notorious Silicon Valley founder invites a skeptical film crew to document her daily life. What starts as an intimate portrait develops into a three-year journey.",
+      "trailer": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+      "imdb_id": "tt45368240",
+      "tmdb_id": 1765072,
+      "watchmode_url": "https://www.watchmode.com/title/11229535/",
+      "poster_path": "/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+      "backdrop_path": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
+    },
+    {
       "id": 1877491,
       "title": "Godzilla Minus Zero",
       "year": 2026,
@@ -362,32 +410,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
     },
     {
-      "id": 11074119,
-      "title": "Steps",
-      "year": 2026,
-      "release_date": "2026-11-20",
-      "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
-      ],
-      "runtime_minutes": 107,
-      "user_rating": 7,
-      "critic_score": 67,
-      "us_rating": null,
-      "plot": "A misunderstood stepsister is blamed for disrupting a royal ball with a stolen magic wand. After a spell goes wrong, she teams up with Cinderella and an unexpected ally to try to save the kingdom and mend a fractured fairytale.",
-      "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
-      "imdb_id": "tt14413964",
-      "tmdb_id": 1595124,
-      "watchmode_url": "https://www.watchmode.com/title/11074119/",
-      "poster_path": "/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
-    },
-    {
       "id": 11054490,
       "title": "Perfect Liars",
       "year": 2026,
@@ -398,7 +420,7 @@
         "Thriller"
       ],
       "runtime_minutes": 108,
-      "user_rating": 5.5,
+      "user_rating": 5.6,
       "critic_score": null,
       "us_rating": null,
       "plot": "A young woman arrives at an exclusive university with a hidden mission: to enter the circle of a wealthy family and uncover the truth about her brother’s death. Her pursuit leads into a dangerous web of attraction and lies.",
@@ -407,60 +429,13 @@
       "tmdb_id": 1568060,
       "watchmode_url": "https://www.watchmode.com/title/11054490/",
       "poster_path": "/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-      "backdrop_path": "/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+      "backdrop_path": "/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg"
-    },
-    {
-      "id": 1398133,
-      "title": "The Hunger Games: Catching Fire",
-      "year": 2013,
-      "release_date": "2013-11-15",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Science Fiction"
-      ],
-      "runtime_minutes": 146,
-      "user_rating": 7.7,
-      "critic_score": 83,
-      "us_rating": "PG-13",
-      "plot": "After surviving the Hunger Games, two victors face the consequences of their victory as unrest spreads across Panem. Forced back into the public eye, they become symbols of hope and resistance while the Capitol prepares another deadly challenge.",
-      "trailer": "https://www.youtube.com/watch?v=jyPnQw_Lqds",
-      "imdb_id": "tt1951264",
-      "tmdb_id": 101299,
-      "watchmode_url": "https://www.watchmode.com/title/1398133/",
-      "poster_path": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
-      "backdrop_path": "/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg"
-    },
-    {
-      "id": 1937817,
-      "title": "La bola negra",
-      "year": 2026,
-      "release_date": "2026-09-25",
-      "genres": [
-        "Drama",
-        "War"
-      ],
-      "runtime_minutes": 159,
-      "user_rating": 8.4,
-      "critic_score": 82,
-      "us_rating": null,
-      "plot": "Three men living in different eras are connected through sexuality, desire, pain, and the legacy of the past. As their stories unfold, the film explores how personal lives and hidden histories can echo across generations.",
-      "trailer": "https://www.youtube.com/watch?v=lBVxKt0gKDY",
-      "imdb_id": "tt35511966",
-      "tmdb_id": 1422041,
-      "watchmode_url": "https://www.watchmode.com/title/1937817/",
-      "poster_path": "/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-      "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg"
     },
     {
       "id": 1885275,
-      "title": "Ramayana",
+      "title": "Ramayana: Rise of a Legend",
       "year": 2026,
       "release_date": "2026-11-05",
       "genres": [
@@ -481,13 +456,36 @@
       "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg"
+    },
+    {
+      "id": 1825466,
+      "title": "The Mongoose",
+      "year": 2026,
+      "release_date": "2026-10-29",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 99,
+      "user_rating": 5.2,
+      "critic_score": 43,
+      "us_rating": "R",
+      "plot": "A falsely accused war hero with little to lose leads police on a televised cross-country car chase. Members of his former Special Forces battalion help him as a fascinated public follows the pursuit and hopes he gets away safely.",
+      "trailer": "https://www.youtube.com/watch?v=aHrMFtt40_Q",
+      "imdb_id": "tt13611778",
+      "tmdb_id": 1294189,
+      "watchmode_url": "https://www.watchmode.com/title/1825466/",
+      "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop_path": "/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg"
     }
   ],
   "upcoming": [
     {
       "id": 1842599,
       "title": "Fantasy",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-25",
       "genres": [
         "Drama"
@@ -509,7 +507,7 @@
     {
       "id": 1886542,
       "title": "Tristes Tropiques",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-25",
       "genres": [
         "Action",
@@ -541,7 +539,7 @@
         "Romance"
       ],
       "runtime_minutes": 110,
-      "user_rating": 6.6,
+      "user_rating": 5.5,
       "critic_score": null,
       "us_rating": "PG",
       "plot": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need.",
@@ -602,7 +600,7 @@
     {
       "id": 1697416,
       "title": "The Fox",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-11-26",
       "genres": [
         "Comedy",
@@ -694,7 +692,7 @@
     },
     {
       "id": 1918972,
-      "title": "Ben'imana",
+      "title": "Ben'Imana",
       "year": 2026,
       "release_date": "2026-11-27",
       "genres": [
@@ -716,7 +714,7 @@
     },
     {
       "id": 11137892,
-      "title": "Mutter: Bir Annenin Hatira Defteri",
+      "title": "Mutter: The Diary of a Mother",
       "year": 2026,
       "release_date": "2026-11-27",
       "genres": [
@@ -764,7 +762,7 @@
     {
       "id": 1799109,
       "title": "Ari",
-      "year": 2025,
+      "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
         "Drama",
@@ -964,7 +962,7 @@
       "runtime_minutes": 125,
       "user_rating": 8.8,
       "critic_score": 96,
-      "us_rating": null,
+      "us_rating": "PG",
       "plot": "A young girl becomes trapped in a strange world of spirits after her parents undergo a mysterious transformation. She must find the courage to help her family and make her way through this unfamiliar place.",
       "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
       "imdb_id": "tt0245429",
@@ -1100,32 +1098,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w780/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
     },
     {
-      "id": 1785478,
-      "title": "Zootopia 2",
-      "year": 2025,
-      "release_date": "2025-11-26",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Mystery",
-        "Family"
-      ],
-      "runtime_minutes": 108,
-      "user_rating": 7.5,
-      "critic_score": 83,
-      "us_rating": "PG",
-      "plot": "After solving a major case, two rookie police partners pursue a new mystery when a snake’s arrival disrupts the animal metropolis. Their investigation takes them undercover into unfamiliar parts of town, testing their partnership along the way.",
-      "trailer": "https://www.youtube.com/watch?v=BjkIOU5PhyQ",
-      "imdb_id": "tt26443597",
-      "tmdb_id": 1084242,
-      "watchmode_url": "https://www.watchmode.com/title/1785478/",
-      "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
-    },
-    {
       "id": 11074119,
       "title": "Steps",
       "year": 2026,
@@ -1150,6 +1122,30 @@
       "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+    },
+    {
+      "id": 1168155,
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "release_date": "1992-11-15",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "runtime_minutes": 120,
+      "user_rating": 6.8,
+      "critic_score": 41,
+      "us_rating": "PG",
+      "plot": "A young boy is accidentally separated from his family and finds himself alone in New York during the Christmas season. With his dad’s credit card, he checks into a hotel, explores the city, and crosses paths with two familiar burglars whose plans he’s determined to stop.",
+      "trailer": "https://www.youtube.com/watch?v=GVAoz3cgjTY",
+      "imdb_id": "tt0104431",
+      "tmdb_id": 772,
+      "watchmode_url": "https://www.watchmode.com/title/1168155/",
+      "poster_path": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "backdrop_path": "/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8fnYJPoXxwAN4valDLgz2whMGTH.jpg"
     },
     {
       "id": 1881180,
