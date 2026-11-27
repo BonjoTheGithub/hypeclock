@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:43:48.555Z",
+  "generated_at": "2026-11-27T08:48:56.014Z",
   "games": [
     {
       "id": 644,
@@ -132,19 +132,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/aniimo"
     },
     {
-      "id": 540,
-      "title": "Overwatch",
-      "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
-      "short_description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
-      "game_url": "https://www.freetogame.com/open/overwatch",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Activision Blizzard",
-      "developer": "Blizzard Entertainment",
-      "release_date": "2022-10-04",
-      "freetogame_profile_url": "https://www.freetogame.com/overwatch"
-    },
-    {
       "id": 475,
       "title": "Genshin Impact",
       "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg",
@@ -182,6 +169,19 @@
       "developer": "Darkflow Software",
       "release_date": "2021-04-08",
       "freetogame_profile_url": "https://www.freetogame.com/enlisted"
+    },
+    {
+      "id": 540,
+      "title": "Overwatch",
+      "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+      "short_description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+      "game_url": "https://www.freetogame.com/open/overwatch",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Activision Blizzard",
+      "developer": "Blizzard Entertainment",
+      "release_date": "2022-10-04",
+      "freetogame_profile_url": "https://www.freetogame.com/overwatch"
     },
     {
       "id": 57,
@@ -236,19 +236,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-of-sea-battle"
     },
     {
-      "id": 615,
-      "title": "Arena Breakout: Infinite",
-      "thumbnail": "https://www.freetogame.com/g/615/thumbnail.jpg",
-      "short_description": "A free-to-play tactical extraction shooter.",
-      "game_url": "https://www.freetogame.com/open/arena-breakout-infinite",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "MoreFun Studios",
-      "developer": "MoreFun Studios",
-      "release_date": "2025-09-16",
-      "freetogame_profile_url": "https://www.freetogame.com/arena-breakout-infinite"
-    },
-    {
       "id": 654,
       "title": "Vampir",
       "thumbnail": "https://www.freetogame.com/g/654/thumbnail.jpg",
@@ -262,17 +249,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/vampir"
     },
     {
-      "id": 9,
-      "title": "World of Warships",
-      "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg",
-      "short_description": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
-      "game_url": "https://www.freetogame.com/open/world-of-warships",
+      "id": 615,
+      "title": "Arena Breakout: Infinite",
+      "thumbnail": "https://www.freetogame.com/g/615/thumbnail.jpg",
+      "short_description": "A free-to-play tactical extraction shooter.",
+      "game_url": "https://www.freetogame.com/open/arena-breakout-infinite",
       "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "Wargaming",
-      "developer": "Wargaming",
-      "release_date": "2015-07-02",
-      "freetogame_profile_url": "https://www.freetogame.com/world-of-warships"
+      "publisher": "MoreFun Studios",
+      "developer": "MoreFun Studios",
+      "release_date": "2025-09-16",
+      "freetogame_profile_url": "https://www.freetogame.com/arena-breakout-infinite"
     },
     {
       "id": 652,
@@ -288,19 +275,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/aion-2"
     },
     {
-      "id": 523,
-      "title": "Fall Guys",
-      "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg",
-      "short_description": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ",
-      "game_url": "https://www.freetogame.com/open/fall-guys",
-      "genre": "Battle Royale",
-      "platform": "PC (Windows)",
-      "publisher": "Mediatonic",
-      "developer": "Mediatonic",
-      "release_date": "2020-08-04",
-      "freetogame_profile_url": "https://www.freetogame.com/fall-guys"
-    },
-    {
       "id": 645,
       "title": "Crystal Saga Nova",
       "thumbnail": "https://www.freetogame.com/g/645/thumbnail.jpg",
@@ -314,17 +288,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/crystal-saga-nova"
     },
     {
-      "id": 556,
-      "title": "Naraka: Bladepoint",
-      "thumbnail": "https://www.freetogame.com/g/556/thumbnail.jpg",
-      "short_description": "A free-to-play melee focused battle royale.",
-      "game_url": "https://www.freetogame.com/open/naraka-bladepoint",
+      "id": 523,
+      "title": "Fall Guys",
+      "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg",
+      "short_description": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ",
+      "game_url": "https://www.freetogame.com/open/fall-guys",
       "genre": "Battle Royale",
       "platform": "PC (Windows)",
-      "publisher": "24 Entertainment",
-      "developer": "NetEase",
-      "release_date": "2023-07-13",
-      "freetogame_profile_url": "https://www.freetogame.com/naraka-bladepoint"
+      "publisher": "Mediatonic",
+      "developer": "Mediatonic",
+      "release_date": "2020-08-04",
+      "freetogame_profile_url": "https://www.freetogame.com/fall-guys"
+    },
+    {
+      "id": 9,
+      "title": "World of Warships",
+      "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg",
+      "short_description": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
+      "game_url": "https://www.freetogame.com/open/world-of-warships",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming",
+      "developer": "Wargaming",
+      "release_date": "2015-07-02",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-warships"
     },
     {
       "id": 606,
@@ -340,6 +327,19 @@
       "freetogame_profile_url": "https://www.freetogame.com/steel-hunters"
     },
     {
+      "id": 556,
+      "title": "Naraka: Bladepoint",
+      "thumbnail": "https://www.freetogame.com/g/556/thumbnail.jpg",
+      "short_description": "A free-to-play melee focused battle royale.",
+      "game_url": "https://www.freetogame.com/open/naraka-bladepoint",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "publisher": "24 Entertainment",
+      "developer": "NetEase",
+      "release_date": "2023-07-13",
+      "freetogame_profile_url": "https://www.freetogame.com/naraka-bladepoint"
+    },
+    {
       "id": 438,
       "title": "Kards",
       "thumbnail": "https://www.freetogame.com/g/438/thumbnail.jpg",
@@ -351,45 +351,6 @@
       "developer": "1939 Games",
       "release_date": "2019-04-12",
       "freetogame_profile_url": "https://www.freetogame.com/kards"
-    },
-    {
-      "id": 339,
-      "title": "Tibia",
-      "thumbnail": "https://www.freetogame.com/g/339/thumbnail.jpg",
-      "short_description": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
-      "game_url": "https://www.freetogame.com/open/tibia",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "CipSoft",
-      "developer": "CipSoft",
-      "release_date": "1997-01-07",
-      "freetogame_profile_url": "https://www.freetogame.com/tibia"
-    },
-    {
-      "id": 365,
-      "title": "Naruto Online",
-      "thumbnail": "https://www.freetogame.com/g/365/thumbnail.jpg",
-      "short_description": "A free-to-play MMO based on the popular anime series and manga, developed \r\nby Bandai Namco Entertainment. ",
-      "game_url": "https://www.freetogame.com/open/naruto-online",
-      "genre": "MMORPG",
-      "platform": "Web Browser",
-      "publisher": "OAS Games",
-      "developer": "Bandai Namco",
-      "release_date": "2016-07-20",
-      "freetogame_profile_url": "https://www.freetogame.com/naruto-online"
-    },
-    {
-      "id": 351,
-      "title": "Grand Prix Racing Online",
-      "thumbnail": "https://www.freetogame.com/g/351/thumbnail.jpg",
-      "short_description": "A free-to-play web-based motorsport management game.",
-      "game_url": "https://www.freetogame.com/open/gpro",
-      "genre": "Strategy",
-      "platform": "Web Browser",
-      "publisher": "GPRO.net",
-      "developer": "GPRO.net",
-      "release_date": "2006-08-01",
-      "freetogame_profile_url": "https://www.freetogame.com/gpro"
     },
     {
       "id": 630,
@@ -405,30 +366,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/my-hero-ultra-rumble"
     },
     {
-      "id": 24,
-      "title": "Counter-Strike 2",
-      "thumbnail": "https://www.freetogame.com/g/24/thumbnail.jpg",
-      "short_description": "The popular multiplayer shooter from Valve.",
-      "game_url": "https://www.freetogame.com/open/counter-strike-2",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Valve",
-      "developer": "Valve",
-      "release_date": "2012-08-21",
-      "freetogame_profile_url": "https://www.freetogame.com/counter-strike-2"
+      "id": 351,
+      "title": "Grand Prix Racing Online",
+      "thumbnail": "https://www.freetogame.com/g/351/thumbnail.jpg",
+      "short_description": "A free-to-play web-based motorsport management game.",
+      "game_url": "https://www.freetogame.com/open/gpro",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "GPRO.net",
+      "developer": "GPRO.net",
+      "release_date": "2006-08-01",
+      "freetogame_profile_url": "https://www.freetogame.com/gpro"
     },
     {
-      "id": 14,
-      "title": "Star Trek Online",
-      "thumbnail": "https://www.freetogame.com/g/14/thumbnail.jpg",
-      "short_description": "A free-to-play, 3D, Sci-Fi MMORPG based on the popular Star Trek series.",
-      "game_url": "https://www.freetogame.com/open/star-trek-online",
+      "id": 365,
+      "title": "Naruto Online",
+      "thumbnail": "https://www.freetogame.com/g/365/thumbnail.jpg",
+      "short_description": "A free-to-play MMO based on the popular anime series and manga, developed \r\nby Bandai Namco Entertainment. ",
+      "game_url": "https://www.freetogame.com/open/naruto-online",
       "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Perfect World Entertainment",
-      "developer": " Cryptic Studios",
-      "release_date": "2010-02-02",
-      "freetogame_profile_url": "https://www.freetogame.com/star-trek-online"
+      "platform": "Web Browser",
+      "publisher": "OAS Games",
+      "developer": "Bandai Namco",
+      "release_date": "2016-07-20",
+      "freetogame_profile_url": "https://www.freetogame.com/naruto-online"
     },
     {
       "id": 632,
@@ -470,30 +431,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/lost-ark"
     },
     {
-      "id": 620,
-      "title": "Hero Wars: Dominion Era",
-      "thumbnail": "https://www.freetogame.com/g/620/thumbnail.jpg",
-      "short_description": "A free-to-play fantasy MMORPG where players assemble teams of heroes to battle against powerful enemies.",
-      "game_url": "https://www.freetogame.com/open/hero-wars",
+      "id": 339,
+      "title": "Tibia",
+      "thumbnail": "https://www.freetogame.com/g/339/thumbnail.jpg",
+      "short_description": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
+      "game_url": "https://www.freetogame.com/open/tibia",
       "genre": "MMORPG",
-      "platform": "Web Browser",
-      "publisher": "Nexters",
-      "developer": "Nexters",
-      "release_date": "2016-10-01",
-      "freetogame_profile_url": "https://www.freetogame.com/hero-wars"
-    },
-    {
-      "id": 20,
-      "title": "Splitgate",
-      "thumbnail": "https://www.freetogame.com/g/20/thumbnail.jpg",
-      "short_description": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
-      "game_url": "https://www.freetogame.com/open/splitgate",
-      "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "1047 Games",
-      "developer": "1047 Games",
-      "release_date": "2019-05-22",
-      "freetogame_profile_url": "https://www.freetogame.com/splitgate"
+      "publisher": "CipSoft",
+      "developer": "CipSoft",
+      "release_date": "1997-01-07",
+      "freetogame_profile_url": "https://www.freetogame.com/tibia"
     },
     {
       "id": 347,
@@ -507,6 +455,19 @@
       "developer": "InnoGames",
       "release_date": "2015-04-08",
       "freetogame_profile_url": "https://www.freetogame.com/elvenar"
+    },
+    {
+      "id": 620,
+      "title": "Hero Wars: Dominion Era",
+      "thumbnail": "https://www.freetogame.com/g/620/thumbnail.jpg",
+      "short_description": "A free-to-play fantasy MMORPG where players assemble teams of heroes to battle against powerful enemies.",
+      "game_url": "https://www.freetogame.com/open/hero-wars",
+      "genre": "MMORPG",
+      "platform": "Web Browser",
+      "publisher": "Nexters",
+      "developer": "Nexters",
+      "release_date": "2016-10-01",
+      "freetogame_profile_url": "https://www.freetogame.com/hero-wars"
     },
     {
       "id": 575,
@@ -535,30 +496,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/tyr"
     },
     {
-      "id": 653,
-      "title": "SPAM",
-      "thumbnail": "https://www.freetogame.com/g/653/thumbnail.jpg",
-      "short_description": "A free-to-play turn-based competitive card game.",
-      "game_url": "https://www.freetogame.com/open/spam",
-      "genre": "Card",
+      "id": 14,
+      "title": "Star Trek Online",
+      "thumbnail": "https://www.freetogame.com/g/14/thumbnail.jpg",
+      "short_description": "A free-to-play, 3D, Sci-Fi MMORPG based on the popular Star Trek series.",
+      "game_url": "https://www.freetogame.com/open/star-trek-online",
+      "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "Ticroco Enterprise",
-      "developer": "Ticroco Enterprise",
-      "release_date": "2026-10-07",
-      "freetogame_profile_url": "https://www.freetogame.com/spam"
+      "publisher": "Perfect World Entertainment",
+      "developer": " Cryptic Studios",
+      "release_date": "2010-02-02",
+      "freetogame_profile_url": "https://www.freetogame.com/star-trek-online"
     },
     {
-      "id": 515,
-      "title": "Halo Infinite",
-      "thumbnail": "https://www.freetogame.com/g/515/thumbnail.jpg",
-      "short_description": "For the first time ever, a free-to-play Halo experience is available in the form of Halo Infinite’s multiplayer.",
-      "game_url": "https://www.freetogame.com/open/halo-infinite",
+      "id": 24,
+      "title": "Counter-Strike 2",
+      "thumbnail": "https://www.freetogame.com/g/24/thumbnail.jpg",
+      "short_description": "The popular multiplayer shooter from Valve.",
+      "game_url": "https://www.freetogame.com/open/counter-strike-2",
       "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "Xbox Game Studios",
-      "developer": "343 Industries",
-      "release_date": "2021-11-15",
-      "freetogame_profile_url": "https://www.freetogame.com/halo-infinite"
+      "publisher": "Valve",
+      "developer": "Valve",
+      "release_date": "2012-08-21",
+      "freetogame_profile_url": "https://www.freetogame.com/counter-strike-2"
     },
     {
       "id": 5,
@@ -574,43 +535,30 @@
       "freetogame_profile_url": "https://www.freetogame.com/crossout"
     },
     {
-      "id": 477,
-      "title": "Eternal Return",
-      "thumbnail": "https://www.freetogame.com/g/477/thumbnail.jpg",
-      "short_description": "Combining elements from battle royale, MOBA, and the survival genres, Eternal Return: Black Survival is a game designed with a broad audience in mind. ",
-      "game_url": "https://www.freetogame.com/open/eternal-return",
-      "genre": "MOBA",
+      "id": 515,
+      "title": "Halo Infinite",
+      "thumbnail": "https://www.freetogame.com/g/515/thumbnail.jpg",
+      "short_description": "For the first time ever, a free-to-play Halo experience is available in the form of Halo Infinite’s multiplayer.",
+      "game_url": "https://www.freetogame.com/open/halo-infinite",
+      "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "Nimble Neuron",
-      "developer": "Nimble Neuron",
-      "release_date": "2020-10-14",
-      "freetogame_profile_url": "https://www.freetogame.com/eternal-return"
+      "publisher": "Xbox Game Studios",
+      "developer": "343 Industries",
+      "release_date": "2021-11-15",
+      "freetogame_profile_url": "https://www.freetogame.com/halo-infinite"
     },
     {
-      "id": 521,
-      "title": "Diablo Immortal",
-      "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
-      "short_description": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
-      "game_url": "https://www.freetogame.com/open/diablo-immortal",
-      "genre": "MMOARPG",
+      "id": 20,
+      "title": "Splitgate",
+      "thumbnail": "https://www.freetogame.com/g/20/thumbnail.jpg",
+      "short_description": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
+      "game_url": "https://www.freetogame.com/open/splitgate",
+      "genre": "Shooter",
       "platform": "PC (Windows)",
-      "publisher": "Blizzard Entertainment",
-      "developer": "Blizzard Entertainment",
-      "release_date": "2022-06-02",
-      "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal"
-    },
-    {
-      "id": 272,
-      "title": "Allods Online",
-      "thumbnail": "https://www.freetogame.com/g/272/thumbnail.jpg",
-      "short_description": "A fantasy MMORPG that follows more traditional “World of Warcraft-like” MMO traditions.",
-      "game_url": "https://www.freetogame.com/open/allods-online",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "My.com",
-      "developer": "Allods Team",
-      "release_date": "2011-04-26",
-      "freetogame_profile_url": "https://www.freetogame.com/allods-online"
+      "publisher": "1047 Games",
+      "developer": "1047 Games",
+      "release_date": "2019-05-22",
+      "freetogame_profile_url": "https://www.freetogame.com/splitgate"
     },
     {
       "id": 560,
@@ -626,17 +574,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/palia"
     },
     {
-      "id": 345,
-      "title": "Forge of Empires",
-      "thumbnail": "https://www.freetogame.com/g/345/thumbnail.jpg",
-      "short_description": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
-      "game_url": "https://www.freetogame.com/open/forge-of-empires",
-      "genre": "Strategy",
-      "platform": "Web Browser",
-      "publisher": "InnoGames",
-      "developer": "InnoGames",
-      "release_date": "2012-04-17",
-      "freetogame_profile_url": "https://www.freetogame.com/forge-of-empires"
+      "id": 653,
+      "title": "SPAM",
+      "thumbnail": "https://www.freetogame.com/g/653/thumbnail.jpg",
+      "short_description": "A free-to-play turn-based competitive card game.",
+      "game_url": "https://www.freetogame.com/open/spam",
+      "genre": "Card",
+      "platform": "PC (Windows)",
+      "publisher": "Ticroco Enterprise",
+      "developer": "Ticroco Enterprise",
+      "release_date": "2026-10-07",
+      "freetogame_profile_url": "https://www.freetogame.com/spam"
     },
     {
       "id": 623,
@@ -652,19 +600,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/raven2"
     },
     {
-      "id": 618,
-      "title": "skate.",
-      "thumbnail": "https://www.freetogame.com/g/618/thumbnail.jpg",
-      "short_description": "The latest, free-to-play, entry in the Skate franchise.",
-      "game_url": "https://www.freetogame.com/open/skate",
-      "genre": "Sports",
-      "platform": "PC (Windows)",
-      "publisher": "Full Circle",
-      "developer": "Electronic Arts",
-      "release_date": "2025-09-16",
-      "freetogame_profile_url": "https://www.freetogame.com/skate"
-    },
-    {
       "id": 454,
       "title": "Magic: The Gathering Arena",
       "thumbnail": "https://www.freetogame.com/g/454/thumbnail.jpg",
@@ -676,6 +611,45 @@
       "developer": "Wizards of the Coast",
       "release_date": "2018-09-27",
       "freetogame_profile_url": "https://www.freetogame.com/mtg-arena"
+    },
+    {
+      "id": 521,
+      "title": "Diablo Immortal",
+      "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
+      "short_description": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
+      "game_url": "https://www.freetogame.com/open/diablo-immortal",
+      "genre": "MMOARPG",
+      "platform": "PC (Windows)",
+      "publisher": "Blizzard Entertainment",
+      "developer": "Blizzard Entertainment",
+      "release_date": "2022-06-02",
+      "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal"
+    },
+    {
+      "id": 345,
+      "title": "Forge of Empires",
+      "thumbnail": "https://www.freetogame.com/g/345/thumbnail.jpg",
+      "short_description": "A free to play 2D browser-based online strategy game, become the leader and raise your city.",
+      "game_url": "https://www.freetogame.com/open/forge-of-empires",
+      "genre": "Strategy",
+      "platform": "Web Browser",
+      "publisher": "InnoGames",
+      "developer": "InnoGames",
+      "release_date": "2012-04-17",
+      "freetogame_profile_url": "https://www.freetogame.com/forge-of-empires"
+    },
+    {
+      "id": 618,
+      "title": "skate.",
+      "thumbnail": "https://www.freetogame.com/g/618/thumbnail.jpg",
+      "short_description": "The latest, free-to-play, entry in the Skate franchise.",
+      "game_url": "https://www.freetogame.com/open/skate",
+      "genre": "Sports",
+      "platform": "PC (Windows)",
+      "publisher": "Full Circle",
+      "developer": "Electronic Arts",
+      "release_date": "2025-09-16",
+      "freetogame_profile_url": "https://www.freetogame.com/skate"
     },
     {
       "id": 601,
@@ -691,19 +665,6 @@
       "freetogame_profile_url": "https://www.freetogame.com/delta-force"
     },
     {
-      "id": 2,
-      "title": "World of Tanks",
-      "thumbnail": "https://www.freetogame.com/g/2/thumbnail2.jpg",
-      "short_description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
-      "game_url": "https://www.freetogame.com/open/world-of-tanks",
-      "genre": "Shooter",
-      "platform": "PC (Windows)",
-      "publisher": "Wargaming",
-      "developer": "Wargaming",
-      "release_date": "2011-04-12",
-      "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
-    },
-    {
       "id": 511,
       "title": "Phantasy Star Online 2 New Genesis",
       "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
@@ -715,19 +676,6 @@
       "developer": "Sega",
       "release_date": "2021-06-09",
       "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
-    },
-    {
-      "id": 498,
-      "title": "Blankos Block Party",
-      "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg",
-      "short_description": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
-      "game_url": "https://www.freetogame.com/open/blankos",
-      "genre": "MMO",
-      "platform": "PC (Windows)",
-      "publisher": "Third Kind Games",
-      "developer": "Mythical Games Inc",
-      "release_date": "2020-12-11",
-      "freetogame_profile_url": "https://www.freetogame.com/blankos"
     },
     {
       "id": 207,
@@ -743,17 +691,69 @@
       "freetogame_profile_url": "https://www.freetogame.com/warface"
     },
     {
-      "id": 297,
-      "title": "Wizard101",
-      "thumbnail": "https://www.freetogame.com/g/297/thumbnail.jpg",
-      "short_description": "A free to play MMORPG set in the magical Wizard school.",
-      "game_url": "https://www.freetogame.com/open/wizard101",
+      "id": 11,
+      "title": "Neverwinter",
+      "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
+      "short_description": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
+      "game_url": "https://www.freetogame.com/open/neverwinter",
       "genre": "MMORPG",
       "platform": "PC (Windows)",
-      "publisher": "KingsIsle Entertainment",
-      "developer": "KingsIsle Entertainment",
-      "release_date": "2008-09-02",
-      "freetogame_profile_url": "https://www.freetogame.com/wizard101"
+      "publisher": "Perfect World Entertainment",
+      "developer": "Cryptic Studios",
+      "release_date": "2013-12-06",
+      "freetogame_profile_url": "https://www.freetogame.com/neverwinter"
+    },
+    {
+      "id": 299,
+      "title": "Combat Arms: Reloaded",
+      "thumbnail": "https://www.freetogame.com/g/299/thumbnail.jpg",
+      "short_description": "A free to play modern first person shooter with lots of maps and weapons!",
+      "game_url": "https://www.freetogame.com/open/combat-arms",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "VALOFE, NEXON",
+      "developer": "Doobic Studios",
+      "release_date": "2018-10-31",
+      "freetogame_profile_url": "https://www.freetogame.com/combat-arms"
+    },
+    {
+      "id": 2,
+      "title": "World of Tanks",
+      "thumbnail": "https://www.freetogame.com/g/2/thumbnail2.jpg",
+      "short_description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
+      "game_url": "https://www.freetogame.com/open/world-of-tanks",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Wargaming",
+      "developer": "Wargaming",
+      "release_date": "2011-04-12",
+      "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
+    },
+    {
+      "id": 506,
+      "title": "Totally Accurate Battlegrounds",
+      "thumbnail": "https://www.freetogame.com/g/506/thumbnail.jpg",
+      "short_description": "Take 60 players, throw them on a map together with over 90 weapons, including balloon crossbows, pots and pans, and inflatable hammers, add physics-based parkour and you have Landfall’s Totally Accurate Battlegrounds (TABG).",
+      "game_url": "https://www.freetogame.com/open/tabg",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "publisher": "Landfall",
+      "developer": "Landfall",
+      "release_date": "2018-06-06",
+      "freetogame_profile_url": "https://www.freetogame.com/tabg"
+    },
+    {
+      "id": 477,
+      "title": "Eternal Return",
+      "thumbnail": "https://www.freetogame.com/g/477/thumbnail.jpg",
+      "short_description": "Combining elements from battle royale, MOBA, and the survival genres, Eternal Return: Black Survival is a game designed with a broad audience in mind. ",
+      "game_url": "https://www.freetogame.com/open/eternal-return",
+      "genre": "MOBA",
+      "platform": "PC (Windows)",
+      "publisher": "Nimble Neuron",
+      "developer": "Nimble Neuron",
+      "release_date": "2020-10-14",
+      "freetogame_profile_url": "https://www.freetogame.com/eternal-return"
     },
     {
       "id": 474,
@@ -769,17 +769,17 @@
       "freetogame_profile_url": "https://www.freetogame.com/rocket-league"
     },
     {
-      "id": 274,
-      "title": "GetAmped 2",
-      "thumbnail": "https://www.freetogame.com/g/274/thumbnail.jpg",
-      "short_description": "A free to play fighting MMO, experience frantic battles up to 20 players.",
-      "game_url": "https://www.freetogame.com/open/getamped-2",
-      "genre": "Fighting",
+      "id": 625,
+      "title": "Superball",
+      "thumbnail": "https://www.freetogame.com/g/625/thumbnail.jpg",
+      "short_description": "A free-to-play futuristic sports game.",
+      "game_url": "https://www.freetogame.com/open/superball",
+      "genre": "Sports",
       "platform": "PC (Windows)",
-      "publisher": "CyberStep",
-      "developer": "CyberStep",
-      "release_date": "2010-12-16",
-      "freetogame_profile_url": "https://www.freetogame.com/getamped-2"
+      "publisher": "Logoi Games",
+      "developer": "Pathea Games",
+      "release_date": "2025-10-28",
+      "freetogame_profile_url": "https://www.freetogame.com/superball"
     }
   ]
 }
