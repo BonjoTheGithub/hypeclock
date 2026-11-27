@@ -1,7 +1,7 @@
 window.HYPE_MOVIES={
   "provider": "Watchmode",
   "image_provider": "TMDB",
-  "generated_at": "2026-11-26T19:49:23.683Z",
+  "generated_at": "2026-11-27T19:39:01.795Z",
   "refresh_hours": 24,
   "estimated_credits_this_refresh": 57,
   "tmdb_requests_this_refresh": 49,
@@ -31,28 +31,28 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/c7btGYblBnfAaw713WvFM0Kimc7.jpg"
     },
     {
-      "id": 1773876,
-      "title": "Spider-Man: Brand New Day",
+      "id": 1830085,
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": 2026,
-      "release_date": "2026-07-29",
+      "release_date": "2026-11-18",
       "genres": [
         "Science Fiction",
         "Action",
         "Adventure"
       ],
-      "runtime_minutes": 145,
-      "user_rating": 8.1,
-      "critic_score": 78,
-      "us_rating": "PG-13",
-      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
-      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
-      "imdb_id": "tt22084616",
-      "tmdb_id": 969681,
-      "watchmode_url": "https://www.watchmode.com/title/1773876/",
-      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
+      "runtime_minutes": 159,
+      "user_rating": 7.7,
+      "critic_score": 61,
+      "us_rating": null,
+      "plot": "Set in Panem 24 years before the events of The Hunger Games, the story begins on the morning of the reaping for the 50th Hunger Games, known as the Second Quarter Quell. It returns to the world of the series at the start of this event.",
+      "trailer": "https://www.youtube.com/watch?v=fS35YSjopjE",
+      "imdb_id": "tt32558705",
+      "tmdb_id": 1300968,
+      "watchmode_url": "https://www.watchmode.com/title/1830085/",
+      "poster_path": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+      "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
     },
     {
       "id": 1927112,
@@ -76,30 +76,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/yE766yhgg98tKwTKd8CyNvAtmn6.jpg"
-    },
-    {
-      "id": 1830085,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "year": 2026,
-      "release_date": "2026-11-18",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "runtime_minutes": 159,
-      "user_rating": 7.7,
-      "critic_score": 61,
-      "us_rating": null,
-      "plot": "Set in Panem 24 years before the events of The Hunger Games, the story begins on the morning of the reaping for the 50th Hunger Games, known as the Second Quarter Quell. It returns to the world of the series at the start of this event.",
-      "trailer": "https://www.youtube.com/watch?v=fS35YSjopjE",
-      "imdb_id": "tt32558705",
-      "tmdb_id": 1300968,
-      "watchmode_url": "https://www.watchmode.com/title/1830085/",
-      "poster_path": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
-      "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
     },
     {
       "id": 1186051,
@@ -151,30 +127,6 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/seAIZLEq2Il2psjMUREDbSdRmbu.jpg"
     },
     {
-      "id": 11133573,
-      "title": "Never Surrender",
-      "year": 2026,
-      "release_date": "2026-11-11",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "runtime_minutes": 140,
-      "user_rating": 6.2,
-      "critic_score": null,
-      "us_rating": "R",
-      "plot": "When a deadly gang targets a veteran’s remote home, he and the estranged grandchildren he barely knows must work together to survive.",
-      "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
-      "imdb_id": "tt39370926",
-      "tmdb_id": 1616687,
-      "watchmode_url": "https://www.watchmode.com/title/11133573/",
-      "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
-    },
-    {
       "id": 11042565,
       "title": "Guarding Stars",
       "year": 2026,
@@ -196,6 +148,30 @@ window.HYPE_MOVIES={
       "backdrop_path": "/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+    },
+    {
+      "id": 1773876,
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "release_date": "2026-07-29",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "runtime_minutes": 145,
+      "user_rating": 8.1,
+      "critic_score": 78,
+      "us_rating": "PG-13",
+      "plot": "A young crimefighter works full-time in a city that no longer remembers him, while his old friends move on without him. As he faces an unsettling change within himself, he may have to master it to stop a new threat endangering the city and those he cares about.",
+      "trailer": "https://www.youtube.com/watch?v=62bIsvRcPv0",
+      "imdb_id": "tt22084616",
+      "tmdb_id": 969681,
+      "watchmode_url": "https://www.watchmode.com/title/1773876/",
+      "poster_path": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
     },
     {
       "id": 1939424,
@@ -233,7 +209,7 @@ window.HYPE_MOVIES={
       ],
       "runtime_minutes": 157,
       "user_rating": 6.7,
-      "critic_score": 74,
+      "critic_score": 73,
       "us_rating": null,
       "plot": "In a remote South Korean village, local police investigate a mysterious creature causing havoc in the community. As events escalate, confusion and human conflict deepen the danger.",
       "trailer": "https://www.youtube.com/watch?v=ODnHr2Emnf0",
@@ -278,7 +254,7 @@ window.HYPE_MOVIES={
         "Mystery"
       ],
       "runtime_minutes": 30,
-      "user_rating": 6.8,
+      "user_rating": 6.7,
       "critic_score": null,
       "us_rating": "R",
       "plot": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
@@ -329,7 +305,7 @@ window.HYPE_MOVIES={
       "user_rating": 5.8,
       "critic_score": null,
       "us_rating": null,
-      "plot": "A medical crew travels deep into the Amazon to provide care, but their mission turns into a struggle to survive when a colossal ancient predator awakens. As danger closes in, the jungle becomes a deadly battleground, where the crew must face a force tied to the region’s legends and the threats surrounding its land.",
+      "plot": "A medical mission deep in the Amazon becomes a fight for survival when a colossal ancient predator awakens. The jungle turns into a deadly battleground where nature decides who lives and dies.",
       "trailer": "https://www.youtube.com/watch?v=4fn4UcgzRhg",
       "imdb_id": "tt10377864",
       "tmdb_id": 1244523,
@@ -338,6 +314,53 @@ window.HYPE_MOVIES={
       "backdrop_path": "/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
+    },
+    {
+      "id": 1977821,
+      "title": "The Mosquito Bowl",
+      "year": 2026,
+      "release_date": "2026-10-29",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "runtime_minutes": 129,
+      "user_rating": 6.8,
+      "critic_score": 41,
+      "us_rating": null,
+      "plot": "After Pearl Harbor, four college football stars enlist in the Marines. Their bond is tested as they encounter the realities of war and the cost of service.",
+      "trailer": "https://www.youtube.com/watch?v=F6YDzPfjH4I",
+      "imdb_id": "tt36413910",
+      "tmdb_id": 1458300,
+      "watchmode_url": "https://www.watchmode.com/title/1977821/",
+      "poster_path": "/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+      "backdrop_path": "/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg"
+    },
+    {
+      "id": 11133573,
+      "title": "Never Surrender",
+      "year": 2026,
+      "release_date": "2026-11-11",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtime_minutes": 140,
+      "user_rating": 6.2,
+      "critic_score": null,
+      "us_rating": "R",
+      "plot": "When a deadly gang targets a veteran’s remote home, he and the estranged grandchildren he barely knows must work together to survive.",
+      "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
+      "imdb_id": "tt39370926",
+      "tmdb_id": 1616687,
+      "watchmode_url": "https://www.watchmode.com/title/11133573/",
+      "poster_path": "/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "backdrop_path": "/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
     },
     {
       "id": 11229535,
@@ -357,9 +380,9 @@ window.HYPE_MOVIES={
       "tmdb_id": 1765072,
       "watchmode_url": "https://www.watchmode.com/title/11229535/",
       "poster_path": "/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-      "backdrop_path": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+      "backdrop_path": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg"
     },
     {
       "id": 11074119,
@@ -369,7 +392,9 @@ window.HYPE_MOVIES={
       "genres": [
         "Animation",
         "Family",
-        "Comedy"
+        "Comedy",
+        "Adventure",
+        "Fantasy"
       ],
       "runtime_minutes": 107,
       "user_rating": 6.9,
@@ -384,6 +409,31 @@ window.HYPE_MOVIES={
       "backdrop_path": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
+    },
+    {
+      "id": 1398132,
+      "title": "The Hunger Games",
+      "year": 2012,
+      "release_date": "2012-03-12",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "runtime_minutes": 142,
+      "user_rating": 7.4,
+      "critic_score": 77,
+      "us_rating": "PG-13",
+      "plot": "In a dystopian society, the Capitol forces each district to send two young tributes into a televised fight to the death. A girl volunteers to take her sister’s place, beginning a struggle for survival and defiance.",
+      "trailer": "https://www.youtube.com/watch?v=mfmrPu43DF8",
+      "imdb_id": "tt1392170",
+      "tmdb_id": 70160,
+      "watchmode_url": "https://www.watchmode.com/title/1398132/",
+      "poster_path": "/apa5G43Hha7kH7wJG0gkkHT7FA9.jpg",
+      "backdrop_path": "/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/apa5G43Hha7kH7wJG0gkkHT7FA9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg"
     },
     {
       "id": 1398133,
@@ -432,123 +482,9 @@ window.HYPE_MOVIES={
       "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/vBQ7wks68OhJKlb3RnXSl2yXBXK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg"
-    },
-    {
-      "id": 1825466,
-      "title": "The Mongoose",
-      "year": 2026,
-      "release_date": "2026-10-29",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 99,
-      "user_rating": 5.2,
-      "critic_score": 43,
-      "us_rating": "R",
-      "plot": "A falsely accused war hero with little to lose leads police on a televised cross-country car chase. Members of his former Special Forces battalion help him as a fascinated public follows the pursuit and hopes he gets away safely.",
-      "trailer": "https://www.youtube.com/watch?v=aHrMFtt40_Q",
-      "imdb_id": "tt13611778",
-      "tmdb_id": 1294189,
-      "watchmode_url": "https://www.watchmode.com/title/1825466/",
-      "poster_path": "/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_path": "/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg"
-    },
-    {
-      "id": 11050656,
-      "title": "Ghost Soldier",
-      "year": 2026,
-      "release_date": "2026-11-06",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 6.8,
-      "critic_score": null,
-      "us_rating": "PG-13",
-      "plot": "A former Special Forces soldier living quietly off the grid is drawn into a fight when a powerful foreign corporation threatens his neighbors’ land. He uses his combat skills and experimental technology to stand against the company.",
-      "trailer": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
-      "imdb_id": "tt38686316",
-      "tmdb_id": 1562642,
-      "watchmode_url": "https://www.watchmode.com/title/11050656/",
-      "poster_path": "/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-      "backdrop_path": "/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
     }
   ],
   "upcoming": [
-    {
-      "id": 1697416,
-      "title": "The Fox",
-      "year": 2026,
-      "release_date": "2026-11-26",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 7.2,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "An affable foxhunter encounters a talking fox, who offers him a chance to transform his fiancée into the perfect woman.",
-      "trailer": "https://www.youtube.com/watch?v=_XEZHlWlZ_o",
-      "imdb_id": "tt12525406",
-      "tmdb_id": 1045968,
-      "watchmode_url": "https://www.watchmode.com/title/1697416/",
-      "poster_path": "/unIaSB9LZ0r3iZ2jBAQ2Qi5mFIp.jpg",
-      "backdrop_path": "/24fTCT6aavjyWC2RwzISUNMF2XL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/unIaSB9LZ0r3iZ2jBAQ2Qi5mFIp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/24fTCT6aavjyWC2RwzISUNMF2XL.jpg"
-    },
-    {
-      "id": 11020358,
-      "title": "Hollywood Hells",
-      "year": 2026,
-      "release_date": "2026-11-26",
-      "genres": [
-        "Thriller",
-        "Horror"
-      ],
-      "runtime_minutes": 84,
-      "user_rating": 3.8,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "A struggling actress attends an exclusive Hollywood party and uncovers a group of powerful people involved in real-life snuff films. Trapped in the shadowy world of fame, she fights to survive and turns their cameras against them.",
-      "trailer": "https://www.youtube.com/watch?v=r_VkrKFAiuA",
-      "imdb_id": "tt30877881",
-      "tmdb_id": 1517409,
-      "watchmode_url": "https://www.watchmode.com/title/11020358/",
-      "poster_path": "/ogouh8BbKHOuUDdWpKpuEbLjsWg.jpg",
-      "backdrop_path": "/yfb4k1xwuzENYkRTrokwrwsargx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogouh8BbKHOuUDdWpKpuEbLjsWg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/yfb4k1xwuzENYkRTrokwrwsargx.jpg"
-    },
-    {
-      "id": 11234145,
-      "title": "Scorpion",
-      "year": 2026,
-      "release_date": "2026-11-26",
-      "genres": [
-        "Thriller"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 4.4,
-      "critic_score": null,
-      "us_rating": null,
-      "plot": "After a teenager’s mistake reveals that her father is a retired CIA assassin, the two go on the run from his former mentor and a group of deadly operatives.",
-      "trailer": "https://www.youtube.com/watch?v=VJE5jMF0oFM",
-      "imdb_id": "tt33473834",
-      "tmdb_id": 1767284,
-      "watchmode_url": "https://www.watchmode.com/title/11234145/",
-      "poster_path": "/dOO8M71ROj5V8gsC2O2gRt52YDV.jpg",
-      "backdrop_path": "/4HGguU2fNzhw3GRa1KQ6vGiHLWB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dOO8M71ROj5V8gsC2O2gRt52YDV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/4HGguU2fNzhw3GRa1KQ6vGiHLWB.jpg"
-    },
     {
       "id": 1841322,
       "title": "Tangles",
@@ -564,7 +500,7 @@ window.HYPE_MOVIES={
       "user_rating": 7.8,
       "critic_score": null,
       "us_rating": null,
-      "plot": "As Alzheimer’s begins to erode her mother’s vibrant personality, a stubborn young woman must return to the small, conservative town she left behind. Caring for her leads her to face the painful realities of the disease and find acceptance in her complicated, imperfect family.",
+      "plot": "A young woman returns to her conservative hometown to care for her mother, who has Alzheimer’s. As she faces the illness and her unusual family, she must reckon with what her family needs from her.",
       "trailer": "https://www.youtube.com/watch?v=mdGrH_f4wJw",
       "imdb_id": "tt22183852",
       "tmdb_id": 1316999,
@@ -576,7 +512,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1918972,
-      "title": "Ben'imana",
+      "title": "Ben'Imana",
       "year": 2026,
       "release_date": "2026-11-27",
       "genres": [
@@ -598,7 +534,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11137892,
-      "title": "Mutter: Bir Annenin Hatira Defteri",
+      "title": "Mutter: The Diary of a Mother",
       "year": 2026,
       "release_date": "2026-11-27",
       "genres": [
@@ -644,6 +580,26 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/k6nbtM9GZzfZPEJEfSyRjr32wHA.jpg"
     },
     {
+      "id": 11236675,
+      "title": "Nothing Short of A Miracle",
+      "year": 2026,
+      "release_date": "2026-11-27",
+      "genres": [],
+      "runtime_minutes": 88,
+      "user_rating": 7.1,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "On Christmas Eve in New York City, a desperate new father whose reckless business ambition entangled him with a crime boss. He races to save his kidnapped newborn son. Unknown to him guided by a mysterious old-fashioned stranger who leads him toward saving his son before the night ends. The true beauty is revealed when the mysterious stranger's identity becomes known. A story of hope, faith and a Christmas miracle.",
+      "trailer": null,
+      "imdb_id": "tt39375231",
+      "tmdb_id": 1812485,
+      "watchmode_url": "https://www.watchmode.com/title/11236675/",
+      "poster_path": "/mWPCpU86TLzM4Dfwvo4fJRquSBI.jpg",
+      "backdrop_path": null,
+      "poster_url": "https://image.tmdb.org/t/p/w500/mWPCpU86TLzM4Dfwvo4fJRquSBI.jpg",
+      "backdrop_url": null
+    },
+    {
       "id": 1799109,
       "title": "Ari",
       "year": 2025,
@@ -668,7 +624,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1888005,
-      "title": "Le faux Soir",
+      "title": "Le Faux Soir",
       "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
@@ -732,10 +688,10 @@ window.HYPE_MOVIES={
       "imdb_id": "tt36415529",
       "tmdb_id": 1452168,
       "watchmode_url": "https://www.watchmode.com/title/1973932/",
-      "poster_path": "/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-      "backdrop_path": "/VdVjxOpyQiHy62I271g6Acnotw.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/VdVjxOpyQiHy62I271g6Acnotw.jpg"
+      "poster_path": "/tlP9FKIJV4goEKH5160Hz8Gc32i.jpg",
+      "backdrop_path": "/b3YTMlknqSqJVV7I45kIQNVzErs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tlP9FKIJV4goEKH5160Hz8Gc32i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/b3YTMlknqSqJVV7I45kIQNVzErs.jpg"
     },
     {
       "id": 11084536,
@@ -763,7 +719,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 11126833,
-      "title": "Flesh and Fuel",
+      "title": "Flesh & Fuel",
       "year": 2026,
       "release_date": "2026-12-02",
       "genres": [
@@ -782,6 +738,28 @@ window.HYPE_MOVIES={
       "backdrop_path": "/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/xEiyyOCR0RoKgP1wIqPEcQoRPTc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg"
+    },
+    {
+      "id": 1970119,
+      "title": "2m²",
+      "year": 2026,
+      "release_date": "2026-12-03",
+      "genres": [
+        "Documentary"
+      ],
+      "runtime_minutes": 83,
+      "user_rating": 6.6,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "An undertaker serving a close-knit immigrant community is pulled into the most personal decisions families face after a loss. As he guides them through grief, tradition, and practical realities, each case forces him to balance empathy with the weight of choosing a final resting place.",
+      "trailer": "https://www.youtube.com/watch?v=HkoXu5fgIdo",
+      "imdb_id": "tt30135006",
+      "tmdb_id": 1447887,
+      "watchmode_url": "https://www.watchmode.com/title/1970119/",
+      "poster_path": "/eKXI4KbZU5VpvTYRAEZYY3pgmgd.jpg",
+      "backdrop_path": "/2WDbCp7N7HENEsG1OLRx47fliQY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKXI4KbZU5VpvTYRAEZYY3pgmgd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/2WDbCp7N7HENEsG1OLRx47fliQY.jpg"
     },
     {
       "id": 11006753,
@@ -855,7 +833,7 @@ window.HYPE_MOVIES={
     },
     {
       "id": 1975495,
-      "title": "I See Buildings Fall Like Lightning",
+      "title": "I See Buildings Fall like Lightning",
       "year": 2026,
       "release_date": "2026-12-04",
       "genres": [
@@ -942,6 +920,28 @@ window.HYPE_MOVIES={
       "backdrop_path": "/wgyPY9lOe3R2ndeWlbhWV6mWIMY.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/18ghGS8MGJGgJFgr4RWeVqEnlA0.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wgyPY9lOe3R2ndeWlbhWV6mWIMY.jpg"
+    },
+    {
+      "id": 1937770,
+      "title": "Violette",
+      "year": 2026,
+      "release_date": "2026-12-09",
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 132,
+      "user_rating": 6.9,
+      "critic_score": null,
+      "us_rating": null,
+      "plot": "Violette Toussaint, a cemetery caretaker in a small town in Burgundy, is a unique observer and a compassionate listener. Her peaceful life is filled by conversations with quirky cemetery workers and the many visitors who share their stories of love, loss, and life. However, her routine is disrupted when a local police chief arrives at her door with an unusual request. As they grow closer, Violette comes to understand that the truth behind long-buried mysteries in her past must be uncovered if she wants to take another chance on life and, against all odds, love.",
+      "trailer": "https://www.youtube.com/watch?v=ibCmP-OqBdQ",
+      "imdb_id": "tt29122074",
+      "tmdb_id": 1421967,
+      "watchmode_url": "https://www.watchmode.com/title/1937770/",
+      "poster_path": "/nZA3tHRA40ZeV33g7JuqaqW04Vm.jpg",
+      "backdrop_path": "/ll4RxoN4PxVWeOfqwa6VKdMPiO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZA3tHRA40ZeV33g7JuqaqW04Vm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/ll4RxoN4PxVWeOfqwa6VKdMPiO.jpg"
     }
   ],
   "kids": [
@@ -1102,7 +1102,9 @@ window.HYPE_MOVIES={
       "genres": [
         "Animation",
         "Family",
-        "Comedy"
+        "Comedy",
+        "Adventure",
+        "Fantasy"
       ],
       "runtime_minutes": 107,
       "user_rating": 6.9,
@@ -1119,19 +1121,65 @@ window.HYPE_MOVIES={
       "backdrop_url": "https://image.tmdb.org/t/p/w780/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
     },
     {
+      "id": 1168155,
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "release_date": "1992-11-15",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "runtime_minutes": 120,
+      "user_rating": 6.8,
+      "critic_score": 41,
+      "us_rating": "PG",
+      "plot": "A young boy is accidentally separated from his family and finds himself alone in New York during the Christmas season. With his dad’s credit card, he checks into a hotel, explores the city, and crosses paths with two familiar burglars whose plans he’s determined to stop.",
+      "trailer": "https://www.youtube.com/watch?v=GVAoz3cgjTY",
+      "imdb_id": "tt0104431",
+      "tmdb_id": 772,
+      "watchmode_url": "https://www.watchmode.com/title/1168155/",
+      "poster_path": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "backdrop_path": "/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/8fnYJPoXxwAN4valDLgz2whMGTH.jpg"
+    },
+    {
+      "id": 1171157,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "release_date": "2000-11-17",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtime_minutes": 105,
+      "user_rating": 6.6,
+      "critic_score": 48,
+      "us_rating": "PG",
+      "plot": "A Christmas-hating recluse sets out to take the holiday away from the cheerful residents of Whoville. When a kind young girl and her family reach out to him, their warmth may help him see the season differently.",
+      "trailer": "https://www.youtube.com/watch?v=myTaigPrbsg",
+      "imdb_id": "tt0170016",
+      "tmdb_id": 8871,
+      "watchmode_url": "https://www.watchmode.com/title/1171157/",
+      "poster_path": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w780/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg"
+    },
+    {
       "id": 11033933,
       "title": "Hexed",
       "year": 2026,
       "release_date": "2026-11-25",
       "genres": [
-        "Adventure",
         "Animation",
-        "Family",
         "Fantasy",
-        "Comedy"
+        "Family"
       ],
       "runtime_minutes": 103,
-      "user_rating": 6.6,
+      "user_rating": 6.5,
       "critic_score": null,
       "us_rating": null,
       "plot": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
@@ -1143,58 +1191,6 @@ window.HYPE_MOVIES={
       "backdrop_path": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w780/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg"
-    },
-    {
-      "id": 1840434,
-      "title": "Minions & Monsters",
-      "year": 2026,
-      "release_date": "2026-06-24",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "runtime_minutes": 90,
-      "user_rating": 6.5,
-      "critic_score": 80,
-      "us_rating": "PG",
-      "plot": "After becoming movie stars in Hollywood, the Minions lose everything and unleash monsters on the world. They must band together to try to save the planet from the mayhem they caused.",
-      "trailer": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
-      "imdb_id": "tt32890033",
-      "tmdb_id": 1315772,
-      "watchmode_url": "https://www.watchmode.com/title/1840434/",
-      "poster_path": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
-    },
-    {
-      "id": 1885279,
-      "title": "The Super Mario Galaxy Movie",
-      "year": 2026,
-      "release_date": "2026-04-01",
-      "genres": [
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "runtime_minutes": 98,
-      "user_rating": 6.4,
-      "critic_score": 40,
-      "us_rating": "PG",
-      "plot": "After thwarting an earlier scheme involving Princess Peach, Mario and Luigi face a new threat from Bowser Jr., who seeks to free his father and restore the family legacy. With companions old and new, the brothers travel across the stars to stop his campaign.",
-      "trailer": "https://www.youtube.com/watch?v=FdL2GorGdKc",
-      "imdb_id": "tt28650488",
-      "tmdb_id": 1226863,
-      "watchmode_url": "https://www.watchmode.com/title/1885279/",
-      "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w780/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
     }
   ]
 };
